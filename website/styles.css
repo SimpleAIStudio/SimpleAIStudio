@@ -51,13 +51,10 @@ button {
 }
 
 
-/* ---------------------------------------------------------
-   HEADER
-   --------------------------------------------------------- */
+/* HEADER */
 
 .topbar {
     border-bottom: 1px solid var(--line);
-
     background: var(--bg);
 }
 
@@ -69,7 +66,6 @@ button {
     );
 
     height: 56px;
-
     margin: 0 auto;
 
     display: flex;
@@ -99,9 +95,7 @@ button {
 }
 
 
-/* ---------------------------------------------------------
-   HERO
-   --------------------------------------------------------- */
+/* HERO */
 
 .hero {
     width: min(
@@ -148,9 +142,7 @@ button {
     );
 
     font-weight: 600;
-
     line-height: 1;
-
     letter-spacing: -0.04em;
 }
 
@@ -163,7 +155,6 @@ button {
     color: var(--muted);
 
     font-size: 15px;
-
     line-height: 1.6;
 }
 
@@ -211,14 +202,11 @@ button {
 
 .secondary-button:hover {
     border-color: #3c3c40;
-
     color: var(--text);
 }
 
 
-/* ---------------------------------------------------------
-   STATS
-   --------------------------------------------------------- */
+/* STATS */
 
 .stats {
     width: min(
@@ -232,9 +220,7 @@ button {
     border-bottom: 1px solid var(--line);
 
     display: grid;
-
-    grid-template-columns:
-        repeat(4, 1fr);
+    grid-template-columns: repeat(4, 1fr);
 }
 
 
@@ -268,16 +254,12 @@ button {
     color: var(--dim);
 
     font-size: 10px;
-
     text-transform: uppercase;
-
     letter-spacing: 0.07em;
 }
 
 
-/* ---------------------------------------------------------
-   SECTIONS
-   --------------------------------------------------------- */
+/* SECTIONS */
 
 .section {
     width: min(
@@ -328,33 +310,22 @@ button {
 }
 
 
-/* ---------------------------------------------------------
-   MODELS
-   --------------------------------------------------------- */
+/* MODELS */
 
 .model-grid {
     display: flex;
     flex-direction: column;
-
-    gap: 0;
 
     border-top: 1px solid var(--line);
 }
 
 
 .model-card {
-    min-height: auto;
-
     padding:
         24px
         4px;
 
-    border: none;
     border-bottom: 1px solid var(--line);
-
-    border-radius: 0;
-
-    background: transparent;
 
     display: grid;
 
@@ -363,17 +334,15 @@ button {
         minmax(0, 1fr)
         300px;
 
-    gap: 28px;
-}
-
-
-.model-card:hover {
-    background: transparent;
+    gap:
+        20px
+        28px;
 }
 
 
 .model-top {
-    display: block;
+    grid-column: 1;
+    grid-row: 1;
 }
 
 
@@ -396,27 +365,38 @@ button {
 
     margin-top: 10px;
 
-    padding: 3px 6px;
+    padding:
+        3px
+        6px;
 
     border: 1px solid var(--line);
-
     border-radius: 2px;
 
     color: var(--muted);
 
     font-size: 9px;
-
     text-transform: uppercase;
-
     letter-spacing: 0.06em;
 }
 
 
+.model-main {
+    grid-column: 2;
+    grid-row: 1;
+}
+
+
+.model-heading {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+
+    gap: 20px;
+}
+
+
 .model-name {
-    margin:
-        0
-        0
-        4px;
+    margin: 0;
 
     font-size: 22px;
     font-weight: 600;
@@ -434,6 +414,7 @@ button {
         monospace;
 
     font-size: 11px;
+    white-space: nowrap;
 }
 
 
@@ -448,18 +429,20 @@ button {
     color: var(--muted);
 
     font-size: 13px;
-
     line-height: 1.6;
 }
 
 
 .model-details {
-    margin: 0;
+    grid-column: 3;
+    grid-row: 1;
 
     display: grid;
 
     grid-template-columns:
-        repeat(2, 1fr);
+        repeat(2, minmax(0, 1fr));
+
+    align-content: start;
 
     gap:
         14px
@@ -468,6 +451,8 @@ button {
 
 
 .detail {
+    min-width: 0;
+
     display: flex;
     flex-direction: column;
 
@@ -479,9 +464,7 @@ button {
     color: var(--dim);
 
     font-size: 9px;
-
     text-transform: uppercase;
-
     letter-spacing: 0.07em;
 }
 
@@ -491,19 +474,32 @@ button {
 }
 
 
+.metric {
+    margin-top: 4px;
+}
+
+
+.metric-value {
+    font-family:
+        Consolas,
+        "Courier New",
+        monospace;
+
+    font-size: 13px;
+    color: #d8d8da;
+}
+
+
 .install-box {
     grid-column:
         2
         / 4;
-
-    margin-top: 4px;
 
     padding:
         9px
         10px;
 
     border: 1px solid var(--line);
-
     border-radius: 2px;
 
     background: #09090a;
@@ -527,7 +523,6 @@ button {
     font-size: 11px;
 
     overflow: hidden;
-
     white-space: nowrap;
     text-overflow: ellipsis;
 }
@@ -539,10 +534,9 @@ button {
         7px;
 
     border: 1px solid var(--line);
-
     border-radius: 2px;
 
-    background: #111112;
+    background: var(--panel);
 
     color: var(--muted);
 
@@ -554,7 +548,6 @@ button {
 
 .copy-button:hover {
     color: var(--text);
-
     border-color: #3f3f43;
 }
 
@@ -574,9 +567,7 @@ button {
 }
 
 
-/* ---------------------------------------------------------
-   CLI
-   --------------------------------------------------------- */
+/* CLI */
 
 .cli-panel {
     max-width: 760px;
@@ -584,7 +575,6 @@ button {
     overflow: hidden;
 
     border: 1px solid var(--line);
-
     border-radius: 2px;
 
     background: #09090a;
@@ -634,7 +624,6 @@ button {
 
 .terminal-line {
     display: flex;
-
     gap: 9px;
 }
 
@@ -663,9 +652,7 @@ button {
 }
 
 
-/* ---------------------------------------------------------
-   ABOUT
-   --------------------------------------------------------- */
+/* ABOUT */
 
 .about-grid {
     display: grid;
@@ -692,14 +679,11 @@ button {
     color: var(--muted);
 
     font-size: 13px;
-
     line-height: 1.7;
 }
 
 
-/* ---------------------------------------------------------
-   PRINCIPLES
-   --------------------------------------------------------- */
+/* PRINCIPLES */
 
 .principles {
     width: min(
@@ -761,14 +745,11 @@ button {
     color: var(--muted);
 
     font-size: 12px;
-
     line-height: 1.6;
 }
 
 
-/* ---------------------------------------------------------
-   FOOTER
-   --------------------------------------------------------- */
+/* FOOTER */
 
 footer {
     width: min(
@@ -795,12 +776,9 @@ footer {
 }
 
 
-/* ---------------------------------------------------------
-   MOBILE
-   --------------------------------------------------------- */
+/* TABLET */
 
 @media (max-width: 850px) {
-
     .topbar-inner,
     .hero,
     .stats,
@@ -830,19 +808,30 @@ footer {
     .model-card {
         grid-template-columns:
             110px
-            1fr;
+            minmax(0, 1fr);
+    }
+
+
+    .model-top {
+        grid-column: 1;
+    }
+
+
+    .model-main {
+        grid-column: 2;
     }
 
 
     .model-details {
-        grid-column:
-            2;
+        grid-column: 2;
+        grid-row: auto;
+
+        margin-top: 4px;
     }
 
 
     .install-box {
-        grid-column:
-            2;
+        grid-column: 2;
     }
 
 
@@ -851,12 +840,12 @@ footer {
 
         gap: 30px;
     }
-
 }
 
 
-@media (max-width: 560px) {
+/* MOBILE */
 
+@media (max-width: 560px) {
     .nav {
         display: none;
     }
@@ -876,7 +865,6 @@ footer {
 
     .hero-actions {
         flex-direction: column;
-
         align-items: flex-start;
     }
 
@@ -914,8 +902,18 @@ footer {
     }
 
 
-    .model-name {
+    .model-main {
         margin-top: 20px;
+    }
+
+
+    .model-heading {
+        align-items: flex-start;
+    }
+
+
+    .model-description {
+        margin-top: 12px;
     }
 
 
@@ -944,5 +942,4 @@ footer {
 
         gap: 6px;
     }
-
 }
