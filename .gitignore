@@ -1,0 +1,11 @@
+﻿__pycache__/
+*.pyc
+*.pyo
+*.tmp
+
+*.pt
+*.npz
+
+releases/
+
+.DS_Store

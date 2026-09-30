@@ -1,0 +1,11 @@
+{
+  "name": "Nano DumbThink",
+  "version": "1.0",
+  "hidden": 32,
+  "middle": 48,
+  "think_steps": 8,
+  "parameters": 3901,
+  "scale": 20.0,
+  "input_min": 0,
+  "input_max": 20
+}

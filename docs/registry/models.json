@@ -1,0 +1,41 @@
+{
+    "registry_version": 1,
+    "name": "SimpleAI Registry",
+    "models": [
+        {
+            "id": "nano-dumbthink",
+            "name": "Nano DumbThink",
+            "version": "1.0",
+            "status": "released",
+            "family": "DumbThink",
+            "description": "A tiny recursive reasoning model trained completely from scratch.",
+            "architecture": "Recursive Neural Network",
+            "parameters": 3901,
+            "brain_size_bytes": 15604,
+            "context": "Structured reasoning problems",
+            "training": "From scratch",
+            "pretrained_weights": false,
+            "external_ai": false,
+            "price": "Free",
+            "skills": [
+                "Addition",
+                "Subtraction",
+                "Greater-than comparison",
+                "Less-than comparison",
+                "Arithmetic sequences"
+            ],
+            "install_command": "simpleai pull nano-dumbthink:1.0",
+            "entrypoint": "run.py",
+            "download": "file:///C:/SimpleAIStudio/releases/packages/nano-dumbthink-1.0.zip",
+            "sha256": "cfae07f7d907e1390037f90d484ea62fb9a0b5be0d24ef1c35d40f4471c1140e",
+            "benchmark_accuracy": 100.0,
+            "benchmark_tests": 387,
+            "runtime": "Python + NumPy",
+            "dependencies": [
+                "numpy"
+            ],
+            "think_steps": 8,
+            "benchmark_scope": "Held-out problems inside the 0-20 task domain"
+        }
+    ]
+}

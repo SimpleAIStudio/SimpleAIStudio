@@ -1,0 +1,37 @@
+{
+  "model": "Nano DumbThink",
+  "version": "1.0",
+  "parameters": 3901,
+  "test_samples": 387,
+  "overall_accuracy": 100.0,
+  "tasks": {
+    "add": {
+      "correct": 89,
+      "total": 89,
+      "accuracy": 100.0,
+      "mae": 0.0502
+    },
+    "sub": {
+      "correct": 88,
+      "total": 88,
+      "accuracy": 100.0,
+      "mae": 0.0246
+    },
+    "gt": {
+      "correct": 88,
+      "total": 88,
+      "accuracy": 100.0
+    },
+    "lt": {
+      "correct": 88,
+      "total": 88,
+      "accuracy": 100.0
+    },
+    "next": {
+      "correct": 34,
+      "total": 34,
+      "accuracy": 100.0,
+      "mae": 0.0477
+    }
+  }
+}
