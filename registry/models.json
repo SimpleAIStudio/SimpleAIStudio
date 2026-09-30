@@ -36,6 +36,48 @@
                                         ],
                        "think_steps":  8,
                        "benchmark_scope":  "Held-out problems inside the 0-20 task domain"
+                   },
+                   {
+                       "id":  "micro-jet-dumbthink",
+                       "name":  "Micro Jet DumbThink",
+                       "version":  "2.0",
+                       "status":  "released",
+                       "family":  "DumbThink",
+                       "description":  "A tiny recursive reasoning model with ten structured reasoning skills and out-of-range generalization testing.",
+                       "architecture":  "Recursive Neural Network",
+                       "parameters":  14818,
+                       "brain_size_bytes":  59272,
+                       "context":  "Structured reasoning problems",
+                       "training":  "From scratch",
+                       "pretrained_weights":  false,
+                       "external_ai":  false,
+                       "price":  "Free",
+                       "skills":  [
+                                      "Addition",
+                                      "Subtraction",
+                                      "Multiplication",
+                                      "Exact integer division",
+                                      "Greater-than comparison",
+                                      "Less-than comparison",
+                                      "Arithmetic sequences",
+                                      "Three-number addition",
+                                      "Maximum of three values",
+                                      "Chained greater-than comparison"
+                                  ],
+                       "install_command":  "simpleai pull micro-jet-dumbthink:2.0",
+                       "entrypoint":  "run.py",
+                       "runtime":  "Python + NumPy",
+                       "dependencies":  [
+                                            "numpy"
+                                        ],
+                       "benchmark_accuracy":  99.9,
+                       "benchmark_tests":  971,
+                       "benchmark_scope":  "Held-out combinations inside the model\u0027s defined training domains",
+                       "generalization_accuracy":  78.33,
+                       "generalization_tests":  300,
+                       "generalization_scope":  "Out-of-range problems using values outside the model\u0027s training ranges",
+                       "download":  "https://github.com/SimpleAIStudio/SimpleAIStudio/releases/download/micro-jet-dumbthink-2.0/micro-jet-dumbthink-2.0.zip",
+                       "sha256":  "6d57a27bc0e8c19fee086a91837a20425aefaf762750f2a292899b4713607c96"
                    }
                ]
 }

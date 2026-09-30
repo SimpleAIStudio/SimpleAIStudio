@@ -1,0 +1,59 @@
+{
+  "model": "Micro Jet DumbThink",
+  "version": "2.0",
+  "parameters": 14818,
+  "test_samples": 971,
+  "overall_accuracy": 99.9,
+  "tasks": {
+    "add": {
+      "correct": 88,
+      "total": 88,
+      "accuracy": 100.0
+    },
+    "gt": {
+      "correct": 88,
+      "total": 88,
+      "accuracy": 100.0
+    },
+    "lt": {
+      "correct": 88,
+      "total": 88,
+      "accuracy": 100.0
+    },
+    "sub": {
+      "correct": 89,
+      "total": 89,
+      "accuracy": 100.0
+    },
+    "mul": {
+      "correct": 33,
+      "total": 34,
+      "accuracy": 97.06
+    },
+    "div": {
+      "correct": 11,
+      "total": 11,
+      "accuracy": 100.0
+    },
+    "next": {
+      "correct": 16,
+      "total": 16,
+      "accuracy": 100.0
+    },
+    "sum3": {
+      "correct": 146,
+      "total": 146,
+      "accuracy": 100.0
+    },
+    "max3": {
+      "correct": 145,
+      "total": 145,
+      "accuracy": 100.0
+    },
+    "chain_gt": {
+      "correct": 266,
+      "total": 266,
+      "accuracy": 100.0
+    }
+  }
+}

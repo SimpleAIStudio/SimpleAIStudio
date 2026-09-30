@@ -1,0 +1,24 @@
+{
+  "name": "Micro Jet DumbThink",
+  "version": "2.0",
+  "hidden": 64,
+  "middle": 96,
+  "think_steps": 12,
+  "parameters": 14818,
+  "tasks": [
+    "add",
+    "gt",
+    "lt",
+    "sub",
+    "mul",
+    "div",
+    "next",
+    "sum3",
+    "max3",
+    "chain_gt"
+  ],
+  "training_samples": 3895,
+  "test_samples": 971,
+  "best_epoch": 625,
+  "best_training_accuracy": 99.97
+}

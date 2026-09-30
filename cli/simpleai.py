@@ -276,8 +276,7 @@ def download(url, path):
     request = urllib.request.Request(
         url,
         headers={
-            "User-Agent":
-                f"SimpleAI/{VERSION}"
+            "User-Agent": f"SimpleAI/{VERSION}"
         },
     )
 
@@ -290,13 +289,17 @@ def download(url, path):
             "Content-Length"
         )
 
-        total = (
-            int(total)
-            if total
-            else None
-        )
-
+        total = int(total) if total else None
         received = 0
+        bar_width = 24
+
+        if total:
+            print(
+                "\rdownload      "
+                "[------------------------]   0%",
+                end="",
+                flush=True,
+            )
 
         with open(
             path,
@@ -315,20 +318,36 @@ def download(url, path):
                 received += len(chunk)
 
                 if total:
-                    percent = (
-                        received
-                        / total
-                        * 100
+                    percent = min(
+                        received / total,
+                        1.0,
+                    )
+
+                    filled = int(
+                        percent * bar_width
+                    )
+
+                    bar = (
+                        "#" * filled
+                        + "-"
+                        * (bar_width - filled)
                     )
 
                     print(
-                        f"\rDownloading {percent:6.2f}%",
+                        f"\rdownload      "
+                        f"[{bar}] "
+                        f"{percent * 100:3.0f}%",
                         end="",
                         flush=True,
                     )
 
-    if total:
-        print()
+        if total:
+            print()
+        else:
+            print(
+                f"download      "
+                f"{received:,} bytes"
+            )
 
 
 def installed_models():
@@ -693,7 +712,7 @@ def cmd_pull(reference):
         extracted.mkdir()
 
         print("registry      found")
-        print(f"download      {url}")
+        print(f"source        {url}")
 
         try:
             download(
