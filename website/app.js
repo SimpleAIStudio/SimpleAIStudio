@@ -1,397 +1,768 @@
-const modelGrid = document.getElementById("modelGrid");
-const modelCount = document.getElementById("modelCount");
+const REPO_URL =
+    "https://github.com/SimpleAIStudio/SimpleAIStudio";
 
 
-async function getRegistry() {
-    const locations = [
-        "registry/models.json",
-        "../registry/models.json"
-    ];
+const REGISTRY_PATHS = [
+    "registry/models.json",
+    "../registry/models.json"
+];
 
-    let lastError;
 
-    for (const location of locations) {
-        try {
-            const response = await fetch(location, {
-                cache: "no-store"
-            });
+const modelsList =
+    document.getElementById(
+        "models-list"
+    );
 
-            if (!response.ok) {
-                throw new Error(`HTTP ${response.status}`);
-            }
 
-            return await response.json();
-        } catch (error) {
-            lastError = error;
-        }
-    }
+const modelCount =
+    document.getElementById(
+        "model-count"
+    );
 
-    throw lastError;
+
+function escapeHtml(value) {
+    return String(value)
+        .replaceAll("&", "&amp;")
+        .replaceAll("<", "&lt;")
+        .replaceAll(">", "&gt;")
+        .replaceAll('"', "&quot;")
+        .replaceAll("'", "&#039;");
 }
 
 
-async function loadRegistry() {
-    try {
-        const registry = await getRegistry();
-        const models = registry.models || [];
+function formatParameters(value) {
+    const number =
+        Number(value);
 
-        modelCount.textContent = models.length;
-        renderModels(models);
-    } catch (error) {
-        console.error(
-            "Could not load SimpleAI registry:",
-            error
-        );
 
-        modelGrid.innerHTML = `
-            <div class="error-message">
-                Could not load the SimpleAI model registry.
-            </div>
-        `;
+    if (!Number.isFinite(number)) {
+        return "—";
     }
+
+
+    if (number >= 1_000_000_000) {
+        return (
+            number / 1_000_000_000
+        ).toFixed(2) + "B";
+    }
+
+
+    if (number >= 1_000_000) {
+        return (
+            number / 1_000_000
+        ).toFixed(2) + "M";
+    }
+
+
+    if (number >= 1_000) {
+        return (
+            number / 1_000
+        ).toFixed(2) + "K";
+    }
+
+
+    return String(number);
 }
 
 
-function renderModels(models) {
-    modelGrid.innerHTML = "";
+function formatBytes(value) {
+    const bytes =
+        Number(value);
 
-    if (models.length === 0) {
-        modelGrid.innerHTML = `
-            <div class="empty-message">
-                No models have been published yet.
-            </div>
-        `;
 
-        return;
+    if (!Number.isFinite(bytes)) {
+        return "—";
     }
 
-    models.forEach((model, index) => {
-        const card = document.createElement("article");
 
-        card.className = "model-card";
+    if (bytes >= 1024 ** 3) {
+        return (
+            bytes / (1024 ** 3)
+        ).toFixed(2) + " GB";
+    }
 
-        const number = String(index + 1).padStart(3, "0");
 
-        const parameters = formatParameters(
-            model.parameters
+    if (bytes >= 1024 ** 2) {
+        return (
+            bytes / (1024 ** 2)
+        ).toFixed(2) + " MB";
+    }
+
+
+    if (bytes >= 1024) {
+        return (
+            bytes / 1024
+        ).toFixed(2) + " KB";
+    }
+
+
+    return bytes + " B";
+}
+
+
+function releasePageFromDownload(
+    download
+) {
+    if (!download) {
+        return null;
+    }
+
+
+    const marker =
+        "/releases/download/";
+
+
+    const index =
+        download.indexOf(marker);
+
+
+    if (index === -1) {
+        return null;
+    }
+
+
+    const base =
+        download.slice(
+            0,
+            index
         );
 
-        const brainSize = formatBytes(
-            model.brain_size_bytes
+
+    const remaining =
+        download.slice(
+            index
+            + marker.length
         );
 
-        const status = formatStatus(
-            model.status
-        );
 
-        const installCommand =
-            model.install_command ||
-            `simpleai pull ${model.id}:${model.version}`;
+    const tag =
+        remaining.split("/")[0];
 
-        const benchmark = makeMetric(
-            "Benchmark",
-            model.benchmark_accuracy,
-            model.benchmark_scope
-        );
 
-        const generalization = makeMetric(
-            "Generalization",
-            model.generalization_accuracy,
-            model.generalization_scope
-        );
+    if (!tag) {
+        return null;
+    }
 
-        card.innerHTML = `
-            <div class="model-top">
-                <span class="model-number">
-                    MODEL ${number}
-                </span>
 
-                <span class="status-badge">
-                    ${escapeHtml(status)}
-                </span>
-            </div>
-
-            <div class="model-main">
-                <div class="model-heading">
-                    <h3 class="model-name">
-                        ${escapeHtml(model.name)}
-                    </h3>
-
-                    <span class="model-version">
-                        ${escapeHtml(model.version)}
-                    </span>
-                </div>
-
-                <p class="model-description">
-                    ${escapeHtml(model.description)}
-                </p>
-            </div>
-
-            <div class="model-details">
-                <div class="detail">
-                    <span class="detail-label">
-                        Parameters
-                    </span>
-
-                    <span class="detail-value">
-                        ${escapeHtml(parameters)}
-                    </span>
-                </div>
-
-                <div class="detail">
-                    <span class="detail-label">
-                        Brain Size
-                    </span>
-
-                    <span class="detail-value">
-                        ${escapeHtml(brainSize)}
-                    </span>
-                </div>
-
-                <div class="detail">
-                    <span class="detail-label">
-                        Architecture
-                    </span>
-
-                    <span class="detail-value">
-                        ${escapeHtml(
-                            model.architecture || "Unknown"
-                        )}
-                    </span>
-                </div>
-
-                <div class="detail">
-                    <span class="detail-label">
-                        Training
-                    </span>
-
-                    <span class="detail-value">
-                        ${escapeHtml(
-                            model.training || "Unknown"
-                        )}
-                    </span>
-                </div>
-
-                ${benchmark}
-                ${generalization}
-            </div>
-
-            <div class="install-box">
-                <div class="install-command">
-                    ${escapeHtml(installCommand)}
-                </div>
-
-                <button
-                    class="copy-button"
-                    type="button"
-                >
-                    COPY
-                </button>
-            </div>
-        `;
-
-        const copyButton =
-            card.querySelector(".copy-button");
-
-        copyButton.addEventListener(
-            "click",
-            () => {
-                copyText(
-                    installCommand,
-                    copyButton
-                );
-            }
-        );
-
-        modelGrid.appendChild(card);
-    });
+    return (
+        base
+        + "/releases/tag/"
+        + tag
+    );
 }
 
 
 function makeMetric(
     label,
     value,
-    scope
+    note = ""
 ) {
     if (
-        value === null ||
         value === undefined
+        || value === null
+        || value === ""
     ) {
         return "";
     }
 
-    const percent =
-        Number(value).toFixed(2) + "%";
-
-    const title = scope
-        ? ` title="${escapeHtml(scope)}"`
-        : "";
 
     return `
-        <div class="detail metric"${title}>
-            <span class="detail-label">
+        <div class="metric">
+
+            <span class="metric-label">
                 ${escapeHtml(label)}
             </span>
 
-            <span class="detail-value metric-value">
-                ${escapeHtml(percent)}
+            <span class="metric-value">
+                ${escapeHtml(value)}
             </span>
+
+            ${
+                note
+                    ? `
+                        <span class="metric-note">
+                            ${escapeHtml(note)}
+                        </span>
+                    `
+                    : ""
+            }
+
         </div>
     `;
 }
 
 
-function formatParameters(value) {
+function benchmarkMetric(model) {
     if (
-        value === null ||
-        value === undefined
+        model.benchmark_accuracy
+        === undefined
     ) {
-        return "TBD";
+        return "";
     }
 
-    if (value >= 1_000_000_000) {
-        return (
-            value / 1_000_000_000
-        ).toFixed(2) + "B";
-    }
 
-    if (value >= 1_000_000) {
-        return (
-            value / 1_000_000
-        ).toFixed(2) + "M";
-    }
-
-    if (value >= 1_000) {
-        return (
-            value / 1_000
-        ).toFixed(2) + "K";
-    }
-
-    return value.toLocaleString();
-}
+    const accuracy =
+        Number(
+            model.benchmark_accuracy
+        );
 
 
-function formatBytes(bytes) {
-    if (
-        bytes === null ||
-        bytes === undefined
-    ) {
-        return "TBD";
-    }
+    const value =
+        Number.isFinite(accuracy)
+            ? accuracy.toFixed(2)
+                + "%"
+            : model.benchmark_accuracy;
 
-    if (bytes === 0) {
-        return "0 B";
-    }
 
-    const units = [
-        "B",
-        "KB",
-        "MB",
-        "GB"
-    ];
+    const note =
+        model.benchmark_tests
+            ? `${model.benchmark_tests} tests`
+            : "";
 
-    let value = bytes;
-    let unit = 0;
 
-    while (
-        value >= 1024 &&
-        unit < units.length - 1
-    ) {
-        value /= 1024;
-        unit++;
-    }
-
-    const decimals =
-        unit === 0 ? 0 : 2;
-
-    return (
-        value.toFixed(decimals) +
-        " " +
-        units[unit]
+    return makeMetric(
+        "Benchmark",
+        value,
+        note
     );
 }
 
 
-function formatStatus(status) {
-    if (!status) {
-        return "Unknown";
-    }
-
-    switch (status.toLowerCase()) {
-        case "development":
-            return "In Development";
-
-        case "released":
-            return "Released";
-
-        case "experimental":
-            return "Experimental";
-
-        case "deprecated":
-            return "Deprecated";
-
-        default:
-            return status;
-    }
-}
-
-
-async function copyText(
-    text,
-    button
+function generalizationMetric(
+    model
 ) {
-    const oldText = button.textContent;
-
-    try {
-        await navigator.clipboard.writeText(
-            text
-        );
-    } catch {
-        const textarea =
-            document.createElement("textarea");
-
-        textarea.value = text;
-
-        document.body.appendChild(
-            textarea
-        );
-
-        textarea.select();
-
-        document.execCommand("copy");
-
-        textarea.remove();
+    if (
+        model.generalization_accuracy
+        === undefined
+    ) {
+        return "";
     }
 
-    button.textContent = "COPIED";
 
-    setTimeout(
-        () => {
-            button.textContent = oldText;
-        },
-        1200
+    const accuracy =
+        Number(
+            model.generalization_accuracy
+        );
+
+
+    const value =
+        Number.isFinite(accuracy)
+            ? accuracy.toFixed(2)
+                + "%"
+            : model.generalization_accuracy;
+
+
+    const note =
+        model.generalization_tests
+            ? `${model.generalization_tests} tests`
+            : "";
+
+
+    return makeMetric(
+        "Generalization",
+        value,
+        note
     );
 }
 
 
-function escapeHtml(value) {
-    const text = String(
-        value ?? ""
-    );
+function modelType(model) {
+    if (
+        model.architecture
+        ?.toLowerCase()
+        .includes("transformer")
+    ) {
+        return "Transformer Language Model";
+    }
 
-    const entities = {
-        "&": "&amp;",
-        "<": "&lt;",
-        ">": "&gt;",
-        '"': "&quot;",
-        "'": "&#039;"
-    };
 
-    return text.replace(
-        /[&<>"']/g,
-        character => entities[character]
+    return "Structured Reasoning Model";
+}
+
+
+function renderModel(
+    model,
+    index
+) {
+    const number =
+        String(index + 1)
+            .padStart(
+                3,
+                "0"
+            );
+
+
+    const reference =
+        `${model.id}:${model.version}`;
+
+
+    const pullCommand =
+        model.install_command
+        || `simpleai pull ${reference}`;
+
+
+    const runCommand =
+        `simpleai run ${reference}`;
+
+
+    const releasePage =
+        releasePageFromDownload(
+            model.download
+        );
+
+
+    const skills =
+        Array.isArray(
+            model.skills
+        )
+            ? model.skills
+            : [];
+
+
+    const skillsHtml =
+        skills.length
+            ? `
+                <div class="skills">
+
+                    ${skills
+                        .slice(0, 8)
+                        .map(
+                            skill => `
+                                <span class="skill">
+                                    ${escapeHtml(skill)}
+                                </span>
+                            `
+                        )
+                        .join("")}
+
+                </div>
+            `
+            : "";
+
+
+    const context =
+        model.context
+        || null;
+
+
+    const tokenizer =
+        model.tokenizer
+        || null;
+
+
+    const type =
+        modelType(model);
+
+
+    return `
+        <article class="model-card">
+
+            <div class="model-id">
+
+                <div>
+
+                    <span class="model-number">
+                        MODEL ${number}
+                    </span>
+
+                    <span class="model-status">
+                        ${escapeHtml(
+                            model.status
+                            || "released"
+                        )}
+                    </span>
+
+                </div>
+
+            </div>
+
+
+            <div class="model-main">
+
+                <div class="model-title-row">
+
+                    <h3 class="model-title">
+                        ${escapeHtml(
+                            model.name
+                        )}
+                    </h3>
+
+                    <span class="model-version">
+                        ${escapeHtml(
+                            model.version
+                        )}
+                    </span>
+
+                </div>
+
+
+                <p class="model-description">
+                    ${escapeHtml(
+                        model.description
+                        || ""
+                    )}
+                </p>
+
+
+                <div class="skills">
+
+                    <span class="skill">
+                        ${escapeHtml(type)}
+                    </span>
+
+                </div>
+
+
+                ${skillsHtml}
+
+            </div>
+
+
+            <div class="model-metrics">
+
+                ${makeMetric(
+                    "Parameters",
+                    formatParameters(
+                        model.parameters
+                    )
+                )}
+
+                ${makeMetric(
+                    "Brain Size",
+                    formatBytes(
+                        model.brain_size_bytes
+                    )
+                )}
+
+                ${makeMetric(
+                    "Architecture",
+                    model.architecture
+                )}
+
+                ${makeMetric(
+                    "Training",
+                    model.training
+                )}
+
+                ${makeMetric(
+                    "Context",
+                    context
+                )}
+
+                ${makeMetric(
+                    "Tokenizer",
+                    tokenizer
+                )}
+
+                ${benchmarkMetric(
+                    model
+                )}
+
+                ${generalizationMetric(
+                    model
+                )}
+
+            </div>
+
+
+            <div class="model-actions">
+
+                <div class="model-command-row">
+
+                    <div class="model-command">
+
+                        <code>
+                            ${escapeHtml(
+                                pullCommand
+                            )}
+                        </code>
+
+                        <button
+                            class="copy-button"
+                            data-copy="${escapeHtml(
+                                pullCommand
+                            )}"
+                            type="button"
+                        >
+                            COPY
+                        </button>
+
+                    </div>
+
+
+                    <div class="model-command">
+
+                        <code>
+                            ${escapeHtml(
+                                runCommand
+                            )}
+                        </code>
+
+                        <button
+                            class="copy-button"
+                            data-copy="${escapeHtml(
+                                runCommand
+                            )}"
+                            type="button"
+                        >
+                            COPY
+                        </button>
+
+                    </div>
+
+                </div>
+
+
+                <div class="model-links">
+
+                    ${
+                        model.download
+                            ? `
+                                <a
+                                    class="model-link"
+                                    href="${escapeHtml(
+                                        model.download
+                                    )}"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                >
+                                    Manual ZIP ↓
+                                </a>
+                            `
+                            : ""
+                    }
+
+
+                    ${
+                        releasePage
+                            ? `
+                                <a
+                                    class="model-link"
+                                    href="${escapeHtml(
+                                        releasePage
+                                    )}"
+                                    target="_blank"
+                                    rel="noopener noreferrer"
+                                >
+                                    GitHub Release ↗
+                                </a>
+                            `
+                            : ""
+                    }
+
+
+                    <a
+                        class="model-link"
+                        href="${REPO_URL}"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Source ↗
+                    </a>
+
+                </div>
+
+            </div>
+
+        </article>
+    `;
+}
+
+
+function normaliseRegistry(data) {
+    if (Array.isArray(data)) {
+        return data;
+    }
+
+
+    if (
+        data
+        && Array.isArray(
+            data.models
+        )
+    ) {
+        return data.models;
+    }
+
+
+    throw new Error(
+        "Unknown registry format."
     );
 }
 
 
-loadRegistry();
+async function loadRegistry() {
+    let lastError = null;
+
+
+    for (
+        const path
+        of REGISTRY_PATHS
+    ) {
+        try {
+            const separator =
+                path.includes("?")
+                    ? "&"
+                    : "?";
+
+
+            const response =
+                await fetch(
+                    path
+                    + separator
+                    + "v="
+                    + Date.now(),
+                    {
+                        cache:
+                            "no-store"
+                    }
+                );
+
+
+            if (!response.ok) {
+                throw new Error(
+                    `HTTP ${response.status}`
+                );
+            }
+
+
+            const data =
+                await response.json();
+
+
+            return normaliseRegistry(
+                data
+            );
+
+        } catch (error) {
+            lastError =
+                error;
+        }
+    }
+
+
+    throw (
+        lastError
+        || new Error(
+            "Could not load registry."
+        )
+    );
+}
+
+
+function bindCopyButtons() {
+    const buttons =
+        document.querySelectorAll(
+            "[data-copy]"
+        );
+
+
+    for (
+        const button
+        of buttons
+    ) {
+        button.addEventListener(
+            "click",
+            async () => {
+                const text =
+                    button.dataset.copy;
+
+
+                try {
+                    await navigator.clipboard
+                        .writeText(
+                            text
+                        );
+
+
+                    const oldText =
+                        button.textContent;
+
+
+                    button.textContent =
+                        "COPIED";
+
+
+                    button.classList.add(
+                        "copied"
+                    );
+
+
+                    setTimeout(
+                        () => {
+                            button.textContent =
+                                oldText;
+
+                            button.classList.remove(
+                                "copied"
+                            );
+                        },
+                        1200
+                    );
+
+                } catch {
+                    button.textContent =
+                        "FAILED";
+
+
+                    setTimeout(
+                        () => {
+                            button.textContent =
+                                "COPY";
+                        },
+                        1200
+                    );
+                }
+            }
+        );
+    }
+}
+
+
+async function start() {
+    try {
+        const models =
+            await loadRegistry();
+
+
+        modelCount.textContent =
+            String(
+                models.length
+            );
+
+
+        modelsList.innerHTML =
+            models
+                .map(
+                    renderModel
+                )
+                .join("");
+
+
+        bindCopyButtons();
+
+    } catch (error) {
+        console.error(
+            error
+        );
+
+
+        modelCount.textContent =
+            "—";
+
+
+        modelsList.innerHTML = `
+            <div class="registry-error">
+                Could not load the SimpleAI Registry.
+            </div>
+        `;
+
+
+        bindCopyButtons();
+    }
+}
+
+
+bindCopyButtons();
+
+start();

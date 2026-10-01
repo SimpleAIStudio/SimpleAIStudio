@@ -10,333 +10,528 @@
 
     <meta
         name="description"
-        content="SimpleAI's Studio - small AI models built from scratch and free to run locally."
+        content="SimpleAI's Studio builds small local AI models from scratch."
     >
 
     <title>SimpleAI's Studio</title>
 
     <link
         rel="stylesheet"
-        href="styles.css?v=4"
+        href="styles.css?v=6"
     >
 </head>
 
 <body>
 
-    <header class="topbar">
-        <div class="topbar-inner">
+<header class="site-header">
+    <div class="shell header-inner">
 
-            <a
-                class="brand"
-                href="#"
-            >
+        <a
+            class="brand"
+            href="#top"
+        >
+            <span class="brand-mark">S</span>
+
+            <span>
                 SimpleAI's Studio
+            </span>
+        </a>
+
+        <nav class="nav">
+            <a href="#models">
+                Models
             </a>
 
-            <nav class="nav">
-                <a href="#models">Models</a>
-                <a href="#about">About</a>
-                <a href="#cli">CLI</a>
-            </nav>
+            <a href="#get-started">
+                Get Started
+            </a>
+
+            <a
+                href="https://github.com/SimpleAIStudio/SimpleAIStudio"
+                target="_blank"
+                rel="noopener noreferrer"
+            >
+                GitHub
+            </a>
+        </nav>
+
+    </div>
+</header>
+
+
+<main id="top">
+
+    <section class="hero">
+        <div class="shell">
+
+            <div class="hero-grid">
+
+                <div class="hero-main">
+
+                    <p class="eyebrow">
+                        LOCAL MODEL LAB
+                    </p>
+
+                    <h1>
+                        Small AI models.<br>
+                        Built from scratch.<br>
+                        Run locally.
+                    </h1>
+
+                    <p class="hero-copy">
+                        SimpleAI's Studio is a small independent project
+                        building experimental AI models from randomly
+                        initialized weights and releasing them for free.
+                    </p>
+
+                    <div class="hero-actions">
+
+                        <a
+                            class="button button-primary"
+                            href="#get-started"
+                        >
+                            Get SimpleAI
+                        </a>
+
+                        <a
+                            class="button"
+                            href="#models"
+                        >
+                            Browse Models
+                        </a>
+
+                    </div>
+
+                </div>
+
+
+                <div class="terminal hero-terminal">
+
+                    <div class="terminal-head">
+
+                        <span>
+                            SIMPLEAI CLI
+                        </span>
+
+                        <span>
+                            LOCAL
+                        </span>
+
+                    </div>
+
+                    <div class="terminal-body">
+
+                        <div class="terminal-line">
+                            <span class="terminal-prompt">$</span>
+                            <span>simpleai list</span>
+                        </div>
+
+                        <div class="terminal-output">
+                            nano-dumbthink:1.0
+                        </div>
+
+                        <div class="terminal-output">
+                            micro-jet-dumbthink:2.0
+                        </div>
+
+                        <div class="terminal-output">
+                            vex-turbo-dumbthink:3.0
+                        </div>
+
+                        <br>
+
+                        <div class="terminal-line">
+                            <span class="terminal-prompt">$</span>
+                            <span>
+                                simpleai pull vex-turbo-dumbthink:3.0
+                            </span>
+                        </div>
+
+                        <div class="terminal-output">
+                            verification&nbsp; SHA-256 OK
+                        </div>
+
+                        <div class="terminal-output">
+                            install&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; complete
+                        </div>
+
+                        <br>
+
+                        <div class="terminal-line">
+                            <span class="terminal-prompt">$</span>
+                            <span>
+                                simpleai run vex-turbo-dumbthink:3.0
+                            </span>
+                        </div>
+
+                    </div>
+
+                </div>
+
+            </div>
+
+
+            <div class="stats">
+
+                <div class="stat">
+                    <span
+                        class="stat-value"
+                        id="model-count"
+                    >
+                        —
+                    </span>
+
+                    <span class="stat-label">
+                        Models
+                    </span>
+                </div>
+
+
+                <div class="stat">
+                    <span class="stat-value">
+                        $0
+                    </span>
+
+                    <span class="stat-label">
+                        Price
+                    </span>
+                </div>
+
+
+                <div class="stat">
+                    <span class="stat-value">
+                        Local
+                    </span>
+
+                    <span class="stat-label">
+                        Runtime
+                    </span>
+                </div>
+
+
+                <div class="stat">
+                    <span class="stat-value">
+                        Zero
+                    </span>
+
+                    <span class="stat-label">
+                        External AI APIs
+                    </span>
+                </div>
+
+            </div>
 
         </div>
-    </header>
+    </section>
 
 
-    <main>
-
-        <!-- HERO -->
-        <section class="hero">
-
-            <div class="hero-label">
-                INDEPENDENT AI LAB
-            </div>
-
-            <h1>
-                Small models.<br>
-                Built from scratch.
-            </h1>
-
-            <p class="hero-description">
-                Experimental AI models trained from random weights,
-                designed to run locally and released completely free.
-            </p>
-
-            <div class="hero-actions">
-
-                <a
-                    class="primary-button"
-                    href="#models"
-                >
-                    View models
-                </a>
-
-                <a
-                    class="secondary-button"
-                    href="#cli"
-                >
-                    Get the CLI
-                </a>
-
-            </div>
-
-        </section>
-
-
-        <!-- INFO STRIP -->
-        <section class="stats">
-
-            <div class="stat">
-                <span class="stat-value" id="modelCount">
-                    0
-                </span>
-
-                <span class="stat-label">
-                    Models
-                </span>
-            </div>
-
-            <div class="stat">
-                <span class="stat-value">
-                    $0
-                </span>
-
-                <span class="stat-label">
-                    Price
-                </span>
-            </div>
-
-            <div class="stat">
-                <span class="stat-value">
-                    Local
-                </span>
-
-                <span class="stat-label">
-                    Runtime
-                </span>
-            </div>
-
-            <div class="stat">
-                <span class="stat-value">
-                    Zero
-                </span>
-
-                <span class="stat-label">
-                    External AI APIs
-                </span>
-            </div>
-
-        </section>
-
-
-        <!-- MODELS -->
-        <section
-            class="section"
-            id="models"
-        >
+    <section
+        class="section"
+        id="get-started"
+    >
+        <div class="shell">
 
             <div class="section-heading">
 
                 <div>
-                    <div class="eyebrow">
-                        MODEL REGISTRY
+                    <p class="eyebrow">
+                        GET STARTED
+                    </p>
+
+                    <h2>
+                        Use SimpleAI
+                    </h2>
+                </div>
+
+                <p class="section-note">
+                    Install the CLI once, then pull and run models
+                    directly from PowerShell.
+                </p>
+
+            </div>
+
+
+            <div class="start-grid">
+
+                <article class="start-card">
+
+                    <span class="step-number">
+                        01
+                    </span>
+
+                    <h3>
+                        Install the CLI
+                    </h3>
+
+                    <p>
+                        SimpleAI is the main way to install and run models.
+                        The installer and source live on GitHub.
+                    </p>
+
+                    <a
+                        class="text-link"
+                        href="https://github.com/SimpleAIStudio/SimpleAIStudio/tree/main/cli"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                    >
+                        Open CLI installer →
+                    </a>
+
+                </article>
+
+
+                <article class="start-card">
+
+                    <span class="step-number">
+                        02
+                    </span>
+
+                    <h3>
+                        Browse models
+                    </h3>
+
+                    <div class="command-box">
+
+                        <code>
+                            simpleai list
+                        </code>
+
+                        <button
+                            class="copy-button"
+                            data-copy="simpleai list"
+                            type="button"
+                        >
+                            COPY
+                        </button>
+
                     </div>
+
+                </article>
+
+
+                <article class="start-card">
+
+                    <span class="step-number">
+                        03
+                    </span>
+
+                    <h3>
+                        Pull a model
+                    </h3>
+
+                    <div class="command-box">
+
+                        <code>
+                            simpleai pull vex-turbo-dumbthink:3.0
+                        </code>
+
+                        <button
+                            class="copy-button"
+                            data-copy="simpleai pull vex-turbo-dumbthink:3.0"
+                            type="button"
+                        >
+                            COPY
+                        </button>
+
+                    </div>
+
+                </article>
+
+
+                <article class="start-card">
+
+                    <span class="step-number">
+                        04
+                    </span>
+
+                    <h3>
+                        Run it
+                    </h3>
+
+                    <div class="command-box">
+
+                        <code>
+                            simpleai run vex-turbo-dumbthink:3.0
+                        </code>
+
+                        <button
+                            class="copy-button"
+                            data-copy="simpleai run vex-turbo-dumbthink:3.0"
+                            type="button"
+                        >
+                            COPY
+                        </button>
+
+                    </div>
+
+                </article>
+
+            </div>
+
+
+            <div class="info-strip">
+
+                <div>
+                    <span class="info-label">
+                        NORMAL INSTALL
+                    </span>
+
+                    <p>
+                        Use <code>simpleai pull</code>.
+                        The CLI downloads the model package automatically.
+                    </p>
+                </div>
+
+
+                <div>
+                    <span class="info-label">
+                        MANUAL INSTALL
+                    </span>
+
+                    <p>
+                        Every model card also links directly to its
+                        GitHub Release ZIP.
+                    </p>
+                </div>
+
+
+                <div>
+                    <span class="info-label">
+                        SOURCE
+                    </span>
+
+                    <p>
+                        Source code, release history and development files
+                        remain available on GitHub.
+                    </p>
+                </div>
+
+            </div>
+
+        </div>
+    </section>
+
+
+    <section
+        class="section models-section"
+        id="models"
+    >
+        <div class="shell">
+
+            <div class="section-heading">
+
+                <div>
+                    <p class="eyebrow">
+                        MODEL REGISTRY
+                    </p>
 
                     <h2>
                         Models
                     </h2>
                 </div>
 
-                <p>
-                    Pull models directly through the SimpleAI CLI.
+                <p class="section-note">
+                    Pull models directly through the SimpleAI CLI
+                    or download the package manually.
                 </p>
 
             </div>
 
 
             <div
-                id="modelGrid"
-                class="model-grid"
+                class="models"
+                id="models-list"
             >
-
                 <div class="loading">
-                    Reading registry...
+                    Loading registry...
                 </div>
-
             </div>
 
-        </section>
+        </div>
+    </section>
 
 
-        <!-- CLI -->
-        <section
-            class="section"
-            id="cli"
-        >
+    <section class="section source-section">
+        <div class="shell">
 
-            <div class="section-heading">
-
-                <div>
-                    <div class="eyebrow">
-                        SIMPLEAI CLI
-                    </div>
-
-                    <h2>
-                        Models belong in the terminal.
-                    </h2>
-                </div>
-
-            </div>
-
-
-            <div class="cli-panel">
-
-                <div class="terminal-header">
-
-                    <span>
-                        PowerShell
-                    </span>
-
-                    <span class="terminal-status">
-                        Windows
-                    </span>
-
-                </div>
-
-
-                <div class="terminal-body">
-
-                    <div class="terminal-line">
-                        <span class="prompt">PS&gt;</span>
-
-                        <span class="command">
-                            simpleai list
-                        </span>
-                    </div>
-
-                    <div class="terminal-line">
-                        <span class="prompt">PS&gt;</span>
-
-                        <span class="command">
-                            simpleai pull nano-dumbthink:1.0
-                        </span>
-                    </div>
-
-                    <div class="terminal-line">
-                        <span class="prompt">PS&gt;</span>
-
-                        <span class="command">
-                            simpleai run nano-dumbthink:1.0
-                        </span>
-                    </div>
-
-                </div>
-
-            </div>
-
-
-            <p class="cli-note">
-                The CLI is currently in development.
-                Browser downloads are intentionally not used for model releases.
-            </p>
-
-        </section>
-
-
-        <!-- ABOUT -->
-        <section
-            class="section about-section"
-            id="about"
-        >
-
-            <div class="about-grid">
+            <div class="source-panel">
 
                 <div>
 
-                    <div class="eyebrow">
-                        ABOUT
-                    </div>
+                    <p class="eyebrow">
+                        OPEN DEVELOPMENT
+                    </p>
 
                     <h2>
-                        Start tiny.<br>
-                        Keep building.
+                        Website up front.<br>
+                        GitHub underneath.
                     </h2>
 
                 </div>
 
 
-                <div class="about-copy">
+                <div class="source-copy">
 
                     <p>
-                        SimpleAI's Studio is an experiment in building
-                        artificial intelligence models from the ground up.
+                        This website is the main place to discover
+                        SimpleAI and browse released models.
                     </p>
 
                     <p>
-                        Models begin with random weights and are trained
-                        specifically for their own tasks instead of relying
-                        on downloaded pretrained models or external AI APIs.
+                        GitHub hosts the source code, model release
+                        packages and project history. The SimpleAI CLI
+                        connects to the public registry and downloads
+                        those release packages automatically.
                     </p>
 
-                    <p>
-                        The goal is simple: start ridiculously small,
-                        learn what works, and gradually build larger and
-                        more capable models.
-                    </p>
+                    <div class="source-actions">
+
+                        <a
+                            class="button"
+                            href="https://github.com/SimpleAIStudio/SimpleAIStudio"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            View GitHub
+                        </a>
+
+                        <a
+                            class="button"
+                            href="https://github.com/SimpleAIStudio/SimpleAIStudio/releases"
+                            target="_blank"
+                            rel="noopener noreferrer"
+                        >
+                            All Releases
+                        </a>
+
+                    </div>
 
                 </div>
 
             </div>
 
-        </section>
+        </div>
+    </section>
+
+</main>
 
 
-        <!-- PRINCIPLES -->
-        <section class="principles">
+<footer>
+    <div class="shell footer-inner">
 
-            <div class="principle">
-                <span>01</span>
-                <h3>Built from scratch</h3>
-                <p>
-                    Released neural weights are trained by SimpleAI's Studio.
-                </p>
-            </div>
-
-            <div class="principle">
-                <span>02</span>
-                <h3>Runs locally</h3>
-                <p>
-                    Models are designed to run directly on your own computer.
-                </p>
-            </div>
-
-            <div class="principle">
-                <span>03</span>
-                <h3>Free</h3>
-                <p>
-                    Experimental models are available without subscriptions.
-                </p>
-            </div>
-
-        </section>
-
-    </main>
-
-
-    <footer>
-
-        <div>
+        <span>
             SimpleAI's Studio
-        </div>
+        </span>
 
-        <div class="footer-muted">
-            Building small brains.
-        </div>
+        <span>
+            Small models. Built from scratch.
+        </span>
 
-    </footer>
+    </div>
+</footer>
 
 
-    <script src="app.js?v=4"></script>
+<script src="app.js?v=6"></script>
 
 </body>
 </html>
