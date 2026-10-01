@@ -6,7 +6,6 @@ root = Path(__file__).parent
 
 website = root / "website"
 registry = root / "registry"
-
 public = root / "docs"
 
 
@@ -19,24 +18,53 @@ public.mkdir()
 (public / "registry").mkdir()
 
 
-for name in [
+website_files = [
     "index.html",
     "styles.css",
     "app.js",
-]:
+    "favicon.png",
+]
+
+
+for name in website_files:
+    source = website / name
+    destination = public / name
+
+    if not source.exists():
+        raise FileNotFoundError(
+            f"Missing website file: {source}"
+        )
+
     shutil.copy2(
-        website / name,
-        public / name,
+        source,
+        destination,
+    )
+
+
+registry_file = (
+    registry
+    / "models.json"
+)
+
+
+if not registry_file.exists():
+    raise FileNotFoundError(
+        f"Missing registry file: {registry_file}"
     )
 
 
 shutil.copy2(
-    registry / "models.json",
-    public / "registry" / "models.json",
+    registry_file,
+    public
+    / "registry"
+    / "models.json",
 )
 
 
-(public / ".nojekyll").write_text(
+(
+    public
+    / ".nojekyll"
+).write_text(
     "",
     encoding="utf-8",
 )
@@ -50,6 +78,7 @@ print()
 print("Files:")
 print()
 
+
 for path in sorted(
     public.rglob("*")
 ):
@@ -57,8 +86,11 @@ for path in sorted(
         print(
             "  "
             + str(
-                path.relative_to(public)
+                path.relative_to(
+                    public
+                )
             )
         )
+
 
 print()
