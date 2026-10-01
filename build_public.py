@@ -22,7 +22,7 @@ website_files = [
     "index.html",
     "styles.css",
     "app.js",
-    "favicon.png",
+    "sai-favicon.png",
 ]
 
 
