@@ -1,0 +1,224 @@
+User: make chair plural.
+Vex: chairs
+
+User: quick question: what word means the opposite of true?
+Vex: false
+
+User: can you answer this: what word means the opposite of happy?
+Vex: sad
+
+User: give the opposite of old.
+Vex: young
+
+User: i want to know: opposite of big?
+Vex: small
+
+User: what word means the opposite of happy?
+Vex: sad
+
+User: quick question: opposite of true?
+Vex: false
+
+User: please answer this: what word means the opposite of happy?
+Vex: sad
+
+User: can you answer this: give the opposite of old.
+Vex: young
+
+User: quick question: what word means the opposite of early?
+Vex: late
+
+User: quick question: what word means the opposite of old?
+Vex: young
+
+User: what word means the opposite of hot?
+Vex: cold
+
+User: make apple plural.
+Vex: apples
+
+User: i want to know: give the opposite of old.
+Vex: young
+
+User: plural of tree?
+Vex: trees
+
+User: please answer this: give the opposite of same.
+Vex: different
+
+User: can you answer this: opposite of day?
+Vex: night
+
+User: can you answer this: what word means the opposite of big?
+Vex: small
+
+User: can you answer this: give the plural form of toy.
+Vex: toys
+
+User: what word means the opposite of start?
+Vex: stop
+
+User: i want to know: make computer plural.
+Vex: computers
+
+User: i want to know: plural of box?
+Vex: boxes
+
+User: please answer this: give the plural form of dish.
+Vex: dishes
+
+User: i want to know: what word means the opposite of start?
+Vex: stop
+
+User: what word means the opposite of full?
+Vex: empty
+
+User: i want to know: what word means the opposite of up?
+Vex: down
+
+User: please answer this: make city plural.
+Vex: cities
+
+User: opposite of more?
+Vex: less
+
+User: please answer this: opposite of light?
+Vex: dark
+
+User: i want to know: plural of house?
+Vex: houses
+
+User: quick question: give the plural form of bird.
+Vex: birds
+
+User: can you answer this: plural of cat?
+Vex: cats
+
+User: i want to know: plural of car?
+Vex: cars
+
+User: give the opposite of start.
+Vex: stop
+
+User: can you answer this: what word means the opposite of before?
+Vex: after
+
+User: i want to know: give the opposite of high.
+Vex: low
+
+User: please answer this: make bus plural.
+Vex: buses
+
+User: plural of computer?
+Vex: computers
+
+User: please answer this: opposite of full?
+Vex: empty
+
+User: please answer this: what word means the opposite of before?
+Vex: after
+
+User: opposite of light?
+Vex: dark
+
+User: can you answer this: give the opposite of strong.
+Vex: weak
+
+User: quick question: opposite of near?
+Vex: far
+
+User: i want to know: give the plural form of class.
+Vex: classes
+
+User: opposite of big?
+Vex: small
+
+User: i want to know: make city plural.
+Vex: cities
+
+User: what word means the opposite of same?
+Vex: different
+
+User: quick question: give the plural form of city.
+Vex: cities
+
+User: quick question: what word means the opposite of hot?
+Vex: cold
+
+User: please answer this: give the opposite of strong.
+Vex: weak
+
+User: please answer this: what word means the opposite of true?
+Vex: false
+
+User: please answer this: opposite of open?
+Vex: closed
+
+User: quick question: give the plural form of box.
+Vex: boxes
+
+User: can you answer this: give the plural form of girl.
+Vex: girls
+
+User: i want to know: give the plural form of dish.
+Vex: dishes
+
+User: can you answer this: give the plural form of car.
+Vex: cars
+
+User: give the plural form of chair.
+Vex: chairs
+
+User: give the opposite of inside.
+Vex: outside
+
+User: quick question: plural of apple?
+Vex: apples
+
+User: please answer this: plural of bus?
+Vex: buses
+
+User: please answer this: plural of watch?
+Vex: watches
+
+User: quick question: what word means the opposite of happy?
+Vex: sad
+
+User: i want to know: plural of table?
+Vex: tables
+
+User: i want to know: what word means the opposite of inside?
+Vex: outside
+
+User: give the plural form of table.
+Vex: tables
+
+User: can you answer this: plural of robot?
+Vex: robots
+
+User: can you answer this: give the plural form of chair.
+Vex: chairs
+
+User: what word means the opposite of open?
+Vex: closed
+
+User: i want to know: give the opposite of day.
+Vex: night
+
+User: quick question: make class plural.
+Vex: classes
+
+User: quick question: plural of watch?
+Vex: watches
+
+User: can you answer this: what word means the opposite of early?
+Vex: late
+
+User: i want to know: give the opposite of happy.
+Vex: sad
+
+User: please answer this: opposite of same?
+Vex: different
+
+User: i want to know: make tree plural.
+Vex: trees

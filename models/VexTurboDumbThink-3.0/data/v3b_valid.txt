@@ -1,0 +1,10002 @@
+Vex is a small local language model built by SimpleAI's Studio.
+
+User: compare 139 and 65.
+Vex: 139 is greater than 65.
+
+User: what is the smallest of 198 200 155?
+Vex: 155
+
+User: is 109 less than 420?
+Vex: yes.
+
+User: what is the largest of 6 199 192?
+Vex: 199
+
+User: is 19 less than 371?
+Vex: yes.
+
+User: is 448 greater than 390?
+Vex: yes.
+
+User: add 50 and 13.
+Vex: 63
+
+User: is 18 greater than 87?
+Vex: no.
+
+User: what is the largest of 168 182 168?
+Vex: 182
+
+User: is 173 less than 494?
+Vex: yes.
+
+User: compare 252 and 367.
+Vex: 252 is less than 367.
+
+User: is 480 less than 291?
+Vex: no.
+
+User: what comes next: -48 -54 -60 -66 -72 ?
+Vex: -78
+
+User: is 103 less than 240?
+Vex: yes.
+
+User: is 17 even or odd?
+Vex: 17 is odd.
+
+User: compare 280 and 407.
+Vex: 280 is less than 407.
+
+User: calculate 37 - 2.
+Vex: 35
+
+User: is 290 greater than 417?
+Vex: no.
+
+User: subtract 92 from 69.
+Vex: -23
+
+User: what is the smallest of 145 192 90?
+Vex: 90
+
+User: is 408 less than 289?
+Vex: no.
+
+User: what is 82 minus 96?
+Vex: -14
+
+User: is 69 greater than 408?
+Vex: no.
+
+User: what is the smallest of 127 119 96?
+Vex: 96
+
+User: what is the smallest of 10 165 35?
+Vex: 10
+
+User: is 6 odd?
+Vex: no.
+
+User: is 221 less than 83?
+Vex: no.
+
+User: what is the smallest of 25 35 52?
+Vex: 25
+
+User: compare 211 and 177.
+Vex: 211 is greater than 177.
+
+User: what is the largest of 148 86 101?
+Vex: 148
+
+User: is 466 greater than 426?
+Vex: yes.
+
+The bird waited near the window and then stopped.
+
+User: what is 61 + 74?
+Vex: 135
+
+User: is 186 greater than 422?
+Vex: no.
+
+User: what is the smallest of 12 144 42?
+Vex: 12
+
+User: what comes next: 3 5 7 9 11 ?
+Vex: 13
+
+User: multiply 19 and 4.
+Vex: 76
+
+User: is 174 greater than 204?
+Vex: no.
+
+The student waited outside for a short time.
+
+User: is 167 less than 363?
+Vex: yes.
+
+User: compare 264 and 455.
+Vex: 264 is less than 455.
+
+User: is 459 greater than 193?
+Vex: yes.
+
+User: is 229 greater than 265?
+Vex: no.
+
+User: is 446 greater than 224?
+Vex: yes.
+
+User: what is the largest of 64 68 75?
+Vex: 75
+
+User: what is the largest of 118 7 168?
+Vex: 168
+
+User: is 404 greater than 314?
+Vex: yes.
+
+User: what is 15 - 92?
+Vex: -77
+
+User: calculate 70 + 3.
+Vex: 73
+
+User: what is the largest of 122 180 198?
+Vex: 198
+
+User: what comes next: -19 -27 -35 -43 -51 ?
+Vex: -59
+
+User: what is 80 - 58?
+Vex: 22
+
+User: what is 1 times 9?
+Vex: 9
+
+User: compare 499 and 237.
+Vex: 499 is greater than 237.
+
+User: is 485 greater than 227?
+Vex: yes.
+
+User: what is the smallest of 5 46 124?
+Vex: 5
+
+User: subtract 45 from 1.
+Vex: -44
+
+User: compare 208 and 337.
+Vex: 208 is less than 337.
+
+User: what is 99 minus 97?
+Vex: 2
+
+User: what is 29 + 96?
+Vex: 125
+
+User: what comes next: -38 -44 -50 -56 -62 ?
+Vex: -68
+
+User: compare 347 and 246.
+Vex: 347 is greater than 246.
+
+User: compare 323 and 255.
+Vex: 323 is greater than 255.
+
+User: is 83 less than 36?
+Vex: no.
+
+User: what is 16 divided by 2?
+Vex: 8
+
+User: is 283 greater than 84?
+Vex: yes.
+
+User: compare 70 and 43.
+Vex: 70 is greater than 43.
+
+User: what is the largest of 145 6 78?
+Vex: 145
+
+User: is 311 greater than 44?
+Vex: yes.
+
+User: is 323 less than 442?
+Vex: yes.
+
+User: subtract 91 from 27.
+Vex: -64
+
+User: what is 16 multiplied by 1?
+Vex: 16
+
+User: calculate 85 + 10.
+Vex: 95
+
+User: what is the largest of 15 110 141?
+Vex: 141
+
+User: what is 91 - 60?
+Vex: 31
+
+User: is 153 less than 395?
+Vex: yes.
+
+User: is 393 less than 364?
+Vex: no.
+
+User: what is the largest of 38 62 8?
+Vex: 62
+
+User: compare 362 and 92.
+Vex: 362 is greater than 92.
+
+User: is 353 greater than 126?
+Vex: yes.
+
+User: what is the smallest of 19 139 200?
+Vex: 19
+
+User: is 166 less than 326?
+Vex: yes.
+
+User: compare 473 and 279.
+Vex: 473 is greater than 279.
+
+User: is 369 less than 84?
+Vex: no.
+
+User: is 218 greater than 145?
+Vex: yes.
+
+User: what is the largest of 37 179 4?
+Vex: 179
+
+User: subtract 43 from 99.
+Vex: 56
+
+User: compare 410 and 308.
+Vex: 410 is greater than 308.
+
+User: what is 43 - 21?
+Vex: 22
+
+User: is 280 less than 144?
+Vex: no.
+
+User: compare 39 and 337.
+Vex: 39 is less than 337.
+
+User: compare 423 and 236.
+Vex: 423 is greater than 236.
+
+User: add 72 and 68.
+Vex: 140
+
+User: is 431 greater than 111?
+Vex: yes.
+
+User: what is 46 - 60?
+Vex: -14
+
+User: is 436 less than 342?
+Vex: no.
+
+User: what is the smallest of 26 134 163?
+Vex: 26
+
+User: what is the largest of 126 88 135?
+Vex: 135
+
+User: compare 33 and 151.
+Vex: 33 is less than 151.
+
+User: what is 0 - 99?
+Vex: -99
+
+User: what is the smallest of 33 53 75?
+Vex: 33
+
+User: is 61 less than 42?
+Vex: no.
+
+User: what is the smallest of 132 29 131?
+Vex: 29
+
+User: compare 95 and 277.
+Vex: 95 is less than 277.
+
+User: what is the largest of 186 23 95?
+Vex: 186
+
+User: what is the smallest of 107 162 24?
+Vex: 24
+
+User: what is 153 divided by 9?
+Vex: 17
+
+User: what is the largest of 169 39 200?
+Vex: 200
+
+User: is 394 greater than 67?
+Vex: yes.
+
+User: what is 30 - 84?
+Vex: -54
+
+User: is 420 less than 464?
+Vex: yes.
+
+User: is 132 greater than 356?
+Vex: no.
+
+User: is 428 less than 78?
+Vex: no.
+
+User: compare 446 and 16.
+Vex: 446 is greater than 16.
+
+User: is 277 less than 303?
+Vex: yes.
+
+User: calculate 40 - 2.
+Vex: 38
+
+User: is 476 greater than 55?
+Vex: yes.
+
+User: what is the largest of 20 102 12?
+Vex: 102
+
+User: subtract 86 from 5.
+Vex: -81
+
+User: calculate 224 / 14.
+Vex: 16
+
+User: is 345 greater than 363?
+Vex: no.
+
+User: is 201 greater than 339?
+Vex: no.
+
+User: calculate 67 - 79.
+Vex: -12
+
+User: is 116 greater than 408?
+Vex: no.
+
+User: is 126 greater than 236?
+Vex: no.
+
+User: what is the smallest of 94 79 14?
+Vex: 14
+
+User: what comes next: 48 46 44 42 40 ?
+Vex: 38
+
+User: add 87 and 84.
+Vex: 171
+
+User: compare 136 and 317.
+Vex: 136 is less than 317.
+
+User: is 112 greater than 32?
+Vex: yes.
+
+User: is 500 greater than 227?
+Vex: yes.
+
+User: compare 27 and 195.
+Vex: 27 is less than 195.
+
+User: is 455 less than 221?
+Vex: no.
+
+User: is 116 less than 303?
+Vex: yes.
+
+User: is 451 less than 305?
+Vex: no.
+
+User: is 318 greater than 167?
+Vex: yes.
+
+User: compare 437 and 468.
+Vex: 437 is less than 468.
+
+User: what is 4 plus 53?
+Vex: 57
+
+User: compare 399 and 251.
+Vex: 399 is greater than 251.
+
+User: what is the smallest of 159 133 0?
+Vex: 0
+
+Text: Jamie put the ball on the floor.
+Question: where is the ball?
+Answer: the ball is on the floor.
+
+User: is 359 greater than 52?
+Vex: yes.
+
+User: what is the largest of 148 64 23?
+Vex: 148
+
+User: calculate 75 + 96.
+Vex: 171
+
+User: is 436 greater than 46?
+Vex: yes.
+
+User: what is 61 minus 16?
+Vex: 45
+
+User: what is the smallest of 105 14 110?
+Vex: 14
+
+User: is 83 greater than 404?
+Vex: no.
+
+User: what is 98 + 86?
+Vex: 184
+
+User: is 21 less than 341?
+Vex: yes.
+
+User: compare 258 and 474.
+Vex: 258 is less than 474.
+
+User: compare 240 and 15.
+Vex: 240 is greater than 15.
+
+User: is 359 less than 292?
+Vex: no.
+
+User: calculate 63 / 9.
+Vex: 7
+
+User: is 187 greater than 283?
+Vex: no.
+
+User: is 265 less than 210?
+Vex: no.
+
+User: is 243 greater than 48?
+Vex: yes.
+
+User: is 49 greater than 429?
+Vex: no.
+
+The student moved in the garden and then stopped.
+
+User: multiply 3 and 18.
+Vex: 54
+
+User: is 485 greater than 152?
+Vex: yes.
+
+User: compare 204 and 95.
+Vex: 204 is greater than 95.
+
+User: compare 348 and 161.
+Vex: 348 is greater than 161.
+
+User: is 49 less than 73?
+Vex: yes.
+
+User: what is 70 minus 51?
+Vex: 19
+
+The computer walked in the garden during the morning.
+
+User: what is the smallest of 187 5 7?
+Vex: 5
+
+User: what is the smallest of 144 143 93?
+Vex: 93
+
+User: is 333 less than 426?
+Vex: yes.
+
+User: add 66 and 2.
+Vex: 68
+
+User: what comes next: 13 10 7 4 1 ?
+Vex: -2
+
+User: is 499 less than 79?
+Vex: no.
+
+User: is 277 greater than 103?
+Vex: yes.
+
+User: is 59 less than 309?
+Vex: yes.
+
+User: is 353 greater than 70?
+Vex: yes.
+
+User: is 341 greater than 334?
+Vex: yes.
+
+User: what is 87 - 91?
+Vex: -4
+
+User: what is the largest of 192 153 132?
+Vex: 192
+
+User: what is the largest of 178 79 7?
+Vex: 178
+
+Python is a programming language.
+
+User: what is the smallest of 83 158 121?
+Vex: 83
+
+User: what is the smallest of 93 16 119?
+Vex: 16
+
+User: what is 24 minus 96?
+Vex: -72
+
+User: is 160 less than 150?
+Vex: no.
+
+User: what is the smallest of 60 188 124?
+Vex: 60
+
+User: what is the smallest of 134 38 108?
+Vex: 38
+
+User: multiply 22 and 17.
+Vex: 374
+
+User: compare 10 and 87.
+Vex: 10 is less than 87.
+
+User: compare 118 and 368.
+Vex: 118 is less than 368.
+
+User: is 489 greater than 215?
+Vex: yes.
+
+User: what is the smallest of 74 117 50?
+Vex: 50
+
+User: what is 75 - 67?
+Vex: 8
+
+User: what is the largest of 95 13 79?
+Vex: 95
+
+User: compare 88 and 428.
+Vex: 88 is less than 428.
+
+User: is 399 less than 84?
+Vex: no.
+
+User: is 275 less than 336?
+Vex: yes.
+
+User: is 75 greater than 303?
+Vex: no.
+
+User: is 437 less than 83?
+Vex: no.
+
+User: compare 68 and 358.
+Vex: 68 is less than 358.
+
+User: what is the smallest of 169 62 0?
+Vex: 0
+
+User: is 134 less than 338?
+Vex: yes.
+
+User: is 5 greater than 410?
+Vex: no.
+
+User: is 45 odd?
+Vex: yes.
+
+User: what is the largest of 130 16 42?
+Vex: 130
+
+User: what is the largest of 127 9 29?
+Vex: 127
+
+User: is 130 less than 146?
+Vex: yes.
+
+The scientist rested outside before lunch.
+
+User: compare 451 and 456.
+Vex: 451 is less than 456.
+
+User: is 111 less than 17?
+Vex: no.
+
+User: what comes next: 0 -4 -8 -12 -16 ?
+Vex: -20
+
+User: compare 117 and 302.
+Vex: 117 is less than 302.
+
+User: what is the largest of 180 153 67?
+Vex: 180
+
+User: what is the largest of 34 55 195?
+Vex: 195
+
+User: is 108 less than 321?
+Vex: yes.
+
+User: what is the smallest of 155 105 99?
+Vex: 99
+
+User: what is the smallest of 111 97 143?
+Vex: 97
+
+User: compare 274 and 201.
+Vex: 274 is greater than 201.
+
+User: compare 319 and 484.
+Vex: 319 is less than 484.
+
+User: what is 98 minus 90?
+Vex: 8
+
+Text: Sam put the box on the floor.
+Question: where is the box?
+Answer: the box is on the floor.
+
+Text: Taylor put the lamp on the chair.
+Question: where is the lamp?
+Answer: the lamp is on the chair.
+
+User: compare 450 and 50.
+Vex: 450 is greater than 50.
+
+User: compare 6 and 370.
+Vex: 6 is less than 370.
+
+The programmer waited beside the house before lunch.
+
+User: what is 13 times 19?
+Vex: 247
+
+User: is 115 greater than 239?
+Vex: no.
+
+User: is 202 greater than 455?
+Vex: no.
+
+User: what is the smallest of 41 47 176?
+Vex: 41
+
+User: what is 12 multiplied by 6?
+Vex: 72
+
+User: is 302 greater than 438?
+Vex: no.
+
+User: do you need internet?
+Vex: i do not need the internet to generate text locally.
+
+User: is 286 less than 297?
+Vex: yes.
+
+User: what is the smallest of 125 130 106?
+Vex: 106
+
+User: add 65 and 95.
+Vex: 160
+
+User: compare 42 and 428.
+Vex: 42 is less than 428.
+
+User: what is the smallest of 81 94 174?
+Vex: 81
+
+User: calculate 62 + 27.
+Vex: 89
+
+User: is 484 greater than 4?
+Vex: yes.
+
+User: compare 352 and 435.
+Vex: 352 is less than 435.
+
+User: what is the largest of 96 22 55?
+Vex: 96
+
+User: add 22 and 51.
+Vex: 73
+
+User: is 300 greater than 112?
+Vex: yes.
+
+User: compare 12 and 68.
+Vex: 12 is less than 68.
+
+User: compare 148 and 494.
+Vex: 148 is less than 494.
+
+User: is 362 less than 72?
+Vex: no.
+
+User: compare 203 and 486.
+Vex: 203 is less than 486.
+
+User: what is the smallest of 97 148 150?
+Vex: 97
+
+User: is 384 less than 332?
+Vex: no.
+
+User: is 211 less than 60?
+Vex: no.
+
+User: is 464 greater than 339?
+Vex: yes.
+
+User: what comes next: 1 -7 -15 -23 -31 ?
+Vex: -39
+
+User: is 112 less than 221?
+Vex: yes.
+
+User: is 8 less than 499?
+Vex: yes.
+
+User: compare 138 and 396.
+Vex: 138 is less than 396.
+
+User: what is 25 times 20?
+Vex: 500
+
+User: is 138 greater than 41?
+Vex: yes.
+
+User: is 419 less than 387?
+Vex: no.
+
+User: compare 490 and 354.
+Vex: 490 is greater than 354.
+
+User: calculate 76 - 39.
+Vex: 37
+
+User: what is the smallest of 40 200 31?
+Vex: 31
+
+User: what is the smallest of 165 197 62?
+Vex: 62
+
+User: what is the largest of 64 27 50?
+Vex: 64
+
+User: what comes next: 80 81 82 83 84 ?
+Vex: 85
+
+User: is 98 less than 440?
+Vex: yes.
+
+User: compare 18 and 92.
+Vex: 18 is less than 92.
+
+User: what is the largest of 2 89 67?
+Vex: 89
+
+User: compare 23 and 373.
+Vex: 23 is less than 373.
+
+User: what is the largest of 86 61 145?
+Vex: 145
+
+User: is 369 less than 118?
+Vex: no.
+
+User: what is 7 - 46?
+Vex: -39
+
+User: is 119 less than 220?
+Vex: yes.
+
+User: what is the largest of 26 23 41?
+Vex: 41
+
+User: what is 61 plus 0?
+Vex: 61
+
+User: is 44 greater than 468?
+Vex: no.
+
+User: what is the smallest of 72 84 82?
+Vex: 72
+
+User: what is the largest of 58 157 33?
+Vex: 157
+
+User: is 129 less than 263?
+Vex: yes.
+
+User: what comes next: -39 -36 -33 -30 -27 ?
+Vex: -24
+
+User: is 275 greater than 53?
+Vex: yes.
+
+User: what is 2 minus 27?
+Vex: -25
+
+User: what is the smallest of 96 104 83?
+Vex: 83
+
+User: is 347 greater than 46?
+Vex: yes.
+
+User: what comes next: 11 8 5 2 -1 ?
+Vex: -4
+
+User: what is the smallest of 13 67 172?
+Vex: 13
+
+User: compare 51 and 384.
+Vex: 51 is less than 384.
+
+User: what is the largest of 73 58 196?
+Vex: 196
+
+User: calculate 54 + 61.
+Vex: 115
+
+User: what is the largest of 129 104 127?
+Vex: 129
+
+User: what comes next: 54 55 56 57 58 ?
+Vex: 59
+
+User: is 414 less than 378?
+Vex: no.
+
+User: is 435 less than 432?
+Vex: no.
+
+User: compare 482 and 172.
+Vex: 482 is greater than 172.
+
+User: what is the largest of 127 64 85?
+Vex: 127
+
+The dog moved in the garden during the morning.
+
+User: what is the smallest of 25 62 68?
+Vex: 25
+
+User: is 306 greater than 112?
+Vex: yes.
+
+User: calculate 13 * 25.
+Vex: 325
+
+User: compare 269 and 343.
+Vex: 269 is less than 343.
+
+User: compare 403 and 359.
+Vex: 403 is greater than 359.
+
+User: compare 152 and 343.
+Vex: 152 is less than 343.
+
+User: what is the largest of 172 43 144?
+Vex: 172
+
+User: compare 58 and 433.
+Vex: 58 is less than 433.
+
+User: what is 72 minus 13?
+Vex: 59
+
+User: compare 165 and 372.
+Vex: 165 is less than 372.
+
+User: compare 291 and 140.
+Vex: 291 is greater than 140.
+
+User: calculate 74 + 20.
+Vex: 94
+
+User: is 395 greater than 192?
+Vex: yes.
+
+User: what is the smallest of 195 195 74?
+Vex: 74
+
+User: is 292 greater than 28?
+Vex: yes.
+
+User: add 2 and 67.
+Vex: 69
+
+User: calculate 28 + 98.
+Vex: 126
+
+The student worked in the garden during the morning.
+
+User: what is 6 divided by 3?
+Vex: 2
+
+User: is 226 greater than 241?
+Vex: no.
+
+User: what is the largest of 41 75 172?
+Vex: 172
+
+User: compare 370 and 335.
+Vex: 370 is greater than 335.
+
+User: compare 65 and 174.
+Vex: 65 is less than 174.
+
+User: what is the smallest of 184 63 18?
+Vex: 18
+
+User: compare 11 and 140.
+Vex: 11 is less than 140.
+
+User: what is the smallest of 181 105 16?
+Vex: 16
+
+User: what comes next: 75 71 67 63 59 ?
+Vex: 55
+
+User: calculate 89 + 44.
+Vex: 133
+
+User: is 13 less than 53?
+Vex: yes.
+
+User: what is the largest of 119 124 175?
+Vex: 175
+
+User: what is 32 - 39?
+Vex: -7
+
+User: is 201 less than 209?
+Vex: yes.
+
+User: what is the largest of 99 60 98?
+Vex: 99
+
+User: calculate 15 * 23.
+Vex: 345
+
+User: is 453 greater than 378?
+Vex: yes.
+
+User: what is the largest of 158 45 133?
+Vex: 158
+
+User: what is 9 multiplied by 13?
+Vex: 117
+
+User: is 54 less than 146?
+Vex: yes.
+
+User: compare 184 and 118.
+Vex: 184 is greater than 118.
+
+User: what comes next: 44 38 32 26 20 ?
+Vex: 14
+
+User: what is 15 times 10?
+Vex: 150
+
+User: multiply 15 and 6.
+Vex: 90
+
+User: is 497 greater than 93?
+Vex: yes.
+
+User: what is the smallest of 8 75 26?
+Vex: 8
+
+User: is 62 less than 113?
+Vex: yes.
+
+User: is 395 greater than 77?
+Vex: yes.
+
+User: what is 2 times 13?
+Vex: 26
+
+User: what is the smallest of 17 85 133?
+Vex: 17
+
+User: calculate 58 - 6.
+Vex: 52
+
+User: is 229 less than 458?
+Vex: yes.
+
+User: what is 19 - 40?
+Vex: -21
+
+User: is 486 less than 128?
+Vex: no.
+
+The scientist worked inside the room before lunch.
+
+User: is 52 less than 428?
+Vex: yes.
+
+User: is 413 less than 23?
+Vex: no.
+
+User: what is the smallest of 187 14 32?
+Vex: 14
+
+User: is 321 less than 418?
+Vex: yes.
+
+User: is 84 greater than 320?
+Vex: no.
+
+User: compare 46 and 403.
+Vex: 46 is less than 403.
+
+User: compare 491 and 170.
+Vex: 491 is greater than 170.
+
+User: is 447 greater than 442?
+Vex: yes.
+
+User: compare 425 and 21.
+Vex: 425 is greater than 21.
+
+User: is 249 greater than 316?
+Vex: no.
+
+User: is 50 less than 46?
+Vex: no.
+
+User: compare 141 and 407.
+Vex: 141 is less than 407.
+
+User: what comes next: 63 61 59 57 55 ?
+Vex: 53
+
+User: is 249 greater than 193?
+Vex: yes.
+
+User: what is 97 - 59?
+Vex: 38
+
+User: compare 230 and 188.
+Vex: 230 is greater than 188.
+
+User: what is the largest of 70 153 117?
+Vex: 153
+
+User: add 53 and 76.
+Vex: 129
+
+User: what is 93 + 80?
+Vex: 173
+
+User: is 399 greater than 452?
+Vex: no.
+
+User: is 115 less than 124?
+Vex: yes.
+
+User: is 460 less than 165?
+Vex: no.
+
+User: what is the smallest of 117 166 164?
+Vex: 117
+
+User: multiply 10 and 2.
+Vex: 20
+
+User: what is 88 plus 31?
+Vex: 119
+
+User: is 69 odd?
+Vex: yes.
+
+User: what is the largest of 163 21 132?
+Vex: 163
+
+User: what is 29 + 66?
+Vex: 95
+
+User: calculate 51 - 22.
+Vex: 29
+
+User: is 303 greater than 216?
+Vex: yes.
+
+User: is 42 less than 315?
+Vex: yes.
+
+User: add 0 and 69.
+Vex: 69
+
+User: is 205 less than 45?
+Vex: no.
+
+User: what is 0 times 16?
+Vex: 0
+
+User: is 148 less than 494?
+Vex: yes.
+
+User: compare 257 and 231.
+Vex: 257 is greater than 231.
+
+User: what is the largest of 17 2 118?
+Vex: 118
+
+User: is 439 less than 238?
+Vex: no.
+
+User: is 136 less than 248?
+Vex: yes.
+
+The computer walked inside the room before lunch.
+
+User: is 127 less than 416?
+Vex: yes.
+
+User: what is the smallest of 75 153 120?
+Vex: 75
+
+User: what is 76 plus 97?
+Vex: 173
+
+User: what is the largest of 139 43 33?
+Vex: 139
+
+User: compare 261 and 483.
+Vex: 261 is less than 483.
+
+User: what is the smallest of 121 80 90?
+Vex: 80
+
+User: what is 10 times 5?
+Vex: 50
+
+User: compare 328 and 308.
+Vex: 328 is greater than 308.
+
+User: what is the smallest of 36 113 2?
+Vex: 2
+
+User: what is the largest of 162 114 30?
+Vex: 162
+
+User: what is the largest of 118 114 4?
+Vex: 118
+
+User: what is the smallest of 190 175 174?
+Vex: 174
+
+User: is 312 greater than 354?
+Vex: no.
+
+User: compare 148 and 304.
+Vex: 148 is less than 304.
+
+User: compare 420 and 45.
+Vex: 420 is greater than 45.
+
+User: what is 24 minus 83?
+Vex: -59
+
+User: is 410 less than 308?
+Vex: no.
+
+User: is 357 less than 194?
+Vex: no.
+
+The student looked inside the room while everything was quiet.
+
+User: is 299 greater than 356?
+Vex: no.
+
+User: what is the largest of 67 91 187?
+Vex: 187
+
+User: compare 196 and 152.
+Vex: 196 is greater than 152.
+
+User: compare 394 and 67.
+Vex: 394 is greater than 67.
+
+User: is 57 greater than 431?
+Vex: no.
+
+User: what is the smallest of 3 168 47?
+Vex: 3
+
+User: what comes next: 71 65 59 53 47 ?
+Vex: 41
+
+User: is 148 greater than 304?
+Vex: no.
+
+User: is 71 greater than 72?
+Vex: no.
+
+User: what is the largest of 15 127 15?
+Vex: 127
+
+User: compare 455 and 313.
+Vex: 455 is greater than 313.
+
+User: what is the largest of 40 171 37?
+Vex: 171
+
+The student learned near the window for a short time.
+
+User: what is the smallest of 85 173 60?
+Vex: 60
+
+User: what is the smallest of 190 85 81?
+Vex: 81
+
+User: is 498 greater than 481?
+Vex: yes.
+
+User: compare 1 and 66.
+Vex: 1 is less than 66.
+
+User: what is the largest of 42 75 131?
+Vex: 131
+
+User: is 469 less than 276?
+Vex: no.
+
+User: is 357 greater than 447?
+Vex: no.
+
+User: is 64 odd?
+Vex: no.
+
+User: is 472 less than 369?
+Vex: no.
+
+User: what comes next: -25 -24 -23 -22 -21 ?
+Vex: -20
+
+User: what is the smallest of 69 144 190?
+Vex: 69
+
+User: is 16 less than 488?
+Vex: yes.
+
+User: is 474 greater than 399?
+Vex: yes.
+
+User: what comes next: -47 -53 -59 -65 -71 ?
+Vex: -77
+
+User: compare 183 and 106.
+Vex: 183 is greater than 106.
+
+User: is 149 greater than 475?
+Vex: no.
+
+User: is 390 greater than 409?
+Vex: no.
+
+User: what is the largest of 145 116 71?
+Vex: 145
+
+User: is 54 greater than 201?
+Vex: no.
+
+User: what is 4 minus 41?
+Vex: -37
+
+User: what is the smallest of 35 126 184?
+Vex: 35
+
+User: is 240 greater than 485?
+Vex: no.
+
+User: is 90 greater than 48?
+Vex: yes.
+
+User: do you run locally?
+Vex: i run locally on your computer.
+
+User: compare 233 and 5.
+Vex: 233 is greater than 5.
+
+User: what is 15 times 12?
+Vex: 180
+
+User: is 155 less than 411?
+Vex: yes.
+
+User: calculate 45 - 94.
+Vex: -49
+
+User: compare 110 and 212.
+Vex: 110 is less than 212.
+
+User: is 274 less than 435?
+Vex: yes.
+
+User: is 486 greater than 463?
+Vex: yes.
+
+User: is 47 greater than 398?
+Vex: no.
+
+User: what is the largest of 100 104 143?
+Vex: 143
+
+User: what is the largest of 95 176 46?
+Vex: 176
+
+User: is 6 greater than 55?
+Vex: no.
+
+User: is 51 less than 453?
+Vex: yes.
+
+User: is 88 less than 494?
+Vex: yes.
+
+User: is 75 less than 36?
+Vex: no.
+
+User: is 424 less than 259?
+Vex: no.
+
+User: what is the smallest of 193 178 194?
+Vex: 178
+
+User: is 480 greater than 208?
+Vex: yes.
+
+User: is 41 greater than 485?
+Vex: no.
+
+User: what is the smallest of 112 160 145?
+Vex: 112
+
+User: what is the largest of 153 2 8?
+Vex: 153
+
+User: is 399 less than 182?
+Vex: no.
+
+User: compare 10 and 61.
+Vex: 10 is less than 61.
+
+User: compare 235 and 230.
+Vex: 235 is greater than 230.
+
+User: compare 425 and 388.
+Vex: 425 is greater than 388.
+
+User: what comes next: 23 19 15 11 7 ?
+Vex: 3
+
+User: is 470 less than 180?
+Vex: no.
+
+User: is 14 greater than 454?
+Vex: no.
+
+User: compare 48 and 336.
+Vex: 48 is less than 336.
+
+User: compare 172 and 270.
+Vex: 172 is less than 270.
+
+User: what is 9 plus 94?
+Vex: 103
+
+User: is 196 less than 169?
+Vex: no.
+
+User: calculate 9 * 20.
+Vex: 180
+
+User: what is the smallest of 46 35 97?
+Vex: 35
+
+User: compare 91 and 348.
+Vex: 91 is less than 348.
+
+User: what comes next: 99 104 109 114 119 ?
+Vex: 124
+
+User: add 89 and 29.
+Vex: 118
+
+User: is 394 greater than 443?
+Vex: no.
+
+User: compare 173 and 291.
+Vex: 173 is less than 291.
+
+User: is 223 less than 421?
+Vex: yes.
+
+User: what is the smallest of 192 121 135?
+Vex: 121
+
+User: what is 14 + 17?
+Vex: 31
+
+User: is 265 greater than 343?
+Vex: no.
+
+User: compare 160 and 335.
+Vex: 160 is less than 335.
+
+User: is 377 less than 240?
+Vex: no.
+
+User: is 59 less than 199?
+Vex: yes.
+
+User: what is the smallest of 131 9 91?
+Vex: 9
+
+User: is 455 greater than 420?
+Vex: yes.
+
+User: is 327 less than 117?
+Vex: no.
+
+User: is 145 greater than 140?
+Vex: yes.
+
+User: is 135 less than 242?
+Vex: yes.
+
+User: compare 355 and 97.
+Vex: 355 is greater than 97.
+
+User: what is the smallest of 133 194 166?
+Vex: 133
+
+User: what is the smallest of 137 123 18?
+Vex: 18
+
+User: is 429 greater than 74?
+Vex: yes.
+
+User: is 332 greater than 273?
+Vex: yes.
+
+User: is 454 greater than 220?
+Vex: yes.
+
+User: calculate 23 + 71.
+Vex: 94
+
+User: add 50 and 36.
+Vex: 86
+
+User: subtract 30 from 33.
+Vex: 3
+
+User: what is 360 divided by 18?
+Vex: 20
+
+User: is 475 less than 144?
+Vex: no.
+
+The small model watched outside and then stopped.
+
+User: is 78 greater than 61?
+Vex: yes.
+
+User: what is the largest of 102 146 58?
+Vex: 146
+
+User: is 122 less than 198?
+Vex: yes.
+
+User: is 253 less than 344?
+Vex: yes.
+
+User: compare 305 and 295.
+Vex: 305 is greater than 295.
+
+User: is 33 even or odd?
+Vex: 33 is odd.
+
+User: what is the smallest of 142 103 168?
+Vex: 103
+
+User: what is the smallest of 134 42 33?
+Vex: 33
+
+User: is 110 greater than 263?
+Vex: no.
+
+User: is 58 greater than 390?
+Vex: no.
+
+User: what is the largest of 113 170 31?
+Vex: 170
+
+User: what comes next: 42 48 54 60 66 ?
+Vex: 72
+
+User: what is 22 multiplied by 0?
+Vex: 0
+
+User: compare 167 and 328.
+Vex: 167 is less than 328.
+
+User: what is the largest of 176 194 157?
+Vex: 194
+
+User: what is 65 minus 21?
+Vex: 44
+
+User: add 71 and 30.
+Vex: 101
+
+User: compare 412 and 464.
+Vex: 412 is less than 464.
+
+User: is 250 less than 63?
+Vex: no.
+
+User: compare 220 and 320.
+Vex: 220 is less than 320.
+
+User: is 96 greater than 321?
+Vex: no.
+
+User: what is the smallest of 146 169 180?
+Vex: 146
+
+User: is 342 greater than 288?
+Vex: yes.
+
+User: what is 0 times 25?
+Vex: 0
+
+User: what comes next: 10 9 8 7 6 ?
+Vex: 5
+
+User: is 148 less than 82?
+Vex: no.
+
+User: compare 460 and 416.
+Vex: 460 is greater than 416.
+
+User: is 156 less than 8?
+Vex: no.
+
+User: is 67 greater than 55?
+Vex: yes.
+
+User: what is the smallest of 174 17 131?
+Vex: 17
+
+User: is 70 greater than 119?
+Vex: no.
+
+User: is 235 less than 217?
+Vex: no.
+
+User: what is the smallest of 113 59 199?
+Vex: 59
+
+The scientist walked outside for a short time.
+
+User: is 24 greater than 368?
+Vex: no.
+
+User: what is 49 plus 53?
+Vex: 102
+
+User: what is 23 multiplied by 13?
+Vex: 299
+
+User: compare 397 and 438.
+Vex: 397 is less than 438.
+
+User: is 108 less than 109?
+Vex: yes.
+
+User: calculate 10 * 4.
+Vex: 40
+
+User: what is the largest of 126 143 19?
+Vex: 143
+
+User: what is 93 minus 31?
+Vex: 62
+
+User: what is 48 minus 21?
+Vex: 27
+
+User: what is the smallest of 111 55 50?
+Vex: 50
+
+User: add 5 and 71.
+Vex: 76
+
+User: is 492 less than 472?
+Vex: no.
+
+User: compare 360 and 484.
+Vex: 360 is less than 484.
+
+User: what is 64 - 36?
+Vex: 28
+
+User: compare 6 and 365.
+Vex: 6 is less than 365.
+
+User: compare 318 and 480.
+Vex: 318 is less than 480.
+
+User: what is the smallest of 97 194 170?
+Vex: 97
+
+User: compare 267 and 281.
+Vex: 267 is less than 281.
+
+User: what is the smallest of 113 68 44?
+Vex: 44
+
+User: is 149 greater than 165?
+Vex: no.
+
+User: is 100 greater than 369?
+Vex: no.
+
+User: compare 392 and 114.
+Vex: 392 is greater than 114.
+
+User: what is the largest of 34 36 188?
+Vex: 188
+
+User: compare 211 and 265.
+Vex: 211 is less than 265.
+
+User: is 229 greater than 293?
+Vex: no.
+
+User: is 65 less than 96?
+Vex: yes.
+
+User: calculate 24 - 77.
+Vex: -53
+
+User: is 454 greater than 90?
+Vex: yes.
+
+User: is 68 greater than 201?
+Vex: no.
+
+User: what is 51 plus 96?
+Vex: 147
+
+User: is 251 less than 159?
+Vex: no.
+
+User: what is the smallest of 71 198 49?
+Vex: 49
+
+User: is 333 less than 8?
+Vex: no.
+
+User: is 328 less than 337?
+Vex: yes.
+
+User: is 255 less than 176?
+Vex: no.
+
+User: is 487 less than 151?
+Vex: no.
+
+User: is 58 greater than 418?
+Vex: no.
+
+User: what is 80 - 28?
+Vex: 52
+
+User: is 376 less than 104?
+Vex: no.
+
+User: what comes next: 19 25 31 37 43 ?
+Vex: 49
+
+User: compare 403 and 19.
+Vex: 403 is greater than 19.
+
+User: is 115 greater than 44?
+Vex: yes.
+
+User: compare 140 and 361.
+Vex: 140 is less than 361.
+
+User: what is the largest of 176 170 92?
+Vex: 176
+
+User: what is 57 minus 9?
+Vex: 48
+
+User: what is 48 - 35?
+Vex: 13
+
+User: what is the smallest of 182 181 170?
+Vex: 170
+
+User: what is 6 plus 61?
+Vex: 67
+
+The computer moved outside while everything was quiet.
+
+User: is 313 less than 403?
+Vex: yes.
+
+User: is 5 less than 438?
+Vex: yes.
+
+User: is 296 less than 384?
+Vex: yes.
+
+User: what is the largest of 58 22 58?
+Vex: 58
+
+User: is 290 less than 417?
+Vex: yes.
+
+User: add 99 and 87.
+Vex: 186
+
+User: what is the smallest of 109 49 143?
+Vex: 49
+
+User: what is the largest of 35 69 128?
+Vex: 128
+
+User: is 499 greater than 38?
+Vex: yes.
+
+User: is 452 greater than 184?
+Vex: yes.
+
+User: calculate 5 - 55.
+Vex: -50
+
+User: is 497 greater than 307?
+Vex: yes.
+
+User: is 102 less than 288?
+Vex: yes.
+
+User: compare 107 and 119.
+Vex: 107 is less than 119.
+
+User: what is the smallest of 144 184 101?
+Vex: 101
+
+User: compare 387 and 154.
+Vex: 387 is greater than 154.
+
+User: what is the smallest of 124 116 58?
+Vex: 58
+
+The programmer learned near the window before lunch.
+
+User: compare 192 and 107.
+Vex: 192 is greater than 107.
+
+User: what is the smallest of 116 49 82?
+Vex: 49
+
+User: compare 252 and 204.
+Vex: 252 is greater than 204.
+
+User: is 19 greater than 329?
+Vex: no.
+
+User: is 238 less than 356?
+Vex: yes.
+
+User: multiply 18 and 4.
+Vex: 72
+
+User: what is 5 times 3?
+Vex: 15
+
+User: compare 180 and 383.
+Vex: 180 is less than 383.
+
+User: is 318 less than 174?
+Vex: no.
+
+User: what is the largest of 172 167 40?
+Vex: 172
+
+User: calculate 22 - 62.
+Vex: -40
+
+User: is 473 greater than 207?
+Vex: yes.
+
+User: is 5 greater than 10?
+Vex: no.
+
+User: what is 71 - 64?
+Vex: 7
+
+User: is 6 greater than 313?
+Vex: no.
+
+User: what is the smallest of 15 186 53?
+Vex: 15
+
+User: compare 450 and 494.
+Vex: 450 is less than 494.
+
+User: what is 73 plus 50?
+Vex: 123
+
+User: is 212 greater than 449?
+Vex: no.
+
+User: is 202 greater than 143?
+Vex: yes.
+
+User: what is the largest of 1 188 54?
+Vex: 188
+
+User: compare 77 and 357.
+Vex: 77 is less than 357.
+
+User: what is the smallest of 177 46 57?
+Vex: 46
+
+User: is 62 greater than 203?
+Vex: no.
+
+User: what comes next: 71 69 67 65 63 ?
+Vex: 61
+
+User: is 302 greater than 429?
+Vex: no.
+
+User: is 448 greater than 410?
+Vex: yes.
+
+User: compare 57 and 4.
+Vex: 57 is greater than 4.
+
+User: compare 129 and 415.
+Vex: 129 is less than 415.
+
+The programmer waited in the garden for a short time.
+
+User: what is 39 - 47?
+Vex: -8
+
+User: calculate 40 - 19.
+Vex: 21
+
+User: compare 83 and 2.
+Vex: 83 is greater than 2.
+
+User: what is the largest of 74 196 137?
+Vex: 196
+
+User: is 167 greater than 470?
+Vex: no.
+
+User: add 18 and 79.
+Vex: 97
+
+User: compare 63 and 90.
+Vex: 63 is less than 90.
+
+User: compare 266 and 11.
+Vex: 266 is greater than 11.
+
+User: is 444 greater than 74?
+Vex: yes.
+
+User: is 426 less than 162?
+Vex: no.
+
+User: what is 21 multiplied by 3?
+Vex: 63
+
+User: what is 47 minus 49?
+Vex: -2
+
+User: what is the smallest of 169 179 6?
+Vex: 6
+
+User: is 278 less than 158?
+Vex: no.
+
+User: compare 333 and 8.
+Vex: 333 is greater than 8.
+
+User: compare 190 and 151.
+Vex: 190 is greater than 151.
+
+User: calculate 52 + 35.
+Vex: 87
+
+User: what is the largest of 146 199 61?
+Vex: 199
+
+User: is 1 greater than 457?
+Vex: no.
+
+User: what is 22 plus 87?
+Vex: 109
+
+User: is 316 less than 245?
+Vex: no.
+
+User: is 85 greater than 198?
+Vex: no.
+
+User: compare 158 and 409.
+Vex: 158 is less than 409.
+
+User: is 499 less than 454?
+Vex: no.
+
+User: what is the smallest of 166 133 41?
+Vex: 41
+
+User: is 68 greater than 407?
+Vex: no.
+
+User: compare 111 and 197.
+Vex: 111 is less than 197.
+
+User: what is the largest of 83 101 16?
+Vex: 101
+
+User: what comes next: -7 1 9 17 25 ?
+Vex: 33
+
+User: what comes next: -19 -23 -27 -31 -35 ?
+Vex: -39
+
+User: is 394 greater than 16?
+Vex: yes.
+
+User: is 191 greater than 422?
+Vex: no.
+
+User: compare 247 and 464.
+Vex: 247 is less than 464.
+
+User: compare 19 and 179.
+Vex: 19 is less than 179.
+
+User: what is the smallest of 158 90 134?
+Vex: 90
+
+The bird moved near the window before lunch.
+
+User: is 147 odd?
+Vex: yes.
+
+User: subtract 19 from 25.
+Vex: 6
+
+User: subtract 20 from 84.
+Vex: 64
+
+User: compare 377 and 412.
+Vex: 377 is less than 412.
+
+User: what is 224 divided by 14?
+Vex: 16
+
+User: is 432 greater than 232?
+Vex: yes.
+
+User: is 66 greater than 147?
+Vex: no.
+
+User: is 363 less than 484?
+Vex: yes.
+
+User: what is the largest of 163 142 159?
+Vex: 163
+
+User: compare 253 and 432.
+Vex: 253 is less than 432.
+
+User: what is the smallest of 163 168 133?
+Vex: 133
+
+User: what is the smallest of 129 177 41?
+Vex: 41
+
+User: what is the largest of 114 25 121?
+Vex: 121
+
+User: is 268 greater than 106?
+Vex: yes.
+
+User: calculate 16 - 54.
+Vex: -38
+
+User: what comes next: 26 36 46 56 66 ?
+Vex: 76
+
+User: what is 28 divided by 14?
+Vex: 2
+
+User: compare 371 and 446.
+Vex: 371 is less than 446.
+
+User: compare 265 and 50.
+Vex: 265 is greater than 50.
+
+User: is 340 greater than 212?
+Vex: yes.
+
+User: is 350 greater than 261?
+Vex: yes.
+
+User: compare 140 and 451.
+Vex: 140 is less than 451.
+
+User: what is the smallest of 171 18 196?
+Vex: 18
+
+User: is 3 greater than 235?
+Vex: no.
+
+User: is 99 less than 459?
+Vex: yes.
+
+User: compare 139 and 172.
+Vex: 139 is less than 172.
+
+User: what is 19 times 9?
+Vex: 171
+
+User: what is the largest of 35 95 193?
+Vex: 193
+
+User: is 472 greater than 491?
+Vex: no.
+
+User: is 308 less than 414?
+Vex: yes.
+
+User: is 317 less than 230?
+Vex: no.
+
+User: compare 162 and 490.
+Vex: 162 is less than 490.
+
+User: what is 74 + 34?
+Vex: 108
+
+User: is 214 greater than 222?
+Vex: no.
+
+User: calculate 86 - 66.
+Vex: 20
+
+User: what is the smallest of 37 70 38?
+Vex: 37
+
+User: what comes next: 54 56 58 60 62 ?
+Vex: 64
+
+User: compare 149 and 469.
+Vex: 149 is less than 469.
+
+User: what is the largest of 1 22 88?
+Vex: 88
+
+User: is 467 less than 376?
+Vex: no.
+
+User: is 422 less than 167?
+Vex: no.
+
+User: is 449 less than 265?
+Vex: no.
+
+User: is 479 greater than 155?
+Vex: yes.
+
+User: what is 3 divided by 1?
+Vex: 3
+
+User: compare 162 and 73.
+Vex: 162 is greater than 73.
+
+User: is 201 greater than 445?
+Vex: no.
+
+User: compare 424 and 221.
+Vex: 424 is greater than 221.
+
+User: what is 23 times 8?
+Vex: 184
+
+User: is 138 less than 239?
+Vex: yes.
+
+User: compare 337 and 0.
+Vex: 337 is greater than 0.
+
+User: is 469 greater than 139?
+Vex: yes.
+
+User: is 158 greater than 409?
+Vex: no.
+
+User: what is the largest of 64 41 41?
+Vex: 64
+
+User: is 355 greater than 477?
+Vex: no.
+
+User: is 83 less than 152?
+Vex: yes.
+
+User: what is the smallest of 144 21 74?
+Vex: 21
+
+User: is 74 greater than 99?
+Vex: no.
+
+User: is 213 greater than 107?
+Vex: yes.
+
+User: is 411 less than 471?
+Vex: yes.
+
+User: calculate 65 + 17.
+Vex: 82
+
+User: what is the largest of 33 53 75?
+Vex: 75
+
+User: compare 238 and 116.
+Vex: 238 is greater than 116.
+
+User: is 403 less than 374?
+Vex: no.
+
+User: compare 242 and 21.
+Vex: 242 is greater than 21.
+
+User: is 183 less than 21?
+Vex: no.
+
+User: what is 25 multiplied by 9?
+Vex: 225
+
+User: is 200 greater than 228?
+Vex: no.
+
+User: is 128 greater than 480?
+Vex: no.
+
+User: is 481 less than 283?
+Vex: no.
+
+User: compare 433 and 377.
+Vex: 433 is greater than 377.
+
+User: what is the largest of 197 160 167?
+Vex: 197
+
+User: compare 149 and 346.
+Vex: 149 is less than 346.
+
+User: compare 234 and 450.
+Vex: 234 is less than 450.
+
+User: compare 60 and 359.
+Vex: 60 is less than 359.
+
+User: what is 17 plus 42?
+Vex: 59
+
+User: what is 36 - 15?
+Vex: 21
+
+User: what is 29 - 0?
+Vex: 29
+
+User: is 77 greater than 243?
+Vex: no.
+
+User: is 164 greater than 313?
+Vex: no.
+
+User: what is the smallest of 162 173 124?
+Vex: 124
+
+User: calculate 38 - 35.
+Vex: 3
+
+User: what is the largest of 183 177 39?
+Vex: 183
+
+User: subtract 66 from 75.
+Vex: 9
+
+User: compare 125 and 191.
+Vex: 125 is less than 191.
+
+User: calculate 31 + 97.
+Vex: 128
+
+User: what is 23 times 22?
+Vex: 506
+
+User: what is the smallest of 100 49 12?
+Vex: 12
+
+User: what is the smallest of 83 145 48?
+Vex: 48
+
+User: is 119 greater than 421?
+Vex: no.
+
+User: is 35 less than 484?
+Vex: yes.
+
+The student watched outside for a short time.
+
+User: compare 237 and 247.
+Vex: 237 is less than 247.
+
+User: is 225 less than 52?
+Vex: no.
+
+User: is 482 less than 187?
+Vex: no.
+
+User: what is the smallest of 52 11 109?
+Vex: 11
+
+User: compare 81 and 161.
+Vex: 81 is less than 161.
+
+User: what comes next: 36 40 44 48 52 ?
+Vex: 56
+
+User: is 377 less than 77?
+Vex: no.
+
+User: what is the smallest of 135 30 158?
+Vex: 30
+
+User: is 213 less than 174?
+Vex: no.
+
+User: is 266 greater than 325?
+Vex: no.
+
+User: is 61 less than 116?
+Vex: yes.
+
+User: what is 16 multiplied by 10?
+Vex: 160
+
+User: compare 430 and 424.
+Vex: 430 is greater than 424.
+
+User: what is the largest of 166 192 189?
+Vex: 192
+
+User: compare 167 and 441.
+Vex: 167 is less than 441.
+
+User: is 57 greater than 212?
+Vex: no.
+
+User: calculate 86 + 66.
+Vex: 152
+
+User: is 4 less than 442?
+Vex: yes.
+
+User: what is the largest of 76 61 189?
+Vex: 189
+
+User: is 120 greater than 393?
+Vex: no.
+
+User: compare 45 and 497.
+Vex: 45 is less than 497.
+
+User: what is 34 + 47?
+Vex: 81
+
+User: is 163 less than 129?
+Vex: no.
+
+User: what is the smallest of 79 76 162?
+Vex: 76
+
+User: is 405 less than 424?
+Vex: yes.
+
+User: what is the largest of 181 84 178?
+Vex: 181
+
+User: what is 89 - 13?
+Vex: 76
+
+User: calculate 144 / 18.
+Vex: 8
+
+User: is 312 greater than 318?
+Vex: no.
+
+User: what is 0 multiplied by 4?
+Vex: 0
+
+User: is 342 less than 251?
+Vex: no.
+
+User: what is the smallest of 88 125 105?
+Vex: 88
+
+User: what is the largest of 121 60 169?
+Vex: 169
+
+User: what is the smallest of 132 132 161?
+Vex: 132
+
+User: is 5 greater than 135?
+Vex: no.
+
+User: what is the smallest of 181 83 59?
+Vex: 59
+
+User: what is 2 times 14?
+Vex: 28
+
+The cat moved outside during the morning.
+
+User: is 163 less than 270?
+Vex: yes.
+
+User: compare 391 and 310.
+Vex: 391 is greater than 310.
+
+User: what is 17 - 9?
+Vex: 8
+
+User: what is the smallest of 12 57 131?
+Vex: 12
+
+User: is 472 greater than 333?
+Vex: yes.
+
+User: calculate 81 - 95.
+Vex: -14
+
+User: calculate 29 - 81.
+Vex: -52
+
+User: compare 347 and 62.
+Vex: 347 is greater than 62.
+
+User: is 222 less than 373?
+Vex: yes.
+
+User: is 197 even or odd?
+Vex: 197 is odd.
+
+User: what is the largest of 11 86 137?
+Vex: 137
+
+User: what is 65 minus 26?
+Vex: 39
+
+User: calculate 10 * 24.
+Vex: 240
+
+User: what is the smallest of 196 100 95?
+Vex: 95
+
+User: what is 28 minus 60?
+Vex: -32
+
+User: what is the smallest of 124 49 55?
+Vex: 49
+
+User: is 485 less than 140?
+Vex: no.
+
+User: is 333 greater than 174?
+Vex: yes.
+
+User: compare 73 and 310.
+Vex: 73 is less than 310.
+
+User: is 306 less than 153?
+Vex: no.
+
+User: what is the smallest of 110 99 61?
+Vex: 61
+
+User: what is the largest of 16 154 23?
+Vex: 154
+
+User: is 396 greater than 371?
+Vex: yes.
+
+User: compare 336 and 435.
+Vex: 336 is less than 435.
+
+User: compare 270 and 99.
+Vex: 270 is greater than 99.
+
+User: is 134 less than 267?
+Vex: yes.
+
+User: is 103 less than 491?
+Vex: yes.
+
+User: compare 242 and 212.
+Vex: 242 is greater than 212.
+
+User: is 138 greater than 386?
+Vex: no.
+
+User: what is the smallest of 137 93 107?
+Vex: 93
+
+User: calculate 69 - 49.
+Vex: 20
+
+User: is 415 greater than 199?
+Vex: yes.
+
+User: compare 229 and 440.
+Vex: 229 is less than 440.
+
+User: compare 134 and 312.
+Vex: 134 is less than 312.
+
+User: is 122 greater than 221?
+Vex: no.
+
+User: what comes next: 21 11 1 -9 -19 ?
+Vex: -29
+
+User: what is the smallest of 42 123 86?
+Vex: 42
+
+User: compare 391 and 369.
+Vex: 391 is greater than 369.
+
+User: is 226 greater than 57?
+Vex: yes.
+
+User: is 275 greater than 68?
+Vex: yes.
+
+User: is 207 greater than 446?
+Vex: no.
+
+User: is 217 greater than 64?
+Vex: yes.
+
+User: what is the largest of 130 196 85?
+Vex: 196
+
+User: is 369 less than 479?
+Vex: yes.
+
+User: is 397 greater than 97?
+Vex: yes.
+
+User: compare 32 and 29.
+Vex: 32 is greater than 29.
+
+User: is 10 less than 147?
+Vex: yes.
+
+User: what is 45 minus 53?
+Vex: -8
+
+User: what is the smallest of 157 179 48?
+Vex: 48
+
+User: what comes next: 5 13 21 29 37 ?
+Vex: 45
+
+User: what is the largest of 179 148 13?
+Vex: 179
+
+The cat rested beside the house before lunch.
+
+User: what comes next: 27 19 11 3 -5 ?
+Vex: -13
+
+User: what is 32 plus 34?
+Vex: 66
+
+User: what is the smallest of 32 182 183?
+Vex: 32
+
+User: is 31 greater than 468?
+Vex: no.
+
+The bird rested at the desk for a short time.
+
+User: what comes next: 98 92 86 80 74 ?
+Vex: 68
+
+User: what is the smallest of 3 6 2?
+Vex: 2
+
+User: compare 328 and 346.
+Vex: 328 is less than 346.
+
+User: compare 221 and 355.
+Vex: 221 is less than 355.
+
+User: what is 62 - 53?
+Vex: 9
+
+User: what is 84 plus 56?
+Vex: 140
+
+User: what is 78 + 69?
+Vex: 147
+
+User: what is 4 times 6?
+Vex: 24
+
+User: is 67 greater than 492?
+Vex: no.
+
+User: what is the smallest of 80 171 49?
+Vex: 49
+
+User: what comes next: -14 -24 -34 -44 -54 ?
+Vex: -64
+
+User: what is 61 - 85?
+Vex: -24
+
+User: what is 71 plus 76?
+Vex: 147
+
+User: what is the smallest of 56 74 63?
+Vex: 56
+
+User: what is the largest of 153 162 123?
+Vex: 162
+
+User: is 192 greater than 444?
+Vex: no.
+
+User: is 358 greater than 334?
+Vex: yes.
+
+User: is 55 less than 482?
+Vex: yes.
+
+User: what is the smallest of 6 42 145?
+Vex: 6
+
+User: what is 26 - 30?
+Vex: -4
+
+User: is 34 greater than 17?
+Vex: yes.
+
+User: is 210 greater than 253?
+Vex: no.
+
+User: what is the largest of 19 65 1?
+Vex: 65
+
+User: what is 58 + 55?
+Vex: 113
+
+User: is 70 greater than 269?
+Vex: no.
+
+User: compare 197 and 69.
+Vex: 197 is greater than 69.
+
+User: what is the smallest of 155 80 122?
+Vex: 80
+
+User: what is the smallest of 5 136 17?
+Vex: 5
+
+User: is 12 greater than 429?
+Vex: no.
+
+User: subtract 76 from 59.
+Vex: -17
+
+User: is 23 greater than 182?
+Vex: no.
+
+User: compare 349 and 498.
+Vex: 349 is less than 498.
+
+User: calculate 50 - 96.
+Vex: -46
+
+User: compare 63 and 411.
+Vex: 63 is less than 411.
+
+User: calculate 216 / 18.
+Vex: 12
+
+User: what is the smallest of 110 184 117?
+Vex: 110
+
+User: is 75 less than 303?
+Vex: yes.
+
+User: compare 268 and 477.
+Vex: 268 is less than 477.
+
+User: is 292 greater than 162?
+Vex: yes.
+
+User: what is the largest of 84 106 10?
+Vex: 106
+
+User: what is the smallest of 63 139 71?
+Vex: 63
+
+User: compare 347 and 458.
+Vex: 347 is less than 458.
+
+User: is 352 greater than 254?
+Vex: yes.
+
+User: what is the largest of 182 26 61?
+Vex: 182
+
+User: compare 407 and 166.
+Vex: 407 is greater than 166.
+
+User: what is 8 multiplied by 18?
+Vex: 144
+
+User: add 33 and 81.
+Vex: 114
+
+User: calculate 1 - 86.
+Vex: -85
+
+User: is 424 less than 221?
+Vex: no.
+
+User: add 37 and 74.
+Vex: 111
+
+User: calculate 96 + 54.
+Vex: 150
+
+User: is 169 greater than 452?
+Vex: no.
+
+User: is 346 greater than 142?
+Vex: yes.
+
+User: is 121 even?
+Vex: no.
+
+User: what is 5 multiplied by 8?
+Vex: 40
+
+User: what is 27 - 34?
+Vex: -7
+
+User: what is the largest of 97 157 126?
+Vex: 157
+
+User: subtract 4 from 69.
+Vex: 65
+
+User: compare 137 and 311.
+Vex: 137 is less than 311.
+
+User: compare 409 and 259.
+Vex: 409 is greater than 259.
+
+User: is 222 greater than 251?
+Vex: no.
+
+User: what is the largest of 195 101 55?
+Vex: 195
+
+User: what is the smallest of 23 131 135?
+Vex: 23
+
+User: compare 201 and 248.
+Vex: 201 is less than 248.
+
+User: compare 286 and 350.
+Vex: 286 is less than 350.
+
+User: multiply 25 and 18.
+Vex: 450
+
+User: what is 94 minus 84?
+Vex: 10
+
+User: what is the smallest of 142 75 19?
+Vex: 19
+
+User: compare 17 and 45.
+Vex: 17 is less than 45.
+
+User: is 252 greater than 470?
+Vex: no.
+
+User: what is 12 - 24?
+Vex: -12
+
+User: what is 78 - 7?
+Vex: 71
+
+Morgan had a box. Morgan placed the box on the floor. The box was now on the floor.
+
+User: what is the smallest of 118 162 6?
+Vex: 6
+
+User: what is 26 + 94?
+Vex: 120
+
+User: what is the largest of 181 121 134?
+Vex: 181
+
+User: compare 35 and 369.
+Vex: 35 is less than 369.
+
+User: calculate 72 / 6.
+Vex: 12
+
+User: is 357 less than 313?
+Vex: no.
+
+User: is 56 less than 38?
+Vex: no.
+
+User: is 397 less than 426?
+Vex: yes.
+
+User: compare 442 and 186.
+Vex: 442 is greater than 186.
+
+User: what is the largest of 92 164 103?
+Vex: 164
+
+User: is 145 greater than 234?
+Vex: no.
+
+User: what is the smallest of 108 141 166?
+Vex: 108
+
+User: what is the largest of 94 54 101?
+Vex: 101
+
+User: what is the largest of 190 175 174?
+Vex: 190
+
+User: what is 19 - 66?
+Vex: -47
+
+User: what is the smallest of 30 119 184?
+Vex: 30
+
+User: is 469 greater than 479?
+Vex: no.
+
+User: what is the smallest of 34 156 137?
+Vex: 34
+
+User: compare 214 and 85.
+Vex: 214 is greater than 85.
+
+User: what is the smallest of 162 197 93?
+Vex: 93
+
+User: compare 488 and 246.
+Vex: 488 is greater than 246.
+
+User: is 125 less than 352?
+Vex: yes.
+
+User: is 309 less than 263?
+Vex: no.
+
+User: subtract 16 from 79.
+Vex: 63
+
+User: what is the smallest of 79 36 69?
+Vex: 36
+
+User: what is the smallest of 146 89 188?
+Vex: 89
+
+User: compare 246 and 406.
+Vex: 246 is less than 406.
+
+User: what is the largest of 198 172 141?
+Vex: 198
+
+User: compare 133 and 415.
+Vex: 133 is less than 415.
+
+User: compare 75 and 174.
+Vex: 75 is less than 174.
+
+User: compare 266 and 179.
+Vex: 266 is greater than 179.
+
+User: compare 5 and 455.
+Vex: 5 is less than 455.
+
+User: is 107 less than 397?
+Vex: yes.
+
+User: is 455 less than 153?
+Vex: no.
+
+The scientist worked at the desk while everything was quiet.
+
+User: what is the largest of 6 5 69?
+Vex: 69
+
+User: what comes next: 59 57 55 53 51 ?
+Vex: 49
+
+User: what is the smallest of 16 156 131?
+Vex: 16
+
+User: is 293 greater than 431?
+Vex: no.
+
+User: compare 423 and 31.
+Vex: 423 is greater than 31.
+
+User: what comes next: 88 84 80 76 72 ?
+Vex: 68
+
+User: is 311 greater than 155?
+Vex: yes.
+
+User: what is 95 plus 39?
+Vex: 134
+
+User: what comes next: 27 25 23 21 19 ?
+Vex: 17
+
+User: is 68 greater than 383?
+Vex: no.
+
+User: compare 13 and 258.
+Vex: 13 is less than 258.
+
+User: compare 395 and 196.
+Vex: 395 is greater than 196.
+
+The scientist walked inside the room and then stopped.
+
+User: what comes next: -12 -15 -18 -21 -24 ?
+Vex: -27
+
+User: what is 98 - 74?
+Vex: 24
+
+User: is 364 greater than 272?
+Vex: yes.
+
+User: what is the smallest of 5 135 155?
+Vex: 5
+
+User: compare 338 and 263.
+Vex: 338 is greater than 263.
+
+User: is 483 less than 292?
+Vex: no.
+
+User: what is the smallest of 174 39 142?
+Vex: 39
+
+User: what is the largest of 198 55 71?
+Vex: 198
+
+The student worked at the desk and then stopped.
+
+User: is 116 greater than 26?
+Vex: yes.
+
+User: is 172 greater than 242?
+Vex: no.
+
+User: is 261 less than 397?
+Vex: yes.
+
+User: is 483 less than 188?
+Vex: no.
+
+User: calculate 99 - 95.
+Vex: 4
+
+User: is 495 greater than 78?
+Vex: yes.
+
+User: is 419 greater than 366?
+Vex: yes.
+
+User: what is 14 times 6?
+Vex: 84
+
+User: is 326 greater than 377?
+Vex: no.
+
+User: is 300 greater than 149?
+Vex: yes.
+
+User: is 167 less than 197?
+Vex: yes.
+
+User: what is 11 minus 27?
+Vex: -16
+
+User: compare 432 and 281.
+Vex: 432 is greater than 281.
+
+User: what is the smallest of 166 75 156?
+Vex: 75
+
+User: compare 202 and 89.
+Vex: 202 is greater than 89.
+
+User: compare 55 and 161.
+Vex: 55 is less than 161.
+
+User: add 44 and 60.
+Vex: 104
+
+User: is 181 less than 266?
+Vex: yes.
+
+User: compare 198 and 291.
+Vex: 198 is less than 291.
+
+User: what is the largest of 140 184 63?
+Vex: 184
+
+User: is 125 less than 169?
+Vex: yes.
+
+User: is 161 greater than 418?
+Vex: no.
+
+User: what is the smallest of 148 46 183?
+Vex: 46
+
+User: compare 85 and 249.
+Vex: 85 is less than 249.
+
+User: compare 467 and 442.
+Vex: 467 is greater than 442.
+
+User: what is the largest of 179 26 93?
+Vex: 179
+
+User: what is the largest of 141 181 167?
+Vex: 181
+
+User: what is the smallest of 165 177 109?
+Vex: 109
+
+User: what comes next: 32 30 28 26 24 ?
+Vex: 22
+
+User: is 445 greater than 82?
+Vex: yes.
+
+User: what is the smallest of 53 182 69?
+Vex: 53
+
+User: is 470 greater than 71?
+Vex: yes.
+
+User: calculate 43 - 71.
+Vex: -28
+
+User: calculate 53 + 75.
+Vex: 128
+
+User: compare 42 and 247.
+Vex: 42 is less than 247.
+
+User: compare 220 and 146.
+Vex: 220 is greater than 146.
+
+User: what comes next: 49 45 41 37 33 ?
+Vex: 29
+
+User: compare 108 and 109.
+Vex: 108 is less than 109.
+
+User: what is the smallest of 116 142 172?
+Vex: 116
+
+User: compare 80 and 191.
+Vex: 80 is less than 191.
+
+User: is 174 greater than 250?
+Vex: no.
+
+User: what is the largest of 76 67 141?
+Vex: 141
+
+User: calculate 99 - 68.
+Vex: 31
+
+User: compare 418 and 203.
+Vex: 418 is greater than 203.
+
+User: compare 400 and 117.
+Vex: 400 is greater than 117.
+
+User: is 361 less than 60?
+Vex: no.
+
+User: what comes next: 92 100 108 116 124 ?
+Vex: 132
+
+User: what is 99 minus 43?
+Vex: 56
+
+User: is 384 greater than 75?
+Vex: yes.
+
+User: compare 292 and 253.
+Vex: 292 is greater than 253.
+
+User: is 117 less than 441?
+Vex: yes.
+
+User: compare 406 and 464.
+Vex: 406 is less than 464.
+
+User: compare 111 and 87.
+Vex: 111 is greater than 87.
+
+User: is 447 less than 204?
+Vex: no.
+
+User: what is the smallest of 92 129 173?
+Vex: 92
+
+User: is 75 greater than 174?
+Vex: no.
+
+User: calculate 53 - 76.
+Vex: -23
+
+User: calculate 210 / 15.
+Vex: 14
+
+User: is 90 less than 322?
+Vex: yes.
+
+User: compare 289 and 14.
+Vex: 289 is greater than 14.
+
+User: what comes next: -4 -9 -14 -19 -24 ?
+Vex: -29
+
+User: what is the smallest of 168 95 113?
+Vex: 95
+
+The computer worked inside the room before lunch.
+
+User: what comes next: 40 41 42 43 44 ?
+Vex: 45
+
+User: what is the smallest of 164 80 39?
+Vex: 39
+
+User: compare 466 and 22.
+Vex: 466 is greater than 22.
+
+User: calculate 40 / 10.
+Vex: 4
+
+User: is 494 less than 293?
+Vex: no.
+
+User: is 470 less than 179?
+Vex: no.
+
+User: calculate 71 + 33.
+Vex: 104
+
+User: is 226 less than 293?
+Vex: yes.
+
+User: compare 459 and 291.
+Vex: 459 is greater than 291.
+
+User: what is the smallest of 29 48 156?
+Vex: 29
+
+User: calculate 3 * 3.
+Vex: 9
+
+User: is 309 less than 161?
+Vex: no.
+
+User: is 52 less than 365?
+Vex: yes.
+
+User: what is the largest of 120 97 57?
+Vex: 120
+
+User: is 271 greater than 130?
+Vex: yes.
+
+User: is 180 greater than 420?
+Vex: no.
+
+User: is 477 less than 155?
+Vex: no.
+
+User: what comes next: 96 101 106 111 116 ?
+Vex: 121
+
+User: is 441 less than 169?
+Vex: no.
+
+User: is 292 greater than 280?
+Vex: yes.
+
+User: is 427 less than 189?
+Vex: no.
+
+User: is 353 greater than 97?
+Vex: yes.
+
+User: is 431 greater than 63?
+Vex: yes.
+
+User: what is 60 plus 78?
+Vex: 138
+
+User: is 120 greater than 253?
+Vex: no.
+
+User: what is 6 multiplied by 13?
+Vex: 78
+
+User: compare 91 and 18.
+Vex: 91 is greater than 18.
+
+User: compare 9 and 355.
+Vex: 9 is less than 355.
+
+User: is 69 greater than 268?
+Vex: no.
+
+User: what is the largest of 105 4 143?
+Vex: 143
+
+User: what is 16 multiplied by 13?
+Vex: 208
+
+User: is 396 less than 465?
+Vex: yes.
+
+User: what is 95 + 57?
+Vex: 152
+
+User: what is 270 divided by 18?
+Vex: 15
+
+User: compare 84 and 4.
+Vex: 84 is greater than 4.
+
+User: calculate 36 + 58.
+Vex: 94
+
+User: is 477 less than 276?
+Vex: no.
+
+User: what comes next: 99 100 101 102 103 ?
+Vex: 104
+
+User: is 250 greater than 11?
+Vex: yes.
+
+User: compare 87 and 302.
+Vex: 87 is less than 302.
+
+User: is 22 greater than 405?
+Vex: no.
+
+The scientist walked inside the room for a short time.
+
+User: calculate 4 * 25.
+Vex: 100
+
+User: is 107 greater than 250?
+Vex: no.
+
+User: is 10 less than 415?
+Vex: yes.
+
+User: what is the largest of 164 73 92?
+Vex: 164
+
+User: compare 222 and 379.
+Vex: 222 is less than 379.
+
+User: what is 20 minus 97?
+Vex: -77
+
+User: compare 112 and 144.
+Vex: 112 is less than 144.
+
+User: is 92 greater than 339?
+Vex: no.
+
+User: what is 57 - 56?
+Vex: 1
+
+User: what comes next: 96 90 84 78 72 ?
+Vex: 66
+
+User: what is the smallest of 150 118 197?
+Vex: 118
+
+The dog walked inside the room for a short time.
+
+User: compare 422 and 464.
+Vex: 422 is less than 464.
+
+User: is 230 less than 383?
+Vex: yes.
+
+User: what is the largest of 0 58 49?
+Vex: 58
+
+User: compare 153 and 395.
+Vex: 153 is less than 395.
+
+User: subtract 4 from 66.
+Vex: 62
+
+User: subtract 68 from 55.
+Vex: -13
+
+User: multiply 7 and 20.
+Vex: 140
+
+User: what is the smallest of 106 183 183?
+Vex: 106
+
+User: is 99 greater than 78?
+Vex: yes.
+
+User: compare 65 and 96.
+Vex: 65 is less than 96.
+
+User: is 156 less than 369?
+Vex: yes.
+
+User: is 50 less than 40?
+Vex: no.
+
+User: compare 371 and 425.
+Vex: 371 is less than 425.
+
+User: what is the smallest of 106 164 78?
+Vex: 78
+
+User: what is 20 multiplied by 14?
+Vex: 280
+
+User: compare 296 and 133.
+Vex: 296 is greater than 133.
+
+User: is 24 less than 79?
+Vex: yes.
+
+User: compare 50 and 175.
+Vex: 50 is less than 175.
+
+User: is 349 less than 47?
+Vex: no.
+
+User: what is the smallest of 25 164 81?
+Vex: 25
+
+User: is 165 less than 200?
+Vex: yes.
+
+User: is 19 greater than 4?
+Vex: yes.
+
+User: is 124 greater than 241?
+Vex: no.
+
+User: compare 179 and 439.
+Vex: 179 is less than 439.
+
+User: is 300 greater than 283?
+Vex: yes.
+
+User: what comes next: 67 63 59 55 51 ?
+Vex: 47
+
+User: is 449 less than 387?
+Vex: no.
+
+User: what is the smallest of 90 105 112?
+Vex: 90
+
+User: what is 16 times 18?
+Vex: 288
+
+User: what is the smallest of 198 90 136?
+Vex: 90
+
+User: what comes next: -38 -30 -22 -14 -6 ?
+Vex: 2
+
+User: what is the largest of 175 175 187?
+Vex: 187
+
+User: compare 81 and 499.
+Vex: 81 is less than 499.
+
+User: what is 90 minus 88?
+Vex: 2
+
+User: compare 165 and 83.
+Vex: 165 is greater than 83.
+
+User: compare 439 and 29.
+Vex: 439 is greater than 29.
+
+User: is 294 greater than 393?
+Vex: no.
+
+User: is 294 less than 118?
+Vex: no.
+
+User: is 439 greater than 328?
+Vex: yes.
+
+User: compare 240 and 202.
+Vex: 240 is greater than 202.
+
+User: is 20 greater than 437?
+Vex: no.
+
+User: compare 483 and 483.
+Vex: 483 is equal to 483.
+
+User: what is 10 times 11?
+Vex: 110
+
+User: what is the smallest of 97 63 22?
+Vex: 22
+
+User: is 1 greater than 125?
+Vex: no.
+
+User: compare 230 and 92.
+Vex: 230 is greater than 92.
+
+User: compare 354 and 226.
+Vex: 354 is greater than 226.
+
+User: is 413 greater than 494?
+Vex: no.
+
+User: what is 21 times 15?
+Vex: 315
+
+User: is 443 less than 264?
+Vex: no.
+
+User: compare 58 and 328.
+Vex: 58 is less than 328.
+
+User: is 309 greater than 452?
+Vex: no.
+
+User: what is the largest of 47 51 53?
+Vex: 53
+
+User: is 133 less than 260?
+Vex: yes.
+
+User: compare 382 and 457.
+Vex: 382 is less than 457.
+
+User: what is the smallest of 107 149 37?
+Vex: 37
+
+User: is 104 greater than 190?
+Vex: no.
+
+User: is 3 less than 209?
+Vex: yes.
+
+User: is 372 less than 327?
+Vex: no.
+
+User: is 360 less than 235?
+Vex: no.
+
+User: what is 105 divided by 15?
+Vex: 7
+
+User: what is 79 + 28?
+Vex: 107
+
+User: is 42 greater than 482?
+Vex: no.
+
+User: is 158 less than 295?
+Vex: yes.
+
+User: calculate 93 + 96.
+Vex: 189
+
+User: is 183 greater than 106?
+Vex: yes.
+
+User: compare 274 and 114.
+Vex: 274 is greater than 114.
+
+User: what is 14 multiplied by 4?
+Vex: 56
+
+The dog learned in the garden during the morning.
+
+User: what is the largest of 125 159 57?
+Vex: 159
+
+User: what is the largest of 152 19 98?
+Vex: 152
+
+User: what is 52 - 69?
+Vex: -17
+
+The bird moved at the desk during the morning.
+
+User: is 346 less than 147?
+Vex: no.
+
+User: compare 12 and 49.
+Vex: 12 is less than 49.
+
+User: what is the largest of 142 41 69?
+Vex: 142
+
+User: calculate 45 / 9.
+Vex: 5
+
+User: compare 161 and 74.
+Vex: 161 is greater than 74.
+
+User: compare 444 and 267.
+Vex: 444 is greater than 267.
+
+User: is 31 less than 212?
+Vex: yes.
+
+User: compare 429 and 75.
+Vex: 429 is greater than 75.
+
+User: what is the smallest of 33 149 13?
+Vex: 13
+
+User: is 162 less than 35?
+Vex: no.
+
+User: subtract 48 from 38.
+Vex: -10
+
+User: is 367 less than 254?
+Vex: no.
+
+User: is 162 greater than 203?
+Vex: no.
+
+User: is 165 greater than 236?
+Vex: no.
+
+User: calculate 13 - 86.
+Vex: -73
+
+User: is 46 less than 86?
+Vex: yes.
+
+User: what is 17 multiplied by 23?
+Vex: 391
+
+User: is 157 greater than 62?
+Vex: yes.
+
+User: what is the smallest of 76 110 100?
+Vex: 76
+
+User: is 84 greater than 219?
+Vex: no.
+
+User: calculate 10 * 0.
+Vex: 0
+
+Text: Jamie put the book on the shelf.
+Question: where is the book?
+Answer: the book is on the shelf.
+
+User: what is 13 minus 19?
+Vex: -6
+
+User: compare 450 and 201.
+Vex: 450 is greater than 201.
+
+User: what is the smallest of 168 16 17?
+Vex: 16
+
+User: what is the largest of 79 103 51?
+Vex: 103
+
+User: is 478 less than 249?
+Vex: no.
+
+User: what is the largest of 56 195 146?
+Vex: 195
+
+User: what is the largest of 135 80 188?
+Vex: 188
+
+User: compare 180 and 75.
+Vex: 180 is greater than 75.
+
+User: what is 55 minus 54?
+Vex: 1
+
+User: what is the largest of 38 193 150?
+Vex: 193
+
+User: what is the largest of 151 132 11?
+Vex: 151
+
+User: compare 220 and 425.
+Vex: 220 is less than 425.
+
+User: compare 224 and 342.
+Vex: 224 is less than 342.
+
+User: what is 32 + 32?
+Vex: 64
+
+User: what is the largest of 33 166 84?
+Vex: 166
+
+User: is 58 greater than 196?
+Vex: no.
+
+User: compare 53 and 163.
+Vex: 53 is less than 163.
+
+User: what is the largest of 160 124 77?
+Vex: 160
+
+User: what is 72 + 26?
+Vex: 98
+
+User: what is 37 - 2?
+Vex: 35
+
+User: what is the largest of 99 9 103?
+Vex: 103
+
+User: is 133 greater than 460?
+Vex: no.
+
+User: subtract 59 from 64.
+Vex: 5
+
+User: what is 43 minus 79?
+Vex: -36
+
+User: what is 71 plus 15?
+Vex: 86
+
+User: what is the largest of 155 176 83?
+Vex: 176
+
+User: is 260 less than 155?
+Vex: no.
+
+User: is 293 greater than 299?
+Vex: no.
+
+User: what is 25 times 23?
+Vex: 575
+
+User: what is 4 multiplied by 18?
+Vex: 72
+
+User: what is the smallest of 149 4 12?
+Vex: 4
+
+User: what comes next: 93 90 87 84 81 ?
+Vex: 78
+
+User: is 3 greater than 437?
+Vex: no.
+
+User: is 279 greater than 87?
+Vex: yes.
+
+User: compare 396 and 329.
+Vex: 396 is greater than 329.
+
+User: compare 124 and 101.
+Vex: 124 is greater than 101.
+
+User: is 98 less than 116?
+Vex: yes.
+
+User: calculate 86 - 15.
+Vex: 71
+
+User: what is 95 + 67?
+Vex: 162
+
+User: compare 200 and 223.
+Vex: 200 is less than 223.
+
+User: is 314 greater than 136?
+Vex: yes.
+
+User: calculate 65 + 67.
+Vex: 132
+
+User: is 490 less than 468?
+Vex: no.
+
+User: what is the largest of 140 181 155?
+Vex: 181
+
+User: calculate 6 - 52.
+Vex: -46
+
+User: is 279 less than 3?
+Vex: no.
+
+User: is 153 less than 433?
+Vex: yes.
+
+User: what is the largest of 87 76 64?
+Vex: 87
+
+User: is 321 less than 18?
+Vex: no.
+
+User: what is the largest of 73 161 88?
+Vex: 161
+
+User: is 157 greater than 369?
+Vex: no.
+
+User: is 30 greater than 485?
+Vex: no.
+
+User: is 261 greater than 209?
+Vex: yes.
+
+User: what is the largest of 109 60 17?
+Vex: 109
+
+User: what is 46 plus 53?
+Vex: 99
+
+User: is 59 greater than 125?
+Vex: no.
+
+User: what is the smallest of 95 54 168?
+Vex: 54
+
+User: compare 267 and 421.
+Vex: 267 is less than 421.
+
+The programmer walked beside the house for a short time.
+
+User: what comes next: 67 57 47 37 27 ?
+Vex: 17
+
+User: compare 334 and 7.
+Vex: 334 is greater than 7.
+
+User: what is 6 minus 86?
+Vex: -80
+
+User: what is the smallest of 4 63 63?
+Vex: 4
+
+User: what is the smallest of 200 80 85?
+Vex: 80
+
+User: what is the largest of 93 44 20?
+Vex: 93
+
+The scientist looked outside before lunch.
+
+User: what is the largest of 148 7 174?
+Vex: 174
+
+User: calculate 50 - 89.
+Vex: -39
+
+User: calculate 24 + 11.
+Vex: 35
+
+User: is 446 less than 306?
+Vex: no.
+
+User: is 470 greater than 325?
+Vex: yes.
+
+User: is 208 greater than 353?
+Vex: no.
+
+User: is 55 less than 431?
+Vex: yes.
+
+User: what is the largest of 87 85 199?
+Vex: 199
+
+User: is 69 less than 268?
+Vex: yes.
+
+User: compare 489 and 35.
+Vex: 489 is greater than 35.
+
+User: is 239 greater than 116?
+Vex: yes.
+
+User: is 249 less than 217?
+Vex: no.
+
+User: is 300 less than 278?
+Vex: no.
+
+The scientist rested at the desk before lunch.
+
+User: is 399 less than 137?
+Vex: no.
+
+User: subtract 34 from 92.
+Vex: 58
+
+User: is 282 greater than 320?
+Vex: no.
+
+User: is 426 greater than 328?
+Vex: yes.
+
+User: is 360 greater than 182?
+Vex: yes.
+
+User: is 380 greater than 115?
+Vex: yes.
+
+The dog watched in the garden for a short time.
+
+User: what is 65 + 22?
+Vex: 87
+
+User: is 38 greater than 367?
+Vex: no.
+
+User: what is the largest of 119 171 25?
+Vex: 171
+
+User: what is the largest of 167 81 188?
+Vex: 188
+
+User: what is the smallest of 42 84 142?
+Vex: 42
+
+User: subtract 66 from 0.
+Vex: -66
+
+User: what is the smallest of 77 160 141?
+Vex: 77
+
+User: what is 144 divided by 16?
+Vex: 9
+
+User: what is 30 - 66?
+Vex: -36
+
+User: is 121 greater than 350?
+Vex: no.
+
+User: is 64 less than 130?
+Vex: yes.
+
+User: is 10 greater than 87?
+Vex: no.
+
+User: what is the smallest of 67 146 168?
+Vex: 67
+
+User: compare 157 and 276.
+Vex: 157 is less than 276.
+
+User: is 388 greater than 29?
+Vex: yes.
+
+User: compare 239 and 116.
+Vex: 239 is greater than 116.
+
+User: is 476 less than 205?
+Vex: no.
+
+User: is 235 greater than 2?
+Vex: yes.
+
+User: what is the largest of 77 194 138?
+Vex: 194
+
+User: is 405 less than 483?
+Vex: yes.
+
+User: is 328 greater than 337?
+Vex: no.
+
+User: compare 447 and 86.
+Vex: 447 is greater than 86.
+
+User: what is the largest of 46 54 120?
+Vex: 120
+
+User: compare 179 and 474.
+Vex: 179 is less than 474.
+
+User: what is 72 plus 28?
+Vex: 100
+
+User: is 147 less than 226?
+Vex: yes.
+
+User: what comes next: 84 90 96 102 108 ?
+Vex: 114
+
+User: what is the smallest of 18 166 126?
+Vex: 18
+
+User: what is 37 minus 89?
+Vex: -52
+
+User: is 53 greater than 439?
+Vex: no.
+
+User: is 316 less than 158?
+Vex: no.
+
+User: what is the smallest of 146 146 156?
+Vex: 146
+
+User: compare 283 and 251.
+Vex: 283 is greater than 251.
+
+User: is 366 less than 275?
+Vex: no.
+
+User: what is the smallest of 193 190 123?
+Vex: 123
+
+User: is 374 less than 437?
+Vex: yes.
+
+User: what is the largest of 169 93 126?
+Vex: 169
+
+User: is 153 greater than 215?
+Vex: no.
+
+User: compare 444 and 140.
+Vex: 444 is greater than 140.
+
+User: what comes next: 43 48 53 58 63 ?
+Vex: 68
+
+User: what comes next: 49 59 69 79 89 ?
+Vex: 99
+
+User: is 69 greater than 122?
+Vex: no.
+
+User: is 289 greater than 288?
+Vex: yes.
+
+User: is 442 greater than 255?
+Vex: yes.
+
+User: compare 225 and 273.
+Vex: 225 is less than 273.
+
+User: is 414 less than 346?
+Vex: no.
+
+User: is 460 less than 164?
+Vex: no.
+
+User: is 389 less than 110?
+Vex: no.
+
+User: calculate 44 - 45.
+Vex: -1
+
+User: compare 281 and 53.
+Vex: 281 is greater than 53.
+
+User: what is 58 - 55?
+Vex: 3
+
+User: what is 75 + 42?
+Vex: 117
+
+User: is 448 less than 415?
+Vex: no.
+
+User: is 57 greater than 261?
+Vex: no.
+
+The cat worked in the garden before lunch.
+
+User: what is the smallest of 7 83 122?
+Vex: 7
+
+User: what comes next: 14 4 -6 -16 -26 ?
+Vex: -36
+
+User: is 84 less than 483?
+Vex: yes.
+
+User: is 217 greater than 376?
+Vex: no.
+
+User: compare 291 and 118.
+Vex: 291 is greater than 118.
+
+User: what is the largest of 158 173 76?
+Vex: 173
+
+User: what is the largest of 171 150 75?
+Vex: 171
+
+User: is 24 less than 351?
+Vex: yes.
+
+User: is 307 less than 264?
+Vex: no.
+
+User: what comes next: 29 27 25 23 21 ?
+Vex: 19
+
+User: is 237 greater than 52?
+Vex: yes.
+
+User: is 267 less than 362?
+Vex: yes.
+
+User: multiply 10 and 14.
+Vex: 140
+
+User: is 30 greater than 414?
+Vex: no.
+
+User: calculate 96 + 66.
+Vex: 162
+
+User: compare 491 and 271.
+Vex: 491 is greater than 271.
+
+User: what is 22 times 6?
+Vex: 132
+
+User: is 20 greater than 13?
+Vex: yes.
+
+User: what is the largest of 83 61 189?
+Vex: 189
+
+User: is 200 greater than 424?
+Vex: no.
+
+User: what is 30 minus 37?
+Vex: -7
+
+User: what is the smallest of 179 148 13?
+Vex: 13
+
+User: what is the smallest of 7 192 55?
+Vex: 7
+
+User: compare 94 and 440.
+Vex: 94 is less than 440.
+
+The student waited inside the room during the morning.
+
+User: what is 61 - 83?
+Vex: -22
+
+User: compare 445 and 458.
+Vex: 445 is less than 458.
+
+User: is 458 less than 391?
+Vex: no.
+
+User: what is 24 divided by 6?
+Vex: 4
+
+User: is 25 greater than 206?
+Vex: no.
+
+User: what is the largest of 137 153 193?
+Vex: 193
+
+User: what is 40 minus 20?
+Vex: 20
+
+User: what is 20 multiplied by 16?
+Vex: 320
+
+User: is 81 less than 100?
+Vex: yes.
+
+User: compare 361 and 263.
+Vex: 361 is greater than 263.
+
+User: is 0 less than 124?
+Vex: yes.
+
+User: add 24 and 57.
+Vex: 81
+
+The dog watched outside while everything was quiet.
+
+User: is 243 greater than 317?
+Vex: no.
+
+User: what is the smallest of 174 142 151?
+Vex: 142
+
+User: is 449 less than 12?
+Vex: no.
+
+User: what is 81 minus 6?
+Vex: 75
+
+User: compare 493 and 382.
+Vex: 493 is greater than 382.
+
+User: what is 66 plus 1?
+Vex: 67
+
+User: what is the smallest of 85 42 164?
+Vex: 42
+
+User: is 176 less than 235?
+Vex: yes.
+
+User: is 199 less than 98?
+Vex: no.
+
+User: what is the smallest of 124 152 90?
+Vex: 90
+
+User: is 87 greater than 192?
+Vex: no.
+
+User: compare 42 and 106.
+Vex: 42 is less than 106.
+
+User: what is the smallest of 135 43 155?
+Vex: 43
+
+User: compare 83 and 77.
+Vex: 83 is greater than 77.
+
+User: what is the smallest of 164 147 1?
+Vex: 1
+
+User: hey vex
+Vex: hey!
+
+User: compare 254 and 280.
+Vex: 254 is less than 280.
+
+User: calculate 72 - 69.
+Vex: 3
+
+User: is 111 greater than 157?
+Vex: no.
+
+User: is 283 greater than 123?
+Vex: yes.
+
+The small model walked beside the house for a short time.
+
+User: compare 475 and 328.
+Vex: 475 is greater than 328.
+
+User: is 459 less than 55?
+Vex: no.
+
+User: what is 16 + 4?
+Vex: 20
+
+User: what is the smallest of 14 88 6?
+Vex: 6
+
+User: is 112 greater than 201?
+Vex: no.
+
+User: is 403 less than 117?
+Vex: no.
+
+User: is 235 greater than 217?
+Vex: yes.
+
+User: what is the smallest of 169 63 185?
+Vex: 63
+
+User: is 245 greater than 455?
+Vex: no.
+
+User: what is the largest of 113 130 12?
+Vex: 130
+
+User: is 61 greater than 499?
+Vex: no.
+
+User: multiply 9 and 9.
+Vex: 81
+
+User: is 154 less than 181?
+Vex: yes.
+
+User: is 391 greater than 400?
+Vex: no.
+
+User: is 374 less than 287?
+Vex: no.
+
+User: is 108 greater than 384?
+Vex: no.
+
+User: is 98 greater than 445?
+Vex: no.
+
+User: what is 84 divided by 14?
+Vex: 6
+
+User: calculate 44 / 4.
+Vex: 11
+
+User: is 40 greater than 472?
+Vex: no.
+
+User: is 354 less than 70?
+Vex: no.
+
+User: is 213 less than 321?
+Vex: yes.
+
+User: what is the largest of 46 76 109?
+Vex: 109
+
+User: is 397 less than 308?
+Vex: no.
+
+User: add 15 and 82.
+Vex: 97
+
+User: what is 13 times 23?
+Vex: 299
+
+User: compare 38 and 150.
+Vex: 38 is less than 150.
+
+User: what is the largest of 169 48 44?
+Vex: 169
+
+The small model learned at the desk and then stopped.
+
+User: is 444 less than 222?
+Vex: no.
+
+User: is 348 less than 270?
+Vex: no.
+
+User: what is the smallest of 65 170 124?
+Vex: 65
+
+User: is 445 greater than 61?
+Vex: yes.
+
+User: is 107 even?
+Vex: no.
+
+User: is 244 less than 94?
+Vex: no.
+
+User: what is the largest of 151 107 30?
+Vex: 151
+
+User: is 231 greater than 76?
+Vex: yes.
+
+The cat moved at the desk for a short time.
+
+User: what is the smallest of 101 50 170?
+Vex: 50
+
+User: compare 112 and 353.
+Vex: 112 is less than 353.
+
+User: subtract 12 from 19.
+Vex: 7
+
+User: what comes next: -4 4 12 20 28 ?
+Vex: 36
+
+User: calculate 29 + 89.
+Vex: 118
+
+User: what is the largest of 29 144 186?
+Vex: 186
+
+User: compare 227 and 449.
+Vex: 227 is less than 449.
+
+User: what is 0 divided by 1?
+Vex: 0
+
+User: is 457 less than 193?
+Vex: no.
+
+User: is 268 greater than 465?
+Vex: no.
+
+User: compare 411 and 318.
+Vex: 411 is greater than 318.
+
+User: compare 126 and 303.
+Vex: 126 is less than 303.
+
+User: is 442 less than 378?
+Vex: no.
+
+User: what is the largest of 15 137 39?
+Vex: 137
+
+User: what is 7 - 100?
+Vex: -93
+
+User: add 32 and 75.
+Vex: 107
+
+User: what comes next: 64 59 54 49 44 ?
+Vex: 39
+
+User: calculate 24 - 62.
+Vex: -38
+
+User: what is 15 minus 70?
+Vex: -55
+
+Jamie had a ball. Jamie placed the ball on the floor. The ball was now on the floor.
+
+User: is 83 greater than 273?
+Vex: no.
+
+User: what is 2 - 78?
+Vex: -76
+
+User: what is the largest of 176 189 166?
+Vex: 189
+
+User: what is 1 minus 41?
+Vex: -40
+
+The student rested outside before lunch.
+
+User: is 315 less than 127?
+Vex: no.
+
+User: compare 464 and 290.
+Vex: 464 is greater than 290.
+
+User: is 488 less than 189?
+Vex: no.
+
+User: compare 159 and 181.
+Vex: 159 is less than 181.
+
+User: is 488 greater than 376?
+Vex: yes.
+
+User: is 481 less than 371?
+Vex: no.
+
+User: is 348 less than 206?
+Vex: no.
+
+User: what is 13 plus 96?
+Vex: 109
+
+User: what is the largest of 135 184 17?
+Vex: 184
+
+User: what is 24 minus 17?
+Vex: 7
+
+User: what comes next: 90 98 106 114 122 ?
+Vex: 130
+
+User: compare 213 and 405.
+Vex: 213 is less than 405.
+
+User: compare 294 and 393.
+Vex: 294 is less than 393.
+
+User: compare 68 and 461.
+Vex: 68 is less than 461.
+
+User: compare 164 and 212.
+Vex: 164 is less than 212.
+
+User: compare 350 and 376.
+Vex: 350 is less than 376.
+
+User: what is the smallest of 82 174 35?
+Vex: 35
+
+User: what is 40 divided by 4?
+Vex: 10
+
+User: what is 72 divided by 4?
+Vex: 18
+
+User: is 122 greater than 235?
+Vex: no.
+
+User: is 457 less than 249?
+Vex: no.
+
+User: is 170 less than 356?
+Vex: yes.
+
+User: what is the smallest of 47 194 126?
+Vex: 47
+
+User: compare 21 and 1.
+Vex: 21 is greater than 1.
+
+User: what is the largest of 15 156 41?
+Vex: 156
+
+User: what is the smallest of 77 74 181?
+Vex: 74
+
+User: is 232 greater than 364?
+Vex: no.
+
+User: what is the smallest of 53 6 89?
+Vex: 6
+
+User: subtract 22 from 76.
+Vex: 54
+
+User: compare 470 and 385.
+Vex: 470 is greater than 385.
+
+User: is 368 less than 52?
+Vex: no.
+
+User: is 121 less than 471?
+Vex: yes.
+
+User: is 490 less than 139?
+Vex: no.
+
+User: is 413 less than 428?
+Vex: yes.
+
+User: calculate 18 * 0.
+Vex: 0
+
+User: what is 18 multiplied by 16?
+Vex: 288
+
+User: calculate 240 / 15.
+Vex: 16
+
+User: calculate 61 - 27.
+Vex: 34
+
+User: is 184 less than 65?
+Vex: no.
+
+User: what is 3 - 61?
+Vex: -58
+
+User: compare 231 and 132.
+Vex: 231 is greater than 132.
+
+User: is 1 less than 486?
+Vex: yes.
+
+User: is 316 greater than 55?
+Vex: yes.
+
+User: is 121 even or odd?
+Vex: 121 is odd.
+
+User: is 164 less than 148?
+Vex: no.
+
+User: is 52 greater than 416?
+Vex: no.
+
+User: compare 243 and 353.
+Vex: 243 is less than 353.
+
+User: is 130 less than 45?
+Vex: no.
+
+User: what is the smallest of 180 100 85?
+Vex: 85
+
+User: is 115 greater than 16?
+Vex: yes.
+
+User: what is the smallest of 23 180 156?
+Vex: 23
+
+User: what is 24 - 100?
+Vex: -76
+
+The scientist learned in the garden and then stopped.
+
+User: compare 248 and 140.
+Vex: 248 is greater than 140.
+
+User: what is the largest of 145 136 27?
+Vex: 145
+
+User: what comes next: 29 34 39 44 49 ?
+Vex: 54
+
+User: what is the largest of 144 143 93?
+Vex: 144
+
+User: is 241 greater than 209?
+Vex: yes.
+
+User: what is the smallest of 68 95 139?
+Vex: 68
+
+User: is 259 less than 108?
+Vex: no.
+
+User: what comes next: -44 -38 -32 -26 -20 ?
+Vex: -14
+
+User: is 102 less than 37?
+Vex: no.
+
+User: is 60 less than 6?
+Vex: no.
+
+User: is 84 greater than 38?
+Vex: yes.
+
+User: what is 100 + 46?
+Vex: 146
+
+The robot learned at the desk for a short time.
+
+User: is 99 greater than 92?
+Vex: yes.
+
+User: what is the smallest of 15 83 179?
+Vex: 15
+
+User: is 305 less than 173?
+Vex: no.
+
+User: is 330 greater than 396?
+Vex: no.
+
+User: is 268 greater than 277?
+Vex: no.
+
+User: what is the smallest of 45 2 67?
+Vex: 2
+
+User: compare 384 and 218.
+Vex: 384 is greater than 218.
+
+User: compare 500 and 215.
+Vex: 500 is greater than 215.
+
+User: is 280 greater than 232?
+Vex: yes.
+
+User: what is 64 plus 79?
+Vex: 143
+
+User: is 201 less than 8?
+Vex: no.
+
+User: calculate 80 + 1.
+Vex: 81
+
+User: what is the largest of 170 109 108?
+Vex: 170
+
+User: is 31 less than 288?
+Vex: yes.
+
+User: compare 361 and 18.
+Vex: 361 is greater than 18.
+
+User: is 309 less than 280?
+Vex: no.
+
+User: what is 27 plus 30?
+Vex: 57
+
+User: what comes next: -41 -46 -51 -56 -61 ?
+Vex: -66
+
+User: calculate 28 + 72.
+Vex: 100
+
+User: what is 14 plus 2?
+Vex: 16
+
+User: what is the smallest of 146 110 53?
+Vex: 53
+
+User: is 460 greater than 94?
+Vex: yes.
+
+User: what is the smallest of 172 170 63?
+Vex: 63
+
+User: is 351 greater than 498?
+Vex: no.
+
+User: what is the largest of 136 176 127?
+Vex: 176
+
+User: what is the largest of 100 170 112?
+Vex: 170
+
+User: is 87 greater than 74?
+Vex: yes.
+
+User: compare 72 and 444.
+Vex: 72 is less than 444.
+
+User: is 271 greater than 441?
+Vex: no.
+
+User: compare 237 and 227.
+Vex: 237 is greater than 227.
+
+User: compare 496 and 13.
+Vex: 496 is greater than 13.
+
+User: add 67 and 25.
+Vex: 92
+
+User: what is the smallest of 143 31 54?
+Vex: 31
+
+User: is 278 less than 415?
+Vex: yes.
+
+User: compare 262 and 326.
+Vex: 262 is less than 326.
+
+User: is 38 greater than 312?
+Vex: no.
+
+User: what is the smallest of 148 67 180?
+Vex: 67
+
+User: is 281 greater than 248?
+Vex: yes.
+
+User: what is the largest of 191 103 9?
+Vex: 191
+
+User: what is 16 minus 2?
+Vex: 14
+
+User: is 289 less than 87?
+Vex: no.
+
+User: compare 471 and 193.
+Vex: 471 is greater than 193.
+
+User: what is 91 plus 49?
+Vex: 140
+
+User: what is 59 minus 38?
+Vex: 21
+
+User: what comes next: 26 24 22 20 18 ?
+Vex: 16
+
+User: is 52 less than 438?
+Vex: yes.
+
+User: compare 497 and 93.
+Vex: 497 is greater than 93.
+
+User: what is the largest of 31 90 27?
+Vex: 90
+
+User: compare 57 and 9.
+Vex: 57 is greater than 9.
+
+User: what is 48 - 84?
+Vex: -36
+
+User: compare 499 and 33.
+Vex: 499 is greater than 33.
+
+User: is 180 greater than 445?
+Vex: no.
+
+User: is 82 less than 50?
+Vex: no.
+
+User: is 462 less than 11?
+Vex: no.
+
+User: what comes next: 51 43 35 27 19 ?
+Vex: 11
+
+User: what is the smallest of 52 137 176?
+Vex: 52
+
+User: what is the largest of 199 177 100?
+Vex: 199
+
+User: compare 56 and 54.
+Vex: 56 is greater than 54.
+
+User: compare 62 and 358.
+Vex: 62 is less than 358.
+
+User: calculate 3 + 45.
+Vex: 48
+
+User: compare 452 and 483.
+Vex: 452 is less than 483.
+
+User: compare 229 and 310.
+Vex: 229 is less than 310.
+
+User: compare 158 and 412.
+Vex: 158 is less than 412.
+
+User: is 483 less than 381?
+Vex: no.
+
+User: subtract 38 from 85.
+Vex: 47
+
+User: is 352 greater than 49?
+Vex: yes.
+
+User: is 498 greater than 238?
+Vex: yes.
+
+User: what comes next: 100 90 80 70 60 ?
+Vex: 50
+
+User: what is 24 times 9?
+Vex: 216
+
+User: subtract 13 from 72.
+Vex: 59
+
+User: what comes next: 62 57 52 47 42 ?
+Vex: 37
+
+User: what is 62 - 26?
+Vex: 36
+
+User: what is 68 minus 99?
+Vex: -31
+
+User: what is the largest of 46 62 11?
+Vex: 62
+
+User: is 100 greater than 214?
+Vex: no.
+
+User: what is the smallest of 15 193 81?
+Vex: 15
+
+User: is 480 less than 208?
+Vex: no.
+
+User: is 129 greater than 66?
+Vex: yes.
+
+User: is 144 greater than 446?
+Vex: no.
+
+User: what comes next: 50 56 62 68 74 ?
+Vex: 80
+
+User: compare 261 and 257.
+Vex: 261 is greater than 257.
+
+User: is 214 greater than 273?
+Vex: no.
+
+User: compare 134 and 217.
+Vex: 134 is less than 217.
+
+User: add 99 and 41.
+Vex: 140
+
+User: what is the smallest of 113 6 142?
+Vex: 6
+
+User: subtract 92 from 59.
+Vex: -33
+
+The robot walked in the garden for a short time.
+
+User: what is the largest of 129 84 37?
+Vex: 129
+
+User: what is 72 plus 23?
+Vex: 95
+
+User: compare 309 and 161.
+Vex: 309 is greater than 161.
+
+User: what is 7 multiplied by 11?
+Vex: 77
+
+User: what is the smallest of 59 129 112?
+Vex: 59
+
+User: what comes next: 28 24 20 16 12 ?
+Vex: 8
+
+User: what is the largest of 71 168 146?
+Vex: 168
+
+User: compare 102 and 198.
+Vex: 102 is less than 198.
+
+User: compare 316 and 292.
+Vex: 316 is greater than 292.
+
+User: compare 180 and 153.
+Vex: 180 is greater than 153.
+
+User: what is the smallest of 150 21 32?
+Vex: 21
+
+User: is 449 less than 246?
+Vex: no.
+
+User: what is the largest of 166 50 154?
+Vex: 166
+
+User: is 91 greater than 102?
+Vex: no.
+
+User: compare 331 and 0.
+Vex: 331 is greater than 0.
+
+User: compare 477 and 80.
+Vex: 477 is greater than 80.
+
+User: is 222 greater than 418?
+Vex: no.
+
+User: is 365 greater than 399?
+Vex: no.
+
+User: compare 408 and 61.
+Vex: 408 is greater than 61.
+
+User: is 77 even?
+Vex: no.
+
+User: what comes next: 3 4 5 6 7 ?
+Vex: 8
+
+User: is 420 less than 240?
+Vex: no.
+
+User: is 185 less than 73?
+Vex: no.
+
+User: calculate 30 - 61.
+Vex: -31
+
+User: is 148 less than 274?
+Vex: yes.
+
+User: what comes next: -8 -2 4 10 16 ?
+Vex: 22
+
+User: is 260 less than 128?
+Vex: no.
+
+User: multiply 14 and 9.
+Vex: 126
+
+User: what is the largest of 176 176 196?
+Vex: 196
+
+User: what is the largest of 37 53 94?
+Vex: 94
+
+User: what comes next: 31 36 41 46 51 ?
+Vex: 56
+
+User: calculate 23 * 5.
+Vex: 115
+
+User: subtract 91 from 22.
+Vex: -69
+
+User: what is the smallest of 110 42 178?
+Vex: 42
+
+User: is 50 less than 104?
+Vex: yes.
+
+User: is 403 less than 359?
+Vex: no.
+
+User: what is the smallest of 45 88 143?
+Vex: 45
+
+User: add 81 and 57.
+Vex: 138
+
+User: is 98 greater than 393?
+Vex: no.
+
+User: is 296 greater than 130?
+Vex: yes.
+
+User: what is the smallest of 69 2 85?
+Vex: 2
+
+User: is 397 greater than 310?
+Vex: yes.
+
+User: is 74 less than 198?
+Vex: yes.
+
+User: is 233 less than 298?
+Vex: yes.
+
+User: compare 256 and 396.
+Vex: 256 is less than 396.
+
+The programmer waited outside while everything was quiet.
+
+User: what is the largest of 125 130 106?
+Vex: 130
+
+User: subtract 74 from 22.
+Vex: -52
+
+User: is 94 greater than 60?
+Vex: yes.
+
+User: what is the smallest of 183 127 69?
+Vex: 69
+
+User: is 350 less than 38?
+Vex: no.
+
+User: compare 202 and 245.
+Vex: 202 is less than 245.
+
+User: compare 305 and 105.
+Vex: 305 is greater than 105.
+
+User: compare 226 and 392.
+Vex: 226 is less than 392.
+
+User: compare 44 and 425.
+Vex: 44 is less than 425.
+
+User: is 393 greater than 14?
+Vex: yes.
+
+User: subtract 95 from 85.
+Vex: -10
+
+User: is 349 less than 75?
+Vex: no.
+
+User: is 29 greater than 400?
+Vex: no.
+
+User: compare 142 and 203.
+Vex: 142 is less than 203.
+
+User: compare 165 and 413.
+Vex: 165 is less than 413.
+
+User: calculate 36 - 89.
+Vex: -53
+
+User: is 456 less than 439?
+Vex: no.
+
+User: is 77 less than 295?
+Vex: yes.
+
+User: compare 7 and 186.
+Vex: 7 is less than 186.
+
+User: calculate 100 + 23.
+Vex: 123
+
+User: what is 30 minus 48?
+Vex: -18
+
+User: what is 42 - 94?
+Vex: -52
+
+User: compare 403 and 29.
+Vex: 403 is greater than 29.
+
+User: thanks
+Vex: you're welcome!
+
+The student learned outside for a short time.
+
+User: what is the smallest of 8 36 18?
+Vex: 8
+
+User: what is 32 plus 54?
+Vex: 86
+
+User: is 145 greater than 18?
+Vex: yes.
+
+User: multiply 11 and 3.
+Vex: 33
+
+User: compare 168 and 29.
+Vex: 168 is greater than 29.
+
+User: is 374 greater than 444?
+Vex: no.
+
+User: calculate 67 + 58.
+Vex: 125
+
+User: is 70 greater than 43?
+Vex: yes.
+
+User: what is the largest of 2 121 166?
+Vex: 166
+
+User: is 349 greater than 75?
+Vex: yes.
+
+User: what is the smallest of 7 11 82?
+Vex: 7
+
+User: is 254 greater than 95?
+Vex: yes.
+
+User: is 130 greater than 326?
+Vex: no.
+
+User: what is the smallest of 92 53 90?
+Vex: 53
+
+User: is 132 greater than 75?
+Vex: yes.
+
+User: is 475 less than 460?
+Vex: no.
+
+User: is 66 less than 99?
+Vex: yes.
+
+User: is 437 greater than 118?
+Vex: yes.
+
+User: is 28 odd?
+Vex: no.
+
+User: what is 20 + 87?
+Vex: 107
+
+User: is 494 greater than 258?
+Vex: yes.
+
+User: compare 104 and 82.
+Vex: 104 is greater than 82.
+
+User: compare 261 and 209.
+Vex: 261 is greater than 209.
+
+User: what is 83 - 79?
+Vex: 4
+
+User: is 471 greater than 372?
+Vex: yes.
+
+User: what comes next: 43 35 27 19 11 ?
+Vex: 3
+
+User: is 414 greater than 271?
+Vex: yes.
+
+User: is 478 less than 188?
+Vex: no.
+
+User: what is 6 multiplied by 10?
+Vex: 60
+
+User: calculate 58 + 52.
+Vex: 110
+
+User: compare 15 and 220.
+Vex: 15 is less than 220.
+
+User: compare 236 and 329.
+Vex: 236 is less than 329.
+
+User: what is 90 minus 3?
+Vex: 87
+
+User: compare 413 and 65.
+Vex: 413 is greater than 65.
+
+User: is 170 greater than 182?
+Vex: no.
+
+User: is 380 less than 297?
+Vex: no.
+
+User: compare 486 and 119.
+Vex: 486 is greater than 119.
+
+User: add 74 and 45.
+Vex: 119
+
+User: compare 212 and 470.
+Vex: 212 is less than 470.
+
+The cat watched inside the room before lunch.
+
+User: compare 230 and 102.
+Vex: 230 is greater than 102.
+
+User: is 317 greater than 37?
+Vex: yes.
+
+User: is 19 greater than 334?
+Vex: no.
+
+User: calculate 87 + 47.
+Vex: 134
+
+User: what is the smallest of 40 54 132?
+Vex: 40
+
+User: compare 415 and 401.
+Vex: 415 is greater than 401.
+
+User: is 477 less than 153?
+Vex: no.
+
+User: what is the smallest of 57 196 158?
+Vex: 57
+
+User: what is 42 plus 84?
+Vex: 126
+
+User: is 479 greater than 76?
+Vex: yes.
+
+User: is 404 greater than 431?
+Vex: no.
+
+User: compare 428 and 43.
+Vex: 428 is greater than 43.
+
+User: what comes next: -12 -16 -20 -24 -28 ?
+Vex: -32
+
+The robot looked in the garden before lunch.
+
+User: is 292 less than 60?
+Vex: no.
+
+User: calculate 220 / 11.
+Vex: 20
+
+User: what is the largest of 46 57 197?
+Vex: 197
+
+User: what comes next: -38 -37 -36 -35 -34 ?
+Vex: -33
+
+User: what is the smallest of 149 142 117?
+Vex: 117
+
+User: compare 255 and 493.
+Vex: 255 is less than 493.
+
+User: is 358 greater than 35?
+Vex: yes.
+
+User: what is the largest of 89 79 153?
+Vex: 153
+
+User: is 260 greater than 155?
+Vex: yes.
+
+User: what is the smallest of 69 59 100?
+Vex: 59
+
+User: is 390 less than 204?
+Vex: no.
+
+User: is 497 less than 247?
+Vex: no.
+
+User: is 29 greater than 240?
+Vex: no.
+
+User: what is 63 plus 4?
+Vex: 67
+
+User: what is the smallest of 51 0 122?
+Vex: 0
+
+User: is 433 less than 264?
+Vex: no.
+
+User: is 245 less than 113?
+Vex: no.
+
+User: what is the largest of 104 114 191?
+Vex: 191
+
+User: compare 193 and 170.
+Vex: 193 is greater than 170.
+
+User: is 353 greater than 87?
+Vex: yes.
+
+User: is 346 greater than 347?
+Vex: no.
+
+User: is 233 greater than 117?
+Vex: yes.
+
+User: is 494 greater than 6?
+Vex: yes.
+
+User: is 262 greater than 28?
+Vex: yes.
+
+User: is 491 greater than 398?
+Vex: yes.
+
+User: what is 88 - 94?
+Vex: -6
+
+User: add 72 and 19.
+Vex: 91
+
+User: is 106 less than 431?
+Vex: yes.
+
+User: is 226 greater than 384?
+Vex: no.
+
+User: compare 173 and 19.
+Vex: 173 is greater than 19.
+
+User: compare 334 and 472.
+Vex: 334 is less than 472.
+
+User: is 248 less than 214?
+Vex: no.
+
+User: what comes next: -14 -19 -24 -29 -34 ?
+Vex: -39
+
+The programmer learned at the desk while everything was quiet.
+
+User: compare 214 and 432.
+Vex: 214 is less than 432.
+
+User: what is the largest of 149 129 160?
+Vex: 160
+
+User: what is 63 minus 41?
+Vex: 22
+
+User: compare 20 and 441.
+Vex: 20 is less than 441.
+
+User: is 336 greater than 149?
+Vex: yes.
+
+User: is 491 less than 413?
+Vex: no.
+
+User: what is the smallest of 20 163 13?
+Vex: 13
+
+User: is 54 less than 279?
+Vex: yes.
+
+User: compare 104 and 447.
+Vex: 104 is less than 447.
+
+User: what is the smallest of 63 93 22?
+Vex: 22
+
+User: compare 414 and 7.
+Vex: 414 is greater than 7.
+
+User: subtract 87 from 11.
+Vex: -76
+
+User: what is the largest of 24 170 170?
+Vex: 170
+
+User: what is 69 plus 64?
+Vex: 133
+
+User: what is 8 times 20?
+Vex: 160
+
+User: is 415 greater than 92?
+Vex: yes.
+
+User: is 22 even?
+Vex: yes.
+
+User: what is 51 plus 66?
+Vex: 117
+
+User: compare 217 and 441.
+Vex: 217 is less than 441.
+
+User: is 137 less than 483?
+Vex: yes.
+
+User: is 256 less than 225?
+Vex: no.
+
+User: is 106 even?
+Vex: yes.
+
+User: is 457 less than 427?
+Vex: no.
+
+User: is 143 greater than 351?
+Vex: no.
+
+User: is 56 greater than 450?
+Vex: no.
+
+User: compare 157 and 3.
+Vex: 157 is greater than 3.
+
+User: is 83 less than 121?
+Vex: yes.
+
+User: compare 484 and 266.
+Vex: 484 is greater than 266.
+
+User: is 212 greater than 394?
+Vex: no.
+
+User: calculate 40 - 67.
+Vex: -27
+
+User: compare 48 and 391.
+Vex: 48 is less than 391.
+
+User: what comes next: 57 51 45 39 33 ?
+Vex: 27
+
+User: is 424 greater than 447?
+Vex: no.
+
+User: is 332 less than 407?
+Vex: yes.
+
+User: is 427 less than 67?
+Vex: no.
+
+User: is 94 less than 60?
+Vex: no.
+
+User: what is the largest of 151 153 16?
+Vex: 153
+
+User: is 266 less than 448?
+Vex: yes.
+
+User: what is the smallest of 106 172 65?
+Vex: 65
+
+User: what is the smallest of 116 20 87?
+Vex: 20
+
+User: calculate 10 * 2.
+Vex: 20
+
+User: is 198 greater than 49?
+Vex: yes.
+
+User: what is the largest of 193 113 65?
+Vex: 193
+
+User: compare 83 and 367.
+Vex: 83 is less than 367.
+
+User: compare 247 and 380.
+Vex: 247 is less than 380.
+
+User: add 88 and 7.
+Vex: 95
+
+User: compare 219 and 426.
+Vex: 219 is less than 426.
+
+User: what comes next: -30 -36 -42 -48 -54 ?
+Vex: -60
+
+User: what is 32 minus 21?
+Vex: 11
+
+User: is 55 less than 120?
+Vex: yes.
+
+User: is 182 less than 361?
+Vex: yes.
+
+User: is 436 less than 193?
+Vex: no.
+
+ice is frozen water.
+
+User: is 437 less than 196?
+Vex: no.
+
+User: calculate 75 - 69.
+Vex: 6
+
+User: subtract 77 from 18.
+Vex: -59
+
+User: compare 118 and 169.
+Vex: 118 is less than 169.
+
+User: compare 355 and 83.
+Vex: 355 is greater than 83.
+
+User: compare 417 and 19.
+Vex: 417 is greater than 19.
+
+User: compare 153 and 421.
+Vex: 153 is less than 421.
+
+User: what is the largest of 65 106 172?
+Vex: 172
+
+User: is 397 greater than 167?
+Vex: yes.
+
+User: what comes next: -16 -20 -24 -28 -32 ?
+Vex: -36
+
+User: tell me something
+Vex: computers can learn statistical patterns from examples.
+
+User: is 436 greater than 425?
+Vex: yes.
+
+User: is 44 greater than 439?
+Vex: no.
+
+User: compare 146 and 495.
+Vex: 146 is less than 495.
+
+User: compare 290 and 96.
+Vex: 290 is greater than 96.
+
+User: what is the largest of 46 176 179?
+Vex: 179
+
+User: what is the smallest of 31 122 106?
+Vex: 31
+
+User: what is 36 plus 43?
+Vex: 79
+
+User: is 84 less than 238?
+Vex: yes.
+
+User: compare 11 and 411.
+Vex: 11 is less than 411.
+
+User: what is the largest of 172 88 17?
+Vex: 172
+
+User: is 55 greater than 60?
+Vex: no.
+
+User: is 8 less than 91?
+Vex: yes.
+
+User: compare 310 and 223.
+Vex: 310 is greater than 223.
+
+User: is 499 greater than 440?
+Vex: yes.
+
+User: what is the largest of 133 187 33?
+Vex: 187
+
+User: is 193 greater than 483?
+Vex: no.
+
+User: is 369 greater than 182?
+Vex: yes.
+
+User: compare 361 and 20.
+Vex: 361 is greater than 20.
+
+User: is 401 greater than 121?
+Vex: yes.
+
+User: is 202 greater than 312?
+Vex: no.
+
+User: is 475 greater than 491?
+Vex: no.
+
+User: calculate 40 / 4.
+Vex: 10
+
+User: is 164 greater than 478?
+Vex: no.
+
+User: what is 11 plus 18?
+Vex: 29
+
+User: compare 80 and 128.
+Vex: 80 is less than 128.
+
+User: compare 133 and 368.
+Vex: 133 is less than 368.
+
+User: what is the largest of 44 99 58?
+Vex: 99
+
+User: what is the smallest of 82 124 50?
+Vex: 50
+
+User: is 113 less than 482?
+Vex: yes.
+
+User: is 395 less than 36?
+Vex: no.
+
+The small model learned at the desk for a short time.
+
+User: is 484 less than 331?
+Vex: no.
+
+User: compare 329 and 74.
+Vex: 329 is greater than 74.
+
+User: is 175 less than 397?
+Vex: yes.
+
+User: is 266 greater than 196?
+Vex: yes.
+
+User: what is the largest of 167 183 13?
+Vex: 183
+
+The dog learned at the desk during the morning.
+
+User: is 91 less than 19?
+Vex: no.
+
+User: what is 6 - 53?
+Vex: -47
+
+User: compare 365 and 399.
+Vex: 365 is less than 399.
+
+User: is 9 even?
+Vex: no.
+
+User: what is the smallest of 52 147 185?
+Vex: 52
+
+User: compare 358 and 253.
+Vex: 358 is greater than 253.
+
+User: add 53 and 35.
+Vex: 88
+
+User: what is the smallest of 9 177 118?
+Vex: 9
+
+User: compare 414 and 468.
+Vex: 414 is less than 468.
+
+User: compare 20 and 250.
+Vex: 20 is less than 250.
+
+User: is 236 greater than 315?
+Vex: no.
+
+User: compare 76 and 64.
+Vex: 76 is greater than 64.
+
+User: what is 93 plus 25?
+Vex: 118
+
+User: is 186 even?
+Vex: yes.
+
+The computer learned near the window during the morning.
+
+User: what comes next: 70 64 58 52 46 ?
+Vex: 40
+
+User: subtract 73 from 34.
+Vex: -39
+
+User: compare 362 and 84.
+Vex: 362 is greater than 84.
+
+User: what is the smallest of 32 110 107?
+Vex: 32
+
+User: is 462 less than 399?
+Vex: no.
+
+User: is 70 less than 314?
+Vex: yes.
+
+User: is 140 greater than 397?
+Vex: no.
+
+User: is 104 less than 31?
+Vex: no.
+
+User: is 127 even?
+Vex: no.
+
+User: compare 111 and 455.
+Vex: 111 is less than 455.
+
+User: what is the largest of 41 13 79?
+Vex: 79
+
+User: compare 373 and 123.
+Vex: 373 is greater than 123.
+
+User: what comes next: 78 86 94 102 110 ?
+Vex: 118
+
+User: compare 303 and 89.
+Vex: 303 is greater than 89.
+
+User: is 219 less than 66?
+Vex: no.
+
+User: what is the largest of 68 117 121?
+Vex: 121
+
+User: compare 339 and 320.
+Vex: 339 is greater than 320.
+
+User: is 245 less than 204?
+Vex: no.
+
+User: what is the smallest of 158 36 20?
+Vex: 20
+
+User: compare 168 and 256.
+Vex: 168 is less than 256.
+
+User: subtract 39 from 38.
+Vex: -1
+
+User: is 313 greater than 332?
+Vex: no.
+
+User: what comes next: -35 -33 -31 -29 -27 ?
+Vex: -25
+
+User: what comes next: 11 6 1 -4 -9 ?
+Vex: -14
+
+User: is 193 less than 393?
+Vex: yes.
+
+User: is 96 greater than 33?
+Vex: yes.
+
+User: what is 19 minus 77?
+Vex: -58
+
+User: is 79 greater than 212?
+Vex: no.
+
+User: is 25 less than 308?
+Vex: yes.
+
+User: what is the largest of 134 179 148?
+Vex: 179
+
+User: what is the largest of 62 106 19?
+Vex: 106
+
+User: is 164 greater than 212?
+Vex: no.
+
+User: is 286 greater than 354?
+Vex: no.
+
+User: what is the largest of 29 128 61?
+Vex: 128
+
+User: is 153 less than 170?
+Vex: yes.
+
+User: what is the smallest of 118 73 169?
+Vex: 73
+
+User: what is the largest of 15 3 170?
+Vex: 170
+
+User: what is the smallest of 115 148 5?
+Vex: 5
+
+User: multiply 14 and 25.
+Vex: 350
+
+User: what is fish?
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: what is the largest of 54 53 146?
+Vex: 146
+
+User: is 343 less than 47?
+Vex: no.
+
+User: is 304 less than 374?
+Vex: yes.
+
+User: what is 46 minus 58?
+Vex: -12
+
+The dog watched at the desk and then stopped.
+
+User: what is 57 + 50?
+Vex: 107
+
+User: is 95 less than 286?
+Vex: yes.
+
+User: what is 0 - 11?
+Vex: -11
+
+User: calculate 70 / 7.
+Vex: 10
+
+User: what is the smallest of 65 136 3?
+Vex: 3
+
+User: compare 409 and 425.
+Vex: 409 is less than 425.
+
+User: compare 382 and 230.
+Vex: 382 is greater than 230.
+
+User: what is the largest of 181 14 191?
+Vex: 191
+
+User: is 449 less than 469?
+Vex: yes.
+
+User: add 3 and 33.
+Vex: 36
+
+User: is 89 less than 378?
+Vex: yes.
+
+User: compare 127 and 113.
+Vex: 127 is greater than 113.
+
+User: is 403 greater than 442?
+Vex: no.
+
+User: is 143 less than 482?
+Vex: yes.
+
+Text: Morgan put the lamp on the chair.
+Question: where is the lamp?
+Answer: the lamp is on the chair.
+
+User: compare 48 and 167.
+Vex: 48 is less than 167.
+
+User: is 356 less than 99?
+Vex: no.
+
+User: what is the smallest of 89 9 146?
+Vex: 9
+
+User: what is the largest of 119 110 184?
+Vex: 184
+
+User: compare 226 and 241.
+Vex: 226 is less than 241.
+
+User: what is 28 - 60?
+Vex: -32
+
+User: is 73 greater than 465?
+Vex: no.
+
+User: compare 213 and 375.
+Vex: 213 is less than 375.
+
+User: compare 307 and 394.
+Vex: 307 is less than 394.
+
+The student worked at the desk while everything was quiet.
+
+User: compare 379 and 92.
+Vex: 379 is greater than 92.
+
+User: compare 195 and 235.
+Vex: 195 is less than 235.
+
+User: is 305 greater than 483?
+Vex: no.
+
+User: what comes next: 56 66 76 86 96 ?
+Vex: 106
+
+User: compare 494 and 238.
+Vex: 494 is greater than 238.
+
+User: compare 241 and 344.
+Vex: 241 is less than 344.
+
+User: what is 45 minus 45?
+Vex: 0
+
+The small model learned near the window during the morning.
+
+User: is 168 less than 256?
+Vex: yes.
+
+User: what is the largest of 102 15 123?
+Vex: 123
+
+User: what is the smallest of 29 43 170?
+Vex: 29
+
+User: is 424 less than 357?
+Vex: no.
+
+User: what is 52 - 25?
+Vex: 27
+
+User: what is 16 minus 26?
+Vex: -10
+
+User: is 162 greater than 53?
+Vex: yes.
+
+User: is 24 greater than 79?
+Vex: no.
+
+User: is 38 less than 481?
+Vex: yes.
+
+User: is 450 greater than 302?
+Vex: yes.
+
+User: is 362 greater than 216?
+Vex: yes.
+
+User: is 184 less than 415?
+Vex: yes.
+
+User: what is the smallest of 48 190 178?
+Vex: 48
+
+User: subtract 7 from 49.
+Vex: 42
+
+User: is 473 greater than 281?
+Vex: yes.
+
+User: what comes next: 37 40 43 46 49 ?
+Vex: 52
+
+User: what is 100 minus 79?
+Vex: 21
+
+User: what is the smallest of 73 179 88?
+Vex: 73
+
+User: is 189 greater than 150?
+Vex: yes.
+
+User: what is 14 multiplied by 19?
+Vex: 266
+
+User: compare 415 and 192.
+Vex: 415 is greater than 192.
+
+User: what is 15 minus 54?
+Vex: -39
+
+User: compare 174 and 219.
+Vex: 174 is less than 219.
+
+User: calculate 65 / 13.
+Vex: 5
+
+User: what is 18 times 14?
+Vex: 252
+
+User: what is the smallest of 94 55 38?
+Vex: 38
+
+User: is 318 less than 495?
+Vex: yes.
+
+User: compare 500 and 397.
+Vex: 500 is greater than 397.
+
+User: what is 74 - 87?
+Vex: -13
+
+User: is 453 less than 96?
+Vex: no.
+
+User: calculate 25 * 3.
+Vex: 75
+
+User: is 497 less than 378?
+Vex: no.
+
+User: what is 19 multiplied by 14?
+Vex: 266
+
+User: calculate 75 - 11.
+Vex: 64
+
+User: is 86 greater than 225?
+Vex: no.
+
+User: compare 369 and 182.
+Vex: 369 is greater than 182.
+
+User: is 242 less than 480?
+Vex: yes.
+
+User: what is the largest of 162 25 69?
+Vex: 162
+
+User: compare 285 and 476.
+Vex: 285 is less than 476.
+
+User: is 117 less than 144?
+Vex: yes.
+
+User: what is the smallest of 125 152 183?
+Vex: 125
+
+User: is 226 greater than 392?
+Vex: no.
+
+User: what is the largest of 131 49 116?
+Vex: 131
+
+User: subtract 63 from 2.
+Vex: -61
+
+User: is 15 greater than 117?
+Vex: no.
+
+User: what is 22 - 31?
+Vex: -9
+
+User: what comes next: 72 77 82 87 92 ?
+Vex: 97
+
+User: is 249 greater than 29?
+Vex: yes.
+
+User: what is the smallest of 62 41 79?
+Vex: 41
+
+User: is 63 less than 258?
+Vex: yes.
+
+User: compare 394 and 135.
+Vex: 394 is greater than 135.
+
+User: what is the smallest of 116 186 79?
+Vex: 79
+
+User: what is the smallest of 72 114 74?
+Vex: 72
+
+User: is 492 less than 106?
+Vex: no.
+
+User: multiply 13 and 5.
+Vex: 65
+
+User: what is 64 minus 14?
+Vex: 50
+
+User: is 343 greater than 134?
+Vex: yes.
+
+User: what is 24 multiplied by 3?
+Vex: 72
+
+User: calculate 78 - 64.
+Vex: 14
+
+User: what is 87 + 74?
+Vex: 161
+
+User: is 222 less than 4?
+Vex: no.
+
+The cat learned at the desk during the morning.
+
+a GPU is a processor designed for highly parallel calculations.
+
+User: calculate 28 / 14.
+Vex: 2
+
+User: compare 113 and 348.
+Vex: 113 is less than 348.
+
+User: compare 46 and 433.
+Vex: 46 is less than 433.
+
+User: is 400 greater than 27?
+Vex: yes.
+
+User: calculate 52 + 98.
+Vex: 150
+
+User: what is 78 - 9?
+Vex: 69
+
+User: what comes next: 78 70 62 54 46 ?
+Vex: 38
+
+User: what is the largest of 30 109 147?
+Vex: 147
+
+User: what is the smallest of 128 122 51?
+Vex: 51
+
+User: what is the smallest of 55 103 128?
+Vex: 55
+
+User: add 56 and 61.
+Vex: 117
+
+User: is 433 less than 176?
+Vex: no.
+
+User: is 73 greater than 442?
+Vex: no.
+
+User: compare 321 and 114.
+Vex: 321 is greater than 114.
+
+User: what is the smallest of 8 149 70?
+Vex: 8
+
+User: compare 370 and 150.
+Vex: 370 is greater than 150.
+
+User: compare 369 and 40.
+Vex: 369 is greater than 40.
+
+User: is 199 greater than 397?
+Vex: no.
+
+User: is 68 even or odd?
+Vex: 68 is even.
+
+User: compare 456 and 491.
+Vex: 456 is less than 491.
+
+User: is 18 less than 320?
+Vex: yes.
+
+User: compare 40 and 472.
+Vex: 40 is less than 472.
+
+User: what is 22 plus 79?
+Vex: 101
+
+User: is 58 less than 181?
+Vex: yes.
+
+User: compare 493 and 365.
+Vex: 493 is greater than 365.
+
+User: is 181 greater than 475?
+Vex: no.
+
+User: what is the largest of 185 143 136?
+Vex: 185
+
+User: what is the smallest of 171 44 116?
+Vex: 44
+
+User: what is the largest of 24 161 82?
+Vex: 161
+
+User: what is the largest of 10 163 46?
+Vex: 163
+
+User: what is the smallest of 162 18 182?
+Vex: 18
+
+User: is 436 less than 391?
+Vex: no.
+
+User: what is the smallest of 151 159 198?
+Vex: 151
+
+User: compare 27 and 293.
+Vex: 27 is less than 293.
+
+User: is 486 less than 377?
+Vex: no.
+
+User: what is the smallest of 127 73 78?
+Vex: 73
+
+User: compare 45 and 489.
+Vex: 45 is less than 489.
+
+User: what is the largest of 179 150 4?
+Vex: 179
+
+User: what is 91 plus 39?
+Vex: 130
+
+User: is 398 greater than 153?
+Vex: yes.
+
+User: what is the largest of 8 34 11?
+Vex: 34
+
+User: explain ice.
+Vex: ice is frozen water.
+
+User: is 478 greater than 361?
+Vex: yes.
+
+User: is 28 greater than 45?
+Vex: no.
+
+User: what is the smallest of 67 179 152?
+Vex: 67
+
+User: what is the smallest of 82 27 192?
+Vex: 27
+
+User: is 238 less than 312?
+Vex: yes.
+
+User: is 221 greater than 337?
+Vex: no.
+
+User: what comes next: 1 4 7 10 13 ?
+Vex: 16
+
+User: what is the largest of 89 95 31?
+Vex: 95
+
+User: compare 302 and 497.
+Vex: 302 is less than 497.
+
+User: compare 285 and 204.
+Vex: 285 is greater than 204.
+
+User: is 140 less than 128?
+Vex: no.
+
+The dog learned outside and then stopped.
+
+User: is 104 greater than 473?
+Vex: no.
+
+User: is 422 greater than 313?
+Vex: yes.
+
+User: subtract 99 from 11.
+Vex: -88
+
+User: what is the smallest of 21 167 85?
+Vex: 21
+
+User: compare 138 and 245.
+Vex: 138 is less than 245.
+
+User: what is the largest of 127 11 90?
+Vex: 127
+
+User: compare 389 and 200.
+Vex: 389 is greater than 200.
+
+User: is 263 greater than 374?
+Vex: no.
+
+User: is 319 less than 475?
+Vex: yes.
+
+User: what is the smallest of 80 142 76?
+Vex: 76
+
+User: is 71 less than 373?
+Vex: yes.
+
+User: is 92 greater than 291?
+Vex: no.
+
+User: calculate 33 - 48.
+Vex: -15
+
+User: what is the smallest of 159 2 128?
+Vex: 2
+
+User: calculate 17 * 10.
+Vex: 170
+
+User: compare 225 and 326.
+Vex: 225 is less than 326.
+
+User: what is the largest of 47 92 23?
+Vex: 92
+
+User: compare 31 and 73.
+Vex: 31 is less than 73.
+
+User: compare 127 and 367.
+Vex: 127 is less than 367.
+
+User: what is the smallest of 196 195 78?
+Vex: 78
+
+User: calculate 91 + 95.
+Vex: 186
+
+User: is 435 greater than 421?
+Vex: yes.
+
+User: is 434 greater than 492?
+Vex: no.
+
+User: what is 84 minus 0?
+Vex: 84
+
+User: what is the smallest of 168 98 3?
+Vex: 3
+
+User: what is 56 - 96?
+Vex: -40
+
+The computer watched at the desk during the morning.
+
+User: is 149 greater than 469?
+Vex: no.
+
+User: is 114 less than 380?
+Vex: yes.
+
+User: what is 51 minus 33?
+Vex: 18
+
+User: compare 420 and 237.
+Vex: 420 is greater than 237.
+
+User: what comes next: 6 11 16 21 26 ?
+Vex: 31
+
+User: compare 423 and 225.
+Vex: 423 is greater than 225.
+
+User: is 365 greater than 32?
+Vex: yes.
+
+User: compare 275 and 53.
+Vex: 275 is greater than 53.
+
+User: is 265 greater than 405?
+Vex: no.
+
+User: is 409 greater than 486?
+Vex: no.
+
+User: what is 31 + 100?
+Vex: 131
+
+User: is 313 greater than 222?
+Vex: yes.
+
+User: calculate 59 - 75.
+Vex: -16
+
+User: what is the largest of 122 90 66?
+Vex: 122
+
+User: is 47 greater than 282?
+Vex: no.
+
+User: is 346 greater than 239?
+Vex: yes.
+
+User: is 330 greater than 315?
+Vex: yes.
+
+User: is 377 less than 316?
+Vex: no.
+
+User: is 389 less than 200?
+Vex: no.
+
+User: is 497 greater than 41?
+Vex: yes.
+
+User: compare 171 and 197.
+Vex: 171 is less than 197.
+
+User: is 351 greater than 196?
+Vex: yes.
+
+User: add 49 and 6.
+Vex: 55
+
+User: what is 98 + 80?
+Vex: 178
+
+User: what is the smallest of 157 197 191?
+Vex: 157
+
+User: is 22 greater than 170?
+Vex: no.
+
+User: compare 479 and 423.
+Vex: 479 is greater than 423.
+
+User: compare 489 and 483.
+Vex: 489 is greater than 483.
+
+User: subtract 32 from 37.
+Vex: 5
+
+User: add 71 and 50.
+Vex: 121
+
+User: what is 43 - 88?
+Vex: -45
+
+User: is 479 greater than 288?
+Vex: yes.
+
+User: is 11 greater than 144?
+Vex: no.
+
+User: what is the smallest of 178 40 44?
+Vex: 40
+
+User: compare 53 and 137.
+Vex: 53 is less than 137.
+
+User: is 243 less than 244?
+Vex: yes.
+
+User: is 48 less than 257?
+Vex: yes.
+
+User: what is the largest of 119 100 169?
+Vex: 169
+
+User: is 302 greater than 89?
+Vex: yes.
+
+User: what is the smallest of 63 101 107?
+Vex: 63
+
+User: what is 83 plus 89?
+Vex: 172
+
+User: is 243 less than 188?
+Vex: no.
+
+User: compare 328 and 364.
+Vex: 328 is less than 364.
+
+User: is 308 greater than 365?
+Vex: no.
+
+User: what is the smallest of 186 118 76?
+Vex: 76
+
+User: what is the smallest of 184 197 174?
+Vex: 174
+
+User: is 123 greater than 387?
+Vex: no.
+
+The small model waited near the window during the morning.
+
+User: is 386 less than 294?
+Vex: no.
+
+User: compare 62 and 459.
+Vex: 62 is less than 459.
+
+User: what is 180 divided by 15?
+Vex: 12
+
+User: what is 84 plus 40?
+Vex: 124
+
+User: what is the smallest of 80 108 33?
+Vex: 33
+
+User: is 25 greater than 308?
+Vex: no.
+
+User: is 201 less than 445?
+Vex: yes.
+
+User: what is the largest of 11 43 35?
+Vex: 43
+
+User: compare 165 and 128.
+Vex: 165 is greater than 128.
+
+User: is 152 greater than 32?
+Vex: yes.
+
+User: is 194 less than 24?
+Vex: no.
+
+User: what is the largest of 37 43 156?
+Vex: 156
+
+User: what is the largest of 199 187 143?
+Vex: 199
+
+User: what is the smallest of 63 109 169?
+Vex: 63
+
+User: is 3 greater than 28?
+Vex: no.
+
+User: what is 37 minus 32?
+Vex: 5
+
+User: what is the largest of 88 146 21?
+Vex: 146
+
+User: what is the smallest of 38 112 75?
+Vex: 38
+
+User: is 399 less than 91?
+Vex: no.
+
+User: calculate 16 - 86.
+Vex: -70
+
+User: is 394 less than 236?
+Vex: no.
+
+User: is 118 less than 74?
+Vex: no.
+
+User: what is 71 - 57?
+Vex: 14
+
+User: compare 67 and 479.
+Vex: 67 is less than 479.
+
+User: is 43 less than 132?
+Vex: yes.
+
+User: calculate 63 + 63.
+Vex: 126
+
+User: is 19 greater than 125?
+Vex: no.
+
+User: compare 267 and 369.
+Vex: 267 is less than 369.
+
+User: calculate 80 + 54.
+Vex: 134
+
+User: is 233 less than 5?
+Vex: no.
+
+User: what comes next: -22 -17 -12 -7 -2 ?
+Vex: 3
+
+User: is 307 less than 366?
+Vex: yes.
+
+User: multiply 10 and 4.
+Vex: 40
+
+User: what is 26 - 93?
+Vex: -67
+
+User: what comes next: -30 -25 -20 -15 -10 ?
+Vex: -5
+
+User: what is the smallest of 125 124 114?
+Vex: 114
+
+User: describe minute.
+Vex: a minute contains sixty seconds.
+
+User: what is 84 - 95?
+Vex: -11
+
+User: is 238 less than 491?
+Vex: yes.
+
+User: what is 5 minus 59?
+Vex: -54
+
+The robot walked outside during the morning.
+
+User: what is the largest of 125 62 189?
+Vex: 189
+
+User: is 357 less than 55?
+Vex: no.
+
+User: compare 120 and 414.
+Vex: 120 is less than 414.
+
+User: is 119 less than 240?
+Vex: yes.
+
+User: compare 284 and 13.
+Vex: 284 is greater than 13.
+
+User: what is the smallest of 45 163 176?
+Vex: 45
+
+User: is 362 greater than 407?
+Vex: no.
+
+User: is 93 greater than 436?
+Vex: no.
+
+User: is 199 less than 459?
+Vex: yes.
+
+User: is 90 greater than 350?
+Vex: no.
+
+User: what is the largest of 77 62 156?
+Vex: 156
+
+User: add 3 and 83.
+Vex: 86
+
+User: is 416 greater than 201?
+Vex: yes.
+
+User: compare 403 and 111.
+Vex: 403 is greater than 111.
+
+User: compare 83 and 315.
+Vex: 83 is less than 315.
+
+User: is 451 greater than 50?
+Vex: yes.
+
+User: what is the smallest of 92 51 2?
+Vex: 2
+
+User: what is the largest of 6 1 1?
+Vex: 6
+
+User: compare 24 and 405.
+Vex: 24 is less than 405.
+
+User: is 126 less than 236?
+Vex: yes.
+
+User: is 446 less than 28?
+Vex: no.
+
+User: calculate 79 + 52.
+Vex: 131
+
+User: what is the smallest of 23 70 74?
+Vex: 23
+
+User: what is the largest of 1 177 46?
+Vex: 177
+
+User: what is the largest of 125 147 193?
+Vex: 193
+
+User: compare 232 and 22.
+Vex: 232 is greater than 22.
+
+User: is 78 less than 14?
+Vex: no.
+
+User: is 206 less than 397?
+Vex: yes.
+
+User: is 296 greater than 253?
+Vex: yes.
+
+User: compare 399 and 370.
+Vex: 399 is greater than 370.
+
+User: what is the largest of 42 159 18?
+Vex: 159
+
+User: what is 67 - 85?
+Vex: -18
+
+User: subtract 72 from 25.
+Vex: -47
+
+User: is 225 less than 27?
+Vex: no.
+
+User: is 340 greater than 367?
+Vex: no.
+
+The computer looked at the desk during the morning.
+
+User: what comes next: -5 -7 -9 -11 -13 ?
+Vex: -15
+
+User: what is the largest of 76 180 18?
+Vex: 180
+
+User: compare 358 and 333.
+Vex: 358 is greater than 333.
+
+User: what is 60 plus 62?
+Vex: 122
+
+The scientist learned inside the room during the morning.
+
+User: is 37 less than 343?
+Vex: yes.
+
+User: is 159 greater than 72?
+Vex: yes.
+
+User: what is the largest of 196 60 144?
+Vex: 196
+
+User: is 173 greater than 152?
+Vex: yes.
+
+User: what is the smallest of 100 159 91?
+Vex: 91
+
+User: what is the smallest of 132 48 104?
+Vex: 48
+
+User: what is 86 - 67?
+Vex: 19
+
+User: what is the smallest of 199 122 57?
+Vex: 57
+
+User: is 451 less than 458?
+Vex: yes.
+
+User: what is the largest of 30 94 89?
+Vex: 94
+
+User: what is the largest of 99 83 8?
+Vex: 99
+
+User: is 459 less than 135?
+Vex: no.
+
+User: subtract 49 from 68.
+Vex: 19
+
+User: compare 340 and 77.
+Vex: 340 is greater than 77.
+
+User: is 478 less than 480?
+Vex: yes.
+
+User: calculate 88 - 74.
+Vex: 14
+
+User: is 198 less than 254?
+Vex: yes.
+
+User: calculate 10 - 75.
+Vex: -65
+
+User: is 387 less than 91?
+Vex: no.
+
+User: compare 205 and 374.
+Vex: 205 is less than 374.
+
+User: is 16 greater than 337?
+Vex: no.
+
+User: is 364 greater than 338?
+Vex: yes.
+
+User: is 197 less than 471?
+Vex: yes.
+
+The small model walked at the desk while everything was quiet.
+
+User: what is the largest of 114 25 195?
+Vex: 195
+
+User: is 345 greater than 385?
+Vex: no.
+
+User: is 371 greater than 77?
+Vex: yes.
+
+User: is 255 less than 476?
+Vex: yes.
+
+User: is 163 greater than 23?
+Vex: yes.
+
+User: multiply 8 and 7.
+Vex: 56
+
+User: is 114 less than 354?
+Vex: yes.
+
+User: is 215 less than 448?
+Vex: yes.
+
+User: calculate 43 - 66.
+Vex: -23
+
+User: what is 48 plus 14?
+Vex: 62
+
+The cat walked at the desk before lunch.
+
+User: is 466 greater than 305?
+Vex: yes.
+
+User: what is the smallest of 152 81 87?
+Vex: 81
+
+User: is 339 less than 327?
+Vex: no.
+
+User: multiply 22 and 7.
+Vex: 154
+
+User: is 432 less than 394?
+Vex: no.
+
+User: compare 107 and 64.
+Vex: 107 is greater than 64.
+
+User: calculate 49 - 61.
+Vex: -12
+
+User: what is the largest of 49 94 32?
+Vex: 94
+
+User: compare 168 and 423.
+Vex: 168 is less than 423.
+
+User: compare 200 and 20.
+Vex: 200 is greater than 20.
+
+User: is 282 less than 118?
+Vex: no.
+
+The bird rested near the window for a short time.
+
+User: compare 297 and 334.
+Vex: 297 is less than 334.
+
+User: what is the largest of 149 112 83?
+Vex: 149
+
+User: is 273 greater than 228?
+Vex: yes.
+
+User: what is the largest of 56 197 66?
+Vex: 197
+
+User: compare 358 and 133.
+Vex: 358 is greater than 133.
+
+User: what is the smallest of 167 98 177?
+Vex: 98
+
+User: is 364 less than 86?
+Vex: no.
+
+User: what is the largest of 76 102 145?
+Vex: 145
+
+User: compare 453 and 126.
+Vex: 453 is greater than 126.
+
+User: is 373 greater than 66?
+Vex: yes.
+
+User: is 261 less than 8?
+Vex: no.
+
+User: is 146 greater than 328?
+Vex: no.
+
+User: multiply 0 and 18.
+Vex: 0
+
+User: calculate 27 - 18.
+Vex: 9
+
+User: compare 70 and 253.
+Vex: 70 is less than 253.
+
+User: calculate 56 - 57.
+Vex: -1
+
+User: what is 16 times 23?
+Vex: 368
+
+User: what is 9 times 11?
+Vex: 99
+
+User: what is the smallest of 75 41 20?
+Vex: 20
+
+User: what is the largest of 77 72 130?
+Vex: 130
+
+User: what is the smallest of 87 197 124?
+Vex: 87
+
+User: is 409 greater than 104?
+Vex: yes.
+
+User: compare 142 and 218.
+Vex: 142 is less than 218.
+
+User: is 451 greater than 324?
+Vex: yes.
+
+User: is 129 even or odd?
+Vex: 129 is odd.
+
+User: what is 88 + 79?
+Vex: 167
+
+The student rested near the window for a short time.
+
+User: is 275 greater than 14?
+Vex: yes.
+
+User: is 447 less than 440?
+Vex: no.
+
+User: compare 49 and 252.
+Vex: 49 is less than 252.
+
+User: compare 237 and 53.
+Vex: 237 is greater than 53.
+
+User: what is the largest of 146 0 138?
+Vex: 146
+
+User: calculate 6 * 23.
+Vex: 138
+
+User: is 49 less than 246?
+Vex: yes.
+
+User: what is the largest of 43 41 12?
+Vex: 43
+
+The cat waited outside during the morning.
+
+User: is 184 less than 11?
+Vex: no.
+
+User: compare 273 and 269.
+Vex: 273 is greater than 269.
+
+User: compare 287 and 169.
+Vex: 287 is greater than 169.
+
+User: is 499 greater than 433?
+Vex: yes.
+
+User: is 193 greater than 255?
+Vex: no.
+
+User: is 483 greater than 224?
+Vex: yes.
+
+User: calculate 11 * 21.
+Vex: 231
+
+User: add 17 and 32.
+Vex: 49
+
+User: what is the largest of 97 142 86?
+Vex: 142
+
+User: is 8 greater than 373?
+Vex: no.
+
+User: is 480 less than 465?
+Vex: no.
+
+User: is 460 greater than 165?
+Vex: yes.
+
+User: compare 107 and 238.
+Vex: 107 is less than 238.
+
+User: what is the smallest of 39 161 4?
+Vex: 4
+
+User: what is 63 + 18?
+Vex: 81
+
+User: what is the smallest of 100 179 159?
+Vex: 100
+
+User: is 56 even?
+Vex: yes.
+
+User: compare 476 and 438.
+Vex: 476 is greater than 438.
+
+User: is 434 less than 285?
+Vex: no.
+
+User: what is the largest of 145 28 105?
+Vex: 145
+
+User: what is the largest of 105 30 7?
+Vex: 105
+
+User: is 223 greater than 421?
+Vex: no.
+
+User: what is the largest of 13 124 88?
+Vex: 124
+
+User: is 163 less than 440?
+Vex: yes.
+
+User: compare 406 and 123.
+Vex: 406 is greater than 123.
+
+User: compare 24 and 234.
+Vex: 24 is less than 234.
+
+User: what is 77 - 78?
+Vex: -1
+
+User: what is the smallest of 141 169 102?
+Vex: 102
+
+User: is 308 less than 300?
+Vex: no.
+
+User: is 182 greater than 106?
+Vex: yes.
+
+User: is 405 greater than 267?
+Vex: yes.
+
+User: calculate 6 - 39.
+Vex: -33
+
+User: compare 409 and 387.
+Vex: 409 is greater than 387.
+
+User: what is the largest of 67 71 170?
+Vex: 170
+
+User: what is the smallest of 155 67 119?
+Vex: 67
+
+User: is 404 greater than 444?
+Vex: no.
+
+User: what is the smallest of 62 14 22?
+Vex: 14
+
+User: what comes next: -42 -39 -36 -33 -30 ?
+Vex: -27
+
+User: what is the smallest of 76 67 141?
+Vex: 67
+
+User: what is 19 minus 68?
+Vex: -49
+
+User: what is the smallest of 46 62 11?
+Vex: 11
+
+User: compare 419 and 186.
+Vex: 419 is greater than 186.
+
+User: is 90 greater than 151?
+Vex: no.
+
+User: calculate 59 - 98.
+Vex: -39
+
+User: what is 3 multiplied by 24?
+Vex: 72
+
+User: what is the largest of 176 61 71?
+Vex: 176
+
+User: compare 320 and 268.
+Vex: 320 is greater than 268.
+
+User: is 96 greater than 239?
+Vex: no.
+
+User: compare 178 and 500.
+Vex: 178 is less than 500.
+
+The dog watched beside the house for a short time.
+
+User: is 233 less than 222?
+Vex: no.
+
+User: what is 95 minus 33?
+Vex: 62
+
+User: add 82 and 38.
+Vex: 120
+
+User: compare 293 and 144.
+Vex: 293 is greater than 144.
+
+User: what is the largest of 34 45 57?
+Vex: 57
+
+The student looked in the garden while everything was quiet.
+
+User: what is 17 plus 12?
+Vex: 29
+
+User: what is 39 plus 92?
+Vex: 131
+
+User: calculate 340 / 20.
+Vex: 17
+
+User: compare 366 and 221.
+Vex: 366 is greater than 221.
+
+User: what is 11 plus 44?
+Vex: 55
+
+User: is 494 greater than 263?
+Vex: yes.
+
+User: what is the smallest of 38 115 25?
+Vex: 25
+
+User: what is the smallest of 43 115 55?
+Vex: 43
+
+User: is 441 greater than 321?
+Vex: yes.
+
+User: is 279 greater than 188?
+Vex: yes.
+
+User: is 179 less than 127?
+Vex: no.
+
+User: what is the largest of 4 69 75?
+Vex: 75
+
+User: is 389 greater than 194?
+Vex: yes.
+
+User: calculate 3 * 2.
+Vex: 6
+
+User: what comes next: 87 79 71 63 55 ?
+Vex: 47
+
+User: what is the largest of 128 85 120?
+Vex: 128
+
+User: is 386 less than 177?
+Vex: no.
+
+User: is 38 less than 365?
+Vex: yes.
+
+User: is 34 less than 412?
+Vex: yes.
+
+User: is 98 less than 444?
+Vex: yes.
+
+User: what comes next: 15 25 35 45 55 ?
+Vex: 65
+
+User: is 24 less than 449?
+Vex: yes.
+
+User: is 422 less than 284?
+Vex: no.
+
+User: is 419 greater than 334?
+Vex: yes.
+
+User: compare 285 and 133.
+Vex: 285 is greater than 133.
+
+User: is 68 less than 423?
+Vex: yes.
+
+User: calculate 25 * 13.
+Vex: 325
+
+User: is 372 greater than 111?
+Vex: yes.
+
+User: what is the largest of 60 81 105?
+Vex: 105
+
+User: compare 92 and 147.
+Vex: 92 is less than 147.
+
+User: what comes next: -45 -41 -37 -33 -29 ?
+Vex: -25
+
+User: is 475 less than 403?
+Vex: no.
+
+User: what is the smallest of 150 39 59?
+Vex: 39
+
+User: is 165 greater than 197?
+Vex: no.
+
+User: what is 23 + 58?
+Vex: 81
+
+User: what is the largest of 43 115 55?
+Vex: 115
+
+User: is 439 greater than 112?
+Vex: yes.
+
+User: what is the largest of 69 67 70?
+Vex: 70
+
+User: compare 35 and 426.
+Vex: 35 is less than 426.
+
+User: compare 451 and 290.
+Vex: 451 is greater than 290.
+
+User: what is the largest of 186 54 144?
+Vex: 186
+
+User: is 84 greater than 158?
+Vex: no.
+
+Alex had a book. Alex placed the book on the chair. The book was now on the chair.
+
+User: what is the largest of 50 39 141?
+Vex: 141
+
+The cat learned near the window for a short time.
+
+User: what is the smallest of 125 1 107?
+Vex: 1
+
+User: is 381 less than 321?
+Vex: no.
+
+User: is 3 less than 305?
+Vex: yes.
+
+User: what is the smallest of 84 89 83?
+Vex: 83
+
+User: what comes next: -28 -33 -38 -43 -48 ?
+Vex: -53
+
+User: compare 163 and 113.
+Vex: 163 is greater than 113.
+
+User: is 132 less than 308?
+Vex: yes.
+
+User: is 331 greater than 205?
+Vex: yes.
+
+User: compare 83 and 115.
+Vex: 83 is less than 115.
+
+User: compare 262 and 473.
+Vex: 262 is less than 473.
+
+User: compare 307 and 390.
+Vex: 307 is less than 390.
+
+User: is 240 less than 280?
+Vex: yes.
+
+User: is 275 less than 171?
+Vex: no.
+
+User: what is the smallest of 193 129 84?
+Vex: 84
+
+User: what is the largest of 103 111 79?
+Vex: 111
+
+User: compare 27 and 354.
+Vex: 27 is less than 354.
+
+User: what is the largest of 113 198 45?
+Vex: 198
+
+User: calculate 10 + 71.
+Vex: 81
+
+User: what is the smallest of 42 130 115?
+Vex: 42
+
+User: what comes next: 29 31 33 35 37 ?
+Vex: 39
+
+User: is 253 less than 484?
+Vex: yes.
+
+User: what comes next: 65 70 75 80 85 ?
+Vex: 90
+
+User: what is 100 + 51?
+Vex: 151
+
+User: compare 199 and 170.
+Vex: 199 is greater than 170.
+
+User: is 482 less than 170?
+Vex: no.
+
+User: compare 461 and 452.
+Vex: 461 is greater than 452.
+
+User: what is the largest of 46 122 117?
+Vex: 122
+
+The small model moved at the desk during the morning.
+
+User: what is the largest of 105 129 111?
+Vex: 129
+
+User: is 365 less than 335?
+Vex: no.
+
+User: compare 75 and 94.
+Vex: 75 is less than 94.
+
+User: what is the largest of 22 100 23?
+Vex: 100
+
+User: is 281 greater than 247?
+Vex: yes.
+
+User: compare 149 and 34.
+Vex: 149 is greater than 34.
+
+User: calculate 48 + 95.
+Vex: 143
+
+User: is 101 less than 203?
+Vex: yes.
+
+User: is 423 greater than 36?
+Vex: yes.
+
+User: compare 291 and 313.
+Vex: 291 is less than 313.
+
+User: what is the smallest of 106 129 140?
+Vex: 106
+
+User: what is the largest of 142 155 66?
+Vex: 155
+
+User: compare 277 and 479.
+Vex: 277 is less than 479.
+
+User: is 441 greater than 492?
+Vex: no.
+
+User: is 339 greater than 374?
+Vex: no.
+
+User: is 69 greater than 158?
+Vex: no.
+
+User: is 400 greater than 118?
+Vex: yes.
+
+User: add 9 and 66.
+Vex: 75
+
+User: compare 14 and 262.
+Vex: 14 is less than 262.
+
+User: compare 444 and 36.
+Vex: 444 is greater than 36.
+
+User: is 473 less than 361?
+Vex: no.
+
+User: is 172 less than 114?
+Vex: no.
+
+User: what is the largest of 100 25 188?
+Vex: 188
+
+User: what is 45 - 0?
+Vex: 45
+
+User: what comes next: -19 -15 -11 -7 -3 ?
+Vex: 1
+
+The programmer learned inside the room while everything was quiet.
+
+The student rested beside the house and then stopped.
+
+User: is 357 less than 61?
+Vex: no.
+
+User: compare 216 and 113.
+Vex: 216 is greater than 113.
+
+User: compare 275 and 14.
+Vex: 275 is greater than 14.
+
+User: what is 20 multiplied by 19?
+Vex: 380
+
+User: compare 495 and 141.
+Vex: 495 is greater than 141.
+
+User: is 113 greater than 205?
+Vex: no.
+
+User: compare 261 and 489.
+Vex: 261 is less than 489.
+
+User: what comes next: -40 -37 -34 -31 -28 ?
+Vex: -25
+
+User: what comes next: 69 63 57 51 45 ?
+Vex: 39
+
+User: multiply 17 and 4.
+Vex: 68
+
+User: is 328 less than 343?
+Vex: yes.
+
+User: what is 81 plus 57?
+Vex: 138
+
+User: what is 54 + 16?
+Vex: 70
+
+User: is 410 greater than 148?
+Vex: yes.
+
+User: calculate 3 + 86.
+Vex: 89
+
+User: calculate 35 - 86.
+Vex: -51
+
+User: compare 15 and 117.
+Vex: 15 is less than 117.
+
+User: is 100 less than 262?
+Vex: yes.
+
+User: what is the smallest of 70 1 81?
+Vex: 1
+
+User: is 174 less than 250?
+Vex: yes.
+
+The small model worked in the garden during the morning.
+
+User: what is 59 minus 80?
+Vex: -21
+
+User: is 142 greater than 134?
+Vex: yes.
+
+User: is 77 greater than 249?
+Vex: no.
+
+User: is 499 less than 140?
+Vex: no.
+
+User: compare 439 and 358.
+Vex: 439 is greater than 358.
+
+User: calculate 47 + 80.
+Vex: 127
+
+User: is 130 greater than 490?
+Vex: no.
+
+User: calculate 45 + 31.
+Vex: 76
+
+User: is 187 greater than 104?
+Vex: yes.
+
+User: what is the largest of 65 59 51?
+Vex: 65
+
+User: what is the smallest of 148 39 36?
+Vex: 36
+
+User: is 474 less than 253?
+Vex: no.
+
+User: is 207 less than 50?
+Vex: no.
+
+User: what comes next: 63 62 61 60 59 ?
+Vex: 58
+
+User: compare 98 and 109.
+Vex: 98 is less than 109.
+
+User: is 80 greater than 275?
+Vex: no.
+
+The computer moved at the desk while everything was quiet.
+
+User: calculate 12 * 23.
+Vex: 276
+
+User: what is the smallest of 23 189 48?
+Vex: 23
+
+User: what comes next: -23 -20 -17 -14 -11 ?
+Vex: -8
+
+User: is 347 greater than 51?
+Vex: yes.
+
+User: what is the largest of 146 195 9?
+Vex: 195
+
+User: what is the largest of 93 76 161?
+Vex: 161
+
+User: what is 86 + 66?
+Vex: 152
+
+User: is 179 less than 334?
+Vex: yes.
+
+User: is 194 less than 329?
+Vex: yes.
+
+User: what is the largest of 83 31 144?
+Vex: 144
+
+User: is 73 greater than 119?
+Vex: no.
+
+User: what is the largest of 0 174 17?
+Vex: 174
+
+User: is 185 less than 49?
+Vex: no.
+
+User: compare 424 and 437.
+Vex: 424 is less than 437.
+
+User: calculate 20 * 1.
+Vex: 20
+
+User: is 329 less than 294?
+Vex: no.
+
+User: what comes next: -29 -34 -39 -44 -49 ?
+Vex: -54
+
+User: is 217 less than 68?
+Vex: no.
+
+User: is 98 less than 53?
+Vex: no.
+
+User: is 88 less than 343?
+Vex: yes.
+
+User: what is 40 + 70?
+Vex: 110
+
+User: what is the largest of 57 29 36?
+Vex: 57
+
+User: what comes next: 49 51 53 55 57 ?
+Vex: 59
+
+User: add 65 and 7.
+Vex: 72
+
+User: is 442 less than 332?
+Vex: no.
+
+User: compare 483 and 315.
+Vex: 483 is greater than 315.
+
+User: is 22 greater than 242?
+Vex: no.
+
+The cat learned inside the room during the morning.
+
+User: what is the largest of 51 94 4?
+Vex: 94
+
+User: compare 25 and 137.
+Vex: 25 is less than 137.
+
+User: is 270 less than 189?
+Vex: no.
+
+User: is 146 less than 159?
+Vex: yes.
+
+User: what is the largest of 181 33 68?
+Vex: 181
+
+User: is 400 greater than 359?
+Vex: yes.
+
+User: what is the smallest of 40 7 44?
+Vex: 7
+
+User: is 140 less than 289?
+Vex: yes.
+
+User: subtract 85 from 95.
+Vex: 10
+
+User: subtract 19 from 50.
+Vex: 31
+
+User: compare 100 and 453.
+Vex: 100 is less than 453.
+
+User: what is the largest of 68 182 16?
+Vex: 182
+
+User: is 344 greater than 263?
+Vex: yes.
+
+User: what is the largest of 72 93 133?
+Vex: 133
+
+User: compare 456 and 126.
+Vex: 456 is greater than 126.
+
+User: what is the smallest of 163 148 189?
+Vex: 148
+
+User: is 269 less than 412?
+Vex: yes.
+
+User: is 264 greater than 230?
+Vex: yes.
+
+User: compare 8 and 230.
+Vex: 8 is less than 230.
+
+User: is 39 less than 406?
+Vex: yes.
+
+User: what is the largest of 199 169 88?
+Vex: 199
+
+User: what is the largest of 110 189 61?
+Vex: 189
+
+User: compare 12 and 366.
+Vex: 12 is less than 366.
+
+User: what is the smallest of 92 74 134?
+Vex: 74
+
+User: what is 71 - 28?
+Vex: 43
+
+User: what is the smallest of 191 10 181?
+Vex: 10
+
+User: is 252 less than 229?
+Vex: no.
+
+User: what is the smallest of 82 172 80?
+Vex: 80
+
+User: what is 12 - 8?
+Vex: 4
+
+User: what is the smallest of 12 36 25?
+Vex: 12
+
+User: is 331 greater than 344?
+Vex: no.
+
+User: calculate 58 + 18.
+Vex: 76
+
+User: is 210 less than 439?
+Vex: yes.
+
+User: compare 229 and 108.
+Vex: 229 is greater than 108.
+
+User: calculate 45 + 48.
+Vex: 93
+
+User: is 215 greater than 18?
+Vex: yes.
+
+User: compare 377 and 316.
+Vex: 377 is greater than 316.
+
+User: compare 128 and 126.
+Vex: 128 is greater than 126.
+
+User: compare 346 and 147.
+Vex: 346 is greater than 147.
+
+User: subtract 97 from 83.
+Vex: -14
+
+User: compare 121 and 193.
+Vex: 121 is less than 193.
+
+User: what is the smallest of 74 173 47?
+Vex: 47
+
+User: compare 475 and 287.
+Vex: 475 is greater than 287.
+
+User: what is the largest of 117 58 198?
+Vex: 198
+
+the Moon is Earth's natural satellite.
+
+User: is 343 greater than 105?
+Vex: yes.
+
+User: is 164 greater than 466?
+Vex: no.
+
+User: what is 36 minus 60?
+Vex: -24
+
+User: what is 11 multiplied by 20?
+Vex: 220
+
+User: is 328 less than 396?
+Vex: yes.
+
+User: is 104 greater than 259?
+Vex: no.
+
+User: compare 12 and 400.
+Vex: 12 is less than 400.
+
+User: is 494 less than 63?
+Vex: no.
+
+User: what is the largest of 174 0 39?
+Vex: 174
+
+Text: Sam put the lamp on the table.
+Question: where is the lamp?
+Answer: the lamp is on the table.
+
+The programmer looked near the window during the morning.
+
+User: what comes next: 10 20 30 40 50 ?
+Vex: 60
+
+User: compare 96 and 26.
+Vex: 96 is greater than 26.
+
+User: is 200 greater than 431?
+Vex: no.
+
+User: what is the smallest of 4 90 93?
+Vex: 4
+
+User: compare 289 and 185.
+Vex: 289 is greater than 185.
+
+User: compare 307 and 248.
+Vex: 307 is greater than 248.
+
+The scientist watched beside the house while everything was quiet.
+
+User: is 409 greater than 48?
+Vex: yes.
+
+User: is 106 less than 288?
+Vex: yes.
+
+User: is 322 greater than 460?
+Vex: no.
+
+User: compare 100 and 369.
+Vex: 100 is less than 369.
+
+User: what is the smallest of 180 69 12?
+Vex: 12
+
+User: what is 13 multiplied by 18?
+Vex: 234
+
+User: is 444 greater than 79?
+Vex: yes.
+
+User: is 116 greater than 219?
+Vex: no.
+
+The dog looked near the window before lunch.
+
+User: compare 439 and 176.
+Vex: 439 is greater than 176.
+
+User: is 397 greater than 438?
+Vex: no.
+
+User: what is 87 minus 57?
+Vex: 30
+
+User: is 84 odd?
+Vex: no.
+
+User: is 179 less than 247?
+Vex: yes.
+
+User: is 407 greater than 63?
+Vex: yes.
+
+User: is 354 less than 291?
+Vex: no.
+
+User: what is the smallest of 146 111 199?
+Vex: 111
+
+User: is 310 greater than 64?
+Vex: yes.
+
+User: compare 69 and 158.
+Vex: 69 is less than 158.
+
+User: is 471 greater than 148?
+Vex: yes.
+
+User: what is 3 - 35?
+Vex: -32
+
+User: compare 176 and 111.
+Vex: 176 is greater than 111.
+
+User: is 10 less than 173?
+Vex: yes.
+
+User: calculate 41 - 69.
+Vex: -28
+
+User: is 223 greater than 409?
+Vex: no.
+
+User: what is dog?
+Vex: a dog is an animal commonly kept by people as a pet.
+
+User: what is the largest of 188 163 8?
+Vex: 188
+
+User: what is the smallest of 84 163 170?
+Vex: 84
+
+User: is 10 greater than 415?
+Vex: no.
+
+User: what is the largest of 38 142 133?
+Vex: 142
+
+User: is 198 greater than 173?
+Vex: yes.
+
+User: what is 23 + 96?
+Vex: 119
+
+User: what is 73 plus 1?
+Vex: 74
+
+User: compare 123 and 387.
+Vex: 123 is less than 387.
+
+User: is 146 less than 370?
+Vex: yes.
+
+User: compare 210 and 204.
+Vex: 210 is greater than 204.
+
+User: is 374 greater than 459?
+Vex: no.
+
+User: add 38 and 76.
+Vex: 114
+
+User: calculate 87 + 74.
+Vex: 161
+
+User: is 310 greater than 225?
+Vex: yes.
+
+User: compare 43 and 482.
+Vex: 43 is less than 482.
+
+The student learned inside the room while everything was quiet.
+
+User: what is the smallest of 130 152 8?
+Vex: 8
+
+User: what is the smallest of 24 16 163?
+Vex: 16
+
+User: calculate 53 + 69.
+Vex: 122
+
+User: is 72 less than 123?
+Vex: yes.
+
+The small model moved beside the house for a short time.
+
+User: is 244 less than 466?
+Vex: yes.
+
+User: is 293 greater than 198?
+Vex: yes.
+
+The bird walked at the desk before lunch.
+
+User: what is the largest of 141 103 61?
+Vex: 141
+
+User: is 424 less than 89?
+Vex: no.
+
+User: add 0 and 78.
+Vex: 78
+
+User: what is the smallest of 198 152 118?
+Vex: 118
+
+User: add 55 and 74.
+Vex: 129
+
+User: calculate 100 / 20.
+Vex: 5
+
+User: what is the largest of 64 45 74?
+Vex: 74
+
+User: is 157 greater than 255?
+Vex: no.
+
+User: what is the smallest of 44 116 154?
+Vex: 44
+
+User: compare 428 and 48.
+Vex: 428 is greater than 48.
+
+User: what is 7 times 18?
+Vex: 126
+
+User: what is the smallest of 106 110 178?
+Vex: 106
+
+User: what is 54 minus 97?
+Vex: -43
+
+User: is 298 greater than 402?
+Vex: no.
+
+User: compare 32 and 24.
+Vex: 32 is greater than 24.
+
+User: is 140 greater than 288?
+Vex: no.
+
+User: is 443 greater than 341?
+Vex: yes.
+
+User: is 437 less than 468?
+Vex: yes.
+
+User: what comes next: -18 -8 2 12 22 ?
+Vex: 32
+
+User: is 192 less than 447?
+Vex: yes.
+
+User: is 400 greater than 83?
+Vex: yes.
+
+User: is 252 greater than 476?
+Vex: no.
+
+User: calculate 21 - 57.
+Vex: -36
+
+User: compare 234 and 132.
+Vex: 234 is greater than 132.
+
+User: what is the smallest of 52 125 152?
+Vex: 52
+
+User: what is the largest of 187 14 32?
+Vex: 187
+
+User: compare 278 and 392.
+Vex: 278 is less than 392.
+
+User: what is the largest of 129 21 112?
+Vex: 129
+
+User: what is 58 minus 61?
+Vex: -3
+
+User: is 123 greater than 449?
+Vex: no.
+
+User: compare 342 and 327.
+Vex: 342 is greater than 327.
+
+User: what is the largest of 58 68 57?
+Vex: 68
+
+User: is 179 greater than 474?
+Vex: no.
+
+User: what is the largest of 1 174 67?
+Vex: 174
+
+The cat worked in the garden and then stopped.
+
+User: is 236 greater than 271?
+Vex: no.
+
+User: what is the smallest of 1 196 92?
+Vex: 1
+
+User: compare 326 and 211.
+Vex: 326 is greater than 211.
+
+User: is 458 greater than 138?
+Vex: yes.
+
+User: compare 88 and 72.
+Vex: 88 is greater than 72.
+
+User: is 473 less than 384?
+Vex: no.
+
+User: is 318 less than 286?
+Vex: no.
+
+User: what comes next: -37 -42 -47 -52 -57 ?
+Vex: -62
+
+User: is 300 less than 312?
+Vex: yes.
+
+User: is 166 greater than 253?
+Vex: no.
+
+User: is 4 less than 293?
+Vex: yes.
+
+User: is 107 less than 173?
+Vex: yes.
+
+User: is 59 less than 487?
+Vex: yes.
+
+User: calculate 7 + 26.
+Vex: 33
+
+User: is 253 greater than 484?
+Vex: no.
+
+User: what is 12 divided by 3?
+Vex: 4
+
+User: compare 311 and 117.
+Vex: 311 is greater than 117.
+
+User: is 469 greater than 164?
+Vex: yes.
+
+User: is 179 greater than 26?
+Vex: yes.
+
+User: is 172 greater than 140?
+Vex: yes.
+
+User: what is the smallest of 58 103 146?
+Vex: 58
+
+Text: Morgan put the computer on the chair.
+Question: where is the computer?
+Answer: the computer is on the chair.
+
+User: what is the smallest of 78 155 79?
+Vex: 78
+
+User: calculate 97 + 47.
+Vex: 144
+
+User: is 57 less than 15?
+Vex: no.
+
+User: what comes next: -46 -50 -54 -58 -62 ?
+Vex: -66
+
+The student waited beside the house during the morning.
+
+User: compare 151 and 150.
+Vex: 151 is greater than 150.
+
+User: is 8 greater than 494?
+Vex: no.
+
+User: is 319 greater than 391?
+Vex: no.
+
+User: calculate 63 + 65.
+Vex: 128
+
+User: what is 37 - 56?
+Vex: -19
+
+User: compare 37 and 149.
+Vex: 37 is less than 149.
+
+The small model waited in the garden while everything was quiet.
+
+User: what is 30 - 78?
+Vex: -48
+
+User: compare 379 and 480.
+Vex: 379 is less than 480.
+
+User: what is the largest of 85 185 72?
+Vex: 185
+
+User: what is the largest of 181 41 117?
+Vex: 181
+
+User: what is the largest of 55 168 154?
+Vex: 168
+
+User: compare 60 and 415.
+Vex: 60 is less than 415.
+
+User: is 75 even or odd?
+Vex: 75 is odd.
+
+User: is 222 greater than 321?
+Vex: no.
+
+User: compare 40 and 67.
+Vex: 40 is less than 67.
+
+User: is 62 greater than 169?
+Vex: no.
+
+User: is 268 greater than 50?
+Vex: yes.
+
+User: is 341 less than 374?
+Vex: yes.
+
+User: what is the smallest of 12 137 190?
+Vex: 12
+
+User: what comes next: 81 83 85 87 89 ?
+Vex: 91
+
+User: what is 42 plus 17?
+Vex: 59
+
+User: is 426 greater than 40?
+Vex: yes.
+
+User: what is 29 plus 7?
+Vex: 36
+
+User: is 350 greater than 184?
+Vex: yes.
+
+User: is 298 greater than 62?
+Vex: yes.
+
+User: compare 195 and 205.
+Vex: 195 is less than 205.
+
+User: what is the largest of 103 118 84?
+Vex: 118
+
+User: what is the largest of 0 110 119?
+Vex: 119
+
+User: is 70 less than 419?
+Vex: yes.
+
+User: compare 310 and 243.
+Vex: 310 is greater than 243.
+
+User: is 441 less than 305?
+Vex: no.
+
+The bird watched outside and then stopped.
+
+User: calculate 35 + 91.
+Vex: 126
+
+User: what comes next: 31 37 43 49 55 ?
+Vex: 61
+
+User: is 143 less than 269?
+Vex: yes.
+
+User: what is the smallest of 83 134 150?
+Vex: 83
+
+User: what is the largest of 143 16 55?
+Vex: 143
+
+User: multiply 20 and 16.
+Vex: 320
+
+User: calculate 30 + 46.
+Vex: 76
+
+User: compare 199 and 459.
+Vex: 199 is less than 459.
+
+User: is 40 less than 391?
+Vex: yes.
+
+User: what is the smallest of 198 194 101?
+Vex: 101
+
+User: compare 300 and 75.
+Vex: 300 is greater than 75.
+
+User: is 239 greater than 189?
+Vex: yes.
+
+User: compare 460 and 56.
+Vex: 460 is greater than 56.
+
+User: is 109 greater than 207?
+Vex: no.
+
+User: what is the largest of 115 126 10?
+Vex: 126
+
+User: is 244 less than 157?
+Vex: no.
+
+User: calculate 204 / 17.
+Vex: 12
+
+User: is 89 less than 281?
+Vex: yes.
+
+User: what is 95 - 53?
+Vex: 42
+
+User: what is the largest of 137 179 108?
+Vex: 179
+
+The small model rested inside the room for a short time.
+
+User: add 30 and 47.
+Vex: 77
+
+User: what is 17 divided by 17?
+Vex: 1
+
+User: what is 78 plus 46?
+Vex: 124
+
+User: what comes next: 60 56 52 48 44 ?
+Vex: 40
+
+User: what is 5 multiplied by 7?
+Vex: 35
+
+User: what comes next: 97 99 101 103 105 ?
+Vex: 107
+
+User: what is the largest of 94 182 67?
+Vex: 182
+
+User: calculate 2 * 20.
+Vex: 40
+
+User: compare 275 and 287.
+Vex: 275 is less than 287.
+
+User: what is the largest of 37 34 57?
+Vex: 57
+
+User: what is the smallest of 21 40 79?
+Vex: 21
+
+User: what is 51 plus 34?
+Vex: 85
+
+User: is 83 greater than 166?
+Vex: no.
+
+User: what is the largest of 185 31 58?
+Vex: 185
+
+User: compare 185 and 73.
+Vex: 185 is greater than 73.
+
+User: what is the largest of 63 123 177?
+Vex: 177
+
+User: what is the largest of 37 158 44?
+Vex: 158
+
+User: is 439 greater than 377?
+Vex: yes.
+
+User: is 411 greater than 289?
+Vex: yes.
+
+User: is 370 less than 195?
+Vex: no.
+
+User: compare 477 and 341.
+Vex: 477 is greater than 341.
+
+User: compare 365 and 145.
+Vex: 365 is greater than 145.
+
+User: is 304 less than 306?
+Vex: yes.
+
+User: is 225 greater than 343?
+Vex: no.
+
+User: calculate 81 + 91.
+Vex: 172
+
+User: is 282 less than 19?
+Vex: no.
+
+User: what is the smallest of 21 31 191?
+Vex: 21
+
+User: compare 292 and 28.
+Vex: 292 is greater than 28.
+
+User: what is 7 times 20?
+Vex: 140
+
+User: is 451 less than 100?
+Vex: no.
+
+User: is 60 less than 21?
+Vex: no.
+
+User: what is 22 - 8?
+Vex: 14
+
+User: is 60 greater than 398?
+Vex: no.
+
+User: is 330 less than 338?
+Vex: yes.
+
+User: compare 270 and 368.
+Vex: 270 is less than 368.
+
+User: is 431 greater than 218?
+Vex: yes.
+
+User: what is 15 minus 72?
+Vex: -57
+
+User: what is the smallest of 28 121 140?
+Vex: 28
+
+User: is 351 less than 391?
+Vex: yes.
+
+User: is 26 less than 69?
+Vex: yes.
+
+User: compare 78 and 359.
+Vex: 78 is less than 359.
+
+User: is 480 greater than 287?
+Vex: yes.
+
+User: what is the smallest of 120 80 65?
+Vex: 65
+
+User: is 374 less than 345?
+Vex: no.
+
+User: is 224 greater than 140?
+Vex: yes.
+
+User: what is the largest of 62 115 113?
+Vex: 115
+
+User: what comes next: 18 23 28 33 38 ?
+Vex: 43
+
+User: subtract 56 from 8.
+Vex: -48
+
+User: is 341 greater than 181?
+Vex: yes.
+
+Alex had a computer. Alex placed the computer on the floor. The computer was now on the floor.
+
+User: what is the smallest of 149 83 25?
+Vex: 25
+
+User: compare 404 and 111.
+Vex: 404 is greater than 111.
+
+User: what is the largest of 168 137 70?
+Vex: 168
+
+User: what is the largest of 143 39 172?
+Vex: 172
+
+User: compare 322 and 460.
+Vex: 322 is less than 460.
+
+User: compare 276 and 87.
+Vex: 276 is greater than 87.
+
+User: compare 30 and 306.
+Vex: 30 is less than 306.
+
+User: compare 102 and 221.
+Vex: 102 is less than 221.
+
+User: is 107 greater than 467?
+Vex: no.
+
+User: compare 447 and 275.
+Vex: 447 is greater than 275.
+
+User: is 420 greater than 377?
+Vex: yes.
+
+User: what is the smallest of 117 152 134?
+Vex: 117
+
+User: compare 469 and 225.
+Vex: 469 is greater than 225.
+
+User: what is the largest of 172 147 114?
+Vex: 172
+
+User: is 193 less than 434?
+Vex: yes.
+
+User: compare 384 and 156.
+Vex: 384 is greater than 156.
+
+User: what is 0 times 8?
+Vex: 0
+
+User: is 125 greater than 243?
+Vex: no.
+
+User: what is 59 plus 76?
+Vex: 135
+
+User: is 50 less than 207?
+Vex: yes.
+
+User: add 64 and 44.
+Vex: 108
+
+User: compare 69 and 78.
+Vex: 69 is less than 78.
+
+User: compare 374 and 287.
+Vex: 374 is greater than 287.
+
+User: subtract 23 from 13.
+Vex: -10
+
+User: compare 11 and 430.
+Vex: 11 is less than 430.
+
+User: compare 237 and 320.
+Vex: 237 is less than 320.
+
+User: compare 47 and 82.
+Vex: 47 is less than 82.
+
+User: what is the largest of 160 191 111?
+Vex: 191
+
+User: is 46 less than 208?
+Vex: yes.
+
+User: is 247 greater than 423?
+Vex: no.
+
+The cat rested beside the house during the morning.
+
+User: what is the largest of 12 138 83?
+Vex: 138
+
+User: compare 251 and 179.
+Vex: 251 is greater than 179.
+
+User: what is the largest of 157 196 179?
+Vex: 196
+
+User: compare 424 and 442.
+Vex: 424 is less than 442.
+
+User: what is the smallest of 18 101 191?
+Vex: 18
+
+User: is 357 less than 269?
+Vex: no.
+
+User: compare 284 and 195.
+Vex: 284 is greater than 195.
+
+User: is 210 less than 148?
+Vex: no.
+
+User: what comes next: -19 -13 -7 -1 5 ?
+Vex: 11
+
+User: is 388 greater than 396?
+Vex: no.
+
+User: is 298 less than 394?
+Vex: yes.
+
+User: what is the smallest of 25 157 22?
+Vex: 22
+
+User: is 403 less than 394?
+Vex: no.
+
+User: what is the largest of 180 170 34?
+Vex: 180
+
+User: is 418 greater than 20?
+Vex: yes.
+
+User: what is 95 + 25?
+Vex: 120
+
+User: compare 389 and 27.
+Vex: 389 is greater than 27.
+
+User: what is 20 plus 97?
+Vex: 117
+
+User: compare 291 and 333.
+Vex: 291 is less than 333.
+
+User: what is the largest of 122 110 167?
+Vex: 167
+
+User: multiply 9 and 17.
+Vex: 153
+
+User: compare 318 and 317.
+Vex: 318 is greater than 317.
+
+User: is 108 greater than 96?
+Vex: yes.
+
+User: what is 4 minus 43?
+Vex: -39
+
+User: compare 384 and 332.
+Vex: 384 is greater than 332.
+
+User: compare 326 and 216.
+Vex: 326 is greater than 216.
+
+User: what is the smallest of 154 72 96?
+Vex: 72
+
+User: is 252 greater than 206?
+Vex: yes.
+
+User: what is the smallest of 76 45 198?
+Vex: 45
+
+User: is 14 greater than 174?
+Vex: no.
+
+User: is 495 greater than 152?
+Vex: yes.
+
+User: is 41 less than 160?
+Vex: yes.
+
+User: is 306 less than 144?
+Vex: no.
+
+User: compare 113 and 248.
+Vex: 113 is less than 248.
+
+User: calculate 28 / 2.
+Vex: 14
+
+User: is 52 greater than 21?
+Vex: yes.
+
+User: is 323 less than 296?
+Vex: no.
+
+User: is 456 greater than 117?
+Vex: yes.
+
+User: is 490 less than 301?
+Vex: no.
+
+User: is 223 less than 423?
+Vex: yes.
+
+User: what is the smallest of 181 41 117?
+Vex: 41
+
+User: is 28 greater than 146?
+Vex: no.
+
+User: is 42 less than 43?
+Vex: yes.
+
+User: is 39 less than 311?
+Vex: yes.
+
+User: what is 24 minus 45?
+Vex: -21
+
+User: compare 120 and 332.
+Vex: 120 is less than 332.
+
+User: what is the largest of 28 37 31?
+Vex: 37
+
+User: what is 84 plus 24?
+Vex: 108
+
+User: what is the largest of 45 2 67?
+Vex: 67
+
+User: what is the smallest of 148 39 130?
+Vex: 39
+
+User: what is the largest of 106 183 183?
+Vex: 183
+
+User: is 447 less than 103?
+Vex: no.
+
+User: is 300 less than 86?
+Vex: no.
+
+User: what is 85 - 20?
+Vex: 65
+
+Taylor had a book. Taylor placed the book on the floor. The book was now on the floor.
+
+User: what comes next: 70 80 90 100 110 ?
+Vex: 120
+
+User: is 466 greater than 275?
+Vex: yes.
+
+The cat worked near the window before lunch.
+
+User: what is the smallest of 153 101 160?
+Vex: 101
+
+User: compare 127 and 416.
+Vex: 127 is less than 416.
+
+User: compare 277 and 311.
+Vex: 277 is less than 311.
+
+User: compare 311 and 480.
+Vex: 311 is less than 480.
+
+User: compare 409 and 358.
+Vex: 409 is greater than 358.
+
+User: what is the largest of 34 196 77?
+Vex: 196
+
+User: what is the largest of 111 20 173?
+Vex: 173
+
+User: is 325 less than 431?
+Vex: yes.
+
+User: what comes next: 26 29 32 35 38 ?
+Vex: 41
+
+User: what is the smallest of 59 187 170?
+Vex: 59
+
+User: is 477 less than 291?
+Vex: no.
+
+User: compare 296 and 127.
+Vex: 296 is greater than 127.
+
+User: is 138 less than 382?
+Vex: yes.
+
+User: is 389 greater than 294?
+Vex: yes.
+
+User: compare 449 and 387.
+Vex: 449 is greater than 387.
+
+User: is 173 less than 464?
+Vex: yes.
+
+User: what is 67 - 79?
+Vex: -12
+
+User: multiply 14 and 2.
+Vex: 28
+
+User: compare 391 and 185.
+Vex: 391 is greater than 185.
+
+User: is 198 greater than 372?
+Vex: no.
+
+User: is 46 greater than 248?
+Vex: no.
+
+User: what is the largest of 185 139 86?
+Vex: 185
+
+The programmer looked beside the house during the morning.
+
+User: is 45 greater than 237?
+Vex: no.
+
+User: compare 219 and 425.
+Vex: 219 is less than 425.
+
+User: what comes next: 71 79 87 95 103 ?
+Vex: 111
+
+User: compare 49 and 363.
+Vex: 49 is less than 363.
+
+User: is 72 greater than 143?
+Vex: no.
+
+User: compare 45 and 82.
+Vex: 45 is less than 82.
+
+User: is 197 less than 387?
+Vex: yes.
+
+The computer watched in the garden for a short time.
+
+User: compare 318 and 147.
+Vex: 318 is greater than 147.
+
+User: is 48 even or odd?
+Vex: 48 is even.
+
+User: what is the largest of 17 138 136?
+Vex: 138
+
+User: what is the smallest of 177 136 7?
+Vex: 7
+
+User: is 352 less than 247?
+Vex: no.
+
+User: compare 55 and 330.
+Vex: 55 is less than 330.
+
+User: what is the largest of 188 127 4?
+Vex: 188
+
+User: is 225 greater than 365?
+Vex: no.
+
+User: is 75 greater than 144?
+Vex: no.
+
+User: what is the largest of 168 0 133?
+Vex: 168
+
+User: what is the smallest of 37 198 104?
+Vex: 37
+
+User: what is the smallest of 104 154 55?
+Vex: 55
+
+The dog watched near the window for a short time.
+
+User: calculate 44 - 59.
+Vex: -15
+
+User: what comes next: 89 85 81 77 73 ?
+Vex: 69
+
+User: add 92 and 69.
+Vex: 161
+
+User: what is the smallest of 57 119 163?
+Vex: 57
+
+User: what is the smallest of 72 1 200?
+Vex: 1
+
+User: compare 67 and 486.
+Vex: 67 is less than 486.
+
+User: is 143 less than 94?
+Vex: no.
+
+User: what is the smallest of 100 126 166?
+Vex: 100
+
+User: what is the smallest of 83 40 155?
+Vex: 40
+
+User: what is the smallest of 126 148 195?
+Vex: 126
+
+User: what is the smallest of 200 10 77?
+Vex: 10
+
+User: what is 22 - 78?
+Vex: -56
+
+User: what is the smallest of 12 29 133?
+Vex: 12
+
+User: what is the largest of 71 142 174?
+Vex: 174
+
+User: what is the largest of 151 188 68?
+Vex: 188
+
+User: is 171 greater than 231?
+Vex: no.
+
+User: what is the smallest of 17 18 112?
+Vex: 17
+
+User: add 0 and 84.
+Vex: 84
+
+User: compare 183 and 252.
+Vex: 183 is less than 252.
+
+User: what is the largest of 112 39 42?
+Vex: 112
+
+User: is 425 less than 411?
+Vex: no.
+
+User: what is the largest of 179 91 53?
+Vex: 179
+
+The student watched outside during the morning.
+
+User: compare 376 and 230.
+Vex: 376 is greater than 230.
+
+User: is 7 even or odd?
+Vex: 7 is odd.
+
+User: is 285 less than 55?
+Vex: no.
+
+User: what is 99 plus 31?
+Vex: 130
+
+User: is 365 greater than 87?
+Vex: yes.
+
+User: compare 181 and 25.
+Vex: 181 is greater than 25.
+
+User: is 256 greater than 10?
+Vex: yes.
+
+User: what is the smallest of 129 21 112?
+Vex: 21
+
+User: subtract 73 from 72.
+Vex: -1
+
+User: what is the largest of 66 88 84?
+Vex: 88
+
+User: what is the largest of 172 52 181?
+Vex: 181
+
+User: calculate 73 - 11.
+Vex: 62
+
+User: what is 37 - 54?
+Vex: -17
+
+User: what is 4 minus 83?
+Vex: -79
+
+User: calculate 31 + 48.
+Vex: 79
+
+User: is 477 greater than 298?
+Vex: yes.
+
+User: what is the smallest of 53 5 193?
+Vex: 5
+
+User: add 25 and 66.
+Vex: 91
+
+User: what is the smallest of 162 139 117?
+Vex: 117
+
+User: what is the largest of 41 95 47?
+Vex: 95
+
+User: is 479 less than 1?
+Vex: no.
+
+User: is 398 greater than 418?
+Vex: no.
+
+User: what is 14 + 80?
+Vex: 94
+
+User: is 464 less than 17?
+Vex: no.
+
+User: compare 58 and 196.
+Vex: 58 is less than 196.
+
+User: what is the smallest of 146 68 190?
+Vex: 68
+
+User: compare 225 and 410.
+Vex: 225 is less than 410.
+
+User: what is the largest of 178 184 9?
+Vex: 184
+
+User: what comes next: 77 85 93 101 109 ?
+Vex: 117
+
+User: compare 126 and 202.
+Vex: 126 is less than 202.
+
+User: compare 37 and 370.
+Vex: 37 is less than 370.
+
+User: is 89 less than 323?
+Vex: yes.
+
+User: is 195 greater than 483?
+Vex: no.
+
+User: is 250 greater than 463?
+Vex: no.
+
+User: is 116 less than 183?
+Vex: yes.
+
+User: compare 376 and 366.
+Vex: 376 is greater than 366.
+
+User: is 98 less than 445?
+Vex: yes.
+
+User: compare 42 and 161.
+Vex: 42 is less than 161.
+
+User: what is the largest of 5 32 181?
+Vex: 181
+
+User: compare 432 and 249.
+Vex: 432 is greater than 249.
+
+User: is 156 greater than 409?
+Vex: no.
+
+User: compare 119 and 480.
+Vex: 119 is less than 480.
+
+User: what is the smallest of 144 84 114?
+Vex: 84
+
+User: what is the smallest of 30 51 29?
+Vex: 29
+
+User: what is the largest of 83 134 150?
+Vex: 150
+
+User: is 499 greater than 114?
+Vex: yes.
+
+User: is 468 less than 452?
+Vex: no.
+
+User: compare 262 and 213.
+Vex: 262 is greater than 213.
+
+User: is 34 greater than 381?
+Vex: no.
+
+User: calculate 12 * 10.
+Vex: 120
+
+User: is 55 greater than 18?
+Vex: yes.
+
+User: is 173 greater than 298?
+Vex: no.
+
+User: what is the smallest of 196 142 72?
+Vex: 72
+
+User: is 287 greater than 454?
+Vex: no.
+
+User: compare 422 and 185.
+Vex: 422 is greater than 185.
+
+User: compare 351 and 323.
+Vex: 351 is greater than 323.
+
+User: what is the largest of 41 70 27?
+Vex: 70
+
+User: what is the largest of 171 123 68?
+Vex: 171
+
+User: is 363 greater than 336?
+Vex: yes.
+
+User: what is the largest of 152 126 2?
+Vex: 152
+
+User: what is the largest of 51 171 76?
+Vex: 171
+
+User: what is a planet?
+Vex: a planet is a large object that orbits a star.
+
+User: is 490 greater than 401?
+Vex: yes.
+
+User: what is the largest of 115 87 48?
+Vex: 115
+
+User: is 332 less than 159?
+Vex: no.
+
+User: compare 454 and 292.
+Vex: 454 is greater than 292.
+
+User: compare 255 and 194.
+Vex: 255 is greater than 194.
+
+User: compare 1 and 226.
+Vex: 1 is less than 226.
+
+User: what is the smallest of 198 16 169?
+Vex: 16
+
+User: is 312 less than 168?
+Vex: no.
+
+User: is 291 greater than 118?
+Vex: yes.
+
+User: is 68 less than 108?
+Vex: yes.
+
+User: is 304 less than 143?
+Vex: no.
+
+User: is 457 greater than 132?
+Vex: yes.
+
+User: what is the smallest of 99 187 194?
+Vex: 99
+
+User: is 487 less than 18?
+Vex: no.
+
+User: is 301 greater than 103?
+Vex: yes.
+
+User: is 142 greater than 368?
+Vex: no.
+
+User: what is the largest of 45 98 15?
+Vex: 98
+
+User: add 65 and 26.
+Vex: 91
+
+User: is 158 greater than 403?
+Vex: no.
+
+User: is 357 less than 426?
+Vex: yes.
+
+User: is 192 less than 9?
+Vex: no.
+
+User: compare 453 and 354.
+Vex: 453 is greater than 354.
+
+User: is 40 greater than 484?
+Vex: no.
+
+User: compare 365 and 267.
+Vex: 365 is greater than 267.
+
+User: subtract 82 from 19.
+Vex: -63
+
+User: what is the largest of 12 83 18?
+Vex: 83
+
+User: what is 84 plus 90?
+Vex: 174
+
+User: what is the largest of 44 17 11?
+Vex: 44
+
+User: what is the smallest of 102 94 141?
+Vex: 94
+
+User: what is the largest of 176 27 157?
+Vex: 176
+
+User: is 55 less than 423?
+Vex: yes.
+
+User: is 352 greater than 169?
+Vex: yes.
+
+User: is 78 greater than 65?
+Vex: yes.
+
+User: compare 205 and 63.
+Vex: 205 is greater than 63.
+
+User: is 60 less than 285?
+Vex: yes.
+
+User: what is the largest of 194 142 90?
+Vex: 194
+
+User: is 34 greater than 274?
+Vex: no.
+
+User: is 338 greater than 117?
+Vex: yes.
+
+User: subtract 70 from 97.
+Vex: 27
+
+User: is 305 less than 399?
+Vex: yes.
+
+User: compare 435 and 276.
+Vex: 435 is greater than 276.
+
+User: compare 403 and 398.
+Vex: 403 is greater than 398.
+
+User: what is the largest of 118 115 91?
+Vex: 118
+
+User: what is the largest of 145 79 81?
+Vex: 145
+
+User: what is the smallest of 77 56 80?
+Vex: 56
+
+User: subtract 75 from 53.
+Vex: -22
+
+User: multiply 5 and 14.
+Vex: 70
+
+User: add 93 and 41.
+Vex: 134
+
+User: is 28 less than 154?
+Vex: yes.
+
+User: is 57 less than 359?
+Vex: yes.
+
+User: what comes next: 88 89 90 91 92 ?
+Vex: 93
+
+The computer worked outside for a short time.
+
+User: compare 296 and 223.
+Vex: 296 is greater than 223.
+
+User: is 242 greater than 417?
+Vex: no.
+
+User: compare 364 and 130.
+Vex: 364 is greater than 130.
+
+User: calculate 95 - 15.
+Vex: 80
+
+User: is 398 less than 131?
+Vex: no.
+
+User: compare 284 and 107.
+Vex: 284 is greater than 107.
+
+User: compare 18 and 208.
+Vex: 18 is less than 208.
+
+User: is 296 less than 130?
+Vex: no.
+
+User: is 42 greater than 322?
+Vex: no.
+
+User: what comes next: 30 32 34 36 38 ?
+Vex: 40
+
+User: compare 305 and 483.
+Vex: 305 is less than 483.
+
+User: is 196 greater than 434?
+Vex: no.
+
+User: calculate 160 / 16.
+Vex: 10
+
+User: what is the smallest of 39 160 46?
+Vex: 39
+
+User: compare 230 and 425.
+Vex: 230 is less than 425.
+
+User: compare 209 and 119.
+Vex: 209 is greater than 119.
+
+User: calculate 97 + 52.
+Vex: 149
+
+User: what is 41 + 67?
+Vex: 108
+
+User: what is the largest of 190 109 157?
+Vex: 190
+
+User: what is the largest of 188 11 149?
+Vex: 188
+
+User: what comes next: 3 11 19 27 35 ?
+Vex: 43
+
+User: is 69 less than 17?
+Vex: no.
+
+User: what is 20 minus 7?
+Vex: 13
+
+User: what is the smallest of 183 112 119?
+Vex: 112
+
+User: what is 29 - 37?
+Vex: -8
+
+User: is 245 greater than 17?
+Vex: yes.
+
+User: compare 196 and 292.
+Vex: 196 is less than 292.
+
+User: what is 65 plus 82?
+Vex: 147
+
+User: subtract 80 from 79.
+Vex: -1
+
+User: what is 15 minus 25?
+Vex: -10
+
+User: add 62 and 90.
+Vex: 152
+
+User: is 62 less than 100?
+Vex: yes.
+
+User: is 266 less than 33?
+Vex: no.
+
+User: is 411 less than 199?
+Vex: no.
+
+User: is 476 less than 37?
+Vex: no.
+
+User: what is the largest of 27 36 2?
+Vex: 36
+
+User: is 153 odd?
+Vex: yes.
+
+User: is 76 less than 316?
+Vex: yes.
+
+User: compare 402 and 494.
+Vex: 402 is less than 494.
+
+User: what is the smallest of 144 72 195?
+Vex: 72
+
+User: what is the largest of 78 187 30?
+Vex: 187
+
+User: what is 73 + 79?
+Vex: 152
+
+User: is 243 greater than 195?
+Vex: yes.
+
+User: subtract 80 from 58.
+Vex: -22
+
+User: what is 86 + 46?
+Vex: 132
+
+User: compare 246 and 446.
+Vex: 246 is less than 446.
+
+User: compare 17 and 450.
+Vex: 17 is less than 450.
+
+User: what is the largest of 71 64 166?
+Vex: 166
+
+User: what is 100 plus 6?
+Vex: 106
+
+User: is 126 less than 303?
+Vex: yes.
+
+User: is 431 greater than 25?
+Vex: yes.
+
+User: calculate 208 / 13.
+Vex: 16
+
+User: is 130 greater than 161?
+Vex: no.
+
+User: is 294 less than 365?
+Vex: yes.
+
+User: compare 315 and 154.
+Vex: 315 is greater than 154.
+
+User: add 10 and 34.
+Vex: 44
+
+User: is 110 less than 446?
+Vex: yes.
+
+User: what is 8 multiplied by 23?
+Vex: 184
+
+User: is 226 less than 392?
+Vex: yes.
+
+User: compare 106 and 181.
+Vex: 106 is less than 181.
+
+User: is 184 greater than 420?
+Vex: no.
+
+User: is 248 greater than 271?
+Vex: no.
+
+User: multiply 9 and 20.
+Vex: 180
+
+User: what is the largest of 39 8 177?
+Vex: 177
+
+User: what is the largest of 94 115 84?
+Vex: 115
+
+User: subtract 96 from 35.
+Vex: -61
+
+User: is 165 greater than 202?
+Vex: no.
+
+User: compare 159 and 72.
+Vex: 159 is greater than 72.
+
+User: is 485 less than 62?
+Vex: no.
+
+User: is 75 less than 435?
+Vex: yes.
+
+User: what is the smallest of 68 104 110?
+Vex: 68
+
+User: is 321 greater than 433?
+Vex: no.
+
+User: is 398 less than 400?
+Vex: yes.
+
+User: is 120 greater than 222?
+Vex: no.
+
+User: what is the smallest of 92 44 102?
+Vex: 44
+
+The computer walked inside the room and then stopped.
+
+User: calculate 63 - 9.
+Vex: 54
+
+User: is 490 greater than 68?
+Vex: yes.
+
+User: is 238 greater than 298?
+Vex: no.
+
+User: compare 96 and 48.
+Vex: 96 is greater than 48.
+
+User: calculate 3 * 9.
+Vex: 27
+
+User: compare 286 and 66.
+Vex: 286 is greater than 66.
+
+User: what comes next: -10 -2 6 14 22 ?
+Vex: 30
+
+User: is 445 greater than 317?
+Vex: yes.
+
+User: compare 34 and 170.
+Vex: 34 is less than 170.
+
+User: what comes next: 72 64 56 48 40 ?
+Vex: 32
+
+User: what is 1 - 67?
+Vex: -66
+
+The small model moved outside before lunch.
+
+User: compare 232 and 88.
+Vex: 232 is greater than 88.
+
+User: is 200 greater than 397?
+Vex: no.
+
+User: is 226 less than 323?
+Vex: yes.
+
+User: what is the largest of 48 9 111?
+Vex: 111
+
+User: compare 313 and 130.
+Vex: 313 is greater than 130.
+
+User: what is the largest of 102 154 71?
+Vex: 154
+
+User: compare 109 and 425.
+Vex: 109 is less than 425.
+
+User: is 372 greater than 288?
+Vex: yes.
+
+User: calculate 88 - 94.
+Vex: -6
+
+User: what is 100 plus 26?
+Vex: 126
+
+User: calculate 11 * 5.
+Vex: 55
+
+User: what is the smallest of 2 163 97?
+Vex: 2
+
+User: is 343 greater than 308?
+Vex: yes.
+
+User: what is the largest of 130 88 193?
+Vex: 193
+
+User: what is the largest of 94 38 136?
+Vex: 136
+
+The dog moved at the desk while everything was quiet.
+
+User: compare 85 and 58.
+Vex: 85 is greater than 58.
+
+The bird rested in the garden and then stopped.
+
+User: is 117 less than 29?
+Vex: no.
+
+User: is 349 greater than 326?
+Vex: yes.
+
+User: compare 194 and 289.
+Vex: 194 is less than 289.
+
+User: what is the largest of 130 132 92?
+Vex: 132
+
+User: what is 67 + 95?
+Vex: 162
+
+User: what is 33 + 11?
+Vex: 44
+
+User: what is the largest of 155 105 99?
+Vex: 155
+
+User: is 84 less than 467?
+Vex: yes.
+
+User: compare 223 and 421.
+Vex: 223 is less than 421.
+
+User: compare 478 and 457.
+Vex: 478 is greater than 457.
+
+User: what is the smallest of 27 184 106?
+Vex: 27
+
+User: what is 19 minus 45?
+Vex: -26
+
+User: what is 90 + 39?
+Vex: 129
+
+User: is 224 less than 342?
+Vex: yes.
+
+User: calculate 11 * 3.
+Vex: 33
+
+User: is 262 greater than 465?
+Vex: no.
+
+User: what is the largest of 153 101 160?
+Vex: 160
+
+User: is 372 less than 220?
+Vex: no.
+
+User: compare 137 and 230.
+Vex: 137 is less than 230.
+
+User: is 84 greater than 442?
+Vex: no.
+
+User: what comes next: 39 34 29 24 19 ?
+Vex: 14
+
+User: what is the largest of 87 184 81?
+Vex: 184
+
+User: is 201 greater than 424?
+Vex: no.
+
+The programmer looked outside before lunch.
+
+User: what is the largest of 75 24 41?
+Vex: 75
+
+User: what comes next: 90 82 74 66 58 ?
+Vex: 50
+
+User: what is 40 - 35?
+Vex: 5
+
+User: what is 15 times 20?
+Vex: 300
+
+User: what comes next: 34 29 24 19 14 ?
+Vex: 9
+
+User: what is the largest of 148 183 110?
+Vex: 183
+
+User: multiply 4 and 25.
+Vex: 100
+
+User: compare 190 and 422.
+Vex: 190 is less than 422.
+
+User: is 239 greater than 287?
+Vex: no.
+
+User: what is the smallest of 189 88 16?
+Vex: 16
+
+User: is 164 greater than 223?
+Vex: no.
+
+User: compare 197 and 387.
+Vex: 197 is less than 387.
+
+User: what is the smallest of 163 29 131?
+Vex: 29
+
+User: is 85 less than 390?
+Vex: yes.
+
+User: what comes next: 52 56 60 64 68 ?
+Vex: 72
+
+User: compare 441 and 305.
+Vex: 441 is greater than 305.
+
+User: what is 77 - 84?
+Vex: -7
+
+User: compare 368 and 469.
+Vex: 368 is less than 469.
+
+User: what is the smallest of 194 130 84?
+Vex: 84
+
+User: what comes next: 24 26 28 30 32 ?
+Vex: 34
+
+User: subtract 34 from 73.
+Vex: 39
+
+User: is 76 less than 340?
+Vex: yes.
+
+User: is 15 less than 346?
+Vex: yes.
+
+User: what is 51 - 88?
+Vex: -37
+
+User: what is the smallest of 148 31 97?
+Vex: 31
+
+User: is 92 less than 124?
+Vex: yes.
+
+User: compare 80 and 424.
+Vex: 80 is less than 424.
+
+User: calculate 84 - 84.
+Vex: 0
+
+User: what comes next: -17 -19 -21 -23 -25 ?
+Vex: -27
+
+User: compare 124 and 335.
+Vex: 124 is less than 335.
+
+User: compare 123 and 449.
+Vex: 123 is less than 449.
+
+User: is 81 greater than 382?
+Vex: no.
+
+User: what is the smallest of 46 121 93?
+Vex: 46
+
+User: compare 384 and 250.
+Vex: 384 is greater than 250.
+
+User: is 167 even or odd?
+Vex: 167 is odd.
+
+User: is 250 less than 136?
+Vex: no.
+
+User: is 388 greater than 497?
+Vex: no.
+
+The dog looked in the garden during the morning.
+
+User: what is the largest of 144 65 98?
+Vex: 144
+
+User: is 119 greater than 120?
+Vex: no.
+
+User: what is 7 times 16?
+Vex: 112
+
+User: is 238 greater than 312?
+Vex: no.
+
+The bird looked in the garden during the morning.
+
+User: add 9 and 80.
+Vex: 89
+
+User: what is the largest of 163 111 109?
+Vex: 163
+
+User: is 223 less than 470?
+Vex: yes.
+
+User: is 335 greater than 487?
+Vex: no.
+
+User: what is 15 multiplied by 16?
+Vex: 240
+
+User: what is the smallest of 5 96 20?
+Vex: 5
+
+User: is 276 less than 182?
+Vex: no.
+
+User: is 294 less than 484?
+Vex: yes.
+
+User: is 17 less than 145?
+Vex: yes.
+
+User: what is the largest of 155 119 119?
+Vex: 155
+
+User: what is the smallest of 101 134 55?
+Vex: 55
+
+User: compare 398 and 138.
+Vex: 398 is greater than 138.
+
+User: what is the largest of 38 2 152?
+Vex: 152
+
+User: compare 456 and 494.
+Vex: 456 is less than 494.
+
+User: what comes next: 14 6 -2 -10 -18 ?
+Vex: -26
+
+User: what comes next: 6 -4 -14 -24 -34 ?
+Vex: -44
+
+User: is 87 greater than 142?
+Vex: no.
+
+User: compare 427 and 230.
+Vex: 427 is greater than 230.
+
+User: what is the largest of 200 136 43?
+Vex: 200
+
+User: is 49 greater than 331?
+Vex: no.
+
+User: what is the largest of 199 156 199?
+Vex: 199
+
+User: what is the smallest of 24 193 67?
+Vex: 24
+
+The cat learned at the desk and then stopped.
+
+User: calculate 90 - 78.
+Vex: 12
+
+User: add 36 and 40.
+Vex: 76
+
+User: multiply 5 and 23.
+Vex: 115
+
+User: is 440 less than 152?
+Vex: no.
+
+User: compare 370 and 231.
+Vex: 370 is greater than 231.
+
+User: what is 57 minus 8?
+Vex: 49
+
+User: is 214 greater than 84?
+Vex: yes.
+
+User: is 412 less than 268?
+Vex: no.
+
+User: is 8 greater than 289?
+Vex: no.
+
+User: compare 47 and 451.
+Vex: 47 is less than 451.
+
+User: multiply 9 and 12.
+Vex: 108
+
+User: is 276 less than 217?
+Vex: no.
+
+User: what is the smallest of 10 142 0?
+Vex: 0
+
+User: calculate 6 - 94.
+Vex: -88
+
+User: what is the largest of 90 72 109?
+Vex: 109
+
+User: is 120 less than 358?
+Vex: yes.
+
+User: what is the largest of 179 200 129?
+Vex: 200
+
+User: what is 35 - 40?
+Vex: -5
+
+User: is 86 less than 316?
+Vex: yes.
+
+User: compare 358 and 313.
+Vex: 358 is greater than 313.
+
+User: compare 172 and 130.
+Vex: 172 is greater than 130.
+
+The small model looked outside for a short time.
+
+User: is 29 less than 210?
+Vex: yes.
+
+User: is 297 less than 87?
+Vex: no.
+
+The small model moved beside the house while everything was quiet.
+
+User: is 162 greater than 490?
+Vex: no.
+
+User: what is the largest of 55 62 55?
+Vex: 62
+
+User: compare 75 and 200.
+Vex: 75 is less than 200.
+
+User: compare 81 and 291.
+Vex: 81 is less than 291.
+
+User: compare 367 and 308.
+Vex: 367 is greater than 308.
+
+User: what is the smallest of 91 1 16?
+Vex: 1
+
+User: what is the largest of 95 181 11?
+Vex: 181
+
+User: is 24 greater than 420?
+Vex: no.
+
+User: is 345 less than 382?
+Vex: yes.
+
+User: what is 22 minus 8?
+Vex: 14
+
+User: is 95 less than 226?
+Vex: yes.
+
+User: compare 267 and 272.
+Vex: 267 is less than 272.
+
+User: is 179 less than 60?
+Vex: no.
+
+User: is 315 greater than 149?
+Vex: yes.
+
+User: what is 20 plus 11?
+Vex: 31
+
+User: is 451 greater than 456?
+Vex: no.
+
+User: what is the largest of 136 130 109?
+Vex: 136
+
+User: what is 11 multiplied by 1?
+Vex: 11
+
+User: compare 132 and 260.
+Vex: 132 is less than 260.
+
+User: compare 337 and 477.
+Vex: 337 is less than 477.
+
+User: is 206 greater than 277?
+Vex: no.
+
+User: is 298 less than 244?
+Vex: no.
+
+User: subtract 96 from 97.
+Vex: 1
+
+User: calculate 52 + 91.
+Vex: 143
+
+User: is 403 greater than 117?
+Vex: yes.
+
+User: what is the smallest of 149 64 177?
+Vex: 64
+
+User: what is the smallest of 149 180 34?
+Vex: 34
+
+User: is 484 greater than 266?
+Vex: yes.
+
+User: is 294 greater than 160?
+Vex: yes.
+
+User: is 63 greater than 335?
+Vex: no.
+
+The cat moved beside the house for a short time.
+
+User: is 283 greater than 452?
+Vex: no.
+
+User: what is the smallest of 83 136 41?
+Vex: 41
+
+User: what is the smallest of 144 22 111?
+Vex: 22
+
+User: compare 184 and 236.
+Vex: 184 is less than 236.
+
+User: is 372 less than 375?
+Vex: yes.
+
+User: compare 419 and 35.
+Vex: 419 is greater than 35.
+
+User: is 435 less than 155?
+Vex: no.
+
+User: what is the smallest of 129 75 149?
+Vex: 75
+
+User: what comes next: 12 22 32 42 52 ?
+Vex: 62
+
+User: what is the largest of 162 167 59?
+Vex: 167
+
+User: multiply 25 and 25.
+Vex: 625
+
+User: is 447 less than 155?
+Vex: no.
+
+User: what is the largest of 148 168 138?
+Vex: 168
+
+User: compare 415 and 309.
+Vex: 415 is greater than 309.
+
+User: compare 378 and 341.
+Vex: 378 is greater than 341.
+
+User: what is 45 - 59?
+Vex: -14
+
+User: multiply 22 and 16.
+Vex: 352
+
+User: is 377 greater than 231?
+Vex: yes.
+
+User: is 245 less than 490?
+Vex: yes.
+

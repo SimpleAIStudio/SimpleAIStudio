@@ -1,0 +1,1754 @@
+User: can you answer this: describe oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: quick question: explain a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: quick question: what can you tell me about the Sun?
+Vex: the Sun is the star at the center of the Solar System.
+
+User: can you answer this: what is a dog?
+Vex: a dog is an animal commonly kept as a pet.
+
+User: what is oxygen?
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: can you answer this: describe Earth.
+Vex: Earth is the planet where humans live.
+
+User: quick question: explain a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: can you answer this: what can you tell me about photosynthesis?
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: tell me about a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: please answer this: tell me about an hour.
+Vex: an hour contains sixty minutes.
+
+User: quick question: tell me about a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: please answer this: explain rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: quick question: describe ice.
+Vex: ice is frozen water.
+
+User: can you answer this: what is photosynthesis?
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: please answer this: describe the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: quick question: explain oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: please answer this: explain a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: explain a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: please answer this: describe water.
+Vex: water is a liquid that living things need.
+
+User: please answer this: tell me about ice.
+Vex: ice is frozen water.
+
+User: i want to know: what can you tell me about a triangle?
+Vex: a triangle is a shape with three sides.
+
+User: i want to know: explain a year.
+Vex: a year contains twelve months.
+
+User: what can you tell me about water?
+Vex: water is a liquid that living things need.
+
+User: can you answer this: what is oxygen?
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: explain the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: tell me about the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: can you answer this: what is a bird?
+Vex: a bird is an animal with feathers and a beak.
+
+User: please answer this: describe a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: i want to know: tell me about Earth.
+Vex: Earth is the planet where humans live.
+
+User: is this true: a triangle is a shape with three sides.
+Vex: yes.
+
+User: tell me about a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: i want to know: describe a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: describe evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: quick question: what can you tell me about a star?
+Vex: a star is a large glowing ball of hot gas.
+
+User: what is a triangle?
+Vex: a triangle is a shape with three sides.
+
+User: i want to know: describe oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: i want to know: what is a bird?
+Vex: a bird is an animal with feathers and a beak.
+
+User: i want to know: what can you tell me about a bird?
+Vex: a bird is an animal with feathers and a beak.
+
+User: can you answer this: tell me about a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: quick question: what is a square?
+Vex: a square is a shape with four equal sides.
+
+User: please answer this: what is a minute?
+Vex: a minute contains sixty seconds.
+
+User: can you answer this: explain gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: explain a minute.
+Vex: a minute contains sixty seconds.
+
+User: can you answer this: explain a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: tell me about water.
+Vex: water is a liquid that living things need.
+
+User: please answer this: describe a year.
+Vex: a year contains twelve months.
+
+User: can you answer this: what can you tell me about the Sun?
+Vex: the Sun is the star at the center of the Solar System.
+
+User: describe a minute.
+Vex: a minute contains sixty seconds.
+
+User: quick question: explain a minute.
+Vex: a minute contains sixty seconds.
+
+User: quick question: what is a week?
+Vex: a week contains seven days.
+
+User: what is gravity?
+Vex: gravity is a force that attracts masses toward each other.
+
+User: explain oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: i want to know: what can you tell me about the Sun?
+Vex: the Sun is the star at the center of the Solar System.
+
+User: can you answer this: describe a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: what can you tell me about the Moon?
+Vex: the Moon is Earth's natural satellite.
+
+User: please answer this: what is a dog?
+Vex: a dog is an animal commonly kept as a pet.
+
+User: can you answer this: explain a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: can you answer this: what can you tell me about a square?
+Vex: a square is a shape with four equal sides.
+
+User: i want to know: what can you tell me about water?
+Vex: water is a liquid that living things need.
+
+User: please answer this: explain a minute.
+Vex: a minute contains sixty seconds.
+
+User: what is a circle?
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: i want to know: what is rain?
+Vex: rain is liquid water that falls from clouds.
+
+User: quick question: tell me about a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: i want to know: what can you tell me about a cat?
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: can you answer this: what is evaporation?
+Vex: evaporation is the change of a liquid into a gas.
+
+User: quick question: explain the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: can you answer this: describe water.
+Vex: water is a liquid that living things need.
+
+User: quick question: explain Earth.
+Vex: Earth is the planet where humans live.
+
+User: can you answer this: explain a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: please answer this: tell me about a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: i want to know: tell me about the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: please answer this: what can you tell me about a week?
+Vex: a week contains seven days.
+
+User: i want to know: describe the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: can you answer this: what can you tell me about a triangle?
+Vex: a triangle is a shape with three sides.
+
+User: tell me about gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: i want to know: tell me about an hour.
+Vex: an hour contains sixty minutes.
+
+User: is this true: the Sun is the star at the center of the Solar System.
+Vex: yes.
+
+User: can you answer this: tell me about a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: quick question: what can you tell me about a circle?
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: can you answer this: tell me about a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: i want to know: what can you tell me about Earth?
+Vex: Earth is the planet where humans live.
+
+User: please answer this: describe oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: please answer this: what can you tell me about photosynthesis?
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: quick question: describe oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: please answer this: describe the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: please answer this: what is the Sun?
+Vex: the Sun is the star at the center of the Solar System.
+
+User: quick question: tell me about a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: i want to know: what can you tell me about an hour?
+Vex: an hour contains sixty minutes.
+
+User: can you answer this: what is a star?
+Vex: a star is a large glowing ball of hot gas.
+
+User: can you answer this: describe gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: please answer this: tell me about a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: explain a square.
+Vex: a square is a shape with four equal sides.
+
+User: please answer this: what can you tell me about a triangle?
+Vex: a triangle is a shape with three sides.
+
+User: can you answer this: tell me about a square.
+Vex: a square is a shape with four equal sides.
+
+User: quick question: what can you tell me about the Moon?
+Vex: the Moon is Earth's natural satellite.
+
+User: can you answer this: tell me about a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: quick question: describe a square.
+Vex: a square is a shape with four equal sides.
+
+User: please answer this: what is the heart?
+Vex: the heart is an organ that pumps blood through the body.
+
+User: please answer this: explain gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: is this true: a planet is a large object that orbits a star.
+Vex: yes.
+
+User: please answer this: what can you tell me about a fish?
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: explain Earth.
+Vex: Earth is the planet where humans live.
+
+User: can you answer this: describe the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: what is the Sun?
+Vex: the Sun is the star at the center of the Solar System.
+
+User: quick question: what can you tell me about rain?
+Vex: rain is liquid water that falls from clouds.
+
+User: please answer this: what is gravity?
+Vex: gravity is a force that attracts masses toward each other.
+
+User: can you answer this: describe the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: i want to know: what can you tell me about the Moon?
+Vex: the Moon is Earth's natural satellite.
+
+User: i want to know: tell me about a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: quick question: what can you tell me about a fish?
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: what can you tell me about a minute?
+Vex: a minute contains sixty seconds.
+
+User: i want to know: tell me about a year.
+Vex: a year contains twelve months.
+
+User: can you answer this: explain the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: quick question: describe a minute.
+Vex: a minute contains sixty seconds.
+
+User: i want to know: explain a square.
+Vex: a square is a shape with four equal sides.
+
+User: is this true: a cat is a small animal commonly kept as a pet.
+Vex: yes.
+
+User: quick question: tell me about Earth.
+Vex: Earth is the planet where humans live.
+
+User: i want to know: explain a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: explain the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: i want to know: what is a triangle?
+Vex: a triangle is a shape with three sides.
+
+User: can you answer this: explain Earth.
+Vex: Earth is the planet where humans live.
+
+User: please answer this: explain a year.
+Vex: a year contains twelve months.
+
+User: what can you tell me about a bird?
+Vex: a bird is an animal with feathers and a beak.
+
+User: can you answer this: what can you tell me about a planet?
+Vex: a planet is a large object that orbits a star.
+
+User: tell me about a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: please answer this: describe an hour.
+Vex: an hour contains sixty minutes.
+
+User: quick question: what can you tell me about water?
+Vex: water is a liquid that living things need.
+
+User: please answer this: what is the Moon?
+Vex: the Moon is Earth's natural satellite.
+
+User: describe ice.
+Vex: ice is frozen water.
+
+User: what can you tell me about a cat?
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: quick question: tell me about rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: what is ice?
+Vex: ice is frozen water.
+
+User: please answer this: explain the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: what can you tell me about a star?
+Vex: a star is a large glowing ball of hot gas.
+
+User: tell me about photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: can you answer this: tell me about Earth.
+Vex: Earth is the planet where humans live.
+
+User: can you answer this: tell me about photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: can you answer this: describe a week.
+Vex: a week contains seven days.
+
+User: what is a tree?
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: describe a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: quick question: describe a week.
+Vex: a week contains seven days.
+
+User: can you answer this: what can you tell me about evaporation?
+Vex: evaporation is the change of a liquid into a gas.
+
+User: explain a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: quick question: what is rain?
+Vex: rain is liquid water that falls from clouds.
+
+User: please answer this: explain a square.
+Vex: a square is a shape with four equal sides.
+
+User: i want to know: explain a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: is this true: a minute contains sixty seconds.
+Vex: yes.
+
+User: please answer this: what can you tell me about a cat?
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: please answer this: what is a circle?
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: i want to know: explain photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: i want to know: explain an hour.
+Vex: an hour contains sixty minutes.
+
+User: please answer this: what is ice?
+Vex: ice is frozen water.
+
+User: describe oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: quick question: tell me about oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: explain photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: please answer this: explain a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: can you answer this: what can you tell me about water?
+Vex: water is a liquid that living things need.
+
+User: tell me about the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: quick question: tell me about photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: please answer this: explain an hour.
+Vex: an hour contains sixty minutes.
+
+User: what can you tell me about a triangle?
+Vex: a triangle is a shape with three sides.
+
+User: what is a planet?
+Vex: a planet is a large object that orbits a star.
+
+User: quick question: what is the Moon?
+Vex: the Moon is Earth's natural satellite.
+
+User: can you answer this: tell me about a minute.
+Vex: a minute contains sixty seconds.
+
+User: i want to know: describe Earth.
+Vex: Earth is the planet where humans live.
+
+User: please answer this: what can you tell me about a circle?
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: describe the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: please answer this: what can you tell me about an hour?
+Vex: an hour contains sixty minutes.
+
+User: please answer this: describe Earth.
+Vex: Earth is the planet where humans live.
+
+User: describe a square.
+Vex: a square is a shape with four equal sides.
+
+User: can you answer this: describe a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: what can you tell me about photosynthesis?
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: quick question: what is evaporation?
+Vex: evaporation is the change of a liquid into a gas.
+
+User: can you answer this: what can you tell me about a tree?
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: what is a star?
+Vex: a star is a large glowing ball of hot gas.
+
+User: can you answer this: tell me about a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: quick question: what is a cat?
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: explain a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: tell me about a year.
+Vex: a year contains twelve months.
+
+User: quick question: explain evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: quick question: what is a tree?
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: i want to know: describe a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: what is a fish?
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: quick question: describe gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: please answer this: tell me about a minute.
+Vex: a minute contains sixty seconds.
+
+User: tell me about a minute.
+Vex: a minute contains sixty seconds.
+
+User: please answer this: tell me about evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: please answer this: tell me about a week.
+Vex: a week contains seven days.
+
+User: i want to know: tell me about the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: i want to know: describe gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: please answer this: what is a week?
+Vex: a week contains seven days.
+
+User: is this true: a tree is a plant with a woody trunk and branches.
+Vex: yes.
+
+User: quick question: tell me about ice.
+Vex: ice is frozen water.
+
+User: quick question: what can you tell me about a minute?
+Vex: a minute contains sixty seconds.
+
+User: can you answer this: describe a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: please answer this: tell me about a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: what can you tell me about a tree?
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: describe a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: what is a cat?
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: quick question: what is an hour?
+Vex: an hour contains sixty minutes.
+
+User: can you answer this: what is a minute?
+Vex: a minute contains sixty seconds.
+
+User: i want to know: describe the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: can you answer this: tell me about the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: please answer this: what can you tell me about rain?
+Vex: rain is liquid water that falls from clouds.
+
+User: please answer this: tell me about photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: explain a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: can you answer this: what is a triangle?
+Vex: a triangle is a shape with three sides.
+
+User: i want to know: tell me about a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: please answer this: what is evaporation?
+Vex: evaporation is the change of a liquid into a gas.
+
+User: i want to know: what can you tell me about a week?
+Vex: a week contains seven days.
+
+User: i want to know: tell me about a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: tell me about a week.
+Vex: a week contains seven days.
+
+User: please answer this: explain a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: i want to know: what is an hour?
+Vex: an hour contains sixty minutes.
+
+User: please answer this: what is rain?
+Vex: rain is liquid water that falls from clouds.
+
+User: can you answer this: what can you tell me about rain?
+Vex: rain is liquid water that falls from clouds.
+
+User: can you answer this: what is the Moon?
+Vex: the Moon is Earth's natural satellite.
+
+User: please answer this: tell me about the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: explain ice.
+Vex: ice is frozen water.
+
+User: please answer this: explain the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: i want to know: explain a week.
+Vex: a week contains seven days.
+
+User: quick question: explain a year.
+Vex: a year contains twelve months.
+
+User: quick question: describe a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: please answer this: describe evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: quick question: what is a triangle?
+Vex: a triangle is a shape with three sides.
+
+User: is this true: rain is liquid water that falls from clouds.
+Vex: yes.
+
+User: what is water?
+Vex: water is a liquid that living things need.
+
+User: quick question: tell me about a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: please answer this: what is a star?
+Vex: a star is a large glowing ball of hot gas.
+
+User: i want to know: what can you tell me about the heart?
+Vex: the heart is an organ that pumps blood through the body.
+
+User: quick question: what is gravity?
+Vex: gravity is a force that attracts masses toward each other.
+
+User: what is a year?
+Vex: a year contains twelve months.
+
+User: quick question: describe a year.
+Vex: a year contains twelve months.
+
+User: what is evaporation?
+Vex: evaporation is the change of a liquid into a gas.
+
+User: explain the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: can you answer this: tell me about ice.
+Vex: ice is frozen water.
+
+User: quick question: what is ice?
+Vex: ice is frozen water.
+
+User: can you answer this: tell me about the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: can you answer this: tell me about an hour.
+Vex: an hour contains sixty minutes.
+
+User: i want to know: what can you tell me about a tree?
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: i want to know: what can you tell me about a square?
+Vex: a square is a shape with four equal sides.
+
+User: can you answer this: describe a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: please answer this: what can you tell me about Earth?
+Vex: Earth is the planet where humans live.
+
+User: please answer this: tell me about rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: can you answer this: tell me about water.
+Vex: water is a liquid that living things need.
+
+User: quick question: tell me about the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: quick question: describe photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: i want to know: what is a planet?
+Vex: a planet is a large object that orbits a star.
+
+User: can you answer this: what can you tell me about the heart?
+Vex: the heart is an organ that pumps blood through the body.
+
+User: describe a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: i want to know: describe a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: i want to know: what can you tell me about a dog?
+Vex: a dog is an animal commonly kept as a pet.
+
+User: i want to know: what can you tell me about photosynthesis?
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: describe a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: quick question: describe a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: can you answer this: what is a circle?
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: quick question: describe rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: can you answer this: what is rain?
+Vex: rain is liquid water that falls from clouds.
+
+User: describe the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: i want to know: what is a square?
+Vex: a square is a shape with four equal sides.
+
+User: please answer this: explain the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: what is rain?
+Vex: rain is liquid water that falls from clouds.
+
+User: describe a week.
+Vex: a week contains seven days.
+
+User: can you answer this: explain a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: please answer this: tell me about oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: please answer this: describe a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: please answer this: tell me about Earth.
+Vex: Earth is the planet where humans live.
+
+User: i want to know: explain ice.
+Vex: ice is frozen water.
+
+User: i want to know: tell me about evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: quick question: what is a circle?
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: quick question: what is water?
+Vex: water is a liquid that living things need.
+
+User: please answer this: describe a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: quick question: what can you tell me about photosynthesis?
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: can you answer this: what is the Sun?
+Vex: the Sun is the star at the center of the Solar System.
+
+User: quick question: what can you tell me about a dog?
+Vex: a dog is an animal commonly kept as a pet.
+
+User: can you answer this: explain rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: i want to know: tell me about water.
+Vex: water is a liquid that living things need.
+
+User: i want to know: tell me about a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: can you answer this: describe a minute.
+Vex: a minute contains sixty seconds.
+
+User: please answer this: what can you tell me about ice?
+Vex: ice is frozen water.
+
+User: i want to know: what can you tell me about rain?
+Vex: rain is liquid water that falls from clouds.
+
+User: please answer this: describe ice.
+Vex: ice is frozen water.
+
+User: please answer this: tell me about a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: can you answer this: explain the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: quick question: what can you tell me about gravity?
+Vex: gravity is a force that attracts masses toward each other.
+
+User: i want to know: describe rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: tell me about the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: quick question: describe a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: i want to know: explain a minute.
+Vex: a minute contains sixty seconds.
+
+User: please answer this: what can you tell me about water?
+Vex: water is a liquid that living things need.
+
+User: i want to know: tell me about rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: quick question: what is a year?
+Vex: a year contains twelve months.
+
+User: quick question: describe the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: quick question: explain the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: i want to know: tell me about a minute.
+Vex: a minute contains sixty seconds.
+
+User: i want to know: what is the Moon?
+Vex: the Moon is Earth's natural satellite.
+
+User: please answer this: what is a fish?
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: can you answer this: what is a fish?
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: i want to know: tell me about a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: can you answer this: explain a square.
+Vex: a square is a shape with four equal sides.
+
+User: what is an hour?
+Vex: an hour contains sixty minutes.
+
+User: i want to know: explain evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: please answer this: what can you tell me about a bird?
+Vex: a bird is an animal with feathers and a beak.
+
+User: please answer this: what can you tell me about the Moon?
+Vex: the Moon is Earth's natural satellite.
+
+User: please answer this: what can you tell me about a minute?
+Vex: a minute contains sixty seconds.
+
+User: can you answer this: explain a week.
+Vex: a week contains seven days.
+
+User: please answer this: tell me about gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: quick question: describe evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: please answer this: what is oxygen?
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: can you answer this: what can you tell me about Earth?
+Vex: Earth is the planet where humans live.
+
+User: i want to know: what can you tell me about oxygen?
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: is this true: a year contains twelve months.
+Vex: yes.
+
+User: please answer this: what is a year?
+Vex: a year contains twelve months.
+
+User: explain evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: quick question: what can you tell me about a tree?
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: tell me about oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: quick question: what is Earth?
+Vex: Earth is the planet where humans live.
+
+User: i want to know: tell me about ice.
+Vex: ice is frozen water.
+
+User: i want to know: explain a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: tell me about evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: quick question: explain an hour.
+Vex: an hour contains sixty minutes.
+
+User: tell me about a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: please answer this: explain evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: describe photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: quick question: explain photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: please answer this: tell me about a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: i want to know: tell me about gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: i want to know: explain Earth.
+Vex: Earth is the planet where humans live.
+
+User: what can you tell me about a dog?
+Vex: a dog is an animal commonly kept as a pet.
+
+User: tell me about a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: quick question: what can you tell me about an hour?
+Vex: an hour contains sixty minutes.
+
+User: i want to know: explain the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: can you answer this: what can you tell me about a week?
+Vex: a week contains seven days.
+
+User: can you answer this: what can you tell me about a minute?
+Vex: a minute contains sixty seconds.
+
+User: quick question: tell me about a square.
+Vex: a square is a shape with four equal sides.
+
+User: can you answer this: explain a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: quick question: tell me about a minute.
+Vex: a minute contains sixty seconds.
+
+User: i want to know: what can you tell me about ice?
+Vex: ice is frozen water.
+
+User: can you answer this: describe the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: can you answer this: tell me about oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: please answer this: what can you tell me about a year?
+Vex: a year contains twelve months.
+
+User: i want to know: what is oxygen?
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: can you answer this: explain a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: what can you tell me about the Sun?
+Vex: the Sun is the star at the center of the Solar System.
+
+User: what can you tell me about oxygen?
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: i want to know: what can you tell me about a star?
+Vex: a star is a large glowing ball of hot gas.
+
+User: what can you tell me about a square?
+Vex: a square is a shape with four equal sides.
+
+User: quick question: explain the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: what can you tell me about ice?
+Vex: ice is frozen water.
+
+User: please answer this: what is photosynthesis?
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: is this true: a fish is an animal that lives in water and uses gills.
+Vex: yes.
+
+User: quick question: describe the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: please answer this: explain a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: please answer this: what can you tell me about a square?
+Vex: a square is a shape with four equal sides.
+
+User: can you answer this: explain the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: please answer this: what is a tree?
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: please answer this: tell me about a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: can you answer this: tell me about a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: can you answer this: what is ice?
+Vex: ice is frozen water.
+
+User: i want to know: tell me about photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: can you answer this: explain a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: please answer this: what can you tell me about oxygen?
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: quick question: what is a fish?
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: i want to know: what is evaporation?
+Vex: evaporation is the change of a liquid into a gas.
+
+User: can you answer this: describe a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: is this true: water is a liquid that living things need.
+Vex: yes.
+
+User: please answer this: describe a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: i want to know: explain a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: tell me about an hour.
+Vex: an hour contains sixty minutes.
+
+User: can you answer this: what can you tell me about an hour?
+Vex: an hour contains sixty minutes.
+
+User: quick question: what is a star?
+Vex: a star is a large glowing ball of hot gas.
+
+User: can you answer this: what is an hour?
+Vex: an hour contains sixty minutes.
+
+User: is this true: gravity is a force that attracts masses toward each other.
+Vex: yes.
+
+User: i want to know: what is the heart?
+Vex: the heart is an organ that pumps blood through the body.
+
+User: can you answer this: explain an hour.
+Vex: an hour contains sixty minutes.
+
+User: please answer this: tell me about the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: describe water.
+Vex: water is a liquid that living things need.
+
+User: quick question: describe a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: quick question: what can you tell me about a triangle?
+Vex: a triangle is a shape with three sides.
+
+User: quick question: explain a week.
+Vex: a week contains seven days.
+
+User: i want to know: what can you tell me about a circle?
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: quick question: tell me about a week.
+Vex: a week contains seven days.
+
+User: what can you tell me about a planet?
+Vex: a planet is a large object that orbits a star.
+
+User: quick question: explain rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: please answer this: what is a square?
+Vex: a square is a shape with four equal sides.
+
+User: what can you tell me about a week?
+Vex: a week contains seven days.
+
+User: quick question: describe an hour.
+Vex: an hour contains sixty minutes.
+
+User: i want to know: describe water.
+Vex: water is a liquid that living things need.
+
+User: can you answer this: what can you tell me about a year?
+Vex: a year contains twelve months.
+
+User: is this true: a circle is a round shape whose edge is equally distant from its center.
+Vex: yes.
+
+User: i want to know: tell me about a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: quick question: what can you tell me about Earth?
+Vex: Earth is the planet where humans live.
+
+User: please answer this: what is Earth?
+Vex: Earth is the planet where humans live.
+
+User: explain rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: is this true: a bird is an animal with feathers and a beak.
+Vex: yes.
+
+User: i want to know: what can you tell me about a planet?
+Vex: a planet is a large object that orbits a star.
+
+User: quick question: what can you tell me about a planet?
+Vex: a planet is a large object that orbits a star.
+
+User: describe the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: explain a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: quick question: tell me about water.
+Vex: water is a liquid that living things need.
+
+User: describe a year.
+Vex: a year contains twelve months.
+
+User: i want to know: describe a minute.
+Vex: a minute contains sixty seconds.
+
+User: please answer this: what is water?
+Vex: water is a liquid that living things need.
+
+User: please answer this: tell me about a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: quick question: tell me about a year.
+Vex: a year contains twelve months.
+
+User: quick question: tell me about a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: i want to know: tell me about oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: i want to know: tell me about a square.
+Vex: a square is a shape with four equal sides.
+
+User: quick question: explain a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: can you answer this: what is a square?
+Vex: a square is a shape with four equal sides.
+
+User: please answer this: tell me about a square.
+Vex: a square is a shape with four equal sides.
+
+User: please answer this: what can you tell me about the heart?
+Vex: the heart is an organ that pumps blood through the body.
+
+User: please answer this: describe gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: quick question: describe a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: please answer this: what can you tell me about gravity?
+Vex: gravity is a force that attracts masses toward each other.
+
+User: please answer this: explain a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: quick question: what is the heart?
+Vex: the heart is an organ that pumps blood through the body.
+
+User: describe Earth.
+Vex: Earth is the planet where humans live.
+
+User: is this true: the heart is an organ that pumps blood through the body.
+Vex: yes.
+
+User: tell me about ice.
+Vex: ice is frozen water.
+
+User: please answer this: tell me about water.
+Vex: water is a liquid that living things need.
+
+User: please answer this: describe photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: i want to know: explain gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: quick question: describe the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: i want to know: what can you tell me about evaporation?
+Vex: evaporation is the change of a liquid into a gas.
+
+User: please answer this: describe a week.
+Vex: a week contains seven days.
+
+User: can you answer this: tell me about a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: i want to know: explain a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: please answer this: describe a square.
+Vex: a square is a shape with four equal sides.
+
+User: quick question: what can you tell me about a cat?
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: can you answer this: what is Earth?
+Vex: Earth is the planet where humans live.
+
+User: can you answer this: tell me about evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: describe rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: explain a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: please answer this: explain a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: please answer this: what can you tell me about a planet?
+Vex: a planet is a large object that orbits a star.
+
+User: can you answer this: describe a square.
+Vex: a square is a shape with four equal sides.
+
+User: quick question: what is the Sun?
+Vex: the Sun is the star at the center of the Solar System.
+
+User: what can you tell me about an hour?
+Vex: an hour contains sixty minutes.
+
+User: can you answer this: explain a minute.
+Vex: a minute contains sixty seconds.
+
+User: can you answer this: explain ice.
+Vex: ice is frozen water.
+
+User: can you answer this: what can you tell me about a bird?
+Vex: a bird is an animal with feathers and a beak.
+
+User: quick question: tell me about a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: explain water.
+Vex: water is a liquid that living things need.
+
+User: please answer this: what is a bird?
+Vex: a bird is an animal with feathers and a beak.
+
+User: can you answer this: describe a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: is this true: a square is a shape with four equal sides.
+Vex: yes.
+
+User: quick question: what is a planet?
+Vex: a planet is a large object that orbits a star.
+
+User: is this true: ice is frozen water.
+Vex: yes.
+
+User: quick question: tell me about a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: what is a bird?
+Vex: a bird is an animal with feathers and a beak.
+
+User: quick question: what is a minute?
+Vex: a minute contains sixty seconds.
+
+User: please answer this: what is a triangle?
+Vex: a triangle is a shape with three sides.
+
+User: quick question: tell me about a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: describe a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: please answer this: what is a planet?
+Vex: a planet is a large object that orbits a star.
+
+User: i want to know: describe a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: quick question: describe a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: what can you tell me about rain?
+Vex: rain is liquid water that falls from clouds.
+
+User: i want to know: what is the Sun?
+Vex: the Sun is the star at the center of the Solar System.
+
+User: i want to know: what is a week?
+Vex: a week contains seven days.
+
+User: quick question: explain a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: i want to know: what is a star?
+Vex: a star is a large glowing ball of hot gas.
+
+User: describe gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: can you answer this: explain evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: describe a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: quick question: what can you tell me about a week?
+Vex: a week contains seven days.
+
+User: what can you tell me about gravity?
+Vex: gravity is a force that attracts masses toward each other.
+
+User: can you answer this: describe a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: explain an hour.
+Vex: an hour contains sixty minutes.
+
+User: describe a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: quick question: what is photosynthesis?
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: please answer this: what is an hour?
+Vex: an hour contains sixty minutes.
+
+User: i want to know: tell me about a week.
+Vex: a week contains seven days.
+
+User: i want to know: describe a week.
+Vex: a week contains seven days.
+
+User: can you answer this: what can you tell me about a cat?
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: tell me about a square.
+Vex: a square is a shape with four equal sides.
+
+User: explain a year.
+Vex: a year contains twelve months.
+
+User: quick question: what is oxygen?
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: quick question: explain a square.
+Vex: a square is a shape with four equal sides.
+
+User: please answer this: explain ice.
+Vex: ice is frozen water.
+
+User: can you answer this: describe photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: explain a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: quick question: what can you tell me about oxygen?
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: is this true: Earth is the planet where humans live.
+Vex: yes.
+
+User: can you answer this: explain a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: can you answer this: what can you tell me about ice?
+Vex: ice is frozen water.
+
+User: quick question: describe a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: can you answer this: what is a planet?
+Vex: a planet is a large object that orbits a star.
+
+User: quick question: explain a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: please answer this: describe rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: can you answer this: tell me about a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: quick question: describe water.
+Vex: water is a liquid that living things need.
+
+User: i want to know: what can you tell me about gravity?
+Vex: gravity is a force that attracts masses toward each other.
+
+User: what can you tell me about a fish?
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: is this true: photosynthesis is the process plants use to turn light energy into chemical energy.
+Vex: yes.
+
+User: i want to know: what is gravity?
+Vex: gravity is a force that attracts masses toward each other.
+
+User: i want to know: explain a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: quick question: tell me about evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: what is a dog?
+Vex: a dog is an animal commonly kept as a pet.
+
+User: can you answer this: what is a week?
+Vex: a week contains seven days.
+
+User: quick question: explain a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: can you answer this: what is a cat?
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: please answer this: tell me about a year.
+Vex: a year contains twelve months.
+
+User: i want to know: explain water.
+Vex: water is a liquid that living things need.
+
+User: please answer this: what can you tell me about a dog?
+Vex: a dog is an animal commonly kept as a pet.
+
+User: please answer this: what can you tell me about the Sun?
+Vex: the Sun is the star at the center of the Solar System.
+
+User: what can you tell me about Earth?
+Vex: Earth is the planet where humans live.
+
+User: can you answer this: tell me about a week.
+Vex: a week contains seven days.
+
+User: what is a square?
+Vex: a square is a shape with four equal sides.
+
+User: quick question: explain ice.
+Vex: ice is frozen water.
+
+User: i want to know: tell me about a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: can you answer this: explain water.
+Vex: water is a liquid that living things need.
+
+User: can you answer this: tell me about gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: i want to know: explain oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: i want to know: what is a minute?
+Vex: a minute contains sixty seconds.
+
+User: explain a week.
+Vex: a week contains seven days.
+
+User: i want to know: what is photosynthesis?
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: explain a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: i want to know: describe an hour.
+Vex: an hour contains sixty minutes.
+
+User: quick question: explain a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: can you answer this: explain photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: is this true: evaporation is the change of a liquid into a gas.
+Vex: yes.
+
+User: can you answer this: what is a tree?
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: is this true: a week contains seven days.
+Vex: yes.
+
+User: please answer this: tell me about a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: i want to know: describe a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: please answer this: explain Earth.
+Vex: Earth is the planet where humans live.
+
+User: what can you tell me about a year?
+Vex: a year contains twelve months.
+
+User: please answer this: explain oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: please answer this: explain water.
+Vex: water is a liquid that living things need.
+
+User: can you answer this: describe rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: quick question: describe a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: quick question: tell me about a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: tell me about a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: i want to know: describe ice.
+Vex: ice is frozen water.
+
+User: quick question: describe Earth.
+Vex: Earth is the planet where humans live.
+
+User: tell me about Earth.
+Vex: Earth is the planet where humans live.
+
+User: can you answer this: what can you tell me about a circle?
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: i want to know: describe a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: can you answer this: describe a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: tell me about rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: what is photosynthesis?
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: what can you tell me about the heart?
+Vex: the heart is an organ that pumps blood through the body.
+
+User: quick question: tell me about the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: quick question: tell me about gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: i want to know: explain rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: i want to know: describe evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: what is the heart?
+Vex: the heart is an organ that pumps blood through the body.
+
+User: please answer this: describe a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: i want to know: what is water?
+Vex: water is a liquid that living things need.
+
+User: i want to know: describe the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: please answer this: describe a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: can you answer this: what can you tell me about gravity?
+Vex: gravity is a force that attracts masses toward each other.
+
+User: i want to know: explain the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: i want to know: what is a cat?
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: is this true: the Moon is Earth's natural satellite.
+Vex: yes.
+
+User: tell me about a bird.
+Vex: a bird is an animal with feathers and a beak.
+
+User: i want to know: what is a dog?
+Vex: a dog is an animal commonly kept as a pet.
+
+User: is this true: an hour contains sixty minutes.
+Vex: yes.
+
+User: can you answer this: what can you tell me about oxygen?
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: please answer this: explain photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: can you answer this: what can you tell me about a dog?
+Vex: a dog is an animal commonly kept as a pet.
+
+User: can you answer this: what can you tell me about a star?
+Vex: a star is a large glowing ball of hot gas.
+
+User: what can you tell me about evaporation?
+Vex: evaporation is the change of a liquid into a gas.
+
+User: i want to know: describe a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: can you answer this: what is water?
+Vex: water is a liquid that living things need.
+
+User: what is a minute?
+Vex: a minute contains sixty seconds.
+
+User: please answer this: describe the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: can you answer this: tell me about a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: please answer this: what can you tell me about a star?
+Vex: a star is a large glowing ball of hot gas.
+
+User: i want to know: explain a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: explain a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: i want to know: describe photosynthesis.
+Vex: photosynthesis is the process plants use to turn light energy into chemical energy.
+
+User: tell me about a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: can you answer this: explain a year.
+Vex: a year contains twelve months.
+
+User: i want to know: what can you tell me about a year?
+Vex: a year contains twelve months.
+
+User: i want to know: tell me about a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: what is Earth?
+Vex: Earth is the planet where humans live.
+
+User: is this true: a star is a large glowing ball of hot gas.
+Vex: yes.
+
+User: quick question: what can you tell me about a bird?
+Vex: a bird is an animal with feathers and a beak.
+
+User: please answer this: explain a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: i want to know: explain a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: can you answer this: describe a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: can you answer this: what can you tell me about a fish?
+Vex: a fish is an animal that lives in water and uses gills.

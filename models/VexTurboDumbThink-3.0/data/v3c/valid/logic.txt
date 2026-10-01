@@ -1,0 +1,1952 @@
+User: is 234 greater than 96?
+Vex: yes.
+
+User: compare 19 and 382.
+Vex: 19 is less than 382.
+
+User: compare 83 and 306.
+Vex: 83 is less than 306.
+
+User: compare 19 and 179.
+Vex: 19 is less than 179.
+
+User: is 173 greater than 260?
+Vex: no.
+
+User: is 129 greater than 215?
+Vex: no.
+
+User: is 194 greater than 210?
+Vex: no.
+
+User: compare 135 and 274.
+Vex: 135 is less than 274.
+
+User: is 395 greater than 328?
+Vex: yes.
+
+User: is 176 greater than 59?
+Vex: yes.
+
+User: compare 73 and 136.
+Vex: 73 is less than 136.
+
+User: compare 126 and 303.
+Vex: 126 is less than 303.
+
+User: is 317 greater than 378?
+Vex: no.
+
+User: compare 1 and 226.
+Vex: 1 is less than 226.
+
+User: compare 5 and 101.
+Vex: 5 is less than 101.
+
+User: compare 253 and 160.
+Vex: 253 is greater than 160.
+
+User: is 294 greater than 56?
+Vex: yes.
+
+User: compare 34 and 99.
+Vex: 34 is less than 99.
+
+User: is 396 greater than 250?
+Vex: yes.
+
+User: is 54 odd?
+Vex: no.
+
+User: is 136 odd?
+Vex: no.
+
+User: is 165 greater than 400?
+Vex: no.
+
+User: compare 186 and 195.
+Vex: 186 is less than 195.
+
+User: is 91 greater than 125?
+Vex: no.
+
+User: compare 310 and 53.
+Vex: 310 is greater than 53.
+
+User: compare 60 and 230.
+Vex: 60 is less than 230.
+
+User: compare 110 and 248.
+Vex: 110 is less than 248.
+
+User: is 308 greater than 23?
+Vex: yes.
+
+User: is 72 greater than 256?
+Vex: no.
+
+User: is 263 greater than 122?
+Vex: yes.
+
+User: is 368 greater than 38?
+Vex: yes.
+
+User: compare 182 and 49.
+Vex: 182 is greater than 49.
+
+User: compare 104 and 248.
+Vex: 104 is less than 248.
+
+User: is 107 greater than 158?
+Vex: no.
+
+User: compare 372 and 229.
+Vex: 372 is greater than 229.
+
+User: is 241 greater than 136?
+Vex: yes.
+
+User: is 394 greater than 28?
+Vex: yes.
+
+User: compare 134 and 340.
+Vex: 134 is less than 340.
+
+User: is 166 greater than 101?
+Vex: yes.
+
+User: compare 79 and 58.
+Vex: 79 is greater than 58.
+
+User: is 9 greater than 135?
+Vex: no.
+
+User: is 174 odd?
+Vex: no.
+
+User: is 324 greater than 27?
+Vex: yes.
+
+User: compare 257 and 223.
+Vex: 257 is greater than 223.
+
+User: is 178 greater than 91?
+Vex: yes.
+
+User: is 16 even?
+Vex: yes.
+
+User: is 276 greater than 397?
+Vex: no.
+
+User: is 283 greater than 10?
+Vex: yes.
+
+User: is 8 odd?
+Vex: no.
+
+User: is 139 greater than 37?
+Vex: yes.
+
+User: is 51 greater than 178?
+Vex: no.
+
+User: compare 50 and 73.
+Vex: 50 is less than 73.
+
+User: compare 11 and 291.
+Vex: 11 is less than 291.
+
+User: compare 18 and 185.
+Vex: 18 is less than 185.
+
+User: is 115 greater than 17?
+Vex: yes.
+
+User: is 15 greater than 278?
+Vex: no.
+
+User: compare 160 and 230.
+Vex: 160 is less than 230.
+
+User: is 163 greater than 203?
+Vex: no.
+
+User: compare 25 and 210.
+Vex: 25 is less than 210.
+
+User: compare 106 and 330.
+Vex: 106 is less than 330.
+
+User: is 8 greater than 154?
+Vex: no.
+
+User: is 48 greater than 182?
+Vex: no.
+
+User: is 121 odd?
+Vex: yes.
+
+User: is 399 greater than 354?
+Vex: yes.
+
+User: is 244 odd?
+Vex: no.
+
+User: is 87 greater than 75?
+Vex: yes.
+
+User: is 280 greater than 343?
+Vex: no.
+
+User: is 340 greater than 103?
+Vex: yes.
+
+User: is 139 greater than 375?
+Vex: no.
+
+User: is 143 even?
+Vex: no.
+
+User: is 4 greater than 321?
+Vex: no.
+
+User: is 68 greater than 125?
+Vex: no.
+
+User: is 390 greater than 159?
+Vex: yes.
+
+User: compare 287 and 13.
+Vex: 287 is greater than 13.
+
+User: is 23 even?
+Vex: no.
+
+User: compare 186 and 24.
+Vex: 186 is greater than 24.
+
+User: compare 332 and 185.
+Vex: 332 is greater than 185.
+
+User: is 289 greater than 394?
+Vex: no.
+
+User: compare 90 and 23.
+Vex: 90 is greater than 23.
+
+User: compare 170 and 283.
+Vex: 170 is less than 283.
+
+User: is 144 greater than 182?
+Vex: no.
+
+User: compare 181 and 334.
+Vex: 181 is less than 334.
+
+User: is 382 greater than 365?
+Vex: yes.
+
+User: compare 53 and 306.
+Vex: 53 is less than 306.
+
+User: is 137 greater than 239?
+Vex: no.
+
+User: is 100 greater than 224?
+Vex: no.
+
+User: is 234 greater than 32?
+Vex: yes.
+
+User: is 38 greater than 78?
+Vex: no.
+
+User: compare 192 and 94.
+Vex: 192 is greater than 94.
+
+User: is 233 greater than 189?
+Vex: yes.
+
+User: is 79 even?
+Vex: no.
+
+User: is 52 greater than 269?
+Vex: no.
+
+User: is 306 greater than 342?
+Vex: no.
+
+User: compare 377 and 247.
+Vex: 377 is greater than 247.
+
+User: compare 113 and 58.
+Vex: 113 is greater than 58.
+
+User: is 77 greater than 313?
+Vex: no.
+
+User: compare 104 and 155.
+Vex: 104 is less than 155.
+
+User: compare 329 and 234.
+Vex: 329 is greater than 234.
+
+User: is 297 greater than 381?
+Vex: no.
+
+User: compare 329 and 54.
+Vex: 329 is greater than 54.
+
+User: is 336 greater than 125?
+Vex: yes.
+
+User: is 378 greater than 44?
+Vex: yes.
+
+User: compare 364 and 138.
+Vex: 364 is greater than 138.
+
+User: is 89 even?
+Vex: no.
+
+User: is 180 greater than 354?
+Vex: no.
+
+User: is 226 greater than 173?
+Vex: yes.
+
+User: compare 258 and 318.
+Vex: 258 is less than 318.
+
+User: is 70 greater than 63?
+Vex: yes.
+
+User: is 52 greater than 92?
+Vex: no.
+
+User: is 51 even?
+Vex: no.
+
+User: compare 68 and 324.
+Vex: 68 is less than 324.
+
+User: is 61 greater than 56?
+Vex: yes.
+
+User: is 149 greater than 81?
+Vex: yes.
+
+User: compare 246 and 120.
+Vex: 246 is greater than 120.
+
+User: is 58 greater than 388?
+Vex: no.
+
+User: compare 127 and 162.
+Vex: 127 is less than 162.
+
+User: compare 376 and 234.
+Vex: 376 is greater than 234.
+
+User: compare 48 and 246.
+Vex: 48 is less than 246.
+
+User: is 85 greater than 269?
+Vex: no.
+
+User: compare 240 and 198.
+Vex: 240 is greater than 198.
+
+User: is 271 greater than 195?
+Vex: yes.
+
+User: compare 37 and 324.
+Vex: 37 is less than 324.
+
+User: is 271 greater than 51?
+Vex: yes.
+
+User: is 84 greater than 10?
+Vex: yes.
+
+User: compare 330 and 192.
+Vex: 330 is greater than 192.
+
+User: is 96 greater than 251?
+Vex: no.
+
+User: compare 261 and 191.
+Vex: 261 is greater than 191.
+
+User: is 181 greater than 116?
+Vex: yes.
+
+User: is 234 greater than 258?
+Vex: no.
+
+User: is 221 odd?
+Vex: yes.
+
+User: compare 316 and 290.
+Vex: 316 is greater than 290.
+
+User: is 141 greater than 340?
+Vex: no.
+
+User: is 302 greater than 362?
+Vex: no.
+
+User: compare 40 and 274.
+Vex: 40 is less than 274.
+
+User: is 399 greater than 307?
+Vex: yes.
+
+User: is 376 greater than 316?
+Vex: yes.
+
+User: is 86 even?
+Vex: yes.
+
+User: compare 160 and 223.
+Vex: 160 is less than 223.
+
+User: is 1 greater than 110?
+Vex: no.
+
+User: is 31 odd?
+Vex: yes.
+
+User: is 277 greater than 168?
+Vex: yes.
+
+User: is 308 greater than 364?
+Vex: no.
+
+User: is 250 greater than 394?
+Vex: no.
+
+User: is 87 even?
+Vex: no.
+
+User: is 131 greater than 398?
+Vex: no.
+
+User: compare 75 and 147.
+Vex: 75 is less than 147.
+
+User: is 223 greater than 49?
+Vex: yes.
+
+User: is 274 greater than 237?
+Vex: yes.
+
+User: is 18 greater than 198?
+Vex: no.
+
+User: is 259 greater than 47?
+Vex: yes.
+
+User: is 203 greater than 73?
+Vex: yes.
+
+User: compare 134 and 178.
+Vex: 134 is less than 178.
+
+User: is 99 odd?
+Vex: yes.
+
+User: is 351 greater than 276?
+Vex: yes.
+
+User: compare 4 and 270.
+Vex: 4 is less than 270.
+
+User: is 209 greater than 86?
+Vex: yes.
+
+User: compare 303 and 294.
+Vex: 303 is greater than 294.
+
+User: compare 268 and 144.
+Vex: 268 is greater than 144.
+
+User: compare 288 and 351.
+Vex: 288 is less than 351.
+
+User: is 33 greater than 66?
+Vex: no.
+
+User: compare 224 and 37.
+Vex: 224 is greater than 37.
+
+User: is 280 even?
+Vex: yes.
+
+User: is 172 greater than 294?
+Vex: no.
+
+User: compare 369 and 106.
+Vex: 369 is greater than 106.
+
+User: is 105 greater than 167?
+Vex: no.
+
+User: is 124 greater than 218?
+Vex: no.
+
+User: is 177 greater than 281?
+Vex: no.
+
+User: compare 277 and 324.
+Vex: 277 is less than 324.
+
+User: is 321 greater than 175?
+Vex: yes.
+
+User: is 25 even?
+Vex: no.
+
+User: is 340 greater than 224?
+Vex: yes.
+
+User: is 358 greater than 386?
+Vex: no.
+
+User: compare 1 and 51.
+Vex: 1 is less than 51.
+
+User: is 398 greater than 97?
+Vex: yes.
+
+User: is 351 greater than 247?
+Vex: yes.
+
+User: compare 31 and 48.
+Vex: 31 is less than 48.
+
+User: compare 59 and 315.
+Vex: 59 is less than 315.
+
+User: compare 252 and 175.
+Vex: 252 is greater than 175.
+
+User: compare 180 and 76.
+Vex: 180 is greater than 76.
+
+User: compare 294 and 212.
+Vex: 294 is greater than 212.
+
+User: compare 393 and 302.
+Vex: 393 is greater than 302.
+
+User: is 18 greater than 376?
+Vex: no.
+
+User: compare 332 and 12.
+Vex: 332 is greater than 12.
+
+User: is 83 greater than 170?
+Vex: no.
+
+User: compare 342 and 221.
+Vex: 342 is greater than 221.
+
+User: is 181 greater than 374?
+Vex: no.
+
+User: compare 388 and 241.
+Vex: 388 is greater than 241.
+
+User: compare 293 and 313.
+Vex: 293 is less than 313.
+
+User: compare 77 and 218.
+Vex: 77 is less than 218.
+
+User: is 233 greater than 157?
+Vex: yes.
+
+User: is 127 greater than 103?
+Vex: yes.
+
+User: is 100 greater than 25?
+Vex: yes.
+
+User: compare 252 and 286.
+Vex: 252 is less than 286.
+
+User: is 177 even?
+Vex: no.
+
+User: compare 4 and 168.
+Vex: 4 is less than 168.
+
+User: is 265 greater than 33?
+Vex: yes.
+
+User: compare 338 and 273.
+Vex: 338 is greater than 273.
+
+User: is 292 greater than 157?
+Vex: yes.
+
+User: is 152 greater than 379?
+Vex: no.
+
+User: compare 166 and 143.
+Vex: 166 is greater than 143.
+
+User: compare 89 and 256.
+Vex: 89 is less than 256.
+
+User: is 198 greater than 182?
+Vex: yes.
+
+User: is 38 greater than 12?
+Vex: yes.
+
+User: compare 190 and 0.
+Vex: 190 is greater than 0.
+
+User: compare 275 and 196.
+Vex: 275 is greater than 196.
+
+User: is 74 greater than 28?
+Vex: yes.
+
+User: is 346 greater than 123?
+Vex: yes.
+
+User: compare 285 and 135.
+Vex: 285 is greater than 135.
+
+User: compare 175 and 82.
+Vex: 175 is greater than 82.
+
+User: is 75 greater than 35?
+Vex: yes.
+
+User: compare 353 and 327.
+Vex: 353 is greater than 327.
+
+User: compare 4 and 264.
+Vex: 4 is less than 264.
+
+User: compare 12 and 339.
+Vex: 12 is less than 339.
+
+User: compare 111 and 223.
+Vex: 111 is less than 223.
+
+User: is 188 greater than 103?
+Vex: yes.
+
+User: compare 66 and 192.
+Vex: 66 is less than 192.
+
+User: is 387 greater than 178?
+Vex: yes.
+
+User: compare 98 and 267.
+Vex: 98 is less than 267.
+
+User: is 389 greater than 39?
+Vex: yes.
+
+User: is 205 even?
+Vex: no.
+
+User: compare 195 and 266.
+Vex: 195 is less than 266.
+
+User: is 223 greater than 237?
+Vex: no.
+
+User: is 138 greater than 342?
+Vex: no.
+
+User: compare 244 and 320.
+Vex: 244 is less than 320.
+
+User: compare 279 and 358.
+Vex: 279 is less than 358.
+
+User: is 349 greater than 72?
+Vex: yes.
+
+User: is 63 greater than 318?
+Vex: no.
+
+User: is 364 greater than 321?
+Vex: yes.
+
+User: is 181 greater than 334?
+Vex: no.
+
+User: compare 273 and 185.
+Vex: 273 is greater than 185.
+
+User: compare 400 and 54.
+Vex: 400 is greater than 54.
+
+User: compare 247 and 380.
+Vex: 247 is less than 380.
+
+User: compare 52 and 347.
+Vex: 52 is less than 347.
+
+User: compare 259 and 349.
+Vex: 259 is less than 349.
+
+User: compare 14 and 192.
+Vex: 14 is less than 192.
+
+User: is 400 greater than 74?
+Vex: yes.
+
+User: is 93 greater than 298?
+Vex: no.
+
+User: is 205 greater than 385?
+Vex: no.
+
+User: compare 243 and 177.
+Vex: 243 is greater than 177.
+
+User: is 45 greater than 282?
+Vex: no.
+
+User: compare 124 and 78.
+Vex: 124 is greater than 78.
+
+User: is 300 greater than 358?
+Vex: no.
+
+User: is 294 even?
+Vex: yes.
+
+User: compare 94 and 162.
+Vex: 94 is less than 162.
+
+User: is 51 greater than 98?
+Vex: no.
+
+User: compare 77 and 153.
+Vex: 77 is less than 153.
+
+User: is 149 greater than 59?
+Vex: yes.
+
+User: compare 121 and 214.
+Vex: 121 is less than 214.
+
+User: is 182 greater than 389?
+Vex: no.
+
+User: compare 268 and 392.
+Vex: 268 is less than 392.
+
+User: compare 133 and 198.
+Vex: 133 is less than 198.
+
+User: is 267 greater than 112?
+Vex: yes.
+
+User: is 330 greater than 181?
+Vex: yes.
+
+User: is 349 greater than 173?
+Vex: yes.
+
+User: is 185 greater than 104?
+Vex: yes.
+
+User: compare 311 and 174.
+Vex: 311 is greater than 174.
+
+User: is 13 greater than 14?
+Vex: no.
+
+User: is 97 greater than 171?
+Vex: no.
+
+User: is 206 even?
+Vex: yes.
+
+User: is 185 greater than 36?
+Vex: yes.
+
+User: compare 85 and 200.
+Vex: 85 is less than 200.
+
+User: compare 142 and 202.
+Vex: 142 is less than 202.
+
+User: is 186 greater than 158?
+Vex: yes.
+
+User: is 14 greater than 205?
+Vex: no.
+
+User: is 234 greater than 203?
+Vex: yes.
+
+User: compare 193 and 47.
+Vex: 193 is greater than 47.
+
+User: is 186 greater than 69?
+Vex: yes.
+
+User: is 67 greater than 111?
+Vex: no.
+
+User: is 175 greater than 341?
+Vex: no.
+
+User: compare 97 and 247.
+Vex: 97 is less than 247.
+
+User: is 69 greater than 143?
+Vex: no.
+
+User: is 377 greater than 272?
+Vex: yes.
+
+User: is 272 greater than 355?
+Vex: no.
+
+User: compare 139 and 270.
+Vex: 139 is less than 270.
+
+User: compare 393 and 52.
+Vex: 393 is greater than 52.
+
+User: is 276 greater than 261?
+Vex: yes.
+
+User: is 201 greater than 248?
+Vex: no.
+
+User: compare 15 and 234.
+Vex: 15 is less than 234.
+
+User: compare 232 and 286.
+Vex: 232 is less than 286.
+
+User: is 92 odd?
+Vex: no.
+
+User: is 12 odd?
+Vex: no.
+
+User: compare 245 and 387.
+Vex: 245 is less than 387.
+
+User: is 294 greater than 225?
+Vex: yes.
+
+User: is 96 even?
+Vex: yes.
+
+User: compare 265 and 314.
+Vex: 265 is less than 314.
+
+User: is 295 greater than 332?
+Vex: no.
+
+User: is 34 greater than 214?
+Vex: no.
+
+User: compare 150 and 72.
+Vex: 150 is greater than 72.
+
+User: compare 308 and 306.
+Vex: 308 is greater than 306.
+
+User: is 239 even?
+Vex: no.
+
+User: is 373 greater than 116?
+Vex: yes.
+
+User: compare 89 and 188.
+Vex: 89 is less than 188.
+
+User: is 28 greater than 276?
+Vex: no.
+
+User: is 31 greater than 294?
+Vex: no.
+
+User: is 42 odd?
+Vex: no.
+
+User: compare 359 and 347.
+Vex: 359 is greater than 347.
+
+User: is 243 odd?
+Vex: yes.
+
+User: compare 105 and 362.
+Vex: 105 is less than 362.
+
+User: is 282 greater than 169?
+Vex: yes.
+
+User: compare 201 and 224.
+Vex: 201 is less than 224.
+
+User: is 254 greater than 389?
+Vex: no.
+
+User: compare 297 and 264.
+Vex: 297 is greater than 264.
+
+User: compare 348 and 380.
+Vex: 348 is less than 380.
+
+User: compare 200 and 188.
+Vex: 200 is greater than 188.
+
+User: compare 363 and 101.
+Vex: 363 is greater than 101.
+
+User: is 333 greater than 306?
+Vex: yes.
+
+User: is 63 greater than 88?
+Vex: no.
+
+User: is 227 greater than 325?
+Vex: no.
+
+User: is 258 greater than 239?
+Vex: yes.
+
+User: compare 257 and 257.
+Vex: 257 is equal to 257.
+
+User: is 73 greater than 313?
+Vex: no.
+
+User: is 80 even?
+Vex: yes.
+
+User: is 275 greater than 265?
+Vex: yes.
+
+User: compare 296 and 268.
+Vex: 296 is greater than 268.
+
+User: compare 380 and 214.
+Vex: 380 is greater than 214.
+
+User: compare 275 and 202.
+Vex: 275 is greater than 202.
+
+User: is 279 greater than 72?
+Vex: yes.
+
+User: is 59 greater than 222?
+Vex: no.
+
+User: compare 357 and 381.
+Vex: 357 is less than 381.
+
+User: is 232 greater than 380?
+Vex: no.
+
+User: compare 11 and 367.
+Vex: 11 is less than 367.
+
+User: is 193 greater than 395?
+Vex: no.
+
+User: compare 109 and 97.
+Vex: 109 is greater than 97.
+
+User: is 163 even?
+Vex: no.
+
+User: compare 397 and 345.
+Vex: 397 is greater than 345.
+
+User: is 343 greater than 94?
+Vex: yes.
+
+User: is 130 greater than 17?
+Vex: yes.
+
+User: is 80 greater than 33?
+Vex: yes.
+
+User: compare 206 and 136.
+Vex: 206 is greater than 136.
+
+User: compare 11 and 23.
+Vex: 11 is less than 23.
+
+User: compare 52 and 240.
+Vex: 52 is less than 240.
+
+User: compare 49 and 149.
+Vex: 49 is less than 149.
+
+User: compare 383 and 153.
+Vex: 383 is greater than 153.
+
+User: is 160 greater than 297?
+Vex: no.
+
+User: is 342 greater than 350?
+Vex: no.
+
+User: compare 65 and 249.
+Vex: 65 is less than 249.
+
+User: compare 109 and 3.
+Vex: 109 is greater than 3.
+
+User: compare 249 and 207.
+Vex: 249 is greater than 207.
+
+User: is 301 greater than 397?
+Vex: no.
+
+User: is 373 greater than 230?
+Vex: yes.
+
+User: compare 50 and 53.
+Vex: 50 is less than 53.
+
+User: compare 9 and 101.
+Vex: 9 is less than 101.
+
+User: compare 77 and 197.
+Vex: 77 is less than 197.
+
+User: compare 285 and 146.
+Vex: 285 is greater than 146.
+
+User: is 162 greater than 285?
+Vex: no.
+
+User: is 327 greater than 139?
+Vex: yes.
+
+User: compare 166 and 333.
+Vex: 166 is less than 333.
+
+User: is 340 greater than 312?
+Vex: yes.
+
+User: compare 196 and 295.
+Vex: 196 is less than 295.
+
+User: compare 133 and 386.
+Vex: 133 is less than 386.
+
+User: is 332 greater than 118?
+Vex: yes.
+
+User: is 103 greater than 233?
+Vex: no.
+
+User: compare 264 and 380.
+Vex: 264 is less than 380.
+
+User: is 123 greater than 201?
+Vex: no.
+
+User: compare 45 and 55.
+Vex: 45 is less than 55.
+
+User: compare 160 and 337.
+Vex: 160 is less than 337.
+
+User: is 188 greater than 22?
+Vex: yes.
+
+User: compare 22 and 23.
+Vex: 22 is less than 23.
+
+User: is 130 odd?
+Vex: no.
+
+User: is 386 greater than 216?
+Vex: yes.
+
+User: is 169 greater than 190?
+Vex: no.
+
+User: compare 150 and 161.
+Vex: 150 is less than 161.
+
+User: is 204 greater than 113?
+Vex: yes.
+
+User: compare 36 and 353.
+Vex: 36 is less than 353.
+
+User: is 9 greater than 316?
+Vex: no.
+
+User: compare 108 and 372.
+Vex: 108 is less than 372.
+
+User: compare 241 and 151.
+Vex: 241 is greater than 151.
+
+User: is 51 greater than 323?
+Vex: no.
+
+User: compare 143 and 9.
+Vex: 143 is greater than 9.
+
+User: compare 122 and 63.
+Vex: 122 is greater than 63.
+
+User: compare 313 and 144.
+Vex: 313 is greater than 144.
+
+User: compare 157 and 393.
+Vex: 157 is less than 393.
+
+User: is 205 greater than 351?
+Vex: no.
+
+User: is 20 greater than 321?
+Vex: no.
+
+User: compare 308 and 143.
+Vex: 308 is greater than 143.
+
+User: compare 398 and 10.
+Vex: 398 is greater than 10.
+
+User: compare 291 and 121.
+Vex: 291 is greater than 121.
+
+User: compare 361 and 127.
+Vex: 361 is greater than 127.
+
+User: is 377 greater than 322?
+Vex: yes.
+
+User: is 281 greater than 320?
+Vex: no.
+
+User: compare 345 and 328.
+Vex: 345 is greater than 328.
+
+User: compare 93 and 389.
+Vex: 93 is less than 389.
+
+User: is 204 greater than 205?
+Vex: no.
+
+User: is 170 greater than 145?
+Vex: yes.
+
+User: is 394 greater than 157?
+Vex: yes.
+
+User: is 229 greater than 384?
+Vex: no.
+
+User: is 312 greater than 62?
+Vex: yes.
+
+User: compare 180 and 134.
+Vex: 180 is greater than 134.
+
+User: is 181 greater than 165?
+Vex: yes.
+
+User: is 281 greater than 384?
+Vex: no.
+
+User: compare 323 and 315.
+Vex: 323 is greater than 315.
+
+User: is 110 greater than 1?
+Vex: yes.
+
+User: is 300 greater than 112?
+Vex: yes.
+
+User: is 168 even?
+Vex: yes.
+
+User: is 357 greater than 279?
+Vex: yes.
+
+User: compare 145 and 138.
+Vex: 145 is greater than 138.
+
+User: is 136 greater than 212?
+Vex: no.
+
+User: is 314 greater than 240?
+Vex: yes.
+
+User: compare 62 and 209.
+Vex: 62 is less than 209.
+
+User: compare 388 and 23.
+Vex: 388 is greater than 23.
+
+User: is 55 greater than 44?
+Vex: yes.
+
+User: is 254 greater than 48?
+Vex: yes.
+
+User: is 79 odd?
+Vex: yes.
+
+User: is 168 greater than 81?
+Vex: yes.
+
+User: is 143 greater than 187?
+Vex: no.
+
+User: is 326 greater than 382?
+Vex: no.
+
+User: is 137 greater than 309?
+Vex: no.
+
+User: compare 262 and 399.
+Vex: 262 is less than 399.
+
+User: compare 235 and 252.
+Vex: 235 is less than 252.
+
+User: is 44 greater than 107?
+Vex: no.
+
+User: compare 77 and 390.
+Vex: 77 is less than 390.
+
+User: is 29 greater than 382?
+Vex: no.
+
+User: compare 46 and 374.
+Vex: 46 is less than 374.
+
+User: compare 316 and 391.
+Vex: 316 is less than 391.
+
+User: compare 179 and 156.
+Vex: 179 is greater than 156.
+
+User: compare 212 and 80.
+Vex: 212 is greater than 80.
+
+User: compare 152 and 304.
+Vex: 152 is less than 304.
+
+User: is 308 greater than 348?
+Vex: no.
+
+User: is 191 greater than 241?
+Vex: no.
+
+User: compare 37 and 218.
+Vex: 37 is less than 218.
+
+User: compare 331 and 368.
+Vex: 331 is less than 368.
+
+User: is 93 greater than 166?
+Vex: no.
+
+User: compare 157 and 232.
+Vex: 157 is less than 232.
+
+User: is 281 greater than 258?
+Vex: yes.
+
+User: compare 346 and 208.
+Vex: 346 is greater than 208.
+
+User: is 358 greater than 43?
+Vex: yes.
+
+User: is 125 greater than 127?
+Vex: no.
+
+User: is 265 greater than 36?
+Vex: yes.
+
+User: compare 283 and 88.
+Vex: 283 is greater than 88.
+
+User: is 361 greater than 6?
+Vex: yes.
+
+User: is 59 greater than 150?
+Vex: no.
+
+User: compare 19 and 89.
+Vex: 19 is less than 89.
+
+User: is 28 greater than 347?
+Vex: no.
+
+User: compare 324 and 252.
+Vex: 324 is greater than 252.
+
+User: is 23 greater than 348?
+Vex: no.
+
+User: compare 295 and 270.
+Vex: 295 is greater than 270.
+
+User: is 300 greater than 177?
+Vex: yes.
+
+User: compare 140 and 276.
+Vex: 140 is less than 276.
+
+User: compare 311 and 189.
+Vex: 311 is greater than 189.
+
+User: compare 306 and 230.
+Vex: 306 is greater than 230.
+
+User: compare 122 and 306.
+Vex: 122 is less than 306.
+
+User: is 379 greater than 391?
+Vex: no.
+
+User: is 85 greater than 344?
+Vex: no.
+
+User: compare 316 and 288.
+Vex: 316 is greater than 288.
+
+User: compare 251 and 49.
+Vex: 251 is greater than 49.
+
+User: is 20 greater than 175?
+Vex: no.
+
+User: compare 289 and 272.
+Vex: 289 is greater than 272.
+
+User: is 131 greater than 154?
+Vex: no.
+
+User: is 115 greater than 88?
+Vex: yes.
+
+User: is 134 greater than 13?
+Vex: yes.
+
+User: is 144 greater than 84?
+Vex: yes.
+
+User: is 307 greater than 157?
+Vex: yes.
+
+User: compare 228 and 75.
+Vex: 228 is greater than 75.
+
+User: is 113 greater than 10?
+Vex: yes.
+
+User: is 256 greater than 225?
+Vex: yes.
+
+User: is 223 greater than 362?
+Vex: no.
+
+User: compare 297 and 356.
+Vex: 297 is less than 356.
+
+User: compare 301 and 23.
+Vex: 301 is greater than 23.
+
+User: compare 171 and 175.
+Vex: 171 is less than 175.
+
+User: is 133 greater than 178?
+Vex: no.
+
+User: compare 138 and 242.
+Vex: 138 is less than 242.
+
+User: is 273 greater than 34?
+Vex: yes.
+
+User: is 63 greater than 9?
+Vex: yes.
+
+User: is 144 greater than 208?
+Vex: no.
+
+User: compare 221 and 129.
+Vex: 221 is greater than 129.
+
+User: compare 120 and 83.
+Vex: 120 is greater than 83.
+
+User: compare 295 and 268.
+Vex: 295 is greater than 268.
+
+User: is 62 greater than 18?
+Vex: yes.
+
+User: is 4 greater than 70?
+Vex: no.
+
+User: is 64 greater than 380?
+Vex: no.
+
+User: compare 275 and 66.
+Vex: 275 is greater than 66.
+
+User: compare 362 and 329.
+Vex: 362 is greater than 329.
+
+User: is 181 even?
+Vex: no.
+
+User: is 83 odd?
+Vex: yes.
+
+User: is 167 greater than 345?
+Vex: no.
+
+User: is 11 greater than 394?
+Vex: no.
+
+User: is 63 greater than 232?
+Vex: no.
+
+User: compare 65 and 360.
+Vex: 65 is less than 360.
+
+User: is 1 even?
+Vex: no.
+
+User: compare 115 and 206.
+Vex: 115 is less than 206.
+
+User: compare 44 and 93.
+Vex: 44 is less than 93.
+
+User: is 175 greater than 0?
+Vex: yes.
+
+User: compare 164 and 43.
+Vex: 164 is greater than 43.
+
+User: is 103 greater than 361?
+Vex: no.
+
+User: is 280 odd?
+Vex: no.
+
+User: is 381 greater than 213?
+Vex: yes.
+
+User: compare 11 and 365.
+Vex: 11 is less than 365.
+
+User: is 26 odd?
+Vex: no.
+
+User: is 58 greater than 252?
+Vex: no.
+
+User: is 242 greater than 319?
+Vex: no.
+
+User: is 332 greater than 258?
+Vex: yes.
+
+User: compare 316 and 344.
+Vex: 316 is less than 344.
+
+User: compare 332 and 366.
+Vex: 332 is less than 366.
+
+User: compare 92 and 265.
+Vex: 92 is less than 265.
+
+User: is 254 greater than 172?
+Vex: yes.
+
+User: is 30 greater than 387?
+Vex: no.
+
+User: compare 35 and 71.
+Vex: 35 is less than 71.
+
+User: is 204 greater than 106?
+Vex: yes.
+
+User: compare 63 and 290.
+Vex: 63 is less than 290.
+
+User: is 328 greater than 317?
+Vex: yes.
+
+User: is 330 greater than 281?
+Vex: yes.
+
+User: is 312 greater than 358?
+Vex: no.
+
+User: is 248 odd?
+Vex: no.
+
+User: compare 363 and 119.
+Vex: 363 is greater than 119.
+
+User: compare 67 and 187.
+Vex: 67 is less than 187.
+
+User: is 225 greater than 285?
+Vex: no.
+
+User: compare 49 and 37.
+Vex: 49 is greater than 37.
+
+User: compare 185 and 280.
+Vex: 185 is less than 280.
+
+User: is 259 greater than 288?
+Vex: no.
+
+User: compare 311 and 196.
+Vex: 311 is greater than 196.
+
+User: compare 323 and 68.
+Vex: 323 is greater than 68.
+
+User: compare 310 and 208.
+Vex: 310 is greater than 208.
+
+User: is 52 greater than 68?
+Vex: no.
+
+User: compare 228 and 242.
+Vex: 228 is less than 242.
+
+User: compare 354 and 355.
+Vex: 354 is less than 355.
+
+User: is 400 greater than 79?
+Vex: yes.
+
+User: compare 322 and 288.
+Vex: 322 is greater than 288.
+
+User: is 229 greater than 271?
+Vex: no.
+
+User: compare 334 and 362.
+Vex: 334 is less than 362.
+
+User: is 110 greater than 224?
+Vex: no.
+
+User: is 323 greater than 355?
+Vex: no.
+
+User: is 56 greater than 393?
+Vex: no.
+
+User: is 191 greater than 30?
+Vex: yes.
+
+User: is 61 greater than 228?
+Vex: no.
+
+User: compare 348 and 308.
+Vex: 348 is greater than 308.
+
+User: compare 17 and 68.
+Vex: 17 is less than 68.
+
+User: compare 16 and 319.
+Vex: 16 is less than 319.
+
+User: is 288 even?
+Vex: yes.
+
+User: is 257 greater than 261?
+Vex: no.
+
+User: is 168 greater than 201?
+Vex: no.
+
+User: is 357 greater than 327?
+Vex: yes.
+
+User: compare 205 and 251.
+Vex: 205 is less than 251.
+
+User: compare 50 and 162.
+Vex: 50 is less than 162.
+
+User: compare 131 and 238.
+Vex: 131 is less than 238.
+
+User: compare 390 and 113.
+Vex: 390 is greater than 113.
+
+User: compare 385 and 102.
+Vex: 385 is greater than 102.
+
+User: compare 85 and 102.
+Vex: 85 is less than 102.
+
+User: compare 150 and 207.
+Vex: 150 is less than 207.
+
+User: compare 309 and 267.
+Vex: 309 is greater than 267.
+
+User: is 224 even?
+Vex: yes.
+
+User: is 27 greater than 224?
+Vex: no.
+
+User: is 309 greater than 206?
+Vex: yes.
+
+User: is 280 greater than 276?
+Vex: yes.
+
+User: is 332 greater than 70?
+Vex: yes.
+
+User: compare 345 and 247.
+Vex: 345 is greater than 247.
+
+User: compare 148 and 174.
+Vex: 148 is less than 174.
+
+User: is 177 greater than 251?
+Vex: no.
+
+User: compare 234 and 235.
+Vex: 234 is less than 235.
+
+User: is 0 odd?
+Vex: no.
+
+User: compare 91 and 177.
+Vex: 91 is less than 177.
+
+User: compare 366 and 29.
+Vex: 366 is greater than 29.
+
+User: compare 132 and 400.
+Vex: 132 is less than 400.
+
+User: compare 179 and 346.
+Vex: 179 is less than 346.
+
+User: compare 338 and 362.
+Vex: 338 is less than 362.
+
+User: is 88 greater than 343?
+Vex: no.
+
+User: compare 116 and 309.
+Vex: 116 is less than 309.
+
+User: is 1 greater than 130?
+Vex: no.
+
+User: is 43 greater than 19?
+Vex: yes.
+
+User: is 236 greater than 287?
+Vex: no.
+
+User: compare 162 and 264.
+Vex: 162 is less than 264.
+
+User: is 298 odd?
+Vex: no.
+
+User: compare 3 and 399.
+Vex: 3 is less than 399.
+
+User: compare 331 and 208.
+Vex: 331 is greater than 208.
+
+User: compare 73 and 382.
+Vex: 73 is less than 382.
+
+User: compare 116 and 33.
+Vex: 116 is greater than 33.
+
+User: compare 327 and 26.
+Vex: 327 is greater than 26.
+
+User: is 124 greater than 354?
+Vex: no.
+
+User: is 298 even?
+Vex: yes.
+
+User: compare 96 and 386.
+Vex: 96 is less than 386.
+
+User: is 145 greater than 353?
+Vex: no.
+
+User: is 131 even?
+Vex: no.
+
+User: compare 50 and 296.
+Vex: 50 is less than 296.
+
+User: compare 304 and 187.
+Vex: 304 is greater than 187.
+
+User: compare 130 and 278.
+Vex: 130 is less than 278.
+
+User: compare 234 and 258.
+Vex: 234 is less than 258.
+
+User: compare 343 and 371.
+Vex: 343 is less than 371.
+
+User: is 95 greater than 75?
+Vex: yes.
+
+User: is 277 greater than 151?
+Vex: yes.
+
+User: compare 290 and 8.
+Vex: 290 is greater than 8.
+
+User: is 29 greater than 398?
+Vex: no.
+
+User: compare 310 and 68.
+Vex: 310 is greater than 68.
+
+User: compare 46 and 39.
+Vex: 46 is greater than 39.
+
+User: is 9 greater than 173?
+Vex: no.
+
+User: is 222 greater than 259?
+Vex: no.
+
+User: is 398 greater than 204?
+Vex: yes.
+
+User: compare 85 and 293.
+Vex: 85 is less than 293.
+
+User: compare 20 and 251.
+Vex: 20 is less than 251.
+
+User: is 129 greater than 58?
+Vex: yes.
+
+User: compare 89 and 367.
+Vex: 89 is less than 367.
+
+User: is 98 greater than 195?
+Vex: no.
+
+User: is 267 even?
+Vex: no.
+
+User: compare 380 and 139.
+Vex: 380 is greater than 139.
+
+User: compare 150 and 49.
+Vex: 150 is greater than 49.
+
+User: compare 150 and 276.
+Vex: 150 is less than 276.
+
+User: is 116 odd?
+Vex: no.
+
+User: is 49 greater than 323?
+Vex: no.
+
+User: compare 312 and 275.
+Vex: 312 is greater than 275.
+
+User: is 90 greater than 234?
+Vex: no.
+
+User: compare 344 and 76.
+Vex: 344 is greater than 76.
+
+User: is 363 greater than 170?
+Vex: yes.
+
+User: compare 236 and 293.
+Vex: 236 is less than 293.
+
+User: compare 253 and 159.
+Vex: 253 is greater than 159.
+
+User: is 89 odd?
+Vex: yes.
+
+User: is 71 even?
+Vex: no.
+
+User: is 195 odd?
+Vex: yes.
+
+User: is 206 greater than 256?
+Vex: no.
+
+User: compare 184 and 31.
+Vex: 184 is greater than 31.
+
+User: is 344 greater than 181?
+Vex: yes.
+
+User: compare 308 and 79.
+Vex: 308 is greater than 79.
+
+User: is 265 greater than 241?
+Vex: yes.
+
+User: is 364 greater than 367?
+Vex: no.
+
+User: is 280 greater than 274?
+Vex: yes.
+
+User: is 268 greater than 330?
+Vex: no.
+
+User: compare 342 and 294.
+Vex: 342 is greater than 294.
+
+User: is 294 greater than 345?
+Vex: no.
+
+User: is 331 greater than 164?
+Vex: yes.
+
+User: is 296 greater than 329?
+Vex: no.
+
+User: is 21 odd?
+Vex: yes.
+
+User: compare 194 and 350.
+Vex: 194 is less than 350.
+
+User: is 196 greater than 9?
+Vex: yes.
+
+User: compare 380 and 164.
+Vex: 380 is greater than 164.
+
+User: compare 276 and 75.
+Vex: 276 is greater than 75.
+
+User: is 304 greater than 148?
+Vex: yes.
+
+User: compare 229 and 237.
+Vex: 229 is less than 237.
+
+User: is 275 greater than 77?
+Vex: yes.
+
+User: is 225 greater than 49?
+Vex: yes.
+
+User: is 52 greater than 102?
+Vex: no.
+
+User: compare 74 and 232.
+Vex: 74 is less than 232.
+
+User: is 219 odd?
+Vex: yes.
+
+User: is 239 greater than 240?
+Vex: no.
+
+User: is 132 greater than 397?
+Vex: no.
+
+User: compare 111 and 25.
+Vex: 111 is greater than 25.
+
+User: compare 398 and 196.
+Vex: 398 is greater than 196.
+
+User: is 233 greater than 67?
+Vex: yes.
+
+User: compare 214 and 28.
+Vex: 214 is greater than 28.
+
+User: is 259 greater than 8?
+Vex: yes.
+
+User: is 210 greater than 206?
+Vex: yes.
+
+User: compare 208 and 132.
+Vex: 208 is greater than 132.
+
+User: is 306 greater than 243?
+Vex: yes.
+
+User: is 49 greater than 125?
+Vex: no.
+
+User: is 277 greater than 282?
+Vex: no.
+
+User: is 170 even?
+Vex: yes.
+
+User: is 254 greater than 119?
+Vex: yes.
+
+User: compare 20 and 338.
+Vex: 20 is less than 338.
+
+User: is 343 greater than 92?
+Vex: yes.
+
+User: compare 358 and 100.
+Vex: 358 is greater than 100.
+
+User: is 39 greater than 254?
+Vex: no.
+
+User: is 332 greater than 286?
+Vex: yes.
+
+User: compare 124 and 227.
+Vex: 124 is less than 227.
+
+User: compare 294 and 320.
+Vex: 294 is less than 320.
+
+User: compare 375 and 169.
+Vex: 375 is greater than 169.

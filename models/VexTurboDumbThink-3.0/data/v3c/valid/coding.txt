@@ -1,0 +1,185 @@
+User: please answer this: what is a list?
+Vex: a list stores an ordered collection of values.
+
+User: can you answer this: what does Python mean?
+Vex: Python is a programming language.
+
+User: please answer this: what does Python mean?
+Vex: Python is a programming language.
+
+User: please answer this: tell me about a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: can you answer this: tell me about a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: i want to know: what is a string?
+Vex: a string is a sequence of text characters.
+
+User: quick question: tell me about a variable.
+Vex: a variable is a named place used to store a value.
+
+User: quick question: tell me about an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: can you answer this: what does a string mean?
+Vex: a string is a sequence of text characters.
+
+User: can you answer this: what is training?
+Vex: training adjusts model parameters using data.
+
+User: can you answer this: what is a CPU?
+Vex: a CPU executes general-purpose instructions.
+
+User: please answer this: what is a boolean?
+Vex: a boolean is a value that is either true or false.
+
+User: can you answer this: what does a parameter mean?
+Vex: a model parameter is a learned numerical value.
+
+User: please answer this: tell me about a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: what does a transformer mean?
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: quick question: what is a token?
+Vex: a token is a unit of input processed by a language model.
+
+User: quick question: what is a parameter?
+Vex: a model parameter is a learned numerical value.
+
+User: define a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: i want to know: tell me about a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: please answer this: tell me about a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: quick question: explain training.
+Vex: training adjusts model parameters using data.
+
+User: i want to know: explain a function.
+Vex: a function is a reusable block of instructions.
+
+User: quick question: what does a token mean?
+Vex: a token is a unit of input processed by a language model.
+
+User: please answer this: what is an integer?
+Vex: an integer is a whole number.
+
+User: i want to know: define an object.
+Vex: an object is an instance of a class.
+
+User: i want to know: explain training.
+Vex: training adjusts model parameters using data.
+
+User: please answer this: define Python.
+Vex: Python is a programming language.
+
+User: i want to know: what is an if statement?
+Vex: an if statement runs code when a condition is met.
+
+User: can you answer this: define an integer.
+Vex: an integer is a whole number.
+
+User: please answer this: what is a byte?
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: please answer this: tell me about a function.
+Vex: a function is a reusable block of instructions.
+
+User: please answer this: define an integer.
+Vex: an integer is a whole number.
+
+User: can you answer this: define an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: please answer this: tell me about a string.
+Vex: a string is a sequence of text characters.
+
+User: i want to know: what does a string mean?
+Vex: a string is a sequence of text characters.
+
+User: please answer this: what is a CPU?
+Vex: a CPU executes general-purpose instructions.
+
+User: i want to know: define JSON.
+Vex: JSON is a text format for structured data.
+
+User: can you answer this: define a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: please answer this: tell me about inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: i want to know: define a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: can you answer this: explain RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: quick question: explain an object.
+Vex: an object is an instance of a class.
+
+User: what is a boolean?
+Vex: a boolean is a value that is either true or false.
+
+User: please answer this: what does JSON mean?
+Vex: JSON is a text format for structured data.
+
+User: quick question: explain a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: can you answer this: what does attention mean?
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: quick question: explain a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: what is training?
+Vex: training adjusts model parameters using data.
+
+User: quick question: tell me about attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: explain a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: can you answer this: tell me about a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: please answer this: define an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: quick question: explain a loop.
+Vex: a loop repeats instructions.
+
+User: can you answer this: what is a GPU?
+Vex: a GPU performs many calculations in parallel.
+
+User: can you answer this: define a variable.
+Vex: a variable is a named place used to store a value.
+
+User: define a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: explain an object.
+Vex: an object is an instance of a class.
+
+User: please answer this: tell me about an integer.
+Vex: an integer is a whole number.
+
+User: i want to know: explain a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: i want to know: explain a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: quick question: what is a GPU?
+Vex: a GPU performs many calculations in parallel.
+
+User: please answer this: what does a string mean?
+Vex: a string is a sequence of text characters.

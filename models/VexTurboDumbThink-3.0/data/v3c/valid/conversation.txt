@@ -1,0 +1,152 @@
+User: just wondering: hi
+Vex: hey!
+
+User: just wondering: can you help me? thanks.
+Vex: yes. i can try to help.
+
+User: quick question: hi thanks.
+Vex: hey!
+
+User: quick question: hey please.
+Vex: hey!
+
+User: hey, can you help me? please.
+Vex: yes. i can try to help.
+
+User: just wondering: hi please.
+Vex: hi!
+
+User: okay, hello thanks.
+Vex: hi!
+
+User: good evening
+Vex: good evening!
+
+User: vex, hello
+Vex: hi!
+
+User: vex, thank you
+Vex: happy to help.
+
+User: just wondering: what can you do? please.
+Vex: i can answer some questions and generate text.
+
+User: vex, hi
+Vex: hi!
+
+User: quick question: thanks
+Vex: no problem!
+
+User: just wondering: what can you do? if you can.
+Vex: i can read text and generate short responses.
+
+User: hey, hey thanks.
+Vex: hello!
+
+User: vex, how are you?
+Vex: i am ready to help.
+
+User: hey, hi if you can.
+Vex: hello!
+
+User: quick question: thank you if you can.
+Vex: happy to help.
+
+User: just wondering: hi please.
+Vex: hello!
+
+User: hey, hi please.
+Vex: hi!
+
+User: quick question: can you help me? thanks.
+Vex: yes. i can try to help.
+
+User: vex, what can you do? thanks.
+Vex: i can read text and generate short responses.
+
+User: just wondering: good morning thanks.
+Vex: good morning!
+
+User: vex, hi please.
+Vex: hey!
+
+User: okay, hey thanks.
+Vex: hello!
+
+User: quick question: thanks thanks.
+Vex: happy to help.
+
+User: okay, hello if you can.
+Vex: hi!
+
+User: vex, hi
+Vex: hello!
+
+User: quick question: good evening please.
+Vex: good evening!
+
+User: vex, thank you thanks.
+Vex: happy to help.
+
+User: just wondering: thanks if you can.
+Vex: you're welcome!
+
+User: hey, can you help me? if you can.
+Vex: yes. i can try to help.
+
+User: vex, thanks please.
+Vex: happy to help.
+
+User: hey, hello thanks.
+Vex: hi!
+
+User: how are you?
+Vex: i am doing well.
+
+User: okay, good evening if you can.
+Vex: hello!
+
+User: okay, how are you? if you can.
+Vex: i am doing well.
+
+User: quick question: good evening thanks.
+Vex: good evening!
+
+User: vex, how are you? thanks.
+Vex: i am doing well.
+
+User: vex, what can you do? if you can.
+Vex: i can answer some questions and generate text.
+
+User: okay, hello please.
+Vex: hey!
+
+User: thank you if you can.
+Vex: happy to help.
+
+User: hey, good evening if you can.
+Vex: hello!
+
+User: good evening if you can.
+Vex: good evening!
+
+User: vex, thank you
+Vex: you're welcome!
+
+User: just wondering: thank you please.
+Vex: you're welcome!
+
+User: just wondering: hello
+Vex: hello!
+
+User: vex, what can you do? please.
+Vex: i can answer some questions and generate text.
+
+User: hey, thanks thanks.
+Vex: happy to help.
+
+User: hey, hi thanks.
+Vex: hey!
+
+User: just wondering: thanks please.
+Vex: you're welcome!

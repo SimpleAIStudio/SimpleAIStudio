@@ -1,0 +1,194 @@
+User: i want to know: describe a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: i want to know: what is Earth?
+Vex: Earth is the planet where humans live.
+
+User: please answer this: describe a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: describe a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: describe a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: please answer this: explain a week.
+Vex: a week contains seven days.
+
+User: please answer this: tell me about a cat.
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: explain gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: can you answer this: describe evaporation.
+Vex: evaporation is the change of a liquid into a gas.
+
+User: can you answer this: describe an hour.
+Vex: an hour contains sixty minutes.
+
+User: please answer this: what can you tell me about evaporation?
+Vex: evaporation is the change of a liquid into a gas.
+
+User: i want to know: what can you tell me about a minute?
+Vex: a minute contains sixty seconds.
+
+User: i want to know: tell me about a triangle.
+Vex: a triangle is a shape with three sides.
+
+User: please answer this: what is a cat?
+Vex: a cat is a small animal commonly kept as a pet.
+
+User: what is the Moon?
+Vex: the Moon is Earth's natural satellite.
+
+User: please answer this: describe a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: quick question: explain a star.
+Vex: a star is a large glowing ball of hot gas.
+
+User: i want to know: explain a fish.
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: can you answer this: describe a year.
+Vex: a year contains twelve months.
+
+User: quick question: what can you tell me about ice?
+Vex: ice is frozen water.
+
+User: quick question: explain gravity.
+Vex: gravity is a force that attracts masses toward each other.
+
+User: can you answer this: what is a year?
+Vex: a year contains twelve months.
+
+User: please answer this: describe a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: i want to know: describe a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: can you answer this: tell me about the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: quick question: explain water.
+Vex: water is a liquid that living things need.
+
+User: quick question: describe a dog.
+Vex: a dog is an animal commonly kept as a pet.
+
+User: describe an hour.
+Vex: an hour contains sixty minutes.
+
+User: can you answer this: explain a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: quick question: explain a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: i want to know: what is ice?
+Vex: ice is frozen water.
+
+User: quick question: tell me about an hour.
+Vex: an hour contains sixty minutes.
+
+User: quick question: what can you tell me about a square?
+Vex: a square is a shape with four equal sides.
+
+User: quick question: what is a dog?
+Vex: a dog is an animal commonly kept as a pet.
+
+User: tell me about a circle.
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: what is a week?
+Vex: a week contains seven days.
+
+User: can you answer this: explain oxygen.
+Vex: oxygen is a chemical element and a gas used by humans for respiration.
+
+User: i want to know: describe a year.
+Vex: a year contains twelve months.
+
+User: can you answer this: what can you tell me about the Moon?
+Vex: the Moon is Earth's natural satellite.
+
+User: can you answer this: tell me about rain.
+Vex: rain is liquid water that falls from clouds.
+
+User: i want to know: tell me about the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: can you answer this: what is the heart?
+Vex: the heart is an organ that pumps blood through the body.
+
+User: quick question: what can you tell me about evaporation?
+Vex: evaporation is the change of a liquid into a gas.
+
+User: quick question: what can you tell me about the heart?
+Vex: the heart is an organ that pumps blood through the body.
+
+User: quick question: what is a bird?
+Vex: a bird is an animal with feathers and a beak.
+
+User: i want to know: explain the Sun.
+Vex: the Sun is the star at the center of the Solar System.
+
+User: i want to know: what can you tell me about a fish?
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: is this true: a dog is an animal commonly kept as a pet.
+Vex: yes.
+
+User: please answer this: explain a tree.
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: quick question: what can you tell me about a year?
+Vex: a year contains twelve months.
+
+User: what can you tell me about a circle?
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: please answer this: what can you tell me about a tree?
+Vex: a tree is a plant with a woody trunk and branches.
+
+User: please answer this: explain a planet.
+Vex: a planet is a large object that orbits a star.
+
+User: can you answer this: what is gravity?
+Vex: gravity is a force that attracts masses toward each other.
+
+User: can you answer this: tell me about a year.
+Vex: a year contains twelve months.
+
+User: quick question: tell me about the heart.
+Vex: the heart is an organ that pumps blood through the body.
+
+User: i want to know: what is a circle?
+Vex: a circle is a round shape whose edge is equally distant from its center.
+
+User: can you answer this: describe ice.
+Vex: ice is frozen water.
+
+User: i want to know: what is a fish?
+Vex: a fish is an animal that lives in water and uses gills.
+
+User: i want to know: describe a square.
+Vex: a square is a shape with four equal sides.
+
+User: please answer this: tell me about the Moon.
+Vex: the Moon is Earth's natural satellite.
+
+User: please answer this: describe a minute.
+Vex: a minute contains sixty seconds.
+
+User: i want to know: what is a year?
+Vex: a year contains twelve months.
+
+User: is this true: oxygen is a chemical element and a gas used by humans for respiration.
+Vex: yes.
+
+User: i want to know: what is a tree?
+Vex: a tree is a plant with a woody trunk and branches.

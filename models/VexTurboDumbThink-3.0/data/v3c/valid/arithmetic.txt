@@ -1,0 +1,3140 @@
+User: calculate 24 + 2.
+Vex: 26
+
+User: subtract 8 from 95.
+Vex: 87
+
+User: add 37 and 63.
+Vex: 100
+
+User: calculate 18 * 23.
+Vex: 414
+
+User: what is 37 + 81?
+Vex: 118
+
+User: what is 91 - 48?
+Vex: 43
+
+User: calculate 2 / 2.
+Vex: 1
+
+User: what is 95 + 97?
+Vex: 192
+
+User: what is 60 plus 76?
+Vex: 136
+
+User: what is 33 minus 14?
+Vex: 19
+
+User: multiply 14 and 23.
+Vex: 322
+
+User: subtract 13 from 33.
+Vex: 20
+
+User: what is 73 minus 67?
+Vex: 6
+
+User: add 72 and 23.
+Vex: 95
+
+User: what is 3 times 3?
+Vex: 9
+
+User: what is 19 times 0?
+Vex: 0
+
+User: what is 20 - 16?
+Vex: 4
+
+User: calculate 86 + 95.
+Vex: 181
+
+User: what is 74 + 44?
+Vex: 118
+
+User: add 50 and 37.
+Vex: 87
+
+User: what is 84 + 39?
+Vex: 123
+
+User: what is 14 + 44?
+Vex: 58
+
+User: subtract 16 from 33.
+Vex: 17
+
+User: what is 22 + 14?
+Vex: 36
+
+User: what is 71 minus 31?
+Vex: 40
+
+User: calculate 98 - 37.
+Vex: 61
+
+User: calculate 25 - 22.
+Vex: 3
+
+User: what is 23 - 18?
+Vex: 5
+
+User: what is 21 plus 12?
+Vex: 33
+
+User: add 13 and 3.
+Vex: 16
+
+User: what is 77 minus 74?
+Vex: 3
+
+User: divide 32 by 2.
+Vex: 16
+
+User: what is 84 + 13?
+Vex: 97
+
+User: what is 71 minus 52?
+Vex: 19
+
+User: calculate 16 - 13.
+Vex: 3
+
+User: what is 85 + 91?
+Vex: 176
+
+User: subtract 58 from 76.
+Vex: 18
+
+User: what is 22 minus 7?
+Vex: 15
+
+User: what is 5 times 24?
+Vex: 120
+
+User: multiply 15 and 5.
+Vex: 75
+
+User: calculate 13 * 20.
+Vex: 260
+
+User: what is 4 times 1?
+Vex: 4
+
+User: calculate 4 * 24.
+Vex: 96
+
+User: what is 41 + 1?
+Vex: 42
+
+User: what is 18 times 22?
+Vex: 396
+
+User: subtract 7 from 11.
+Vex: 4
+
+User: calculate 33 - 30.
+Vex: 3
+
+User: add 88 and 77.
+Vex: 165
+
+User: calculate 50 - 37.
+Vex: 13
+
+User: calculate 37 - 5.
+Vex: 32
+
+User: calculate 225 / 15.
+Vex: 15
+
+User: what is 17 + 12?
+Vex: 29
+
+User: what is 50 plus 29?
+Vex: 79
+
+User: add 72 and 61.
+Vex: 133
+
+User: add 86 and 75.
+Vex: 161
+
+User: multiply 13 and 8.
+Vex: 104
+
+User: calculate 18 * 25.
+Vex: 450
+
+User: divide 95 by 5.
+Vex: 19
+
+User: what is 29 plus 93?
+Vex: 122
+
+User: calculate 27 / 3.
+Vex: 9
+
+User: divide 187 by 17.
+Vex: 11
+
+User: subtract 86 from 99.
+Vex: 13
+
+User: subtract 1 from 16.
+Vex: 15
+
+User: what is 41 plus 76?
+Vex: 117
+
+User: what is 3 times 5?
+Vex: 15
+
+User: what is 21 times 11?
+Vex: 231
+
+User: multiply 10 and 12.
+Vex: 120
+
+User: what is 37 + 6?
+Vex: 43
+
+User: calculate 136 / 17.
+Vex: 8
+
+User: calculate 10 * 18.
+Vex: 180
+
+User: what is 4 divided by 1?
+Vex: 4
+
+User: calculate 31 + 21.
+Vex: 52
+
+User: what is 80 - 69?
+Vex: 11
+
+User: subtract 28 from 48.
+Vex: 20
+
+User: what is 50 plus 35?
+Vex: 85
+
+User: multiply 25 and 20.
+Vex: 500
+
+User: calculate 4 + 35.
+Vex: 39
+
+User: calculate 16 * 19.
+Vex: 304
+
+User: multiply 1 and 10.
+Vex: 10
+
+User: add 80 and 50.
+Vex: 130
+
+User: what is 47 minus 31?
+Vex: 16
+
+User: calculate 34 + 68.
+Vex: 102
+
+User: calculate 11 - 0.
+Vex: 11
+
+User: calculate 8 * 9.
+Vex: 72
+
+User: add 30 and 60.
+Vex: 90
+
+User: multiply 19 and 23.
+Vex: 437
+
+User: what is 56 minus 21?
+Vex: 35
+
+User: calculate 21 * 2.
+Vex: 42
+
+User: calculate 90 / 10.
+Vex: 9
+
+User: what is 85 + 52?
+Vex: 137
+
+User: what is 31 minus 23?
+Vex: 8
+
+User: subtract 11 from 39.
+Vex: 28
+
+User: calculate 95 + 69.
+Vex: 164
+
+User: what is 15 times 4?
+Vex: 60
+
+User: calculate 87 - 13.
+Vex: 74
+
+User: what is 96 + 37?
+Vex: 133
+
+User: what is 63 plus 4?
+Vex: 67
+
+User: multiply 21 and 19.
+Vex: 399
+
+User: what is 24 times 12?
+Vex: 288
+
+User: what is 80 + 8?
+Vex: 88
+
+User: multiply 17 and 14.
+Vex: 238
+
+User: what is 22 multiplied by 11?
+Vex: 242
+
+User: add 27 and 50.
+Vex: 77
+
+User: what is 65 plus 73?
+Vex: 138
+
+User: add 52 and 60.
+Vex: 112
+
+User: calculate 78 + 27.
+Vex: 105
+
+User: what is 23 multiplied by 18?
+Vex: 414
+
+User: what is 9 multiplied by 21?
+Vex: 189
+
+User: what is 90 plus 53?
+Vex: 143
+
+User: calculate 16 * 25.
+Vex: 400
+
+User: calculate 266 / 14.
+Vex: 19
+
+User: what is 45 minus 14?
+Vex: 31
+
+User: what is 20 plus 36?
+Vex: 56
+
+User: what is 18 divided by 9?
+Vex: 2
+
+User: what is 87 minus 62?
+Vex: 25
+
+User: calculate 59 + 62.
+Vex: 121
+
+User: what is 14 - 2?
+Vex: 12
+
+User: divide 12 by 1.
+Vex: 12
+
+User: what is 0 multiplied by 9?
+Vex: 0
+
+User: what is 51 minus 2?
+Vex: 49
+
+User: calculate 34 / 2.
+Vex: 17
+
+User: multiply 0 and 17.
+Vex: 0
+
+User: calculate 56 + 62.
+Vex: 118
+
+User: what is 46 - 31?
+Vex: 15
+
+User: calculate 65 - 18.
+Vex: 47
+
+User: multiply 24 and 3.
+Vex: 72
+
+User: what is 96 + 0?
+Vex: 96
+
+User: divide 340 by 20.
+Vex: 17
+
+User: what is 171 divided by 19?
+Vex: 9
+
+User: calculate 95 - 36.
+Vex: 59
+
+User: subtract 5 from 31.
+Vex: 26
+
+User: what is 6 times 8?
+Vex: 48
+
+User: subtract 95 from 99.
+Vex: 4
+
+User: what is 76 - 3?
+Vex: 73
+
+User: divide 210 by 14.
+Vex: 15
+
+User: calculate 28 + 47.
+Vex: 75
+
+User: what is 25 multiplied by 6?
+Vex: 150
+
+User: subtract 8 from 9.
+Vex: 1
+
+User: what is 36 - 12?
+Vex: 24
+
+User: what is 98 + 30?
+Vex: 128
+
+User: what is 42 + 93?
+Vex: 135
+
+User: what is 99 - 85?
+Vex: 14
+
+User: what is 5 multiplied by 19?
+Vex: 95
+
+User: what is 0 multiplied by 19?
+Vex: 0
+
+User: what is 24 divided by 3?
+Vex: 8
+
+User: what is 21 times 13?
+Vex: 273
+
+User: calculate 78 - 78.
+Vex: 0
+
+User: calculate 25 + 28.
+Vex: 53
+
+User: add 49 and 53.
+Vex: 102
+
+User: calculate 10 * 4.
+Vex: 40
+
+User: what is 26 + 51?
+Vex: 77
+
+User: what is 32 - 18?
+Vex: 14
+
+User: what is 12 plus 75?
+Vex: 87
+
+User: calculate 85 - 33.
+Vex: 52
+
+User: calculate 4 * 10.
+Vex: 40
+
+User: what is 50 minus 28?
+Vex: 22
+
+User: what is 81 + 4?
+Vex: 85
+
+User: what is 59 + 23?
+Vex: 82
+
+User: what is 13 times 25?
+Vex: 325
+
+User: what is 59 - 28?
+Vex: 31
+
+User: calculate 26 - 16.
+Vex: 10
+
+User: what is 25 multiplied by 24?
+Vex: 600
+
+User: what is 37 plus 8?
+Vex: 45
+
+User: what is 12 times 13?
+Vex: 156
+
+User: divide 182 by 13.
+Vex: 14
+
+User: what is 22 multiplied by 16?
+Vex: 352
+
+User: subtract 25 from 56.
+Vex: 31
+
+User: add 12 and 6.
+Vex: 18
+
+User: calculate 88 - 87.
+Vex: 1
+
+User: what is 68 + 37?
+Vex: 105
+
+User: what is 85 + 72?
+Vex: 157
+
+User: calculate 67 - 41.
+Vex: 26
+
+User: what is 49 minus 5?
+Vex: 44
+
+User: calculate 16 * 23.
+Vex: 368
+
+User: what is 88 divided by 11?
+Vex: 8
+
+User: calculate 4 * 23.
+Vex: 92
+
+User: calculate 87 + 69.
+Vex: 156
+
+User: what is 76 plus 57?
+Vex: 133
+
+User: subtract 17 from 56.
+Vex: 39
+
+User: add 37 and 78.
+Vex: 115
+
+User: multiply 11 and 14.
+Vex: 154
+
+User: what is 39 - 35?
+Vex: 4
+
+User: calculate 68 - 31.
+Vex: 37
+
+User: what is 30 + 53?
+Vex: 83
+
+User: add 5 and 91.
+Vex: 96
+
+User: subtract 49 from 61.
+Vex: 12
+
+User: what is 19 multiplied by 21?
+Vex: 399
+
+User: subtract 21 from 38.
+Vex: 17
+
+User: what is 105 divided by 7?
+Vex: 15
+
+User: what is 240 divided by 15?
+Vex: 16
+
+User: divide 42 by 7.
+Vex: 6
+
+User: what is 61 minus 24?
+Vex: 37
+
+User: what is 15 multiplied by 14?
+Vex: 210
+
+User: what is 144 divided by 12?
+Vex: 12
+
+User: what is 16 times 13?
+Vex: 208
+
+User: what is 16 + 2?
+Vex: 18
+
+User: what is 156 divided by 13?
+Vex: 12
+
+User: what is 38 - 1?
+Vex: 37
+
+User: what is 14 times 1?
+Vex: 14
+
+User: calculate 114 / 6.
+Vex: 19
+
+User: calculate 90 - 57.
+Vex: 33
+
+User: what is 11 times 12?
+Vex: 132
+
+User: what is 91 + 38?
+Vex: 129
+
+User: what is 72 + 84?
+Vex: 156
+
+User: what is 20 + 71?
+Vex: 91
+
+User: what is 27 plus 6?
+Vex: 33
+
+User: what is 59 + 67?
+Vex: 126
+
+User: what is 49 + 70?
+Vex: 119
+
+User: divide 126 by 9.
+Vex: 14
+
+User: what is 85 plus 8?
+Vex: 93
+
+User: what is 37 minus 0?
+Vex: 37
+
+User: subtract 38 from 47.
+Vex: 9
+
+User: calculate 64 - 1.
+Vex: 63
+
+User: what is 32 minus 29?
+Vex: 3
+
+User: what is 82 plus 20?
+Vex: 102
+
+User: multiply 12 and 4.
+Vex: 48
+
+User: subtract 47 from 75.
+Vex: 28
+
+User: what is 19 multiplied by 3?
+Vex: 57
+
+User: what is 83 - 57?
+Vex: 26
+
+User: add 31 and 76.
+Vex: 107
+
+User: what is 13 times 7?
+Vex: 91
+
+User: what is 15 + 23?
+Vex: 38
+
+User: subtract 23 from 43.
+Vex: 20
+
+User: calculate 37 - 19.
+Vex: 18
+
+User: subtract 62 from 74.
+Vex: 12
+
+User: subtract 82 from 86.
+Vex: 4
+
+User: what is 7 multiplied by 15?
+Vex: 105
+
+User: add 8 and 35.
+Vex: 43
+
+User: calculate 3 * 20.
+Vex: 60
+
+User: what is 17 multiplied by 1?
+Vex: 17
+
+User: what is 58 minus 48?
+Vex: 10
+
+User: add 29 and 53.
+Vex: 82
+
+User: calculate 63 + 5.
+Vex: 68
+
+User: calculate 36 + 94.
+Vex: 130
+
+User: subtract 66 from 76.
+Vex: 10
+
+User: calculate 37 - 17.
+Vex: 20
+
+User: what is 63 - 23?
+Vex: 40
+
+User: calculate 62 + 43.
+Vex: 105
+
+User: what is 64 plus 28?
+Vex: 92
+
+User: calculate 30 + 7.
+Vex: 37
+
+User: what is 81 minus 3?
+Vex: 78
+
+User: what is 67 minus 30?
+Vex: 37
+
+User: calculate 300 / 15.
+Vex: 20
+
+User: calculate 52 + 56.
+Vex: 108
+
+User: what is 11 - 2?
+Vex: 9
+
+User: divide 320 by 20.
+Vex: 16
+
+User: what is 45 divided by 5?
+Vex: 9
+
+User: what is 75 plus 47?
+Vex: 122
+
+User: calculate 0 * 6.
+Vex: 0
+
+User: calculate 4 - 3.
+Vex: 1
+
+User: what is 78 minus 53?
+Vex: 25
+
+User: calculate 18 + 3.
+Vex: 21
+
+User: calculate 0 * 3.
+Vex: 0
+
+User: calculate 39 - 30.
+Vex: 9
+
+User: what is 76 - 26?
+Vex: 50
+
+User: subtract 56 from 97.
+Vex: 41
+
+User: what is 93 plus 18?
+Vex: 111
+
+User: what is 75 plus 84?
+Vex: 159
+
+User: subtract 33 from 52.
+Vex: 19
+
+User: what is 3 times 14?
+Vex: 42
+
+User: calculate 38 - 10.
+Vex: 28
+
+User: multiply 18 and 13.
+Vex: 234
+
+User: calculate 35 + 100.
+Vex: 135
+
+User: what is 77 plus 98?
+Vex: 175
+
+User: add 85 and 76.
+Vex: 161
+
+User: subtract 0 from 4.
+Vex: 4
+
+User: calculate 323 / 17.
+Vex: 19
+
+User: calculate 75 - 2.
+Vex: 73
+
+User: what is 9 minus 4?
+Vex: 5
+
+User: calculate 75 - 12.
+Vex: 63
+
+User: what is 2 times 12?
+Vex: 24
+
+User: what is 26 minus 18?
+Vex: 8
+
+User: what is 63 minus 21?
+Vex: 42
+
+User: what is 17 - 8?
+Vex: 9
+
+User: divide 126 by 14.
+Vex: 9
+
+User: what is 85 minus 45?
+Vex: 40
+
+User: what is 63 - 49?
+Vex: 14
+
+User: calculate 66 - 8.
+Vex: 58
+
+User: subtract 9 from 60.
+Vex: 51
+
+User: calculate 170 / 10.
+Vex: 17
+
+User: what is 98 plus 73?
+Vex: 171
+
+User: multiply 22 and 11.
+Vex: 242
+
+User: add 97 and 94.
+Vex: 191
+
+User: calculate 0 + 28.
+Vex: 28
+
+User: what is 0 minus 0?
+Vex: 0
+
+User: what is 4 times 13?
+Vex: 52
+
+User: what is 36 - 25?
+Vex: 11
+
+User: what is 74 + 72?
+Vex: 146
+
+User: calculate 12 - 11.
+Vex: 1
+
+User: what is 8 multiplied by 16?
+Vex: 128
+
+User: what is 104 divided by 13?
+Vex: 8
+
+User: what is 26 divided by 2?
+Vex: 13
+
+User: add 12 and 31.
+Vex: 43
+
+User: calculate 1 * 13.
+Vex: 13
+
+User: what is 47 + 88?
+Vex: 135
+
+User: what is 18 times 2?
+Vex: 36
+
+User: multiply 24 and 14.
+Vex: 336
+
+User: divide 6 by 2.
+Vex: 3
+
+User: subtract 53 from 79.
+Vex: 26
+
+User: what is 8 + 76?
+Vex: 84
+
+User: add 95 and 95.
+Vex: 190
+
+User: subtract 15 from 24.
+Vex: 9
+
+User: calculate 57 + 11.
+Vex: 68
+
+User: subtract 64 from 98.
+Vex: 34
+
+User: add 5 and 51.
+Vex: 56
+
+User: what is 56 - 21?
+Vex: 35
+
+User: divide 85 by 17.
+Vex: 5
+
+User: calculate 77 + 32.
+Vex: 109
+
+User: add 60 and 100.
+Vex: 160
+
+User: calculate 23 - 14.
+Vex: 9
+
+User: what is 18 - 16?
+Vex: 2
+
+User: calculate 192 / 12.
+Vex: 16
+
+User: calculate 77 - 73.
+Vex: 4
+
+User: calculate 56 + 34.
+Vex: 90
+
+User: add 10 and 48.
+Vex: 58
+
+User: what is 24 + 0?
+Vex: 24
+
+User: what is 23 multiplied by 2?
+Vex: 46
+
+User: what is 3 multiplied by 11?
+Vex: 33
+
+User: what is 33 minus 27?
+Vex: 6
+
+User: what is 48 - 31?
+Vex: 17
+
+User: subtract 0 from 6.
+Vex: 6
+
+User: subtract 3 from 58.
+Vex: 55
+
+User: add 33 and 2.
+Vex: 35
+
+User: calculate 17 + 48.
+Vex: 65
+
+User: multiply 14 and 19.
+Vex: 266
+
+User: calculate 10 * 24.
+Vex: 240
+
+User: subtract 50 from 96.
+Vex: 46
+
+User: calculate 40 + 62.
+Vex: 102
+
+User: what is 4 divided by 4?
+Vex: 1
+
+User: what is 69 minus 21?
+Vex: 48
+
+User: what is 6 + 96?
+Vex: 102
+
+User: calculate 1 * 23.
+Vex: 23
+
+User: what is 98 + 49?
+Vex: 147
+
+User: what is 3 - 0?
+Vex: 3
+
+User: calculate 61 - 11.
+Vex: 50
+
+User: calculate 21 + 48.
+Vex: 69
+
+User: what is 96 - 77?
+Vex: 19
+
+User: what is 1 times 20?
+Vex: 20
+
+User: what is 18 divided by 1?
+Vex: 18
+
+User: what is 100 minus 31?
+Vex: 69
+
+User: subtract 36 from 69.
+Vex: 33
+
+User: what is 20 times 20?
+Vex: 400
+
+User: add 49 and 64.
+Vex: 113
+
+User: what is 0 plus 22?
+Vex: 22
+
+User: what is 45 - 40?
+Vex: 5
+
+User: calculate 61 - 18.
+Vex: 43
+
+User: add 9 and 47.
+Vex: 56
+
+User: calculate 28 / 14.
+Vex: 2
+
+User: what is 76 minus 47?
+Vex: 29
+
+User: add 9 and 30.
+Vex: 39
+
+User: calculate 59 + 48.
+Vex: 107
+
+User: calculate 126 / 9.
+Vex: 14
+
+User: calculate 71 - 18.
+Vex: 53
+
+User: what is 210 divided by 14?
+Vex: 15
+
+User: what is 67 + 5?
+Vex: 72
+
+User: subtract 34 from 80.
+Vex: 46
+
+User: divide 6 by 1.
+Vex: 6
+
+User: add 6 and 90.
+Vex: 96
+
+User: what is 95 - 19?
+Vex: 76
+
+User: divide 100 by 5.
+Vex: 20
+
+User: what is 91 plus 59?
+Vex: 150
+
+User: what is 95 plus 69?
+Vex: 164
+
+User: what is 8 - 8?
+Vex: 0
+
+User: what is 15 divided by 5?
+Vex: 3
+
+User: add 48 and 93.
+Vex: 141
+
+User: add 31 and 59.
+Vex: 90
+
+User: what is 6 times 21?
+Vex: 126
+
+User: calculate 55 + 67.
+Vex: 122
+
+User: what is 11 times 5?
+Vex: 55
+
+User: what is 21 multiplied by 20?
+Vex: 420
+
+User: multiply 13 and 17.
+Vex: 221
+
+User: what is 89 minus 75?
+Vex: 14
+
+User: what is 24 minus 3?
+Vex: 21
+
+User: what is 24 times 20?
+Vex: 480
+
+User: divide 90 by 5.
+Vex: 18
+
+User: what is 77 divided by 7?
+Vex: 11
+
+User: subtract 9 from 12.
+Vex: 3
+
+User: calculate 17 + 65.
+Vex: 82
+
+User: what is 62 minus 12?
+Vex: 50
+
+User: add 74 and 72.
+Vex: 146
+
+User: multiply 8 and 17.
+Vex: 136
+
+User: divide 3 by 1.
+Vex: 3
+
+User: what is 25 times 24?
+Vex: 600
+
+User: calculate 25 * 17.
+Vex: 425
+
+User: what is 88 divided by 8?
+Vex: 11
+
+User: add 9 and 76.
+Vex: 85
+
+User: what is 29 - 8?
+Vex: 21
+
+User: calculate 56 + 27.
+Vex: 83
+
+User: what is 87 minus 73?
+Vex: 14
+
+User: what is 13 multiplied by 1?
+Vex: 13
+
+User: calculate 1 * 1.
+Vex: 1
+
+User: what is 37 - 26?
+Vex: 11
+
+User: what is 169 divided by 13?
+Vex: 13
+
+User: add 11 and 62.
+Vex: 73
+
+User: subtract 75 from 88.
+Vex: 13
+
+User: what is 12 - 0?
+Vex: 12
+
+User: what is 16 multiplied by 14?
+Vex: 224
+
+User: calculate 20 + 74.
+Vex: 94
+
+User: what is 52 - 17?
+Vex: 35
+
+User: what is 7 multiplied by 22?
+Vex: 154
+
+User: subtract 9 from 44.
+Vex: 35
+
+User: calculate 7 * 17.
+Vex: 119
+
+User: calculate 2 + 16.
+Vex: 18
+
+User: subtract 48 from 54.
+Vex: 6
+
+User: what is 30 + 83?
+Vex: 113
+
+User: what is 16 multiplied by 25?
+Vex: 400
+
+User: add 92 and 65.
+Vex: 157
+
+User: calculate 82 + 77.
+Vex: 159
+
+User: what is 70 plus 68?
+Vex: 138
+
+User: add 82 and 8.
+Vex: 90
+
+User: add 36 and 17.
+Vex: 53
+
+User: what is 38 minus 2?
+Vex: 36
+
+User: what is 56 plus 36?
+Vex: 92
+
+User: what is 1 times 4?
+Vex: 4
+
+User: what is 0 plus 8?
+Vex: 8
+
+User: what is 72 minus 1?
+Vex: 71
+
+User: what is 10 multiplied by 16?
+Vex: 160
+
+User: what is 26 - 4?
+Vex: 22
+
+User: multiply 4 and 4.
+Vex: 16
+
+User: what is 44 + 7?
+Vex: 51
+
+User: add 61 and 0.
+Vex: 61
+
+User: calculate 234 / 13.
+Vex: 18
+
+User: what is 11 plus 48?
+Vex: 59
+
+User: what is 67 - 52?
+Vex: 15
+
+User: multiply 16 and 14.
+Vex: 224
+
+User: calculate 49 - 9.
+Vex: 40
+
+User: calculate 74 + 34.
+Vex: 108
+
+User: calculate 51 - 36.
+Vex: 15
+
+User: what is 36 divided by 9?
+Vex: 4
+
+User: subtract 21 from 73.
+Vex: 52
+
+User: what is 61 minus 9?
+Vex: 52
+
+User: what is 2 plus 73?
+Vex: 75
+
+User: calculate 20 * 24.
+Vex: 480
+
+User: calculate 50 + 63.
+Vex: 113
+
+User: what is 22 minus 9?
+Vex: 13
+
+User: what is 1 multiplied by 5?
+Vex: 5
+
+User: calculate 100 - 43.
+Vex: 57
+
+User: what is 84 plus 19?
+Vex: 103
+
+User: what is 28 plus 16?
+Vex: 44
+
+User: calculate 64 - 46.
+Vex: 18
+
+User: calculate 19 + 51.
+Vex: 70
+
+User: calculate 6 * 12.
+Vex: 72
+
+User: divide 120 by 6.
+Vex: 20
+
+User: what is 56 - 35?
+Vex: 21
+
+User: what is 64 minus 53?
+Vex: 11
+
+User: what is 37 plus 41?
+Vex: 78
+
+User: calculate 44 + 98.
+Vex: 142
+
+User: what is 99 plus 85?
+Vex: 184
+
+User: subtract 39 from 88.
+Vex: 49
+
+User: what is 90 - 36?
+Vex: 54
+
+User: multiply 24 and 20.
+Vex: 480
+
+User: calculate 60 + 21.
+Vex: 81
+
+User: calculate 70 + 37.
+Vex: 107
+
+User: what is 51 - 13?
+Vex: 38
+
+User: calculate 100 + 53.
+Vex: 153
+
+User: add 20 and 59.
+Vex: 79
+
+User: what is 75 - 9?
+Vex: 66
+
+User: what is 76 + 45?
+Vex: 121
+
+User: what is 49 plus 51?
+Vex: 100
+
+User: what is 20 multiplied by 18?
+Vex: 360
+
+User: calculate 69 + 47.
+Vex: 116
+
+User: calculate 21 * 1.
+Vex: 21
+
+User: what is 37 - 36?
+Vex: 1
+
+User: calculate 19 + 62.
+Vex: 81
+
+User: what is 25 multiplied by 8?
+Vex: 200
+
+User: subtract 5 from 79.
+Vex: 74
+
+User: calculate 43 - 3.
+Vex: 40
+
+User: subtract 42 from 66.
+Vex: 24
+
+User: what is 66 minus 35?
+Vex: 31
+
+User: what is 80 minus 28?
+Vex: 52
+
+User: subtract 0 from 8.
+Vex: 8
+
+User: what is 85 - 48?
+Vex: 37
+
+User: calculate 74 - 56.
+Vex: 18
+
+User: multiply 16 and 3.
+Vex: 48
+
+User: divide 99 by 11.
+Vex: 9
+
+User: what is 15 divided by 3?
+Vex: 5
+
+User: subtract 18 from 35.
+Vex: 17
+
+User: what is 3 multiplied by 20?
+Vex: 60
+
+User: add 18 and 36.
+Vex: 54
+
+User: what is 17 multiplied by 13?
+Vex: 221
+
+User: what is 100 plus 80?
+Vex: 180
+
+User: calculate 95 + 100.
+Vex: 195
+
+User: subtract 39 from 96.
+Vex: 57
+
+User: add 59 and 10.
+Vex: 69
+
+User: what is 16 multiplied by 0?
+Vex: 0
+
+User: what is 67 + 9?
+Vex: 76
+
+User: add 36 and 50.
+Vex: 86
+
+User: what is 40 plus 86?
+Vex: 126
+
+User: what is 40 + 80?
+Vex: 120
+
+User: subtract 17 from 17.
+Vex: 0
+
+User: what is 32 - 20?
+Vex: 12
+
+User: what is 3 multiplied by 9?
+Vex: 27
+
+User: calculate 36 / 18.
+Vex: 2
+
+User: what is 73 - 4?
+Vex: 69
+
+User: what is 10 multiplied by 25?
+Vex: 250
+
+User: subtract 16 from 22.
+Vex: 6
+
+User: calculate 68 - 11.
+Vex: 57
+
+User: divide 150 by 15.
+Vex: 10
+
+User: add 69 and 17.
+Vex: 86
+
+User: calculate 140 / 20.
+Vex: 7
+
+User: add 81 and 2.
+Vex: 83
+
+User: add 8 and 58.
+Vex: 66
+
+User: calculate 209 / 19.
+Vex: 11
+
+User: what is 55 plus 88?
+Vex: 143
+
+User: subtract 12 from 69.
+Vex: 57
+
+User: what is 59 plus 98?
+Vex: 157
+
+User: what is 15 - 11?
+Vex: 4
+
+User: subtract 29 from 38.
+Vex: 9
+
+User: calculate 17 - 7.
+Vex: 10
+
+User: what is 20 times 22?
+Vex: 440
+
+User: calculate 31 + 18.
+Vex: 49
+
+User: subtract 36 from 49.
+Vex: 13
+
+User: multiply 7 and 13.
+Vex: 91
+
+User: calculate 23 * 18.
+Vex: 414
+
+User: what is 92 + 73?
+Vex: 165
+
+User: multiply 20 and 20.
+Vex: 400
+
+User: what is 60 - 52?
+Vex: 8
+
+User: what is 94 plus 29?
+Vex: 123
+
+User: what is 77 + 97?
+Vex: 174
+
+User: what is 53 plus 95?
+Vex: 148
+
+User: what is 98 - 19?
+Vex: 79
+
+User: subtract 35 from 63.
+Vex: 28
+
+User: calculate 30 + 93.
+Vex: 123
+
+User: multiply 20 and 18.
+Vex: 360
+
+User: calculate 29 + 13.
+Vex: 42
+
+User: calculate 42 + 90.
+Vex: 132
+
+User: what is 35 divided by 5?
+Vex: 7
+
+User: subtract 2 from 4.
+Vex: 2
+
+User: calculate 210 / 15.
+Vex: 14
+
+User: what is 64 minus 63?
+Vex: 1
+
+User: what is 25 plus 3?
+Vex: 28
+
+User: what is 66 + 16?
+Vex: 82
+
+User: calculate 16 + 93.
+Vex: 109
+
+User: calculate 24 * 12.
+Vex: 288
+
+User: add 26 and 80.
+Vex: 106
+
+User: what is 17 times 16?
+Vex: 272
+
+User: what is 22 times 2?
+Vex: 44
+
+User: what is 36 + 70?
+Vex: 106
+
+User: what is 21 + 56?
+Vex: 77
+
+User: multiply 0 and 13.
+Vex: 0
+
+User: calculate 260 / 20.
+Vex: 13
+
+User: what is 82 minus 68?
+Vex: 14
+
+User: calculate 126 / 14.
+Vex: 9
+
+User: calculate 54 - 19.
+Vex: 35
+
+User: what is 21 times 19?
+Vex: 399
+
+User: calculate 43 + 96.
+Vex: 139
+
+User: multiply 16 and 16.
+Vex: 256
+
+User: subtract 93 from 100.
+Vex: 7
+
+User: divide 44 by 4.
+Vex: 11
+
+User: subtract 60 from 74.
+Vex: 14
+
+User: subtract 2 from 5.
+Vex: 3
+
+User: multiply 12 and 17.
+Vex: 204
+
+User: divide 0 by 8.
+Vex: 0
+
+User: calculate 55 - 34.
+Vex: 21
+
+User: multiply 16 and 8.
+Vex: 128
+
+User: calculate 187 / 11.
+Vex: 17
+
+User: subtract 42 from 54.
+Vex: 12
+
+User: what is 53 - 19?
+Vex: 34
+
+User: what is 47 + 35?
+Vex: 82
+
+User: calculate 0 + 79.
+Vex: 79
+
+User: what is 156 divided by 12?
+Vex: 13
+
+User: calculate 84 + 46.
+Vex: 130
+
+User: calculate 266 / 19.
+Vex: 14
+
+User: calculate 209 / 11.
+Vex: 19
+
+User: what is 56 divided by 4?
+Vex: 14
+
+User: calculate 46 - 41.
+Vex: 5
+
+User: add 22 and 28.
+Vex: 50
+
+User: subtract 4 from 92.
+Vex: 88
+
+User: calculate 45 - 16.
+Vex: 29
+
+User: subtract 75 from 77.
+Vex: 2
+
+User: what is 4 minus 0?
+Vex: 4
+
+User: what is 31 + 37?
+Vex: 68
+
+User: calculate 60 + 34.
+Vex: 94
+
+User: what is 26 - 26?
+Vex: 0
+
+User: what is 74 + 99?
+Vex: 173
+
+User: what is 24 multiplied by 21?
+Vex: 504
+
+User: add 71 and 70.
+Vex: 141
+
+User: calculate 73 - 38.
+Vex: 35
+
+User: calculate 12 + 1.
+Vex: 13
+
+User: what is 5 plus 89?
+Vex: 94
+
+User: subtract 4 from 10.
+Vex: 6
+
+User: add 43 and 20.
+Vex: 63
+
+User: subtract 26 from 45.
+Vex: 19
+
+User: calculate 22 * 20.
+Vex: 440
+
+User: add 52 and 54.
+Vex: 106
+
+User: what is 65 plus 28?
+Vex: 93
+
+User: what is 89 + 15?
+Vex: 104
+
+User: what is 10 plus 87?
+Vex: 97
+
+User: calculate 39 + 11.
+Vex: 50
+
+User: what is 16 - 3?
+Vex: 13
+
+User: what is 30 minus 2?
+Vex: 28
+
+User: what is 37 minus 35?
+Vex: 2
+
+User: what is 97 - 57?
+Vex: 40
+
+User: what is 80 divided by 20?
+Vex: 4
+
+User: subtract 5 from 81.
+Vex: 76
+
+User: multiply 5 and 14.
+Vex: 70
+
+User: what is 2 + 62?
+Vex: 64
+
+User: what is 86 - 75?
+Vex: 11
+
+User: what is 28 - 16?
+Vex: 12
+
+User: calculate 86 - 24.
+Vex: 62
+
+User: what is 18 times 18?
+Vex: 324
+
+User: what is 9 - 6?
+Vex: 3
+
+User: add 27 and 43.
+Vex: 70
+
+User: subtract 38 from 94.
+Vex: 56
+
+User: what is 69 minus 69?
+Vex: 0
+
+User: what is 23 minus 19?
+Vex: 4
+
+User: what is 66 + 25?
+Vex: 91
+
+User: calculate 79 + 55.
+Vex: 134
+
+User: what is 72 plus 60?
+Vex: 132
+
+User: subtract 64 from 95.
+Vex: 31
+
+User: calculate 45 - 4.
+Vex: 41
+
+User: calculate 20 * 7.
+Vex: 140
+
+User: what is 21 minus 5?
+Vex: 16
+
+User: multiply 11 and 23.
+Vex: 253
+
+User: calculate 228 / 19.
+Vex: 12
+
+User: calculate 24 * 14.
+Vex: 336
+
+User: what is 83 plus 62?
+Vex: 145
+
+User: subtract 22 from 42.
+Vex: 20
+
+User: calculate 270 / 15.
+Vex: 18
+
+User: calculate 5 * 19.
+Vex: 95
+
+User: what is 99 minus 89?
+Vex: 10
+
+User: what is 93 + 49?
+Vex: 142
+
+User: calculate 10 * 9.
+Vex: 90
+
+User: what is 34 - 6?
+Vex: 28
+
+User: calculate 50 - 12.
+Vex: 38
+
+User: add 30 and 28.
+Vex: 58
+
+User: what is 96 - 4?
+Vex: 92
+
+User: add 84 and 38.
+Vex: 122
+
+User: calculate 35 + 91.
+Vex: 126
+
+User: multiply 9 and 2.
+Vex: 18
+
+User: subtract 40 from 61.
+Vex: 21
+
+User: what is 36 + 44?
+Vex: 80
+
+User: add 51 and 21.
+Vex: 72
+
+User: divide 221 by 13.
+Vex: 17
+
+User: calculate 12 * 13.
+Vex: 156
+
+User: add 99 and 90.
+Vex: 189
+
+User: what is 18 times 21?
+Vex: 378
+
+User: calculate 53 - 24.
+Vex: 29
+
+User: divide 32 by 8.
+Vex: 4
+
+User: calculate 49 + 3.
+Vex: 52
+
+User: calculate 100 - 58.
+Vex: 42
+
+User: what is 80 + 49?
+Vex: 129
+
+User: what is 9 + 58?
+Vex: 67
+
+User: what is 4 - 4?
+Vex: 0
+
+User: calculate 33 + 24.
+Vex: 57
+
+User: subtract 21 from 41.
+Vex: 20
+
+User: multiply 6 and 16.
+Vex: 96
+
+User: divide 209 by 11.
+Vex: 19
+
+User: subtract 41 from 41.
+Vex: 0
+
+User: what is 22 multiplied by 19?
+Vex: 418
+
+User: what is 0 divided by 1?
+Vex: 0
+
+User: what is 87 + 43?
+Vex: 130
+
+User: calculate 5 * 20.
+Vex: 100
+
+User: calculate 27 + 64.
+Vex: 91
+
+User: calculate 49 - 47.
+Vex: 2
+
+User: add 33 and 96.
+Vex: 129
+
+User: calculate 22 * 2.
+Vex: 44
+
+User: what is 49 + 91?
+Vex: 140
+
+User: what is 21 plus 19?
+Vex: 40
+
+User: what is 0 + 41?
+Vex: 41
+
+User: subtract 63 from 67.
+Vex: 4
+
+User: calculate 43 - 38.
+Vex: 5
+
+User: multiply 25 and 25.
+Vex: 625
+
+User: what is 94 plus 45?
+Vex: 139
+
+User: what is 4 times 10?
+Vex: 40
+
+User: what is 9 times 24?
+Vex: 216
+
+User: calculate 7 * 8.
+Vex: 56
+
+User: subtract 70 from 89.
+Vex: 19
+
+User: what is 53 - 12?
+Vex: 41
+
+User: what is 32 divided by 2?
+Vex: 16
+
+User: what is 68 plus 54?
+Vex: 122
+
+User: multiply 22 and 12.
+Vex: 264
+
+User: what is 9 divided by 1?
+Vex: 9
+
+User: what is 90 + 11?
+Vex: 101
+
+User: what is 11 multiplied by 9?
+Vex: 99
+
+User: what is 31 plus 63?
+Vex: 94
+
+User: what is 19 multiplied by 9?
+Vex: 171
+
+User: calculate 62 - 23.
+Vex: 39
+
+User: what is 70 - 52?
+Vex: 18
+
+User: what is 96 divided by 8?
+Vex: 12
+
+User: subtract 10 from 14.
+Vex: 4
+
+User: calculate 8 * 20.
+Vex: 160
+
+User: what is 62 - 22?
+Vex: 40
+
+User: add 59 and 7.
+Vex: 66
+
+User: calculate 112 / 7.
+Vex: 16
+
+User: calculate 25 - 14.
+Vex: 11
+
+User: multiply 9 and 12.
+Vex: 108
+
+User: what is 86 minus 32?
+Vex: 54
+
+User: what is 7 multiplied by 20?
+Vex: 140
+
+User: subtract 7 from 23.
+Vex: 16
+
+User: multiply 19 and 8.
+Vex: 152
+
+User: calculate 2 * 22.
+Vex: 44
+
+User: calculate 88 + 94.
+Vex: 182
+
+User: add 49 and 77.
+Vex: 126
+
+User: subtract 61 from 87.
+Vex: 26
+
+User: what is 57 - 5?
+Vex: 52
+
+User: calculate 89 + 7.
+Vex: 96
+
+User: what is 40 + 46?
+Vex: 86
+
+User: calculate 11 - 5.
+Vex: 6
+
+User: what is 79 plus 34?
+Vex: 113
+
+User: what is 36 plus 38?
+Vex: 74
+
+User: what is 24 + 7?
+Vex: 31
+
+User: what is 81 - 43?
+Vex: 38
+
+User: subtract 41 from 42.
+Vex: 1
+
+User: calculate 42 + 32.
+Vex: 74
+
+User: divide 272 by 16.
+Vex: 17
+
+User: calculate 97 - 88.
+Vex: 9
+
+User: add 68 and 57.
+Vex: 125
+
+User: add 27 and 57.
+Vex: 84
+
+User: what is 95 + 33?
+Vex: 128
+
+User: subtract 25 from 29.
+Vex: 4
+
+User: what is 21 - 0?
+Vex: 21
+
+User: subtract 33 from 45.
+Vex: 12
+
+User: add 14 and 18.
+Vex: 32
+
+User: add 86 and 43.
+Vex: 129
+
+User: what is 16 times 8?
+Vex: 128
+
+User: subtract 34 from 66.
+Vex: 32
+
+User: calculate 52 + 23.
+Vex: 75
+
+User: what is 14 times 10?
+Vex: 140
+
+User: what is 13 multiplied by 16?
+Vex: 208
+
+User: what is 96 + 42?
+Vex: 138
+
+User: what is 3 plus 7?
+Vex: 10
+
+User: calculate 95 - 28.
+Vex: 67
+
+User: what is 18 plus 70?
+Vex: 88
+
+User: calculate 65 - 14.
+Vex: 51
+
+User: calculate 93 + 61.
+Vex: 154
+
+User: calculate 70 / 5.
+Vex: 14
+
+User: add 58 and 77.
+Vex: 135
+
+User: add 22 and 96.
+Vex: 118
+
+User: what is 1 plus 62?
+Vex: 63
+
+User: multiply 15 and 1.
+Vex: 15
+
+User: subtract 11 from 33.
+Vex: 22
+
+User: what is 12 divided by 12?
+Vex: 1
+
+User: what is 23 multiplied by 1?
+Vex: 23
+
+User: calculate 23 * 21.
+Vex: 483
+
+User: what is 46 plus 16?
+Vex: 62
+
+User: calculate 15 + 25.
+Vex: 40
+
+User: what is 98 plus 77?
+Vex: 175
+
+User: calculate 74 - 22.
+Vex: 52
+
+User: what is 49 plus 15?
+Vex: 64
+
+User: calculate 8 * 21.
+Vex: 168
+
+User: subtract 48 from 83.
+Vex: 35
+
+User: what is 20 times 8?
+Vex: 160
+
+User: calculate 98 - 24.
+Vex: 74
+
+User: add 35 and 68.
+Vex: 103
+
+User: subtract 12 from 17.
+Vex: 5
+
+User: calculate 7 + 49.
+Vex: 56
+
+User: what is 84 - 74?
+Vex: 10
+
+User: what is 72 plus 32?
+Vex: 104
+
+User: what is 340 divided by 17?
+Vex: 20
+
+User: what is 62 - 5?
+Vex: 57
+
+User: calculate 27 - 26.
+Vex: 1
+
+User: what is 9 - 8?
+Vex: 1
+
+User: calculate 3 * 6.
+Vex: 18
+
+User: what is 20 times 4?
+Vex: 80
+
+User: what is 9 multiplied by 8?
+Vex: 72
+
+User: what is 54 divided by 6?
+Vex: 9
+
+User: divide 90 by 6.
+Vex: 15
+
+User: subtract 47 from 78.
+Vex: 31
+
+User: calculate 87 - 5.
+Vex: 82
+
+User: what is 94 plus 30?
+Vex: 124
+
+User: what is 3 + 24?
+Vex: 27
+
+User: what is 44 - 26?
+Vex: 18
+
+User: what is 2 times 24?
+Vex: 48
+
+User: what is 74 plus 87?
+Vex: 161
+
+User: what is 5 minus 2?
+Vex: 3
+
+User: subtract 14 from 17.
+Vex: 3
+
+User: calculate 80 - 68.
+Vex: 12
+
+User: add 32 and 89.
+Vex: 121
+
+User: what is 4 times 21?
+Vex: 84
+
+User: what is 17 plus 4?
+Vex: 21
+
+User: what is 81 - 67?
+Vex: 14
+
+User: calculate 19 * 0.
+Vex: 0
+
+User: what is 73 + 56?
+Vex: 129
+
+User: calculate 99 / 9.
+Vex: 11
+
+User: add 52 and 69.
+Vex: 121
+
+User: multiply 6 and 9.
+Vex: 54
+
+User: add 71 and 61.
+Vex: 132
+
+User: calculate 22 * 10.
+Vex: 220
+
+User: what is 90 minus 17?
+Vex: 73
+
+User: what is 22 + 25?
+Vex: 47
+
+User: what is 55 - 22?
+Vex: 33
+
+User: what is 36 minus 26?
+Vex: 10
+
+User: what is 22 + 18?
+Vex: 40
+
+User: calculate 37 + 93.
+Vex: 130
+
+User: calculate 61 - 26.
+Vex: 35
+
+User: multiply 24 and 9.
+Vex: 216
+
+User: multiply 8 and 6.
+Vex: 48
+
+User: what is 7 multiplied by 8?
+Vex: 56
+
+User: multiply 12 and 0.
+Vex: 0
+
+User: what is 80 + 81?
+Vex: 161
+
+User: add 57 and 46.
+Vex: 103
+
+User: subtract 21 from 72.
+Vex: 51
+
+User: subtract 3 from 30.
+Vex: 27
+
+User: what is 48 divided by 4?
+Vex: 12
+
+User: subtract 32 from 45.
+Vex: 13
+
+User: what is 11 plus 38?
+Vex: 49
+
+User: what is 2 + 6?
+Vex: 8
+
+User: add 8 and 44.
+Vex: 52
+
+User: calculate 80 + 65.
+Vex: 145
+
+User: what is 34 minus 23?
+Vex: 11
+
+User: calculate 234 / 18.
+Vex: 13
+
+User: calculate 10 / 5.
+Vex: 2
+
+User: calculate 126 / 18.
+Vex: 7
+
+User: what is 6 minus 0?
+Vex: 6
+
+User: calculate 4 * 21.
+Vex: 84
+
+User: what is 78 + 57?
+Vex: 135
+
+User: what is 14 plus 81?
+Vex: 95
+
+User: add 21 and 5.
+Vex: 26
+
+User: calculate 10 * 14.
+Vex: 140
+
+User: what is 2 + 98?
+Vex: 100
+
+User: subtract 3 from 40.
+Vex: 37
+
+User: what is 154 divided by 11?
+Vex: 14
+
+User: what is 29 minus 12?
+Vex: 17
+
+User: what is 12 multiplied by 15?
+Vex: 180
+
+User: what is 285 divided by 15?
+Vex: 19
+
+User: calculate 13 * 23.
+Vex: 299
+
+User: add 21 and 9.
+Vex: 30
+
+User: what is 21 times 2?
+Vex: 42
+
+User: what is 83 plus 41?
+Vex: 124
+
+User: what is 1 + 20?
+Vex: 21
+
+User: calculate 14 - 12.
+Vex: 2
+
+User: what is 14 multiplied by 22?
+Vex: 308
+
+User: what is 72 - 41?
+Vex: 31
+
+User: what is 30 plus 32?
+Vex: 62
+
+User: what is 22 multiplied by 7?
+Vex: 154
+
+User: what is 0 multiplied by 12?
+Vex: 0
+
+User: subtract 32 from 43.
+Vex: 11
+
+User: what is 89 - 66?
+Vex: 23
+
+User: what is 81 + 100?
+Vex: 181
+
+User: calculate 15 * 6.
+Vex: 90
+
+User: calculate 70 / 7.
+Vex: 10
+
+User: what is 24 plus 7?
+Vex: 31
+
+User: calculate 65 + 3.
+Vex: 68
+
+User: divide 100 by 20.
+Vex: 5
+
+User: calculate 85 + 70.
+Vex: 155
+
+User: calculate 62 - 49.
+Vex: 13
+
+User: what is 304 divided by 19?
+Vex: 16
+
+User: what is 20 times 15?
+Vex: 300
+
+User: calculate 55 - 4.
+Vex: 51
+
+User: what is 198 divided by 18?
+Vex: 11
+
+User: what is 86 - 67?
+Vex: 19
+
+User: what is 31 minus 24?
+Vex: 7
+
+User: what is 90 minus 21?
+Vex: 69
+
+User: add 83 and 38.
+Vex: 121
+
+User: calculate 32 / 2.
+Vex: 16
+
+User: what is 14 multiplied by 11?
+Vex: 154
+
+User: what is 91 minus 14?
+Vex: 77
+
+User: calculate 18 * 12.
+Vex: 216
+
+User: divide 108 by 12.
+Vex: 9
+
+User: calculate 50 - 35.
+Vex: 15
+
+User: divide 32 by 16.
+Vex: 2
+
+User: what is 76 - 63?
+Vex: 13
+
+User: subtract 40 from 42.
+Vex: 2
+
+User: calculate 82 - 40.
+Vex: 42
+
+User: what is 66 divided by 6?
+Vex: 11
+
+User: subtract 8 from 11.
+Vex: 3
+
+User: calculate 13 + 87.
+Vex: 100
+
+User: what is 89 - 14?
+Vex: 75
+
+User: what is 76 plus 17?
+Vex: 93
+
+User: what is 90 minus 78?
+Vex: 12
+
+User: calculate 40 - 2.
+Vex: 38
+
+User: calculate 55 - 1.
+Vex: 54
+
+User: divide 27 by 9.
+Vex: 3
+
+User: subtract 27 from 31.
+Vex: 4
+
+User: what is 81 minus 78?
+Vex: 3
+
+User: multiply 6 and 12.
+Vex: 72
+
+User: what is 85 plus 37?
+Vex: 122
+
+User: calculate 30 + 25.
+Vex: 55
+
+User: subtract 17 from 34.
+Vex: 17
+
+User: what is 49 - 34?
+Vex: 15
+
+User: what is 7 multiplied by 13?
+Vex: 91
+
+User: what is 75 minus 5?
+Vex: 70
+
+User: multiply 16 and 15.
+Vex: 240
+
+User: add 28 and 73.
+Vex: 101
+
+User: calculate 88 - 31.
+Vex: 57
+
+User: what is 3 times 15?
+Vex: 45
+
+User: multiply 14 and 14.
+Vex: 196
+
+User: what is 56 minus 55?
+Vex: 1
+
+User: what is 45 + 11?
+Vex: 56
+
+User: subtract 13 from 62.
+Vex: 49
+
+User: calculate 2 * 9.
+Vex: 18
+
+User: what is 86 + 20?
+Vex: 106
+
+User: multiply 24 and 13.
+Vex: 312
+
+User: what is 75 + 36?
+Vex: 111
+
+User: what is 54 + 48?
+Vex: 102
+
+User: add 67 and 39.
+Vex: 106
+
+User: add 6 and 60.
+Vex: 66
+
+User: calculate 82 + 65.
+Vex: 147
+
+User: what is 15 plus 4?
+Vex: 19
+
+User: what is 15 + 32?
+Vex: 47
+
+User: what is 35 divided by 7?
+Vex: 5
+
+User: what is 95 plus 93?
+Vex: 188
+
+User: what is 92 + 79?
+Vex: 171
+
+User: what is 91 - 30?
+Vex: 61
+
+User: what is 4 multiplied by 0?
+Vex: 0
+
+User: what is 75 plus 21?
+Vex: 96
+
+User: what is 8 multiplied by 0?
+Vex: 0
+
+User: calculate 15 + 66.
+Vex: 81
+
+User: calculate 8 * 12.
+Vex: 96
+
+User: what is 97 + 15?
+Vex: 112
+
+User: what is 45 - 18?
+Vex: 27
+
+User: what is 5 times 11?
+Vex: 55
+
+User: calculate 83 - 10.
+Vex: 73
+
+User: multiply 4 and 10.
+Vex: 40
+
+User: what is 6 divided by 6?
+Vex: 1
+
+User: calculate 91 - 47.
+Vex: 44
+
+User: divide 21 by 7.
+Vex: 3
+
+User: what is 41 + 7?
+Vex: 48
+
+User: add 17 and 57.
+Vex: 74
+
+User: what is 85 - 39?
+Vex: 46
+
+User: what is 40 - 9?
+Vex: 31
+
+User: calculate 70 + 58.
+Vex: 128
+
+User: calculate 168 / 12.
+Vex: 14
+
+User: add 69 and 86.
+Vex: 155
+
+User: calculate 22 * 14.
+Vex: 308
+
+User: what is 9 multiplied by 24?
+Vex: 216
+
+User: what is 0 divided by 18?
+Vex: 0
+
+User: calculate 49 + 87.
+Vex: 136
+
+User: add 13 and 49.
+Vex: 62
+
+User: what is 28 + 30?
+Vex: 58
+
+User: what is 25 minus 20?
+Vex: 5
+
+User: what is 11 minus 2?
+Vex: 9
+
+User: calculate 95 - 62.
+Vex: 33
+
+User: what is 78 - 49?
+Vex: 29
+
+User: what is 42 plus 54?
+Vex: 96
+
+User: what is 23 + 68?
+Vex: 91
+
+User: add 95 and 34.
+Vex: 129
+
+User: what is 39 + 46?
+Vex: 85
+
+User: calculate 150 / 10.
+Vex: 15
+
+User: what is 63 plus 22?
+Vex: 85
+
+User: what is 90 + 62?
+Vex: 152
+
+User: what is 22 multiplied by 21?
+Vex: 462
+
+User: what is 60 - 47?
+Vex: 13
+
+User: subtract 38 from 56.
+Vex: 18
+
+User: multiply 19 and 15.
+Vex: 285
+
+User: what is 92 - 89?
+Vex: 3
+
+User: calculate 60 + 27.
+Vex: 87
+
+User: what is 60 minus 28?
+Vex: 32
+
+User: calculate 93 - 1.
+Vex: 92
+
+User: add 87 and 92.
+Vex: 179
+
+User: calculate 93 - 90.
+Vex: 3
+
+User: calculate 6 * 11.
+Vex: 66
+
+User: what is 2 multiplied by 20?
+Vex: 40
+
+User: calculate 7 * 0.
+Vex: 0
+
+User: calculate 79 + 50.
+Vex: 129
+
+User: add 39 and 54.
+Vex: 93
+
+User: calculate 180 / 15.
+Vex: 12
+
+User: what is 36 minus 0?
+Vex: 36
+
+User: multiply 8 and 3.
+Vex: 24
+
+User: what is 77 - 57?
+Vex: 20
+
+User: multiply 13 and 25.
+Vex: 325
+
+User: calculate 56 - 9.
+Vex: 47
+
+User: calculate 51 + 80.
+Vex: 131
+
+User: calculate 68 - 17.
+Vex: 51
+
+User: calculate 3 - 2.
+Vex: 1
+
+User: calculate 60 - 10.
+Vex: 50
+
+User: what is 39 minus 20?
+Vex: 19
+
+User: what is 25 times 14?
+Vex: 350
+
+User: what is 132 divided by 11?
+Vex: 12
+
+User: what is 28 minus 17?
+Vex: 11
+
+User: calculate 52 + 54.
+Vex: 106
+
+User: what is 24 times 4?
+Vex: 96
+
+User: calculate 35 - 30.
+Vex: 5
+
+User: multiply 15 and 0.
+Vex: 0
+
+User: what is 45 - 44?
+Vex: 1
+
+User: multiply 2 and 22.
+Vex: 44
+
+User: subtract 16 from 79.
+Vex: 63
+
+User: calculate 89 - 49.
+Vex: 40
+
+User: divide 57 by 19.
+Vex: 3
+
+User: what is 20 plus 79?
+Vex: 99
+
+User: multiply 18 and 11.
+Vex: 198
+
+User: add 43 and 21.
+Vex: 64
+
+User: what is 31 minus 6?
+Vex: 25
+
+User: calculate 13 * 1.
+Vex: 13
+
+User: calculate 14 - 13.
+Vex: 1
+
+User: what is 85 - 38?
+Vex: 47
+
+User: add 79 and 77.
+Vex: 156
+
+User: add 56 and 36.
+Vex: 92
+
+User: calculate 55 + 0.
+Vex: 55
+
+User: what is 5 + 28?
+Vex: 33
+
+User: what is 88 plus 23?
+Vex: 111
+
+User: what is 0 multiplied by 17?
+Vex: 0
+
+User: add 62 and 78.
+Vex: 140
+
+User: what is 49 - 10?
+Vex: 39
+
+User: what is 88 - 11?
+Vex: 77
+
+User: what is 32 plus 66?
+Vex: 98
+
+User: subtract 2 from 46.
+Vex: 44
+
+User: calculate 38 + 73.
+Vex: 111
+
+User: what is 73 + 8?
+Vex: 81
+
+User: multiply 12 and 21.
+Vex: 252
+
+User: what is 98 minus 61?
+Vex: 37
+
+User: what is 56 plus 76?
+Vex: 132
+
+User: calculate 77 + 93.
+Vex: 170
+
+User: what is 90 divided by 5?
+Vex: 18
+
+User: what is 23 times 3?
+Vex: 69
+
+User: divide 72 by 12.
+Vex: 6
+
+User: what is 0 plus 73?
+Vex: 73
+
+User: what is 34 - 26?
+Vex: 8
+
+User: what is 98 plus 74?
+Vex: 172
+
+User: calculate 19 - 6.
+Vex: 13
+
+User: subtract 51 from 62.
+Vex: 11
+
+User: calculate 86 - 31.
+Vex: 55
+
+User: calculate 65 + 100.
+Vex: 165
+
+User: calculate 62 - 56.
+Vex: 6
+
+User: calculate 140 / 7.
+Vex: 20
+
+User: what is 63 + 44?
+Vex: 107
+
+User: add 2 and 63.
+Vex: 65
+
+User: calculate 84 - 55.
+Vex: 29
+
+User: what is 28 + 31?
+Vex: 59
+
+User: add 4 and 51.
+Vex: 55
+
+User: add 46 and 42.
+Vex: 88
+
+User: calculate 24 / 4.
+Vex: 6
+
+User: what is 5 times 10?
+Vex: 50
+
+User: calculate 73 + 48.
+Vex: 121
+
+User: calculate 133 / 7.
+Vex: 19
+
+User: what is 90 plus 22?
+Vex: 112
+
+User: what is 22 minus 3?
+Vex: 19
+
+User: calculate 81 + 56.
+Vex: 137
+
+User: what is 94 - 47?
+Vex: 47
+
+User: add 57 and 19.
+Vex: 76
+
+User: what is 21 times 9?
+Vex: 189
+
+User: calculate 35 + 38.
+Vex: 73
+
+User: add 89 and 58.
+Vex: 147
+
+User: multiply 20 and 4.
+Vex: 80
+
+User: what is 10 times 25?
+Vex: 250
+
+User: add 56 and 94.
+Vex: 150
+
+User: subtract 66 from 100.
+Vex: 34
+
+User: subtract 18 from 54.
+Vex: 36
+
+User: what is 12 plus 38?
+Vex: 50
+
+User: divide 240 by 15.
+Vex: 16
+
+User: what is 240 divided by 20?
+Vex: 12
+
+User: calculate 160 / 20.
+Vex: 8
+
+User: what is 0 divided by 20?
+Vex: 0
+
+User: what is 83 plus 91?
+Vex: 174
+
+User: what is 67 minus 35?
+Vex: 32
+
+User: what is 83 plus 8?
+Vex: 91
+
+User: calculate 100 - 15.
+Vex: 85
+
+User: divide 0 by 20.
+Vex: 0
+
+User: subtract 19 from 39.
+Vex: 20
+
+User: what is 67 minus 55?
+Vex: 12
+
+User: what is 85 plus 3?
+Vex: 88
+
+User: what is 87 - 28?
+Vex: 59
+
+User: calculate 25 - 6.
+Vex: 19
+
+User: what is 40 + 30?
+Vex: 70
+
+User: what is 17 - 2?
+Vex: 15
+
+User: what is 11 times 13?
+Vex: 143

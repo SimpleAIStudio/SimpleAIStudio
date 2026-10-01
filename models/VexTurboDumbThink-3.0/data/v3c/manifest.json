@@ -1,0 +1,83 @@
+{
+  "version": "V3-C",
+  "seed": 303,
+  "benchmark_items": 500,
+  "benchmark_in_training": false,
+  "categories": {
+    "conversation": {
+      "total": 517,
+      "train": 466,
+      "valid": 51,
+      "train_bytes": 26149,
+      "valid_bytes": 2822
+    },
+    "identity": {
+      "total": 160,
+      "train": 144,
+      "valid": 16,
+      "train_bytes": 13175,
+      "valid_bytes": 1452
+    },
+    "knowledge": {
+      "total": 650,
+      "train": 585,
+      "valid": 65,
+      "train_bytes": 57418,
+      "valid_bytes": 6380
+    },
+    "reading": {
+      "total": 2837,
+      "train": 2554,
+      "valid": 283,
+      "train_bytes": 294882,
+      "valid_bytes": 32774
+    },
+    "language": {
+      "total": 750,
+      "train": 675,
+      "valid": 75,
+      "train_bytes": 40435,
+      "valid_bytes": 4636
+    },
+    "arithmetic": {
+      "total": 10472,
+      "train": 9425,
+      "valid": 1047,
+      "train_bytes": 351860,
+      "valid_bytes": 39162
+    },
+    "logic": {
+      "total": 6518,
+      "train": 5867,
+      "valid": 651,
+      "train_bytes": 289672,
+      "valid_bytes": 32062
+    },
+    "sequences": {
+      "total": 5448,
+      "train": 4904,
+      "valid": 544,
+      "train_bytes": 259022,
+      "valid_bytes": 28821
+    },
+    "coding": {
+      "total": 625,
+      "train": 563,
+      "valid": 62,
+      "train_bytes": 56706,
+      "valid_bytes": 6240
+    },
+    "story_world": {
+      "total": 9293,
+      "train": 8364,
+      "valid": 929,
+      "train_bytes": 1039433,
+      "valid_bytes": 115340
+    }
+  },
+  "total_examples": 37270,
+  "total_train_examples": 33547,
+  "total_valid_examples": 3723,
+  "total_train_bytes": 2428752,
+  "total_valid_bytes": 269689
+}

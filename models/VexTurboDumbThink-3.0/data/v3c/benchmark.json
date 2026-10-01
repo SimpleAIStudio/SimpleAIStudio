@@ -1,0 +1,4633 @@
+[
+  {
+    "id": "conversation-001",
+    "category": "conversation",
+    "prompt": "hello",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-002",
+    "category": "conversation",
+    "prompt": "hi",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-003",
+    "category": "conversation",
+    "prompt": "hey",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-004",
+    "category": "conversation",
+    "prompt": "hello vex",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-005",
+    "category": "conversation",
+    "prompt": "hey vex",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-006",
+    "category": "conversation",
+    "prompt": "quickly, good morning",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-007",
+    "category": "conversation",
+    "prompt": "quickly, good afternoon",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-008",
+    "category": "conversation",
+    "prompt": "quickly, good evening",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-009",
+    "category": "conversation",
+    "prompt": "quickly, hi there",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-010",
+    "category": "conversation",
+    "prompt": "quickly, hello there",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-011",
+    "category": "conversation",
+    "prompt": "just saying, hello",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-012",
+    "category": "conversation",
+    "prompt": "just saying, hi",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-013",
+    "category": "conversation",
+    "prompt": "just saying, hey",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-014",
+    "category": "conversation",
+    "prompt": "just saying, hello vex",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-015",
+    "category": "conversation",
+    "prompt": "just saying, hey vex",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-016",
+    "category": "conversation",
+    "prompt": "okay, good morning",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-017",
+    "category": "conversation",
+    "prompt": "okay, good afternoon",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-018",
+    "category": "conversation",
+    "prompt": "okay, good evening",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-019",
+    "category": "conversation",
+    "prompt": "okay, hi there",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-020",
+    "category": "conversation",
+    "prompt": "okay, hello there",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-021",
+    "category": "conversation",
+    "prompt": "hey, hello",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-022",
+    "category": "conversation",
+    "prompt": "hey, hi",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-023",
+    "category": "conversation",
+    "prompt": "hey, hey",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-024",
+    "category": "conversation",
+    "prompt": "hey, hello vex",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-025",
+    "category": "conversation",
+    "prompt": "hey, hey vex",
+    "match": "contains_any",
+    "expected": [
+      "hello",
+      "hi",
+      "hey"
+    ]
+  },
+  {
+    "id": "conversation-026",
+    "category": "conversation",
+    "prompt": "thanks",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-027",
+    "category": "conversation",
+    "prompt": "thank you",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-028",
+    "category": "conversation",
+    "prompt": "thanks vex",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-029",
+    "category": "conversation",
+    "prompt": "thank you vex",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-030",
+    "category": "conversation",
+    "prompt": "thanks for helping",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-031",
+    "category": "conversation",
+    "prompt": "quickly, thanks",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-032",
+    "category": "conversation",
+    "prompt": "quickly, thank you",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-033",
+    "category": "conversation",
+    "prompt": "quickly, thanks vex",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-034",
+    "category": "conversation",
+    "prompt": "quickly, thank you vex",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-035",
+    "category": "conversation",
+    "prompt": "quickly, thanks for helping",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-036",
+    "category": "conversation",
+    "prompt": "just saying, thanks",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-037",
+    "category": "conversation",
+    "prompt": "just saying, thank you",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-038",
+    "category": "conversation",
+    "prompt": "just saying, thanks vex",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-039",
+    "category": "conversation",
+    "prompt": "just saying, thank you vex",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-040",
+    "category": "conversation",
+    "prompt": "just saying, thanks for helping",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-041",
+    "category": "conversation",
+    "prompt": "okay, thanks",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-042",
+    "category": "conversation",
+    "prompt": "okay, thank you",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-043",
+    "category": "conversation",
+    "prompt": "okay, thanks vex",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-044",
+    "category": "conversation",
+    "prompt": "okay, thank you vex",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-045",
+    "category": "conversation",
+    "prompt": "okay, thanks for helping",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-046",
+    "category": "conversation",
+    "prompt": "hey, thanks",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-047",
+    "category": "conversation",
+    "prompt": "hey, thank you",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-048",
+    "category": "conversation",
+    "prompt": "hey, thanks vex",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-049",
+    "category": "conversation",
+    "prompt": "hey, thank you vex",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "conversation-050",
+    "category": "conversation",
+    "prompt": "hey, thanks for helping",
+    "match": "contains_any",
+    "expected": [
+      "welcome",
+      "no problem",
+      "happy to help"
+    ]
+  },
+  {
+    "id": "identity-001",
+    "category": "identity",
+    "prompt": "what is your name?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-002",
+    "category": "identity",
+    "prompt": "quick question: what is your name?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-003",
+    "category": "identity",
+    "prompt": "tell me this: what is your name?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-004",
+    "category": "identity",
+    "prompt": "i want to know: what is your name?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-005",
+    "category": "identity",
+    "prompt": "can you answer this: what is your name?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-006",
+    "category": "identity",
+    "prompt": "who are you?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-007",
+    "category": "identity",
+    "prompt": "quick question: who are you?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-008",
+    "category": "identity",
+    "prompt": "tell me this: who are you?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-009",
+    "category": "identity",
+    "prompt": "i want to know: who are you?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-010",
+    "category": "identity",
+    "prompt": "can you answer this: who are you?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-011",
+    "category": "identity",
+    "prompt": "what should i call you?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-012",
+    "category": "identity",
+    "prompt": "quick question: what should i call you?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-013",
+    "category": "identity",
+    "prompt": "tell me this: what should i call you?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-014",
+    "category": "identity",
+    "prompt": "i want to know: what should i call you?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-015",
+    "category": "identity",
+    "prompt": "can you answer this: what should i call you?",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-016",
+    "category": "identity",
+    "prompt": "introduce yourself.",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-017",
+    "category": "identity",
+    "prompt": "quick question: introduce yourself.",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-018",
+    "category": "identity",
+    "prompt": "tell me this: introduce yourself.",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-019",
+    "category": "identity",
+    "prompt": "i want to know: introduce yourself.",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-020",
+    "category": "identity",
+    "prompt": "can you answer this: introduce yourself.",
+    "match": "contains_all",
+    "expected": [
+      "vex"
+    ]
+  },
+  {
+    "id": "identity-021",
+    "category": "identity",
+    "prompt": "are you a language model?",
+    "match": "contains_any",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "identity-022",
+    "category": "identity",
+    "prompt": "quick question: are you a language model?",
+    "match": "contains_any",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "identity-023",
+    "category": "identity",
+    "prompt": "tell me this: are you a language model?",
+    "match": "contains_any",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "identity-024",
+    "category": "identity",
+    "prompt": "i want to know: are you a language model?",
+    "match": "contains_any",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "identity-025",
+    "category": "identity",
+    "prompt": "can you answer this: are you a language model?",
+    "match": "contains_any",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "identity-026",
+    "category": "identity",
+    "prompt": "are you an ai?",
+    "match": "contains_any",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "identity-027",
+    "category": "identity",
+    "prompt": "quick question: are you an ai?",
+    "match": "contains_any",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "identity-028",
+    "category": "identity",
+    "prompt": "tell me this: are you an ai?",
+    "match": "contains_any",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "identity-029",
+    "category": "identity",
+    "prompt": "i want to know: are you an ai?",
+    "match": "contains_any",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "identity-030",
+    "category": "identity",
+    "prompt": "can you answer this: are you an ai?",
+    "match": "contains_any",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "identity-031",
+    "category": "identity",
+    "prompt": "do you run locally?",
+    "match": "contains_any",
+    "expected": [
+      "local"
+    ]
+  },
+  {
+    "id": "identity-032",
+    "category": "identity",
+    "prompt": "quick question: do you run locally?",
+    "match": "contains_any",
+    "expected": [
+      "local"
+    ]
+  },
+  {
+    "id": "identity-033",
+    "category": "identity",
+    "prompt": "tell me this: do you run locally?",
+    "match": "contains_any",
+    "expected": [
+      "local"
+    ]
+  },
+  {
+    "id": "identity-034",
+    "category": "identity",
+    "prompt": "i want to know: do you run locally?",
+    "match": "contains_any",
+    "expected": [
+      "local"
+    ]
+  },
+  {
+    "id": "identity-035",
+    "category": "identity",
+    "prompt": "can you answer this: do you run locally?",
+    "match": "contains_any",
+    "expected": [
+      "local"
+    ]
+  },
+  {
+    "id": "identity-036",
+    "category": "identity",
+    "prompt": "do you need the internet?",
+    "match": "contains_any",
+    "expected": [
+      "no",
+      "without"
+    ]
+  },
+  {
+    "id": "identity-037",
+    "category": "identity",
+    "prompt": "quick question: do you need the internet?",
+    "match": "contains_any",
+    "expected": [
+      "no",
+      "without"
+    ]
+  },
+  {
+    "id": "identity-038",
+    "category": "identity",
+    "prompt": "tell me this: do you need the internet?",
+    "match": "contains_any",
+    "expected": [
+      "no",
+      "without"
+    ]
+  },
+  {
+    "id": "identity-039",
+    "category": "identity",
+    "prompt": "i want to know: do you need the internet?",
+    "match": "contains_any",
+    "expected": [
+      "no",
+      "without"
+    ]
+  },
+  {
+    "id": "identity-040",
+    "category": "identity",
+    "prompt": "can you answer this: do you need the internet?",
+    "match": "contains_any",
+    "expected": [
+      "no",
+      "without"
+    ]
+  },
+  {
+    "id": "identity-041",
+    "category": "identity",
+    "prompt": "were you trained from scratch?",
+    "match": "contains_any",
+    "expected": [
+      "yes",
+      "scratch"
+    ]
+  },
+  {
+    "id": "identity-042",
+    "category": "identity",
+    "prompt": "quick question: were you trained from scratch?",
+    "match": "contains_any",
+    "expected": [
+      "yes",
+      "scratch"
+    ]
+  },
+  {
+    "id": "identity-043",
+    "category": "identity",
+    "prompt": "tell me this: were you trained from scratch?",
+    "match": "contains_any",
+    "expected": [
+      "yes",
+      "scratch"
+    ]
+  },
+  {
+    "id": "identity-044",
+    "category": "identity",
+    "prompt": "i want to know: were you trained from scratch?",
+    "match": "contains_any",
+    "expected": [
+      "yes",
+      "scratch"
+    ]
+  },
+  {
+    "id": "identity-045",
+    "category": "identity",
+    "prompt": "can you answer this: were you trained from scratch?",
+    "match": "contains_any",
+    "expected": [
+      "yes",
+      "scratch"
+    ]
+  },
+  {
+    "id": "identity-046",
+    "category": "identity",
+    "prompt": "did you use pretrained weights?",
+    "match": "contains_any",
+    "expected": [
+      "no",
+      "pretrained"
+    ]
+  },
+  {
+    "id": "identity-047",
+    "category": "identity",
+    "prompt": "quick question: did you use pretrained weights?",
+    "match": "contains_any",
+    "expected": [
+      "no",
+      "pretrained"
+    ]
+  },
+  {
+    "id": "identity-048",
+    "category": "identity",
+    "prompt": "tell me this: did you use pretrained weights?",
+    "match": "contains_any",
+    "expected": [
+      "no",
+      "pretrained"
+    ]
+  },
+  {
+    "id": "identity-049",
+    "category": "identity",
+    "prompt": "i want to know: did you use pretrained weights?",
+    "match": "contains_any",
+    "expected": [
+      "no",
+      "pretrained"
+    ]
+  },
+  {
+    "id": "identity-050",
+    "category": "identity",
+    "prompt": "can you answer this: did you use pretrained weights?",
+    "match": "contains_any",
+    "expected": [
+      "no",
+      "pretrained"
+    ]
+  },
+  {
+    "id": "knowledge-001",
+    "category": "knowledge",
+    "prompt": "briefly explain Earth.",
+    "match": "contains_all",
+    "expected": [
+      "planet"
+    ]
+  },
+  {
+    "id": "knowledge-002",
+    "category": "knowledge",
+    "prompt": "give me one fact about Earth.",
+    "match": "contains_all",
+    "expected": [
+      "planet"
+    ]
+  },
+  {
+    "id": "knowledge-003",
+    "category": "knowledge",
+    "prompt": "briefly explain the Moon.",
+    "match": "contains_all",
+    "expected": [
+      "satellite"
+    ]
+  },
+  {
+    "id": "knowledge-004",
+    "category": "knowledge",
+    "prompt": "give me one fact about the Moon.",
+    "match": "contains_all",
+    "expected": [
+      "satellite"
+    ]
+  },
+  {
+    "id": "knowledge-005",
+    "category": "knowledge",
+    "prompt": "briefly explain the Sun.",
+    "match": "contains_all",
+    "expected": [
+      "star"
+    ]
+  },
+  {
+    "id": "knowledge-006",
+    "category": "knowledge",
+    "prompt": "give me one fact about the Sun.",
+    "match": "contains_all",
+    "expected": [
+      "star"
+    ]
+  },
+  {
+    "id": "knowledge-007",
+    "category": "knowledge",
+    "prompt": "briefly explain water.",
+    "match": "contains_all",
+    "expected": [
+      "liquid"
+    ]
+  },
+  {
+    "id": "knowledge-008",
+    "category": "knowledge",
+    "prompt": "give me one fact about water.",
+    "match": "contains_all",
+    "expected": [
+      "liquid"
+    ]
+  },
+  {
+    "id": "knowledge-009",
+    "category": "knowledge",
+    "prompt": "briefly explain ice.",
+    "match": "contains_all",
+    "expected": [
+      "frozen water"
+    ]
+  },
+  {
+    "id": "knowledge-010",
+    "category": "knowledge",
+    "prompt": "give me one fact about ice.",
+    "match": "contains_all",
+    "expected": [
+      "frozen water"
+    ]
+  },
+  {
+    "id": "knowledge-011",
+    "category": "knowledge",
+    "prompt": "briefly explain rain.",
+    "match": "contains_all",
+    "expected": [
+      "cloud"
+    ]
+  },
+  {
+    "id": "knowledge-012",
+    "category": "knowledge",
+    "prompt": "give me one fact about rain.",
+    "match": "contains_all",
+    "expected": [
+      "cloud"
+    ]
+  },
+  {
+    "id": "knowledge-013",
+    "category": "knowledge",
+    "prompt": "briefly explain a dog.",
+    "match": "contains_all",
+    "expected": [
+      "animal"
+    ]
+  },
+  {
+    "id": "knowledge-014",
+    "category": "knowledge",
+    "prompt": "give me one fact about a dog.",
+    "match": "contains_all",
+    "expected": [
+      "animal"
+    ]
+  },
+  {
+    "id": "knowledge-015",
+    "category": "knowledge",
+    "prompt": "briefly explain a cat.",
+    "match": "contains_all",
+    "expected": [
+      "animal"
+    ]
+  },
+  {
+    "id": "knowledge-016",
+    "category": "knowledge",
+    "prompt": "give me one fact about a cat.",
+    "match": "contains_all",
+    "expected": [
+      "animal"
+    ]
+  },
+  {
+    "id": "knowledge-017",
+    "category": "knowledge",
+    "prompt": "briefly explain a bird.",
+    "match": "contains_all",
+    "expected": [
+      "feather"
+    ]
+  },
+  {
+    "id": "knowledge-018",
+    "category": "knowledge",
+    "prompt": "give me one fact about a bird.",
+    "match": "contains_all",
+    "expected": [
+      "feather"
+    ]
+  },
+  {
+    "id": "knowledge-019",
+    "category": "knowledge",
+    "prompt": "briefly explain a fish.",
+    "match": "contains_all",
+    "expected": [
+      "gill"
+    ]
+  },
+  {
+    "id": "knowledge-020",
+    "category": "knowledge",
+    "prompt": "give me one fact about a fish.",
+    "match": "contains_all",
+    "expected": [
+      "gill"
+    ]
+  },
+  {
+    "id": "knowledge-021",
+    "category": "knowledge",
+    "prompt": "briefly explain a tree.",
+    "match": "contains_all",
+    "expected": [
+      "plant"
+    ]
+  },
+  {
+    "id": "knowledge-022",
+    "category": "knowledge",
+    "prompt": "give me one fact about a tree.",
+    "match": "contains_all",
+    "expected": [
+      "plant"
+    ]
+  },
+  {
+    "id": "knowledge-023",
+    "category": "knowledge",
+    "prompt": "briefly explain a planet.",
+    "match": "contains_all",
+    "expected": [
+      "orbit"
+    ]
+  },
+  {
+    "id": "knowledge-024",
+    "category": "knowledge",
+    "prompt": "give me one fact about a planet.",
+    "match": "contains_all",
+    "expected": [
+      "orbit"
+    ]
+  },
+  {
+    "id": "knowledge-025",
+    "category": "knowledge",
+    "prompt": "briefly explain a star.",
+    "match": "contains_all",
+    "expected": [
+      "gas"
+    ]
+  },
+  {
+    "id": "knowledge-026",
+    "category": "knowledge",
+    "prompt": "give me one fact about a star.",
+    "match": "contains_all",
+    "expected": [
+      "gas"
+    ]
+  },
+  {
+    "id": "knowledge-027",
+    "category": "knowledge",
+    "prompt": "briefly explain gravity.",
+    "match": "contains_all",
+    "expected": [
+      "force"
+    ]
+  },
+  {
+    "id": "knowledge-028",
+    "category": "knowledge",
+    "prompt": "give me one fact about gravity.",
+    "match": "contains_all",
+    "expected": [
+      "force"
+    ]
+  },
+  {
+    "id": "knowledge-029",
+    "category": "knowledge",
+    "prompt": "briefly explain oxygen.",
+    "match": "contains_all",
+    "expected": [
+      "gas"
+    ]
+  },
+  {
+    "id": "knowledge-030",
+    "category": "knowledge",
+    "prompt": "give me one fact about oxygen.",
+    "match": "contains_all",
+    "expected": [
+      "gas"
+    ]
+  },
+  {
+    "id": "knowledge-031",
+    "category": "knowledge",
+    "prompt": "briefly explain a week.",
+    "match": "contains_all",
+    "expected": [
+      "seven"
+    ]
+  },
+  {
+    "id": "knowledge-032",
+    "category": "knowledge",
+    "prompt": "give me one fact about a week.",
+    "match": "contains_all",
+    "expected": [
+      "seven"
+    ]
+  },
+  {
+    "id": "knowledge-033",
+    "category": "knowledge",
+    "prompt": "briefly explain a year.",
+    "match": "contains_all",
+    "expected": [
+      "twelve"
+    ]
+  },
+  {
+    "id": "knowledge-034",
+    "category": "knowledge",
+    "prompt": "give me one fact about a year.",
+    "match": "contains_all",
+    "expected": [
+      "twelve"
+    ]
+  },
+  {
+    "id": "knowledge-035",
+    "category": "knowledge",
+    "prompt": "briefly explain an hour.",
+    "match": "contains_all",
+    "expected": [
+      "sixty"
+    ]
+  },
+  {
+    "id": "knowledge-036",
+    "category": "knowledge",
+    "prompt": "give me one fact about an hour.",
+    "match": "contains_all",
+    "expected": [
+      "sixty"
+    ]
+  },
+  {
+    "id": "knowledge-037",
+    "category": "knowledge",
+    "prompt": "briefly explain a minute.",
+    "match": "contains_all",
+    "expected": [
+      "sixty"
+    ]
+  },
+  {
+    "id": "knowledge-038",
+    "category": "knowledge",
+    "prompt": "give me one fact about a minute.",
+    "match": "contains_all",
+    "expected": [
+      "sixty"
+    ]
+  },
+  {
+    "id": "knowledge-039",
+    "category": "knowledge",
+    "prompt": "briefly explain a triangle.",
+    "match": "contains_all",
+    "expected": [
+      "three"
+    ]
+  },
+  {
+    "id": "knowledge-040",
+    "category": "knowledge",
+    "prompt": "give me one fact about a triangle.",
+    "match": "contains_all",
+    "expected": [
+      "three"
+    ]
+  },
+  {
+    "id": "knowledge-041",
+    "category": "knowledge",
+    "prompt": "briefly explain a square.",
+    "match": "contains_all",
+    "expected": [
+      "four"
+    ]
+  },
+  {
+    "id": "knowledge-042",
+    "category": "knowledge",
+    "prompt": "give me one fact about a square.",
+    "match": "contains_all",
+    "expected": [
+      "four"
+    ]
+  },
+  {
+    "id": "knowledge-043",
+    "category": "knowledge",
+    "prompt": "briefly explain a circle.",
+    "match": "contains_all",
+    "expected": [
+      "round"
+    ]
+  },
+  {
+    "id": "knowledge-044",
+    "category": "knowledge",
+    "prompt": "give me one fact about a circle.",
+    "match": "contains_all",
+    "expected": [
+      "round"
+    ]
+  },
+  {
+    "id": "knowledge-045",
+    "category": "knowledge",
+    "prompt": "briefly explain photosynthesis.",
+    "match": "contains_all",
+    "expected": [
+      "plants",
+      "light"
+    ]
+  },
+  {
+    "id": "knowledge-046",
+    "category": "knowledge",
+    "prompt": "give me one fact about photosynthesis.",
+    "match": "contains_all",
+    "expected": [
+      "plants",
+      "light"
+    ]
+  },
+  {
+    "id": "knowledge-047",
+    "category": "knowledge",
+    "prompt": "briefly explain evaporation.",
+    "match": "contains_all",
+    "expected": [
+      "liquid",
+      "gas"
+    ]
+  },
+  {
+    "id": "knowledge-048",
+    "category": "knowledge",
+    "prompt": "give me one fact about evaporation.",
+    "match": "contains_all",
+    "expected": [
+      "liquid",
+      "gas"
+    ]
+  },
+  {
+    "id": "knowledge-049",
+    "category": "knowledge",
+    "prompt": "briefly explain the heart.",
+    "match": "contains_all",
+    "expected": [
+      "blood"
+    ]
+  },
+  {
+    "id": "knowledge-050",
+    "category": "knowledge",
+    "prompt": "give me one fact about the heart.",
+    "match": "contains_all",
+    "expected": [
+      "blood"
+    ]
+  },
+  {
+    "id": "reading-001",
+    "category": "reading",
+    "prompt": "Read this: Avery put the lamp on the table. Where is the lamp?",
+    "match": "contains_all",
+    "expected": [
+      "table"
+    ]
+  },
+  {
+    "id": "reading-002",
+    "category": "reading",
+    "prompt": "Read this: Blake put the ball on the counter. Where is the ball?",
+    "match": "contains_all",
+    "expected": [
+      "counter"
+    ]
+  },
+  {
+    "id": "reading-003",
+    "category": "reading",
+    "prompt": "Read this: Casey put the phone on the floor. Where is the phone?",
+    "match": "contains_all",
+    "expected": [
+      "floor"
+    ]
+  },
+  {
+    "id": "reading-004",
+    "category": "reading",
+    "prompt": "Read this: Drew put the notebook on the desk. Where is the notebook?",
+    "match": "contains_all",
+    "expected": [
+      "desk"
+    ]
+  },
+  {
+    "id": "reading-005",
+    "category": "reading",
+    "prompt": "Read this: Elliot put the mug on the bed. Where is the mug?",
+    "match": "contains_all",
+    "expected": [
+      "bed"
+    ]
+  },
+  {
+    "id": "reading-006",
+    "category": "reading",
+    "prompt": "Read this: Finley put the box on the bench. Where is the box?",
+    "match": "contains_all",
+    "expected": [
+      "bench"
+    ]
+  },
+  {
+    "id": "reading-007",
+    "category": "reading",
+    "prompt": "Read this: Gray put the coin on the shelf. Where is the coin?",
+    "match": "contains_all",
+    "expected": [
+      "shelf"
+    ]
+  },
+  {
+    "id": "reading-008",
+    "category": "reading",
+    "prompt": "Read this: Harper put the book on the windowsill. Where is the book?",
+    "match": "contains_all",
+    "expected": [
+      "windowsill"
+    ]
+  },
+  {
+    "id": "reading-009",
+    "category": "reading",
+    "prompt": "Read this: Indigo put the key on the drawer. Where is the key?",
+    "match": "contains_all",
+    "expected": [
+      "drawer"
+    ]
+  },
+  {
+    "id": "reading-010",
+    "category": "reading",
+    "prompt": "Read this: Jordan put the hat on the chair. Where is the hat?",
+    "match": "contains_all",
+    "expected": [
+      "chair"
+    ]
+  },
+  {
+    "id": "reading-011",
+    "category": "reading",
+    "prompt": "Read this: Avery put the lamp on the table. Where is the lamp?",
+    "match": "contains_all",
+    "expected": [
+      "table"
+    ]
+  },
+  {
+    "id": "reading-012",
+    "category": "reading",
+    "prompt": "Read this: Blake put the ball on the counter. Where is the ball?",
+    "match": "contains_all",
+    "expected": [
+      "counter"
+    ]
+  },
+  {
+    "id": "reading-013",
+    "category": "reading",
+    "prompt": "Read this: Casey put the phone on the floor. Where is the phone?",
+    "match": "contains_all",
+    "expected": [
+      "floor"
+    ]
+  },
+  {
+    "id": "reading-014",
+    "category": "reading",
+    "prompt": "Read this: Drew put the notebook on the desk. Where is the notebook?",
+    "match": "contains_all",
+    "expected": [
+      "desk"
+    ]
+  },
+  {
+    "id": "reading-015",
+    "category": "reading",
+    "prompt": "Read this: Elliot put the mug on the bed. Where is the mug?",
+    "match": "contains_all",
+    "expected": [
+      "bed"
+    ]
+  },
+  {
+    "id": "reading-016",
+    "category": "reading",
+    "prompt": "Read this: Finley put the box on the bench. Where is the box?",
+    "match": "contains_all",
+    "expected": [
+      "bench"
+    ]
+  },
+  {
+    "id": "reading-017",
+    "category": "reading",
+    "prompt": "Read this: Gray put the coin on the shelf. Where is the coin?",
+    "match": "contains_all",
+    "expected": [
+      "shelf"
+    ]
+  },
+  {
+    "id": "reading-018",
+    "category": "reading",
+    "prompt": "Read this: Harper put the book on the windowsill. Where is the book?",
+    "match": "contains_all",
+    "expected": [
+      "windowsill"
+    ]
+  },
+  {
+    "id": "reading-019",
+    "category": "reading",
+    "prompt": "Read this: Indigo put the key on the drawer. Where is the key?",
+    "match": "contains_all",
+    "expected": [
+      "drawer"
+    ]
+  },
+  {
+    "id": "reading-020",
+    "category": "reading",
+    "prompt": "Read this: Jordan put the hat on the chair. Where is the hat?",
+    "match": "contains_all",
+    "expected": [
+      "chair"
+    ]
+  },
+  {
+    "id": "reading-021",
+    "category": "reading",
+    "prompt": "Read this: Avery put the lamp on the table. Where is the lamp?",
+    "match": "contains_all",
+    "expected": [
+      "table"
+    ]
+  },
+  {
+    "id": "reading-022",
+    "category": "reading",
+    "prompt": "Read this: Blake put the ball on the counter. Where is the ball?",
+    "match": "contains_all",
+    "expected": [
+      "counter"
+    ]
+  },
+  {
+    "id": "reading-023",
+    "category": "reading",
+    "prompt": "Read this: Casey put the phone on the floor. Where is the phone?",
+    "match": "contains_all",
+    "expected": [
+      "floor"
+    ]
+  },
+  {
+    "id": "reading-024",
+    "category": "reading",
+    "prompt": "Read this: Drew put the notebook on the desk. Where is the notebook?",
+    "match": "contains_all",
+    "expected": [
+      "desk"
+    ]
+  },
+  {
+    "id": "reading-025",
+    "category": "reading",
+    "prompt": "Read this: Elliot put the mug on the bed. Where is the mug?",
+    "match": "contains_all",
+    "expected": [
+      "bed"
+    ]
+  },
+  {
+    "id": "reading-026",
+    "category": "reading",
+    "prompt": "Read this: Finley put the box on the bench. Where is the box?",
+    "match": "contains_all",
+    "expected": [
+      "bench"
+    ]
+  },
+  {
+    "id": "reading-027",
+    "category": "reading",
+    "prompt": "Read this: Gray put the coin on the shelf. Where is the coin?",
+    "match": "contains_all",
+    "expected": [
+      "shelf"
+    ]
+  },
+  {
+    "id": "reading-028",
+    "category": "reading",
+    "prompt": "Read this: Harper put the book on the windowsill. Where is the book?",
+    "match": "contains_all",
+    "expected": [
+      "windowsill"
+    ]
+  },
+  {
+    "id": "reading-029",
+    "category": "reading",
+    "prompt": "Read this: Indigo put the key on the drawer. Where is the key?",
+    "match": "contains_all",
+    "expected": [
+      "drawer"
+    ]
+  },
+  {
+    "id": "reading-030",
+    "category": "reading",
+    "prompt": "Read this: Jordan put the hat on the chair. Where is the hat?",
+    "match": "contains_all",
+    "expected": [
+      "chair"
+    ]
+  },
+  {
+    "id": "reading-031",
+    "category": "reading",
+    "prompt": "Read this: Avery put the lamp on the table. Where is the lamp?",
+    "match": "contains_all",
+    "expected": [
+      "table"
+    ]
+  },
+  {
+    "id": "reading-032",
+    "category": "reading",
+    "prompt": "Read this: Blake put the ball on the counter. Where is the ball?",
+    "match": "contains_all",
+    "expected": [
+      "counter"
+    ]
+  },
+  {
+    "id": "reading-033",
+    "category": "reading",
+    "prompt": "Read this: Casey put the phone on the floor. Where is the phone?",
+    "match": "contains_all",
+    "expected": [
+      "floor"
+    ]
+  },
+  {
+    "id": "reading-034",
+    "category": "reading",
+    "prompt": "Read this: Drew put the notebook on the desk. Where is the notebook?",
+    "match": "contains_all",
+    "expected": [
+      "desk"
+    ]
+  },
+  {
+    "id": "reading-035",
+    "category": "reading",
+    "prompt": "Read this: Elliot put the mug on the bed. Where is the mug?",
+    "match": "contains_all",
+    "expected": [
+      "bed"
+    ]
+  },
+  {
+    "id": "reading-036",
+    "category": "reading",
+    "prompt": "Read this: Finley put the box on the bench. Where is the box?",
+    "match": "contains_all",
+    "expected": [
+      "bench"
+    ]
+  },
+  {
+    "id": "reading-037",
+    "category": "reading",
+    "prompt": "Read this: Gray put the coin on the shelf. Where is the coin?",
+    "match": "contains_all",
+    "expected": [
+      "shelf"
+    ]
+  },
+  {
+    "id": "reading-038",
+    "category": "reading",
+    "prompt": "Read this: Harper put the book on the windowsill. Where is the book?",
+    "match": "contains_all",
+    "expected": [
+      "windowsill"
+    ]
+  },
+  {
+    "id": "reading-039",
+    "category": "reading",
+    "prompt": "Read this: Indigo put the key on the drawer. Where is the key?",
+    "match": "contains_all",
+    "expected": [
+      "drawer"
+    ]
+  },
+  {
+    "id": "reading-040",
+    "category": "reading",
+    "prompt": "Read this: Jordan put the hat on the chair. Where is the hat?",
+    "match": "contains_all",
+    "expected": [
+      "chair"
+    ]
+  },
+  {
+    "id": "reading-041",
+    "category": "reading",
+    "prompt": "Read this: Avery put the lamp on the table. Where is the lamp?",
+    "match": "contains_all",
+    "expected": [
+      "table"
+    ]
+  },
+  {
+    "id": "reading-042",
+    "category": "reading",
+    "prompt": "Read this: Blake put the ball on the counter. Where is the ball?",
+    "match": "contains_all",
+    "expected": [
+      "counter"
+    ]
+  },
+  {
+    "id": "reading-043",
+    "category": "reading",
+    "prompt": "Read this: Casey put the phone on the floor. Where is the phone?",
+    "match": "contains_all",
+    "expected": [
+      "floor"
+    ]
+  },
+  {
+    "id": "reading-044",
+    "category": "reading",
+    "prompt": "Read this: Drew put the notebook on the desk. Where is the notebook?",
+    "match": "contains_all",
+    "expected": [
+      "desk"
+    ]
+  },
+  {
+    "id": "reading-045",
+    "category": "reading",
+    "prompt": "Read this: Elliot put the mug on the bed. Where is the mug?",
+    "match": "contains_all",
+    "expected": [
+      "bed"
+    ]
+  },
+  {
+    "id": "reading-046",
+    "category": "reading",
+    "prompt": "Read this: Finley put the box on the bench. Where is the box?",
+    "match": "contains_all",
+    "expected": [
+      "bench"
+    ]
+  },
+  {
+    "id": "reading-047",
+    "category": "reading",
+    "prompt": "Read this: Gray put the coin on the shelf. Where is the coin?",
+    "match": "contains_all",
+    "expected": [
+      "shelf"
+    ]
+  },
+  {
+    "id": "reading-048",
+    "category": "reading",
+    "prompt": "Read this: Harper put the book on the windowsill. Where is the book?",
+    "match": "contains_all",
+    "expected": [
+      "windowsill"
+    ]
+  },
+  {
+    "id": "reading-049",
+    "category": "reading",
+    "prompt": "Read this: Indigo put the key on the drawer. Where is the key?",
+    "match": "contains_all",
+    "expected": [
+      "drawer"
+    ]
+  },
+  {
+    "id": "reading-050",
+    "category": "reading",
+    "prompt": "Read this: Jordan put the hat on the chair. Where is the hat?",
+    "match": "contains_all",
+    "expected": [
+      "chair"
+    ]
+  },
+  {
+    "id": "language-001",
+    "category": "language",
+    "prompt": "what is the plural of cat?",
+    "match": "exact",
+    "expected": [
+      "cats"
+    ]
+  },
+  {
+    "id": "language-002",
+    "category": "language",
+    "prompt": "what is the plural of dog?",
+    "match": "exact",
+    "expected": [
+      "dogs"
+    ]
+  },
+  {
+    "id": "language-003",
+    "category": "language",
+    "prompt": "what is the plural of book?",
+    "match": "exact",
+    "expected": [
+      "books"
+    ]
+  },
+  {
+    "id": "language-004",
+    "category": "language",
+    "prompt": "what is the plural of car?",
+    "match": "exact",
+    "expected": [
+      "cars"
+    ]
+  },
+  {
+    "id": "language-005",
+    "category": "language",
+    "prompt": "what is the plural of tree?",
+    "match": "exact",
+    "expected": [
+      "trees"
+    ]
+  },
+  {
+    "id": "language-006",
+    "category": "language",
+    "prompt": "what is the plural of box?",
+    "match": "exact",
+    "expected": [
+      "boxes"
+    ]
+  },
+  {
+    "id": "language-007",
+    "category": "language",
+    "prompt": "what is the plural of dish?",
+    "match": "exact",
+    "expected": [
+      "dishes"
+    ]
+  },
+  {
+    "id": "language-008",
+    "category": "language",
+    "prompt": "what is the plural of class?",
+    "match": "exact",
+    "expected": [
+      "classes"
+    ]
+  },
+  {
+    "id": "language-009",
+    "category": "language",
+    "prompt": "what is the plural of baby?",
+    "match": "exact",
+    "expected": [
+      "babies"
+    ]
+  },
+  {
+    "id": "language-010",
+    "category": "language",
+    "prompt": "what is the plural of city?",
+    "match": "exact",
+    "expected": [
+      "cities"
+    ]
+  },
+  {
+    "id": "language-011",
+    "category": "language",
+    "prompt": "what is the plural of toy?",
+    "match": "exact",
+    "expected": [
+      "toys"
+    ]
+  },
+  {
+    "id": "language-012",
+    "category": "language",
+    "prompt": "what is the plural of key?",
+    "match": "exact",
+    "expected": [
+      "keys"
+    ]
+  },
+  {
+    "id": "language-013",
+    "category": "language",
+    "prompt": "what is the plural of bus?",
+    "match": "exact",
+    "expected": [
+      "buses"
+    ]
+  },
+  {
+    "id": "language-014",
+    "category": "language",
+    "prompt": "what is the plural of fox?",
+    "match": "exact",
+    "expected": [
+      "foxes"
+    ]
+  },
+  {
+    "id": "language-015",
+    "category": "language",
+    "prompt": "what is the plural of watch?",
+    "match": "exact",
+    "expected": [
+      "watches"
+    ]
+  },
+  {
+    "id": "language-016",
+    "category": "language",
+    "prompt": "what is the plural of apple?",
+    "match": "exact",
+    "expected": [
+      "apples"
+    ]
+  },
+  {
+    "id": "language-017",
+    "category": "language",
+    "prompt": "what is the plural of chair?",
+    "match": "exact",
+    "expected": [
+      "chairs"
+    ]
+  },
+  {
+    "id": "language-018",
+    "category": "language",
+    "prompt": "what is the plural of table?",
+    "match": "exact",
+    "expected": [
+      "tables"
+    ]
+  },
+  {
+    "id": "language-019",
+    "category": "language",
+    "prompt": "what is the plural of bird?",
+    "match": "exact",
+    "expected": [
+      "birds"
+    ]
+  },
+  {
+    "id": "language-020",
+    "category": "language",
+    "prompt": "what is the plural of house?",
+    "match": "exact",
+    "expected": [
+      "houses"
+    ]
+  },
+  {
+    "id": "language-021",
+    "category": "language",
+    "prompt": "what is the plural of day?",
+    "match": "exact",
+    "expected": [
+      "days"
+    ]
+  },
+  {
+    "id": "language-022",
+    "category": "language",
+    "prompt": "what is the plural of boy?",
+    "match": "exact",
+    "expected": [
+      "boys"
+    ]
+  },
+  {
+    "id": "language-023",
+    "category": "language",
+    "prompt": "what is the plural of girl?",
+    "match": "exact",
+    "expected": [
+      "girls"
+    ]
+  },
+  {
+    "id": "language-024",
+    "category": "language",
+    "prompt": "what is the plural of computer?",
+    "match": "exact",
+    "expected": [
+      "computers"
+    ]
+  },
+  {
+    "id": "language-025",
+    "category": "language",
+    "prompt": "what is the plural of robot?",
+    "match": "exact",
+    "expected": [
+      "robots"
+    ]
+  },
+  {
+    "id": "language-026",
+    "category": "language",
+    "prompt": "what is the opposite of hot?",
+    "match": "exact",
+    "expected": [
+      "cold"
+    ]
+  },
+  {
+    "id": "language-027",
+    "category": "language",
+    "prompt": "what is the opposite of big?",
+    "match": "exact",
+    "expected": [
+      "small"
+    ]
+  },
+  {
+    "id": "language-028",
+    "category": "language",
+    "prompt": "what is the opposite of up?",
+    "match": "exact",
+    "expected": [
+      "down"
+    ]
+  },
+  {
+    "id": "language-029",
+    "category": "language",
+    "prompt": "what is the opposite of fast?",
+    "match": "exact",
+    "expected": [
+      "slow"
+    ]
+  },
+  {
+    "id": "language-030",
+    "category": "language",
+    "prompt": "what is the opposite of light?",
+    "match": "exact",
+    "expected": [
+      "dark"
+    ]
+  },
+  {
+    "id": "language-031",
+    "category": "language",
+    "prompt": "what is the opposite of old?",
+    "match": "exact",
+    "expected": [
+      "young"
+    ]
+  },
+  {
+    "id": "language-032",
+    "category": "language",
+    "prompt": "what is the opposite of happy?",
+    "match": "exact",
+    "expected": [
+      "sad"
+    ]
+  },
+  {
+    "id": "language-033",
+    "category": "language",
+    "prompt": "what is the opposite of open?",
+    "match": "exact",
+    "expected": [
+      "closed"
+    ]
+  },
+  {
+    "id": "language-034",
+    "category": "language",
+    "prompt": "what is the opposite of early?",
+    "match": "exact",
+    "expected": [
+      "late"
+    ]
+  },
+  {
+    "id": "language-035",
+    "category": "language",
+    "prompt": "what is the opposite of inside?",
+    "match": "exact",
+    "expected": [
+      "outside"
+    ]
+  },
+  {
+    "id": "language-036",
+    "category": "language",
+    "prompt": "what is the opposite of full?",
+    "match": "exact",
+    "expected": [
+      "empty"
+    ]
+  },
+  {
+    "id": "language-037",
+    "category": "language",
+    "prompt": "what is the opposite of hard?",
+    "match": "exact",
+    "expected": [
+      "soft"
+    ]
+  },
+  {
+    "id": "language-038",
+    "category": "language",
+    "prompt": "what is the opposite of high?",
+    "match": "exact",
+    "expected": [
+      "low"
+    ]
+  },
+  {
+    "id": "language-039",
+    "category": "language",
+    "prompt": "what is the opposite of near?",
+    "match": "exact",
+    "expected": [
+      "far"
+    ]
+  },
+  {
+    "id": "language-040",
+    "category": "language",
+    "prompt": "what is the opposite of wet?",
+    "match": "exact",
+    "expected": [
+      "dry"
+    ]
+  },
+  {
+    "id": "language-041",
+    "category": "language",
+    "prompt": "what is the opposite of strong?",
+    "match": "exact",
+    "expected": [
+      "weak"
+    ]
+  },
+  {
+    "id": "language-042",
+    "category": "language",
+    "prompt": "what is the opposite of day?",
+    "match": "exact",
+    "expected": [
+      "night"
+    ]
+  },
+  {
+    "id": "language-043",
+    "category": "language",
+    "prompt": "what is the opposite of left?",
+    "match": "exact",
+    "expected": [
+      "right"
+    ]
+  },
+  {
+    "id": "language-044",
+    "category": "language",
+    "prompt": "what is the opposite of start?",
+    "match": "exact",
+    "expected": [
+      "stop"
+    ]
+  },
+  {
+    "id": "language-045",
+    "category": "language",
+    "prompt": "what is the opposite of true?",
+    "match": "exact",
+    "expected": [
+      "false"
+    ]
+  },
+  {
+    "id": "language-046",
+    "category": "language",
+    "prompt": "what is the opposite of on?",
+    "match": "exact",
+    "expected": [
+      "off"
+    ]
+  },
+  {
+    "id": "language-047",
+    "category": "language",
+    "prompt": "what is the opposite of more?",
+    "match": "exact",
+    "expected": [
+      "less"
+    ]
+  },
+  {
+    "id": "language-048",
+    "category": "language",
+    "prompt": "what is the opposite of above?",
+    "match": "exact",
+    "expected": [
+      "below"
+    ]
+  },
+  {
+    "id": "language-049",
+    "category": "language",
+    "prompt": "what is the opposite of before?",
+    "match": "exact",
+    "expected": [
+      "after"
+    ]
+  },
+  {
+    "id": "language-050",
+    "category": "language",
+    "prompt": "what is the opposite of same?",
+    "match": "exact",
+    "expected": [
+      "different"
+    ]
+  },
+  {
+    "id": "arithmetic-001",
+    "category": "arithmetic",
+    "prompt": "please add 30 and 44.",
+    "match": "exact",
+    "expected": [
+      "74"
+    ]
+  },
+  {
+    "id": "arithmetic-002",
+    "category": "arithmetic",
+    "prompt": "please subtract 0 from 40.",
+    "match": "exact",
+    "expected": [
+      "40"
+    ]
+  },
+  {
+    "id": "arithmetic-003",
+    "category": "arithmetic",
+    "prompt": "please multiply 19 by 11.",
+    "match": "exact",
+    "expected": [
+      "209"
+    ]
+  },
+  {
+    "id": "arithmetic-004",
+    "category": "arithmetic",
+    "prompt": "please divide 36 by 6.",
+    "match": "exact",
+    "expected": [
+      "6"
+    ]
+  },
+  {
+    "id": "arithmetic-005",
+    "category": "arithmetic",
+    "prompt": "please add 36 and 7.",
+    "match": "exact",
+    "expected": [
+      "43"
+    ]
+  },
+  {
+    "id": "arithmetic-006",
+    "category": "arithmetic",
+    "prompt": "please subtract 47 from 81.",
+    "match": "exact",
+    "expected": [
+      "34"
+    ]
+  },
+  {
+    "id": "arithmetic-007",
+    "category": "arithmetic",
+    "prompt": "please multiply 8 by 4.",
+    "match": "exact",
+    "expected": [
+      "32"
+    ]
+  },
+  {
+    "id": "arithmetic-008",
+    "category": "arithmetic",
+    "prompt": "please divide 24 by 3.",
+    "match": "exact",
+    "expected": [
+      "8"
+    ]
+  },
+  {
+    "id": "arithmetic-009",
+    "category": "arithmetic",
+    "prompt": "please add 5 and 55.",
+    "match": "exact",
+    "expected": [
+      "60"
+    ]
+  },
+  {
+    "id": "arithmetic-010",
+    "category": "arithmetic",
+    "prompt": "please subtract 1 from 50.",
+    "match": "exact",
+    "expected": [
+      "49"
+    ]
+  },
+  {
+    "id": "arithmetic-011",
+    "category": "arithmetic",
+    "prompt": "please multiply 11 by 17.",
+    "match": "exact",
+    "expected": [
+      "187"
+    ]
+  },
+  {
+    "id": "arithmetic-012",
+    "category": "arithmetic",
+    "prompt": "please divide 144 by 12.",
+    "match": "exact",
+    "expected": [
+      "12"
+    ]
+  },
+  {
+    "id": "arithmetic-013",
+    "category": "arithmetic",
+    "prompt": "please add 34 and 65.",
+    "match": "exact",
+    "expected": [
+      "99"
+    ]
+  },
+  {
+    "id": "arithmetic-014",
+    "category": "arithmetic",
+    "prompt": "please subtract 47 from 47.",
+    "match": "exact",
+    "expected": [
+      "0"
+    ]
+  },
+  {
+    "id": "arithmetic-015",
+    "category": "arithmetic",
+    "prompt": "please multiply 4 by 9.",
+    "match": "exact",
+    "expected": [
+      "36"
+    ]
+  },
+  {
+    "id": "arithmetic-016",
+    "category": "arithmetic",
+    "prompt": "please divide 25 by 5.",
+    "match": "exact",
+    "expected": [
+      "5"
+    ]
+  },
+  {
+    "id": "arithmetic-017",
+    "category": "arithmetic",
+    "prompt": "please add 49 and 18.",
+    "match": "exact",
+    "expected": [
+      "67"
+    ]
+  },
+  {
+    "id": "arithmetic-018",
+    "category": "arithmetic",
+    "prompt": "please subtract 30 from 48.",
+    "match": "exact",
+    "expected": [
+      "18"
+    ]
+  },
+  {
+    "id": "arithmetic-019",
+    "category": "arithmetic",
+    "prompt": "please multiply 11 by 15.",
+    "match": "exact",
+    "expected": [
+      "165"
+    ]
+  },
+  {
+    "id": "arithmetic-020",
+    "category": "arithmetic",
+    "prompt": "please divide 18 by 6.",
+    "match": "exact",
+    "expected": [
+      "3"
+    ]
+  },
+  {
+    "id": "arithmetic-021",
+    "category": "arithmetic",
+    "prompt": "please add 81 and 11.",
+    "match": "exact",
+    "expected": [
+      "92"
+    ]
+  },
+  {
+    "id": "arithmetic-022",
+    "category": "arithmetic",
+    "prompt": "please subtract 2 from 34.",
+    "match": "exact",
+    "expected": [
+      "32"
+    ]
+  },
+  {
+    "id": "arithmetic-023",
+    "category": "arithmetic",
+    "prompt": "please multiply 20 by 13.",
+    "match": "exact",
+    "expected": [
+      "260"
+    ]
+  },
+  {
+    "id": "arithmetic-024",
+    "category": "arithmetic",
+    "prompt": "please divide 84 by 14.",
+    "match": "exact",
+    "expected": [
+      "6"
+    ]
+  },
+  {
+    "id": "arithmetic-025",
+    "category": "arithmetic",
+    "prompt": "please add 62 and 42.",
+    "match": "exact",
+    "expected": [
+      "104"
+    ]
+  },
+  {
+    "id": "arithmetic-026",
+    "category": "arithmetic",
+    "prompt": "please subtract 52 from 86.",
+    "match": "exact",
+    "expected": [
+      "34"
+    ]
+  },
+  {
+    "id": "arithmetic-027",
+    "category": "arithmetic",
+    "prompt": "please multiply 10 by 20.",
+    "match": "exact",
+    "expected": [
+      "200"
+    ]
+  },
+  {
+    "id": "arithmetic-028",
+    "category": "arithmetic",
+    "prompt": "please divide 40 by 10.",
+    "match": "exact",
+    "expected": [
+      "4"
+    ]
+  },
+  {
+    "id": "arithmetic-029",
+    "category": "arithmetic",
+    "prompt": "please add 81 and 61.",
+    "match": "exact",
+    "expected": [
+      "142"
+    ]
+  },
+  {
+    "id": "arithmetic-030",
+    "category": "arithmetic",
+    "prompt": "please subtract 55 from 67.",
+    "match": "exact",
+    "expected": [
+      "12"
+    ]
+  },
+  {
+    "id": "arithmetic-031",
+    "category": "arithmetic",
+    "prompt": "please multiply 2 by 3.",
+    "match": "exact",
+    "expected": [
+      "6"
+    ]
+  },
+  {
+    "id": "arithmetic-032",
+    "category": "arithmetic",
+    "prompt": "please divide 130 by 13.",
+    "match": "exact",
+    "expected": [
+      "10"
+    ]
+  },
+  {
+    "id": "arithmetic-033",
+    "category": "arithmetic",
+    "prompt": "please add 18 and 41.",
+    "match": "exact",
+    "expected": [
+      "59"
+    ]
+  },
+  {
+    "id": "arithmetic-034",
+    "category": "arithmetic",
+    "prompt": "please subtract 16 from 89.",
+    "match": "exact",
+    "expected": [
+      "73"
+    ]
+  },
+  {
+    "id": "arithmetic-035",
+    "category": "arithmetic",
+    "prompt": "please multiply 19 by 20.",
+    "match": "exact",
+    "expected": [
+      "380"
+    ]
+  },
+  {
+    "id": "arithmetic-036",
+    "category": "arithmetic",
+    "prompt": "please divide 126 by 14.",
+    "match": "exact",
+    "expected": [
+      "9"
+    ]
+  },
+  {
+    "id": "arithmetic-037",
+    "category": "arithmetic",
+    "prompt": "please add 4 and 18.",
+    "match": "exact",
+    "expected": [
+      "22"
+    ]
+  },
+  {
+    "id": "arithmetic-038",
+    "category": "arithmetic",
+    "prompt": "please subtract 27 from 65.",
+    "match": "exact",
+    "expected": [
+      "38"
+    ]
+  },
+  {
+    "id": "arithmetic-039",
+    "category": "arithmetic",
+    "prompt": "please multiply 16 by 15.",
+    "match": "exact",
+    "expected": [
+      "240"
+    ]
+  },
+  {
+    "id": "arithmetic-040",
+    "category": "arithmetic",
+    "prompt": "please divide 72 by 12.",
+    "match": "exact",
+    "expected": [
+      "6"
+    ]
+  },
+  {
+    "id": "arithmetic-041",
+    "category": "arithmetic",
+    "prompt": "please add 25 and 88.",
+    "match": "exact",
+    "expected": [
+      "113"
+    ]
+  },
+  {
+    "id": "arithmetic-042",
+    "category": "arithmetic",
+    "prompt": "please subtract 32 from 44.",
+    "match": "exact",
+    "expected": [
+      "12"
+    ]
+  },
+  {
+    "id": "arithmetic-043",
+    "category": "arithmetic",
+    "prompt": "please multiply 17 by 2.",
+    "match": "exact",
+    "expected": [
+      "34"
+    ]
+  },
+  {
+    "id": "arithmetic-044",
+    "category": "arithmetic",
+    "prompt": "please divide 60 by 6.",
+    "match": "exact",
+    "expected": [
+      "10"
+    ]
+  },
+  {
+    "id": "arithmetic-045",
+    "category": "arithmetic",
+    "prompt": "please add 57 and 11.",
+    "match": "exact",
+    "expected": [
+      "68"
+    ]
+  },
+  {
+    "id": "arithmetic-046",
+    "category": "arithmetic",
+    "prompt": "please subtract 6 from 77.",
+    "match": "exact",
+    "expected": [
+      "71"
+    ]
+  },
+  {
+    "id": "arithmetic-047",
+    "category": "arithmetic",
+    "prompt": "please multiply 6 by 19.",
+    "match": "exact",
+    "expected": [
+      "114"
+    ]
+  },
+  {
+    "id": "arithmetic-048",
+    "category": "arithmetic",
+    "prompt": "please divide 91 by 13.",
+    "match": "exact",
+    "expected": [
+      "7"
+    ]
+  },
+  {
+    "id": "arithmetic-049",
+    "category": "arithmetic",
+    "prompt": "please add 63 and 58.",
+    "match": "exact",
+    "expected": [
+      "121"
+    ]
+  },
+  {
+    "id": "arithmetic-050",
+    "category": "arithmetic",
+    "prompt": "please subtract 6 from 53.",
+    "match": "exact",
+    "expected": [
+      "47"
+    ]
+  },
+  {
+    "id": "logic-001",
+    "category": "logic",
+    "prompt": "is 153 odd?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-002",
+    "category": "logic",
+    "prompt": "is 29 odd?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-003",
+    "category": "logic",
+    "prompt": "is 33 odd?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-004",
+    "category": "logic",
+    "prompt": "is 10 even?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-005",
+    "category": "logic",
+    "prompt": "is 228 even?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-006",
+    "category": "logic",
+    "prompt": "is 208 even?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-007",
+    "category": "logic",
+    "prompt": "is 93 odd?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-008",
+    "category": "logic",
+    "prompt": "is 105 odd?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-009",
+    "category": "logic",
+    "prompt": "is 112 even?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-010",
+    "category": "logic",
+    "prompt": "is 46 even?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-011",
+    "category": "logic",
+    "prompt": "is 207 odd?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-012",
+    "category": "logic",
+    "prompt": "is 205 odd?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-013",
+    "category": "logic",
+    "prompt": "is 36 even?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-014",
+    "category": "logic",
+    "prompt": "is 49 odd?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-015",
+    "category": "logic",
+    "prompt": "is 181 odd?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-016",
+    "category": "logic",
+    "prompt": "is 104 even?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-017",
+    "category": "logic",
+    "prompt": "is 248 even?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-018",
+    "category": "logic",
+    "prompt": "is 48 even?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-019",
+    "category": "logic",
+    "prompt": "is 93 odd?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-020",
+    "category": "logic",
+    "prompt": "is 201 odd?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-021",
+    "category": "logic",
+    "prompt": "is 246 even?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-022",
+    "category": "logic",
+    "prompt": "is 58 even?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-023",
+    "category": "logic",
+    "prompt": "is 97 odd?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-024",
+    "category": "logic",
+    "prompt": "is 43 odd?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-025",
+    "category": "logic",
+    "prompt": "is 220 even?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-026",
+    "category": "logic",
+    "prompt": "is 260 larger than 160?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-027",
+    "category": "logic",
+    "prompt": "is 284 larger than 173?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-028",
+    "category": "logic",
+    "prompt": "is 201 larger than 191?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-029",
+    "category": "logic",
+    "prompt": "is 271 larger than 32?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-030",
+    "category": "logic",
+    "prompt": "is 155 larger than 262?",
+    "match": "exact",
+    "expected": [
+      "no"
+    ]
+  },
+  {
+    "id": "logic-031",
+    "category": "logic",
+    "prompt": "is 27 larger than 10?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-032",
+    "category": "logic",
+    "prompt": "is 3 larger than 300?",
+    "match": "exact",
+    "expected": [
+      "no"
+    ]
+  },
+  {
+    "id": "logic-033",
+    "category": "logic",
+    "prompt": "is 234 larger than 80?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-034",
+    "category": "logic",
+    "prompt": "is 174 larger than 278?",
+    "match": "exact",
+    "expected": [
+      "no"
+    ]
+  },
+  {
+    "id": "logic-035",
+    "category": "logic",
+    "prompt": "is 113 larger than 179?",
+    "match": "exact",
+    "expected": [
+      "no"
+    ]
+  },
+  {
+    "id": "logic-036",
+    "category": "logic",
+    "prompt": "is 131 larger than 277?",
+    "match": "exact",
+    "expected": [
+      "no"
+    ]
+  },
+  {
+    "id": "logic-037",
+    "category": "logic",
+    "prompt": "is 233 larger than 188?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-038",
+    "category": "logic",
+    "prompt": "is 199 larger than 287?",
+    "match": "exact",
+    "expected": [
+      "no"
+    ]
+  },
+  {
+    "id": "logic-039",
+    "category": "logic",
+    "prompt": "is 97 larger than 145?",
+    "match": "exact",
+    "expected": [
+      "no"
+    ]
+  },
+  {
+    "id": "logic-040",
+    "category": "logic",
+    "prompt": "is 51 larger than 170?",
+    "match": "exact",
+    "expected": [
+      "no"
+    ]
+  },
+  {
+    "id": "logic-041",
+    "category": "logic",
+    "prompt": "is 159 larger than 99?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-042",
+    "category": "logic",
+    "prompt": "is 290 larger than 66?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-043",
+    "category": "logic",
+    "prompt": "is 8 larger than 174?",
+    "match": "exact",
+    "expected": [
+      "no"
+    ]
+  },
+  {
+    "id": "logic-044",
+    "category": "logic",
+    "prompt": "is 23 larger than 120?",
+    "match": "exact",
+    "expected": [
+      "no"
+    ]
+  },
+  {
+    "id": "logic-045",
+    "category": "logic",
+    "prompt": "is 145 larger than 161?",
+    "match": "exact",
+    "expected": [
+      "no"
+    ]
+  },
+  {
+    "id": "logic-046",
+    "category": "logic",
+    "prompt": "is 87 larger than 116?",
+    "match": "exact",
+    "expected": [
+      "no"
+    ]
+  },
+  {
+    "id": "logic-047",
+    "category": "logic",
+    "prompt": "is 187 larger than 193?",
+    "match": "exact",
+    "expected": [
+      "no"
+    ]
+  },
+  {
+    "id": "logic-048",
+    "category": "logic",
+    "prompt": "is 78 larger than 10?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "logic-049",
+    "category": "logic",
+    "prompt": "is 172 larger than 255?",
+    "match": "exact",
+    "expected": [
+      "no"
+    ]
+  },
+  {
+    "id": "logic-050",
+    "category": "logic",
+    "prompt": "is 257 larger than 33?",
+    "match": "exact",
+    "expected": [
+      "yes"
+    ]
+  },
+  {
+    "id": "sequences-001",
+    "category": "sequences",
+    "prompt": "continue this sequence: 48 52 56 60 64 ?",
+    "match": "exact",
+    "expected": [
+      "68"
+    ]
+  },
+  {
+    "id": "sequences-002",
+    "category": "sequences",
+    "prompt": "continue this sequence: 30 34 38 42 46 ?",
+    "match": "exact",
+    "expected": [
+      "50"
+    ]
+  },
+  {
+    "id": "sequences-003",
+    "category": "sequences",
+    "prompt": "continue this sequence: 42 45 48 51 54 ?",
+    "match": "exact",
+    "expected": [
+      "57"
+    ]
+  },
+  {
+    "id": "sequences-004",
+    "category": "sequences",
+    "prompt": "continue this sequence: -19 -15 -11 -7 -3 ?",
+    "match": "exact",
+    "expected": [
+      "1"
+    ]
+  },
+  {
+    "id": "sequences-005",
+    "category": "sequences",
+    "prompt": "continue this sequence: 18 14 10 6 2 ?",
+    "match": "exact",
+    "expected": [
+      "-2"
+    ]
+  },
+  {
+    "id": "sequences-006",
+    "category": "sequences",
+    "prompt": "continue this sequence: 15 13 11 9 7 ?",
+    "match": "exact",
+    "expected": [
+      "5"
+    ]
+  },
+  {
+    "id": "sequences-007",
+    "category": "sequences",
+    "prompt": "continue this sequence: -25 -29 -33 -37 -41 ?",
+    "match": "exact",
+    "expected": [
+      "-45"
+    ]
+  },
+  {
+    "id": "sequences-008",
+    "category": "sequences",
+    "prompt": "continue this sequence: 31 35 39 43 47 ?",
+    "match": "exact",
+    "expected": [
+      "51"
+    ]
+  },
+  {
+    "id": "sequences-009",
+    "category": "sequences",
+    "prompt": "continue this sequence: -24 -20 -16 -12 -8 ?",
+    "match": "exact",
+    "expected": [
+      "-4"
+    ]
+  },
+  {
+    "id": "sequences-010",
+    "category": "sequences",
+    "prompt": "continue this sequence: 16 15 14 13 12 ?",
+    "match": "exact",
+    "expected": [
+      "11"
+    ]
+  },
+  {
+    "id": "sequences-011",
+    "category": "sequences",
+    "prompt": "continue this sequence: 49 48 47 46 45 ?",
+    "match": "exact",
+    "expected": [
+      "44"
+    ]
+  },
+  {
+    "id": "sequences-012",
+    "category": "sequences",
+    "prompt": "continue this sequence: 59 62 65 68 71 ?",
+    "match": "exact",
+    "expected": [
+      "74"
+    ]
+  },
+  {
+    "id": "sequences-013",
+    "category": "sequences",
+    "prompt": "continue this sequence: -4 -5 -6 -7 -8 ?",
+    "match": "exact",
+    "expected": [
+      "-9"
+    ]
+  },
+  {
+    "id": "sequences-014",
+    "category": "sequences",
+    "prompt": "continue this sequence: -22 -23 -24 -25 -26 ?",
+    "match": "exact",
+    "expected": [
+      "-27"
+    ]
+  },
+  {
+    "id": "sequences-015",
+    "category": "sequences",
+    "prompt": "continue this sequence: -7 -16 -25 -34 -43 ?",
+    "match": "exact",
+    "expected": [
+      "-52"
+    ]
+  },
+  {
+    "id": "sequences-016",
+    "category": "sequences",
+    "prompt": "continue this sequence: 34 30 26 22 18 ?",
+    "match": "exact",
+    "expected": [
+      "14"
+    ]
+  },
+  {
+    "id": "sequences-017",
+    "category": "sequences",
+    "prompt": "continue this sequence: 22 29 36 43 50 ?",
+    "match": "exact",
+    "expected": [
+      "57"
+    ]
+  },
+  {
+    "id": "sequences-018",
+    "category": "sequences",
+    "prompt": "continue this sequence: -4 -1 2 5 8 ?",
+    "match": "exact",
+    "expected": [
+      "11"
+    ]
+  },
+  {
+    "id": "sequences-019",
+    "category": "sequences",
+    "prompt": "continue this sequence: 47 52 57 62 67 ?",
+    "match": "exact",
+    "expected": [
+      "72"
+    ]
+  },
+  {
+    "id": "sequences-020",
+    "category": "sequences",
+    "prompt": "continue this sequence: 26 31 36 41 46 ?",
+    "match": "exact",
+    "expected": [
+      "51"
+    ]
+  },
+  {
+    "id": "sequences-021",
+    "category": "sequences",
+    "prompt": "continue this sequence: 13 10 7 4 1 ?",
+    "match": "exact",
+    "expected": [
+      "-2"
+    ]
+  },
+  {
+    "id": "sequences-022",
+    "category": "sequences",
+    "prompt": "continue this sequence: 22 29 36 43 50 ?",
+    "match": "exact",
+    "expected": [
+      "57"
+    ]
+  },
+  {
+    "id": "sequences-023",
+    "category": "sequences",
+    "prompt": "continue this sequence: -16 -9 -2 5 12 ?",
+    "match": "exact",
+    "expected": [
+      "19"
+    ]
+  },
+  {
+    "id": "sequences-024",
+    "category": "sequences",
+    "prompt": "continue this sequence: 12 7 2 -3 -8 ?",
+    "match": "exact",
+    "expected": [
+      "-13"
+    ]
+  },
+  {
+    "id": "sequences-025",
+    "category": "sequences",
+    "prompt": "continue this sequence: -29 -34 -39 -44 -49 ?",
+    "match": "exact",
+    "expected": [
+      "-54"
+    ]
+  },
+  {
+    "id": "sequences-026",
+    "category": "sequences",
+    "prompt": "continue this sequence: 3 2 1 0 -1 ?",
+    "match": "exact",
+    "expected": [
+      "-2"
+    ]
+  },
+  {
+    "id": "sequences-027",
+    "category": "sequences",
+    "prompt": "continue this sequence: -24 -31 -38 -45 -52 ?",
+    "match": "exact",
+    "expected": [
+      "-59"
+    ]
+  },
+  {
+    "id": "sequences-028",
+    "category": "sequences",
+    "prompt": "continue this sequence: 20 13 6 -1 -8 ?",
+    "match": "exact",
+    "expected": [
+      "-15"
+    ]
+  },
+  {
+    "id": "sequences-029",
+    "category": "sequences",
+    "prompt": "continue this sequence: -15 -16 -17 -18 -19 ?",
+    "match": "exact",
+    "expected": [
+      "-20"
+    ]
+  },
+  {
+    "id": "sequences-030",
+    "category": "sequences",
+    "prompt": "continue this sequence: 55 64 73 82 91 ?",
+    "match": "exact",
+    "expected": [
+      "100"
+    ]
+  },
+  {
+    "id": "sequences-031",
+    "category": "sequences",
+    "prompt": "continue this sequence: 6 7 8 9 10 ?",
+    "match": "exact",
+    "expected": [
+      "11"
+    ]
+  },
+  {
+    "id": "sequences-032",
+    "category": "sequences",
+    "prompt": "continue this sequence: 47 52 57 62 67 ?",
+    "match": "exact",
+    "expected": [
+      "72"
+    ]
+  },
+  {
+    "id": "sequences-033",
+    "category": "sequences",
+    "prompt": "continue this sequence: -20 -27 -34 -41 -48 ?",
+    "match": "exact",
+    "expected": [
+      "-55"
+    ]
+  },
+  {
+    "id": "sequences-034",
+    "category": "sequences",
+    "prompt": "continue this sequence: 30 39 48 57 66 ?",
+    "match": "exact",
+    "expected": [
+      "75"
+    ]
+  },
+  {
+    "id": "sequences-035",
+    "category": "sequences",
+    "prompt": "continue this sequence: 12 10 8 6 4 ?",
+    "match": "exact",
+    "expected": [
+      "2"
+    ]
+  },
+  {
+    "id": "sequences-036",
+    "category": "sequences",
+    "prompt": "continue this sequence: 50 55 60 65 70 ?",
+    "match": "exact",
+    "expected": [
+      "75"
+    ]
+  },
+  {
+    "id": "sequences-037",
+    "category": "sequences",
+    "prompt": "continue this sequence: 7 8 9 10 11 ?",
+    "match": "exact",
+    "expected": [
+      "12"
+    ]
+  },
+  {
+    "id": "sequences-038",
+    "category": "sequences",
+    "prompt": "continue this sequence: 18 23 28 33 38 ?",
+    "match": "exact",
+    "expected": [
+      "43"
+    ]
+  },
+  {
+    "id": "sequences-039",
+    "category": "sequences",
+    "prompt": "continue this sequence: 43 45 47 49 51 ?",
+    "match": "exact",
+    "expected": [
+      "53"
+    ]
+  },
+  {
+    "id": "sequences-040",
+    "category": "sequences",
+    "prompt": "continue this sequence: 1 5 9 13 17 ?",
+    "match": "exact",
+    "expected": [
+      "21"
+    ]
+  },
+  {
+    "id": "sequences-041",
+    "category": "sequences",
+    "prompt": "continue this sequence: 58 65 72 79 86 ?",
+    "match": "exact",
+    "expected": [
+      "93"
+    ]
+  },
+  {
+    "id": "sequences-042",
+    "category": "sequences",
+    "prompt": "continue this sequence: 29 32 35 38 41 ?",
+    "match": "exact",
+    "expected": [
+      "44"
+    ]
+  },
+  {
+    "id": "sequences-043",
+    "category": "sequences",
+    "prompt": "continue this sequence: 0 9 18 27 36 ?",
+    "match": "exact",
+    "expected": [
+      "45"
+    ]
+  },
+  {
+    "id": "sequences-044",
+    "category": "sequences",
+    "prompt": "continue this sequence: -18 -19 -20 -21 -22 ?",
+    "match": "exact",
+    "expected": [
+      "-23"
+    ]
+  },
+  {
+    "id": "sequences-045",
+    "category": "sequences",
+    "prompt": "continue this sequence: -27 -28 -29 -30 -31 ?",
+    "match": "exact",
+    "expected": [
+      "-32"
+    ]
+  },
+  {
+    "id": "sequences-046",
+    "category": "sequences",
+    "prompt": "continue this sequence: 33 42 51 60 69 ?",
+    "match": "exact",
+    "expected": [
+      "78"
+    ]
+  },
+  {
+    "id": "sequences-047",
+    "category": "sequences",
+    "prompt": "continue this sequence: 46 47 48 49 50 ?",
+    "match": "exact",
+    "expected": [
+      "51"
+    ]
+  },
+  {
+    "id": "sequences-048",
+    "category": "sequences",
+    "prompt": "continue this sequence: -1 8 17 26 35 ?",
+    "match": "exact",
+    "expected": [
+      "44"
+    ]
+  },
+  {
+    "id": "sequences-049",
+    "category": "sequences",
+    "prompt": "continue this sequence: 46 47 48 49 50 ?",
+    "match": "exact",
+    "expected": [
+      "51"
+    ]
+  },
+  {
+    "id": "sequences-050",
+    "category": "sequences",
+    "prompt": "continue this sequence: 18 19 20 21 22 ?",
+    "match": "exact",
+    "expected": [
+      "23"
+    ]
+  },
+  {
+    "id": "coding-001",
+    "category": "coding",
+    "prompt": "in one sentence, explain Python.",
+    "match": "contains_all",
+    "expected": [
+      "programming language"
+    ]
+  },
+  {
+    "id": "coding-002",
+    "category": "coding",
+    "prompt": "what does Python mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "programming language"
+    ]
+  },
+  {
+    "id": "coding-003",
+    "category": "coding",
+    "prompt": "in one sentence, explain a variable.",
+    "match": "contains_all",
+    "expected": [
+      "store",
+      "value"
+    ]
+  },
+  {
+    "id": "coding-004",
+    "category": "coding",
+    "prompt": "what does a variable mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "store",
+      "value"
+    ]
+  },
+  {
+    "id": "coding-005",
+    "category": "coding",
+    "prompt": "in one sentence, explain a function.",
+    "match": "contains_all",
+    "expected": [
+      "reusable"
+    ]
+  },
+  {
+    "id": "coding-006",
+    "category": "coding",
+    "prompt": "what does a function mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "reusable"
+    ]
+  },
+  {
+    "id": "coding-007",
+    "category": "coding",
+    "prompt": "in one sentence, explain a loop.",
+    "match": "contains_all",
+    "expected": [
+      "repeat"
+    ]
+  },
+  {
+    "id": "coding-008",
+    "category": "coding",
+    "prompt": "what does a loop mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "repeat"
+    ]
+  },
+  {
+    "id": "coding-009",
+    "category": "coding",
+    "prompt": "in one sentence, explain a list.",
+    "match": "contains_all",
+    "expected": [
+      "collection"
+    ]
+  },
+  {
+    "id": "coding-010",
+    "category": "coding",
+    "prompt": "what does a list mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "collection"
+    ]
+  },
+  {
+    "id": "coding-011",
+    "category": "coding",
+    "prompt": "in one sentence, explain a dictionary.",
+    "match": "contains_all",
+    "expected": [
+      "key",
+      "value"
+    ]
+  },
+  {
+    "id": "coding-012",
+    "category": "coding",
+    "prompt": "what does a dictionary mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "key",
+      "value"
+    ]
+  },
+  {
+    "id": "coding-013",
+    "category": "coding",
+    "prompt": "in one sentence, explain a string.",
+    "match": "contains_all",
+    "expected": [
+      "text"
+    ]
+  },
+  {
+    "id": "coding-014",
+    "category": "coding",
+    "prompt": "what does a string mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "text"
+    ]
+  },
+  {
+    "id": "coding-015",
+    "category": "coding",
+    "prompt": "in one sentence, explain an integer.",
+    "match": "contains_all",
+    "expected": [
+      "whole number"
+    ]
+  },
+  {
+    "id": "coding-016",
+    "category": "coding",
+    "prompt": "what does an integer mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "whole number"
+    ]
+  },
+  {
+    "id": "coding-017",
+    "category": "coding",
+    "prompt": "in one sentence, explain a boolean.",
+    "match": "contains_all",
+    "expected": [
+      "true",
+      "false"
+    ]
+  },
+  {
+    "id": "coding-018",
+    "category": "coding",
+    "prompt": "what does a boolean mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "true",
+      "false"
+    ]
+  },
+  {
+    "id": "coding-019",
+    "category": "coding",
+    "prompt": "in one sentence, explain an if statement.",
+    "match": "contains_all",
+    "expected": [
+      "condition"
+    ]
+  },
+  {
+    "id": "coding-020",
+    "category": "coding",
+    "prompt": "what does an if statement mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "condition"
+    ]
+  },
+  {
+    "id": "coding-021",
+    "category": "coding",
+    "prompt": "in one sentence, explain a class.",
+    "match": "contains_all",
+    "expected": [
+      "blueprint"
+    ]
+  },
+  {
+    "id": "coding-022",
+    "category": "coding",
+    "prompt": "what does a class mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "blueprint"
+    ]
+  },
+  {
+    "id": "coding-023",
+    "category": "coding",
+    "prompt": "in one sentence, explain an object.",
+    "match": "contains_all",
+    "expected": [
+      "instance"
+    ]
+  },
+  {
+    "id": "coding-024",
+    "category": "coding",
+    "prompt": "what does an object mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "instance"
+    ]
+  },
+  {
+    "id": "coding-025",
+    "category": "coding",
+    "prompt": "in one sentence, explain JSON.",
+    "match": "contains_all",
+    "expected": [
+      "structured data"
+    ]
+  },
+  {
+    "id": "coding-026",
+    "category": "coding",
+    "prompt": "what does JSON mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "structured data"
+    ]
+  },
+  {
+    "id": "coding-027",
+    "category": "coding",
+    "prompt": "in one sentence, explain a CPU.",
+    "match": "contains_all",
+    "expected": [
+      "instructions"
+    ]
+  },
+  {
+    "id": "coding-028",
+    "category": "coding",
+    "prompt": "what does a CPU mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "instructions"
+    ]
+  },
+  {
+    "id": "coding-029",
+    "category": "coding",
+    "prompt": "in one sentence, explain a GPU.",
+    "match": "contains_all",
+    "expected": [
+      "parallel"
+    ]
+  },
+  {
+    "id": "coding-030",
+    "category": "coding",
+    "prompt": "what does a GPU mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "parallel"
+    ]
+  },
+  {
+    "id": "coding-031",
+    "category": "coding",
+    "prompt": "in one sentence, explain RAM.",
+    "match": "contains_all",
+    "expected": [
+      "memory"
+    ]
+  },
+  {
+    "id": "coding-032",
+    "category": "coding",
+    "prompt": "what does RAM mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "memory"
+    ]
+  },
+  {
+    "id": "coding-033",
+    "category": "coding",
+    "prompt": "in one sentence, explain a neural network.",
+    "match": "contains_all",
+    "expected": [
+      "layers"
+    ]
+  },
+  {
+    "id": "coding-034",
+    "category": "coding",
+    "prompt": "what does a neural network mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "layers"
+    ]
+  },
+  {
+    "id": "coding-035",
+    "category": "coding",
+    "prompt": "in one sentence, explain a transformer.",
+    "match": "contains_all",
+    "expected": [
+      "attention"
+    ]
+  },
+  {
+    "id": "coding-036",
+    "category": "coding",
+    "prompt": "what does a transformer mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "attention"
+    ]
+  },
+  {
+    "id": "coding-037",
+    "category": "coding",
+    "prompt": "in one sentence, explain attention.",
+    "match": "contains_all",
+    "expected": [
+      "sequence"
+    ]
+  },
+  {
+    "id": "coding-038",
+    "category": "coding",
+    "prompt": "what does attention mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "sequence"
+    ]
+  },
+  {
+    "id": "coding-039",
+    "category": "coding",
+    "prompt": "in one sentence, explain a token.",
+    "match": "contains_all",
+    "expected": [
+      "input"
+    ]
+  },
+  {
+    "id": "coding-040",
+    "category": "coding",
+    "prompt": "what does a token mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "input"
+    ]
+  },
+  {
+    "id": "coding-041",
+    "category": "coding",
+    "prompt": "in one sentence, explain a byte.",
+    "match": "contains_all",
+    "expected": [
+      "eight",
+      "bits"
+    ]
+  },
+  {
+    "id": "coding-042",
+    "category": "coding",
+    "prompt": "what does a byte mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "eight",
+      "bits"
+    ]
+  },
+  {
+    "id": "coding-043",
+    "category": "coding",
+    "prompt": "in one sentence, explain an algorithm.",
+    "match": "contains_all",
+    "expected": [
+      "steps"
+    ]
+  },
+  {
+    "id": "coding-044",
+    "category": "coding",
+    "prompt": "what does an algorithm mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "steps"
+    ]
+  },
+  {
+    "id": "coding-045",
+    "category": "coding",
+    "prompt": "in one sentence, explain a parameter.",
+    "match": "contains_all",
+    "expected": [
+      "learned",
+      "value"
+    ]
+  },
+  {
+    "id": "coding-046",
+    "category": "coding",
+    "prompt": "what does a parameter mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "learned",
+      "value"
+    ]
+  },
+  {
+    "id": "coding-047",
+    "category": "coding",
+    "prompt": "in one sentence, explain training.",
+    "match": "contains_all",
+    "expected": [
+      "parameters",
+      "data"
+    ]
+  },
+  {
+    "id": "coding-048",
+    "category": "coding",
+    "prompt": "what does training mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "parameters",
+      "data"
+    ]
+  },
+  {
+    "id": "coding-049",
+    "category": "coding",
+    "prompt": "in one sentence, explain inference.",
+    "match": "contains_all",
+    "expected": [
+      "trained model"
+    ]
+  },
+  {
+    "id": "coding-050",
+    "category": "coding",
+    "prompt": "what does inference mean in computing?",
+    "match": "contains_all",
+    "expected": [
+      "trained model"
+    ]
+  },
+  {
+    "id": "story_world-001",
+    "category": "story_world",
+    "prompt": "Kai put the mug on the desk. Then Kai moved the box to the drawer. Where is the box?",
+    "match": "contains_all",
+    "expected": [
+      "drawer"
+    ]
+  },
+  {
+    "id": "story_world-002",
+    "category": "story_world",
+    "prompt": "Lena put the ball on the shelf. Then Lena moved the phone to the counter. Where is the phone?",
+    "match": "contains_all",
+    "expected": [
+      "counter"
+    ]
+  },
+  {
+    "id": "story_world-003",
+    "category": "story_world",
+    "prompt": "Mia put the key on the chair. Then Mia moved the hat to the bed. Where is the hat?",
+    "match": "contains_all",
+    "expected": [
+      "bed"
+    ]
+  },
+  {
+    "id": "story_world-004",
+    "category": "story_world",
+    "prompt": "Noah put the box on the floor. Then Noah moved the coin to the windowsill. Where is the coin?",
+    "match": "contains_all",
+    "expected": [
+      "windowsill"
+    ]
+  },
+  {
+    "id": "story_world-005",
+    "category": "story_world",
+    "prompt": "Owen put the phone on the bench. Then Owen moved the notebook to the table. Where is the notebook?",
+    "match": "contains_all",
+    "expected": [
+      "table"
+    ]
+  },
+  {
+    "id": "story_world-006",
+    "category": "story_world",
+    "prompt": "Pia put the hat on the drawer. Then Pia moved the lamp to the desk. Where is the lamp?",
+    "match": "contains_all",
+    "expected": [
+      "desk"
+    ]
+  },
+  {
+    "id": "story_world-007",
+    "category": "story_world",
+    "prompt": "Quinn put the coin on the counter. Then Quinn moved the book to the shelf. Where is the book?",
+    "match": "contains_all",
+    "expected": [
+      "shelf"
+    ]
+  },
+  {
+    "id": "story_world-008",
+    "category": "story_world",
+    "prompt": "Rory put the notebook on the bed. Then Rory moved the mug to the chair. Where is the mug?",
+    "match": "contains_all",
+    "expected": [
+      "chair"
+    ]
+  },
+  {
+    "id": "story_world-009",
+    "category": "story_world",
+    "prompt": "Sage put the lamp on the windowsill. Then Sage moved the ball to the floor. Where is the ball?",
+    "match": "contains_all",
+    "expected": [
+      "floor"
+    ]
+  },
+  {
+    "id": "story_world-010",
+    "category": "story_world",
+    "prompt": "Tess put the book on the table. Then Tess moved the key to the bench. Where is the key?",
+    "match": "contains_all",
+    "expected": [
+      "bench"
+    ]
+  },
+  {
+    "id": "story_world-011",
+    "category": "story_world",
+    "prompt": "Kai put the mug on the desk. Then Kai moved the box to the drawer. Where is the box?",
+    "match": "contains_all",
+    "expected": [
+      "drawer"
+    ]
+  },
+  {
+    "id": "story_world-012",
+    "category": "story_world",
+    "prompt": "Lena put the ball on the shelf. Then Lena moved the phone to the counter. Where is the phone?",
+    "match": "contains_all",
+    "expected": [
+      "counter"
+    ]
+  },
+  {
+    "id": "story_world-013",
+    "category": "story_world",
+    "prompt": "Mia put the key on the chair. Then Mia moved the hat to the bed. Where is the hat?",
+    "match": "contains_all",
+    "expected": [
+      "bed"
+    ]
+  },
+  {
+    "id": "story_world-014",
+    "category": "story_world",
+    "prompt": "Noah put the box on the floor. Then Noah moved the coin to the windowsill. Where is the coin?",
+    "match": "contains_all",
+    "expected": [
+      "windowsill"
+    ]
+  },
+  {
+    "id": "story_world-015",
+    "category": "story_world",
+    "prompt": "Owen put the phone on the bench. Then Owen moved the notebook to the table. Where is the notebook?",
+    "match": "contains_all",
+    "expected": [
+      "table"
+    ]
+  },
+  {
+    "id": "story_world-016",
+    "category": "story_world",
+    "prompt": "Pia put the hat on the drawer. Then Pia moved the lamp to the desk. Where is the lamp?",
+    "match": "contains_all",
+    "expected": [
+      "desk"
+    ]
+  },
+  {
+    "id": "story_world-017",
+    "category": "story_world",
+    "prompt": "Quinn put the coin on the counter. Then Quinn moved the book to the shelf. Where is the book?",
+    "match": "contains_all",
+    "expected": [
+      "shelf"
+    ]
+  },
+  {
+    "id": "story_world-018",
+    "category": "story_world",
+    "prompt": "Rory put the notebook on the bed. Then Rory moved the mug to the chair. Where is the mug?",
+    "match": "contains_all",
+    "expected": [
+      "chair"
+    ]
+  },
+  {
+    "id": "story_world-019",
+    "category": "story_world",
+    "prompt": "Sage put the lamp on the windowsill. Then Sage moved the ball to the floor. Where is the ball?",
+    "match": "contains_all",
+    "expected": [
+      "floor"
+    ]
+  },
+  {
+    "id": "story_world-020",
+    "category": "story_world",
+    "prompt": "Tess put the book on the table. Then Tess moved the key to the bench. Where is the key?",
+    "match": "contains_all",
+    "expected": [
+      "bench"
+    ]
+  },
+  {
+    "id": "story_world-021",
+    "category": "story_world",
+    "prompt": "Kai put the mug on the desk. Then Kai moved the box to the drawer. Where is the box?",
+    "match": "contains_all",
+    "expected": [
+      "drawer"
+    ]
+  },
+  {
+    "id": "story_world-022",
+    "category": "story_world",
+    "prompt": "Lena put the ball on the shelf. Then Lena moved the phone to the counter. Where is the phone?",
+    "match": "contains_all",
+    "expected": [
+      "counter"
+    ]
+  },
+  {
+    "id": "story_world-023",
+    "category": "story_world",
+    "prompt": "Mia put the key on the chair. Then Mia moved the hat to the bed. Where is the hat?",
+    "match": "contains_all",
+    "expected": [
+      "bed"
+    ]
+  },
+  {
+    "id": "story_world-024",
+    "category": "story_world",
+    "prompt": "Noah put the box on the floor. Then Noah moved the coin to the windowsill. Where is the coin?",
+    "match": "contains_all",
+    "expected": [
+      "windowsill"
+    ]
+  },
+  {
+    "id": "story_world-025",
+    "category": "story_world",
+    "prompt": "Owen put the phone on the bench. Then Owen moved the notebook to the table. Where is the notebook?",
+    "match": "contains_all",
+    "expected": [
+      "table"
+    ]
+  },
+  {
+    "id": "story_world-026",
+    "category": "story_world",
+    "prompt": "Pia put the hat on the drawer. Then Pia moved the lamp to the desk. Where is the lamp?",
+    "match": "contains_all",
+    "expected": [
+      "desk"
+    ]
+  },
+  {
+    "id": "story_world-027",
+    "category": "story_world",
+    "prompt": "Quinn put the coin on the counter. Then Quinn moved the book to the shelf. Where is the book?",
+    "match": "contains_all",
+    "expected": [
+      "shelf"
+    ]
+  },
+  {
+    "id": "story_world-028",
+    "category": "story_world",
+    "prompt": "Rory put the notebook on the bed. Then Rory moved the mug to the chair. Where is the mug?",
+    "match": "contains_all",
+    "expected": [
+      "chair"
+    ]
+  },
+  {
+    "id": "story_world-029",
+    "category": "story_world",
+    "prompt": "Sage put the lamp on the windowsill. Then Sage moved the ball to the floor. Where is the ball?",
+    "match": "contains_all",
+    "expected": [
+      "floor"
+    ]
+  },
+  {
+    "id": "story_world-030",
+    "category": "story_world",
+    "prompt": "Tess put the book on the table. Then Tess moved the key to the bench. Where is the key?",
+    "match": "contains_all",
+    "expected": [
+      "bench"
+    ]
+  },
+  {
+    "id": "story_world-031",
+    "category": "story_world",
+    "prompt": "Kai put the mug on the desk. Then Kai moved the box to the drawer. Where is the box?",
+    "match": "contains_all",
+    "expected": [
+      "drawer"
+    ]
+  },
+  {
+    "id": "story_world-032",
+    "category": "story_world",
+    "prompt": "Lena put the ball on the shelf. Then Lena moved the phone to the counter. Where is the phone?",
+    "match": "contains_all",
+    "expected": [
+      "counter"
+    ]
+  },
+  {
+    "id": "story_world-033",
+    "category": "story_world",
+    "prompt": "Mia put the key on the chair. Then Mia moved the hat to the bed. Where is the hat?",
+    "match": "contains_all",
+    "expected": [
+      "bed"
+    ]
+  },
+  {
+    "id": "story_world-034",
+    "category": "story_world",
+    "prompt": "Noah put the box on the floor. Then Noah moved the coin to the windowsill. Where is the coin?",
+    "match": "contains_all",
+    "expected": [
+      "windowsill"
+    ]
+  },
+  {
+    "id": "story_world-035",
+    "category": "story_world",
+    "prompt": "Owen put the phone on the bench. Then Owen moved the notebook to the table. Where is the notebook?",
+    "match": "contains_all",
+    "expected": [
+      "table"
+    ]
+  },
+  {
+    "id": "story_world-036",
+    "category": "story_world",
+    "prompt": "Pia put the hat on the drawer. Then Pia moved the lamp to the desk. Where is the lamp?",
+    "match": "contains_all",
+    "expected": [
+      "desk"
+    ]
+  },
+  {
+    "id": "story_world-037",
+    "category": "story_world",
+    "prompt": "Quinn put the coin on the counter. Then Quinn moved the book to the shelf. Where is the book?",
+    "match": "contains_all",
+    "expected": [
+      "shelf"
+    ]
+  },
+  {
+    "id": "story_world-038",
+    "category": "story_world",
+    "prompt": "Rory put the notebook on the bed. Then Rory moved the mug to the chair. Where is the mug?",
+    "match": "contains_all",
+    "expected": [
+      "chair"
+    ]
+  },
+  {
+    "id": "story_world-039",
+    "category": "story_world",
+    "prompt": "Sage put the lamp on the windowsill. Then Sage moved the ball to the floor. Where is the ball?",
+    "match": "contains_all",
+    "expected": [
+      "floor"
+    ]
+  },
+  {
+    "id": "story_world-040",
+    "category": "story_world",
+    "prompt": "Tess put the book on the table. Then Tess moved the key to the bench. Where is the key?",
+    "match": "contains_all",
+    "expected": [
+      "bench"
+    ]
+  },
+  {
+    "id": "story_world-041",
+    "category": "story_world",
+    "prompt": "Kai put the mug on the desk. Then Kai moved the box to the drawer. Where is the box?",
+    "match": "contains_all",
+    "expected": [
+      "drawer"
+    ]
+  },
+  {
+    "id": "story_world-042",
+    "category": "story_world",
+    "prompt": "Lena put the ball on the shelf. Then Lena moved the phone to the counter. Where is the phone?",
+    "match": "contains_all",
+    "expected": [
+      "counter"
+    ]
+  },
+  {
+    "id": "story_world-043",
+    "category": "story_world",
+    "prompt": "Mia put the key on the chair. Then Mia moved the hat to the bed. Where is the hat?",
+    "match": "contains_all",
+    "expected": [
+      "bed"
+    ]
+  },
+  {
+    "id": "story_world-044",
+    "category": "story_world",
+    "prompt": "Noah put the box on the floor. Then Noah moved the coin to the windowsill. Where is the coin?",
+    "match": "contains_all",
+    "expected": [
+      "windowsill"
+    ]
+  },
+  {
+    "id": "story_world-045",
+    "category": "story_world",
+    "prompt": "Owen put the phone on the bench. Then Owen moved the notebook to the table. Where is the notebook?",
+    "match": "contains_all",
+    "expected": [
+      "table"
+    ]
+  },
+  {
+    "id": "story_world-046",
+    "category": "story_world",
+    "prompt": "Pia put the hat on the drawer. Then Pia moved the lamp to the desk. Where is the lamp?",
+    "match": "contains_all",
+    "expected": [
+      "desk"
+    ]
+  },
+  {
+    "id": "story_world-047",
+    "category": "story_world",
+    "prompt": "Quinn put the coin on the counter. Then Quinn moved the book to the shelf. Where is the book?",
+    "match": "contains_all",
+    "expected": [
+      "shelf"
+    ]
+  },
+  {
+    "id": "story_world-048",
+    "category": "story_world",
+    "prompt": "Rory put the notebook on the bed. Then Rory moved the mug to the chair. Where is the mug?",
+    "match": "contains_all",
+    "expected": [
+      "chair"
+    ]
+  },
+  {
+    "id": "story_world-049",
+    "category": "story_world",
+    "prompt": "Sage put the lamp on the windowsill. Then Sage moved the ball to the floor. Where is the ball?",
+    "match": "contains_all",
+    "expected": [
+      "floor"
+    ]
+  },
+  {
+    "id": "story_world-050",
+    "category": "story_world",
+    "prompt": "Tess put the book on the table. Then Tess moved the key to the bench. Where is the key?",
+    "match": "contains_all",
+    "expected": [
+      "bench"
+    ]
+  }
+]

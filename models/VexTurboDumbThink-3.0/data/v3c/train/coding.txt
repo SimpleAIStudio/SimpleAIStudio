@@ -1,0 +1,1688 @@
+User: can you answer this: explain a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: what does a string mean?
+Vex: a string is a sequence of text characters.
+
+User: i want to know: what does a dictionary mean?
+Vex: a dictionary stores key-value pairs.
+
+User: please answer this: define a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: define a function.
+Vex: a function is a reusable block of instructions.
+
+User: please answer this: tell me about a loop.
+Vex: a loop repeats instructions.
+
+User: what is an if statement?
+Vex: an if statement runs code when a condition is met.
+
+User: what is a class?
+Vex: a class is a blueprint for creating objects.
+
+User: quick question: define a list.
+Vex: a list stores an ordered collection of values.
+
+User: tell me about a function.
+Vex: a function is a reusable block of instructions.
+
+User: i want to know: what is inference?
+Vex: inference is the process of using a trained model to produce an output.
+
+User: i want to know: what is a function?
+Vex: a function is a reusable block of instructions.
+
+User: quick question: explain a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: i want to know: what is a class?
+Vex: a class is a blueprint for creating objects.
+
+User: i want to know: what does JSON mean?
+Vex: JSON is a text format for structured data.
+
+User: what is JSON?
+Vex: JSON is a text format for structured data.
+
+User: can you answer this: what does a neural network mean?
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: can you answer this: explain a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: i want to know: what is a CPU?
+Vex: a CPU executes general-purpose instructions.
+
+User: what is a string?
+Vex: a string is a sequence of text characters.
+
+User: what does an algorithm mean?
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: what does an if statement mean?
+Vex: an if statement runs code when a condition is met.
+
+User: please answer this: tell me about an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: can you answer this: what is a list?
+Vex: a list stores an ordered collection of values.
+
+User: please answer this: explain a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: i want to know: explain an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: i want to know: explain Python.
+Vex: Python is a programming language.
+
+User: i want to know: explain a variable.
+Vex: a variable is a named place used to store a value.
+
+User: can you answer this: tell me about a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: what does a loop mean?
+Vex: a loop repeats instructions.
+
+User: tell me about a string.
+Vex: a string is a sequence of text characters.
+
+User: explain inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: tell me about an object.
+Vex: an object is an instance of a class.
+
+User: what does a dictionary mean?
+Vex: a dictionary stores key-value pairs.
+
+User: define a class.
+Vex: a class is a blueprint for creating objects.
+
+User: i want to know: what is a parameter?
+Vex: a model parameter is a learned numerical value.
+
+User: please answer this: what does inference mean?
+Vex: inference is the process of using a trained model to produce an output.
+
+User: please answer this: explain a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: quick question: define a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: can you answer this: define a class.
+Vex: a class is a blueprint for creating objects.
+
+User: i want to know: tell me about an object.
+Vex: an object is an instance of a class.
+
+User: quick question: define an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: explain a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: quick question: explain a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: tell me about a variable.
+Vex: a variable is a named place used to store a value.
+
+User: please answer this: explain a list.
+Vex: a list stores an ordered collection of values.
+
+User: quick question: define a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: please answer this: define a function.
+Vex: a function is a reusable block of instructions.
+
+User: can you answer this: what does a GPU mean?
+Vex: a GPU performs many calculations in parallel.
+
+User: explain a class.
+Vex: a class is a blueprint for creating objects.
+
+User: please answer this: explain a loop.
+Vex: a loop repeats instructions.
+
+User: quick question: what is a dictionary?
+Vex: a dictionary stores key-value pairs.
+
+User: i want to know: what does a byte mean?
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: quick question: define a class.
+Vex: a class is a blueprint for creating objects.
+
+User: i want to know: what is a loop?
+Vex: a loop repeats instructions.
+
+User: i want to know: what does attention mean?
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: i want to know: explain an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: i want to know: define RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: i want to know: what is an integer?
+Vex: an integer is a whole number.
+
+User: quick question: define a variable.
+Vex: a variable is a named place used to store a value.
+
+User: explain a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: quick question: what is a function?
+Vex: a function is a reusable block of instructions.
+
+User: can you answer this: tell me about attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: quick question: what is a neural network?
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: please answer this: define a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: quick question: tell me about a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: i want to know: define a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: tell me about a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: can you answer this: tell me about a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: please answer this: what does a list mean?
+Vex: a list stores an ordered collection of values.
+
+User: can you answer this: what is an algorithm?
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: i want to know: tell me about an integer.
+Vex: an integer is a whole number.
+
+User: can you answer this: tell me about a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: can you answer this: define a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: i want to know: what does a loop mean?
+Vex: a loop repeats instructions.
+
+User: what does JSON mean?
+Vex: JSON is a text format for structured data.
+
+User: i want to know: what is training?
+Vex: training adjusts model parameters using data.
+
+User: i want to know: tell me about JSON.
+Vex: JSON is a text format for structured data.
+
+User: i want to know: tell me about a string.
+Vex: a string is a sequence of text characters.
+
+User: quick question: tell me about JSON.
+Vex: JSON is a text format for structured data.
+
+User: i want to know: tell me about a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: what is RAM?
+Vex: RAM is short-term working memory used by programs.
+
+User: quick question: what is a boolean?
+Vex: a boolean is a value that is either true or false.
+
+User: can you answer this: tell me about a function.
+Vex: a function is a reusable block of instructions.
+
+User: i want to know: what does an algorithm mean?
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: please answer this: what does an integer mean?
+Vex: an integer is a whole number.
+
+User: i want to know: what does a GPU mean?
+Vex: a GPU performs many calculations in parallel.
+
+User: please answer this: explain a function.
+Vex: a function is a reusable block of instructions.
+
+User: please answer this: tell me about a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: what does a token mean?
+Vex: a token is a unit of input processed by a language model.
+
+User: please answer this: define a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: can you answer this: what does a function mean?
+Vex: a function is a reusable block of instructions.
+
+User: quick question: tell me about a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: quick question: what does a CPU mean?
+Vex: a CPU executes general-purpose instructions.
+
+User: can you answer this: define a list.
+Vex: a list stores an ordered collection of values.
+
+User: define training.
+Vex: training adjusts model parameters using data.
+
+User: quick question: what is an algorithm?
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: define a string.
+Vex: a string is a sequence of text characters.
+
+User: quick question: what is an integer?
+Vex: an integer is a whole number.
+
+User: i want to know: tell me about inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: can you answer this: what is a transformer?
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: can you answer this: explain a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: i want to know: tell me about a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: can you answer this: define a loop.
+Vex: a loop repeats instructions.
+
+User: please answer this: what does training mean?
+Vex: training adjusts model parameters using data.
+
+User: quick question: what does a variable mean?
+Vex: a variable is a named place used to store a value.
+
+User: can you answer this: tell me about a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: quick question: what is a class?
+Vex: a class is a blueprint for creating objects.
+
+User: can you answer this: what is RAM?
+Vex: RAM is short-term working memory used by programs.
+
+User: i want to know: explain an object.
+Vex: an object is an instance of a class.
+
+User: i want to know: tell me about a function.
+Vex: a function is a reusable block of instructions.
+
+User: i want to know: what does a parameter mean?
+Vex: a model parameter is a learned numerical value.
+
+User: explain a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: explain JSON.
+Vex: JSON is a text format for structured data.
+
+User: can you answer this: define an object.
+Vex: an object is an instance of a class.
+
+User: tell me about a class.
+Vex: a class is a blueprint for creating objects.
+
+User: i want to know: define a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: quick question: what is Python?
+Vex: Python is a programming language.
+
+User: quick question: explain a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: quick question: tell me about a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: quick question: tell me about a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: quick question: explain an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: please answer this: what is training?
+Vex: training adjusts model parameters using data.
+
+User: can you answer this: what is a neural network?
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: quick question: tell me about an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: please answer this: tell me about JSON.
+Vex: JSON is a text format for structured data.
+
+User: please answer this: what does attention mean?
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: please answer this: explain a variable.
+Vex: a variable is a named place used to store a value.
+
+User: can you answer this: explain a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: can you answer this: tell me about a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: what is an integer?
+Vex: an integer is a whole number.
+
+User: tell me about a list.
+Vex: a list stores an ordered collection of values.
+
+User: what is attention?
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: i want to know: tell me about a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: please answer this: define a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: please answer this: define attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: i want to know: define a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: can you answer this: what is a byte?
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: i want to know: explain JSON.
+Vex: JSON is a text format for structured data.
+
+User: quick question: what does inference mean?
+Vex: inference is the process of using a trained model to produce an output.
+
+User: quick question: tell me about a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: i want to know: tell me about an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: i want to know: what does a function mean?
+Vex: a function is a reusable block of instructions.
+
+User: what does a CPU mean?
+Vex: a CPU executes general-purpose instructions.
+
+User: quick question: what is a list?
+Vex: a list stores an ordered collection of values.
+
+User: can you answer this: tell me about an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: quick question: tell me about a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: tell me about an integer.
+Vex: an integer is a whole number.
+
+User: explain an integer.
+Vex: an integer is a whole number.
+
+User: can you answer this: what does an integer mean?
+Vex: an integer is a whole number.
+
+User: can you answer this: define a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: quick question: define a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: what does attention mean?
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: i want to know: what is a byte?
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: what is an object?
+Vex: an object is an instance of a class.
+
+User: i want to know: tell me about RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: can you answer this: what is an object?
+Vex: an object is an instance of a class.
+
+User: quick question: explain inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: what is an algorithm?
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: please answer this: define inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: quick question: what is a byte?
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: please answer this: what is a transformer?
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: quick question: define JSON.
+Vex: JSON is a text format for structured data.
+
+User: can you answer this: tell me about a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: what is a variable?
+Vex: a variable is a named place used to store a value.
+
+User: tell me about JSON.
+Vex: JSON is a text format for structured data.
+
+User: please answer this: what does a function mean?
+Vex: a function is a reusable block of instructions.
+
+User: i want to know: explain an integer.
+Vex: an integer is a whole number.
+
+User: can you answer this: tell me about training.
+Vex: training adjusts model parameters using data.
+
+User: quick question: explain a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: can you answer this: define a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: please answer this: explain a string.
+Vex: a string is a sequence of text characters.
+
+User: i want to know: what is a dictionary?
+Vex: a dictionary stores key-value pairs.
+
+User: what is a byte?
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: please answer this: what is an object?
+Vex: an object is an instance of a class.
+
+User: tell me about an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: please answer this: explain a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: i want to know: what is attention?
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: tell me about a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: i want to know: explain a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: i want to know: tell me about a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: quick question: what does a function mean?
+Vex: a function is a reusable block of instructions.
+
+User: i want to know: explain a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: can you answer this: define an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: please answer this: tell me about a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: i want to know: tell me about attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: quick question: what is attention?
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: tell me about a loop.
+Vex: a loop repeats instructions.
+
+User: tell me about a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: quick question: what does a list mean?
+Vex: a list stores an ordered collection of values.
+
+User: i want to know: what is a neural network?
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: can you answer this: explain a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: i want to know: tell me about a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: explain an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: i want to know: what does a boolean mean?
+Vex: a boolean is a value that is either true or false.
+
+User: quick question: define Python.
+Vex: Python is a programming language.
+
+User: please answer this: what does a neural network mean?
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: quick question: define a loop.
+Vex: a loop repeats instructions.
+
+User: please answer this: define an object.
+Vex: an object is an instance of a class.
+
+User: quick question: what does a transformer mean?
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: i want to know: define a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: what is a CPU?
+Vex: a CPU executes general-purpose instructions.
+
+User: define an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: please answer this: tell me about a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: quick question: what does a byte mean?
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: can you answer this: define inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: please answer this: explain training.
+Vex: training adjusts model parameters using data.
+
+User: please answer this: explain inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: please answer this: explain a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: can you answer this: define Python.
+Vex: Python is a programming language.
+
+User: i want to know: what does a neural network mean?
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: quick question: what does a dictionary mean?
+Vex: a dictionary stores key-value pairs.
+
+User: what is a list?
+Vex: a list stores an ordered collection of values.
+
+User: can you answer this: tell me about inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: please answer this: what is inference?
+Vex: inference is the process of using a trained model to produce an output.
+
+User: quick question: explain a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: please answer this: what is a token?
+Vex: a token is a unit of input processed by a language model.
+
+User: please answer this: what does a boolean mean?
+Vex: a boolean is a value that is either true or false.
+
+User: please answer this: define a list.
+Vex: a list stores an ordered collection of values.
+
+User: can you answer this: what is a class?
+Vex: a class is a blueprint for creating objects.
+
+User: define JSON.
+Vex: JSON is a text format for structured data.
+
+User: quick question: explain a function.
+Vex: a function is a reusable block of instructions.
+
+User: can you answer this: explain an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: quick question: tell me about an object.
+Vex: an object is an instance of a class.
+
+User: tell me about a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: i want to know: what is an algorithm?
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: explain RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: i want to know: define a class.
+Vex: a class is a blueprint for creating objects.
+
+User: what does inference mean?
+Vex: inference is the process of using a trained model to produce an output.
+
+User: tell me about a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: quick question: define a string.
+Vex: a string is a sequence of text characters.
+
+User: please answer this: explain attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: i want to know: explain a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: quick question: tell me about a class.
+Vex: a class is a blueprint for creating objects.
+
+User: can you answer this: tell me about a class.
+Vex: a class is a blueprint for creating objects.
+
+User: please answer this: explain RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: explain a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: can you answer this: what is a boolean?
+Vex: a boolean is a value that is either true or false.
+
+User: quick question: tell me about a loop.
+Vex: a loop repeats instructions.
+
+User: please answer this: what is a GPU?
+Vex: a GPU performs many calculations in parallel.
+
+User: i want to know: what is a transformer?
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: quick question: what is a loop?
+Vex: a loop repeats instructions.
+
+User: can you answer this: define RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: quick question: what does an object mean?
+Vex: an object is an instance of a class.
+
+User: explain Python.
+Vex: Python is a programming language.
+
+User: please answer this: explain Python.
+Vex: Python is a programming language.
+
+User: can you answer this: explain a loop.
+Vex: a loop repeats instructions.
+
+User: can you answer this: define training.
+Vex: training adjusts model parameters using data.
+
+User: can you answer this: what is a string?
+Vex: a string is a sequence of text characters.
+
+User: please answer this: tell me about RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: please answer this: tell me about attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: define a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: quick question: define RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: quick question: what does Python mean?
+Vex: Python is a programming language.
+
+User: quick question: explain a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: can you answer this: what is inference?
+Vex: inference is the process of using a trained model to produce an output.
+
+User: please answer this: explain a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: explain a list.
+Vex: a list stores an ordered collection of values.
+
+User: i want to know: explain a loop.
+Vex: a loop repeats instructions.
+
+User: can you answer this: what does a byte mean?
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: please answer this: what is Python?
+Vex: Python is a programming language.
+
+User: define a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: quick question: define an object.
+Vex: an object is an instance of a class.
+
+User: can you answer this: what is a token?
+Vex: a token is a unit of input processed by a language model.
+
+User: i want to know: define attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: quick question: what is inference?
+Vex: inference is the process of using a trained model to produce an output.
+
+User: can you answer this: tell me about a loop.
+Vex: a loop repeats instructions.
+
+User: can you answer this: tell me about Python.
+Vex: Python is a programming language.
+
+User: please answer this: define a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: what is a parameter?
+Vex: a model parameter is a learned numerical value.
+
+User: quick question: tell me about a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: quick question: what is RAM?
+Vex: RAM is short-term working memory used by programs.
+
+User: can you answer this: what is a dictionary?
+Vex: a dictionary stores key-value pairs.
+
+User: can you answer this: explain a variable.
+Vex: a variable is a named place used to store a value.
+
+User: please answer this: explain an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: can you answer this: what does JSON mean?
+Vex: JSON is a text format for structured data.
+
+User: can you answer this: explain a string.
+Vex: a string is a sequence of text characters.
+
+User: what does a variable mean?
+Vex: a variable is a named place used to store a value.
+
+User: quick question: what does RAM mean?
+Vex: RAM is short-term working memory used by programs.
+
+User: i want to know: tell me about a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: explain a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: explain a string.
+Vex: a string is a sequence of text characters.
+
+User: please answer this: what is a parameter?
+Vex: a model parameter is a learned numerical value.
+
+User: define RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: can you answer this: define a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: explain a loop.
+Vex: a loop repeats instructions.
+
+User: i want to know: define Python.
+Vex: Python is a programming language.
+
+User: can you answer this: what does an if statement mean?
+Vex: an if statement runs code when a condition is met.
+
+User: please answer this: define a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: tell me about a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: i want to know: what is a token?
+Vex: a token is a unit of input processed by a language model.
+
+User: tell me about a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: can you answer this: explain a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: i want to know: what does an if statement mean?
+Vex: an if statement runs code when a condition is met.
+
+User: please answer this: explain an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: explain a variable.
+Vex: a variable is a named place used to store a value.
+
+User: please answer this: explain an object.
+Vex: an object is an instance of a class.
+
+User: please answer this: what is a dictionary?
+Vex: a dictionary stores key-value pairs.
+
+User: please answer this: define training.
+Vex: training adjusts model parameters using data.
+
+User: quick question: define a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: quick question: explain a variable.
+Vex: a variable is a named place used to store a value.
+
+User: can you answer this: explain Python.
+Vex: Python is a programming language.
+
+User: i want to know: tell me about a variable.
+Vex: a variable is a named place used to store a value.
+
+User: what is a function?
+Vex: a function is a reusable block of instructions.
+
+User: i want to know: explain a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: please answer this: define a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: can you answer this: what is a loop?
+Vex: a loop repeats instructions.
+
+User: quick question: what does JSON mean?
+Vex: JSON is a text format for structured data.
+
+User: quick question: define an integer.
+Vex: an integer is a whole number.
+
+User: i want to know: what does an object mean?
+Vex: an object is an instance of a class.
+
+User: please answer this: define RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: i want to know: explain attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: what is inference?
+Vex: inference is the process of using a trained model to produce an output.
+
+User: please answer this: what is an algorithm?
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: explain a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: please answer this: what does RAM mean?
+Vex: RAM is short-term working memory used by programs.
+
+User: tell me about a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: quick question: what is an object?
+Vex: an object is an instance of a class.
+
+User: tell me about attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: can you answer this: tell me about a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: what does an object mean?
+Vex: an object is an instance of a class.
+
+User: define a loop.
+Vex: a loop repeats instructions.
+
+User: please answer this: what does a GPU mean?
+Vex: a GPU performs many calculations in parallel.
+
+User: define a list.
+Vex: a list stores an ordered collection of values.
+
+User: please answer this: define a class.
+Vex: a class is a blueprint for creating objects.
+
+User: i want to know: tell me about a loop.
+Vex: a loop repeats instructions.
+
+User: can you answer this: explain an object.
+Vex: an object is an instance of a class.
+
+User: i want to know: explain a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: i want to know: what does a variable mean?
+Vex: a variable is a named place used to store a value.
+
+User: can you answer this: explain a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: can you answer this: explain a list.
+Vex: a list stores an ordered collection of values.
+
+User: please answer this: explain a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: define a variable.
+Vex: a variable is a named place used to store a value.
+
+User: i want to know: what is a boolean?
+Vex: a boolean is a value that is either true or false.
+
+User: quick question: what does a parameter mean?
+Vex: a model parameter is a learned numerical value.
+
+User: quick question: define a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: please answer this: tell me about a variable.
+Vex: a variable is a named place used to store a value.
+
+User: please answer this: explain JSON.
+Vex: JSON is a text format for structured data.
+
+User: please answer this: what does an object mean?
+Vex: an object is an instance of a class.
+
+User: please answer this: tell me about training.
+Vex: training adjusts model parameters using data.
+
+User: what is a loop?
+Vex: a loop repeats instructions.
+
+User: quick question: what is an if statement?
+Vex: an if statement runs code when a condition is met.
+
+User: what is a GPU?
+Vex: a GPU performs many calculations in parallel.
+
+User: can you answer this: what is attention?
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: i want to know: explain a string.
+Vex: a string is a sequence of text characters.
+
+User: please answer this: define a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: can you answer this: explain inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: i want to know: what is an object?
+Vex: an object is an instance of a class.
+
+User: please answer this: tell me about an object.
+Vex: an object is an instance of a class.
+
+User: please answer this: define a loop.
+Vex: a loop repeats instructions.
+
+User: i want to know: what does training mean?
+Vex: training adjusts model parameters using data.
+
+User: what is a transformer?
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: quick question: tell me about RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: quick question: tell me about training.
+Vex: training adjusts model parameters using data.
+
+User: i want to know: what is a variable?
+Vex: a variable is a named place used to store a value.
+
+User: i want to know: tell me about a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: explain a function.
+Vex: a function is a reusable block of instructions.
+
+User: quick question: define inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: what does a list mean?
+Vex: a list stores an ordered collection of values.
+
+User: can you answer this: what does a loop mean?
+Vex: a loop repeats instructions.
+
+User: can you answer this: what does RAM mean?
+Vex: RAM is short-term working memory used by programs.
+
+User: can you answer this: what does a token mean?
+Vex: a token is a unit of input processed by a language model.
+
+User: please answer this: what is a function?
+Vex: a function is a reusable block of instructions.
+
+User: please answer this: tell me about a list.
+Vex: a list stores an ordered collection of values.
+
+User: quick question: what is JSON?
+Vex: JSON is a text format for structured data.
+
+User: quick question: explain a class.
+Vex: a class is a blueprint for creating objects.
+
+User: please answer this: what is a loop?
+Vex: a loop repeats instructions.
+
+User: can you answer this: define a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: explain a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: i want to know: define a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: what is a dictionary?
+Vex: a dictionary stores key-value pairs.
+
+User: what does a boolean mean?
+Vex: a boolean is a value that is either true or false.
+
+User: can you answer this: tell me about JSON.
+Vex: JSON is a text format for structured data.
+
+User: i want to know: define inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: can you answer this: explain training.
+Vex: training adjusts model parameters using data.
+
+User: can you answer this: tell me about an integer.
+Vex: an integer is a whole number.
+
+User: please answer this: tell me about Python.
+Vex: Python is a programming language.
+
+User: what does an integer mean?
+Vex: an integer is a whole number.
+
+User: tell me about an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: i want to know: explain RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: please answer this: explain a class.
+Vex: a class is a blueprint for creating objects.
+
+User: tell me about inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: can you answer this: what does a CPU mean?
+Vex: a CPU executes general-purpose instructions.
+
+User: please answer this: what does a variable mean?
+Vex: a variable is a named place used to store a value.
+
+User: i want to know: define a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: can you answer this: what does a variable mean?
+Vex: a variable is a named place used to store a value.
+
+User: quick question: what does a neural network mean?
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: i want to know: define an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: can you answer this: explain an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: quick question: define an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: quick question: define attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: please answer this: what does a byte mean?
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: tell me about Python.
+Vex: Python is a programming language.
+
+User: i want to know: what does an integer mean?
+Vex: an integer is a whole number.
+
+User: i want to know: explain inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: can you answer this: what is an if statement?
+Vex: an if statement runs code when a condition is met.
+
+User: quick question: explain an integer.
+Vex: an integer is a whole number.
+
+User: i want to know: define a function.
+Vex: a function is a reusable block of instructions.
+
+User: please answer this: what does a dictionary mean?
+Vex: a dictionary stores key-value pairs.
+
+User: can you answer this: define a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: please answer this: what is an if statement?
+Vex: an if statement runs code when a condition is met.
+
+User: can you answer this: define a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: can you answer this: what is a variable?
+Vex: a variable is a named place used to store a value.
+
+User: quick question: what does an if statement mean?
+Vex: an if statement runs code when a condition is met.
+
+User: i want to know: what does a token mean?
+Vex: a token is a unit of input processed by a language model.
+
+User: please answer this: what does a transformer mean?
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: explain a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: quick question: what is a string?
+Vex: a string is a sequence of text characters.
+
+User: i want to know: what does a transformer mean?
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: quick question: explain a string.
+Vex: a string is a sequence of text characters.
+
+User: define a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: what does a class mean?
+Vex: a class is a blueprint for creating objects.
+
+User: quick question: what is training?
+Vex: training adjusts model parameters using data.
+
+User: can you answer this: what is an integer?
+Vex: an integer is a whole number.
+
+User: please answer this: tell me about a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: please answer this: what does a CPU mean?
+Vex: a CPU executes general-purpose instructions.
+
+User: can you answer this: what does training mean?
+Vex: training adjusts model parameters using data.
+
+User: can you answer this: what does an algorithm mean?
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: can you answer this: what does a boolean mean?
+Vex: a boolean is a value that is either true or false.
+
+User: what is a token?
+Vex: a token is a unit of input processed by a language model.
+
+User: please answer this: define a string.
+Vex: a string is a sequence of text characters.
+
+User: define Python.
+Vex: Python is a programming language.
+
+User: quick question: explain RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: i want to know: tell me about a class.
+Vex: a class is a blueprint for creating objects.
+
+User: what does RAM mean?
+Vex: RAM is short-term working memory used by programs.
+
+User: what is a neural network?
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: i want to know: explain a list.
+Vex: a list stores an ordered collection of values.
+
+User: i want to know: what is Python?
+Vex: Python is a programming language.
+
+User: quick question: what does a loop mean?
+Vex: a loop repeats instructions.
+
+User: quick question: define a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: what does training mean?
+Vex: training adjusts model parameters using data.
+
+User: can you answer this: what does a list mean?
+Vex: a list stores an ordered collection of values.
+
+User: i want to know: tell me about Python.
+Vex: Python is a programming language.
+
+User: i want to know: tell me about training.
+Vex: training adjusts model parameters using data.
+
+User: quick question: what is a variable?
+Vex: a variable is a named place used to store a value.
+
+User: quick question: what is a transformer?
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: i want to know: what is a list?
+Vex: a list stores an ordered collection of values.
+
+User: what does a neural network mean?
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: please answer this: define JSON.
+Vex: JSON is a text format for structured data.
+
+User: quick question: define training.
+Vex: training adjusts model parameters using data.
+
+User: please answer this: what is RAM?
+Vex: RAM is short-term working memory used by programs.
+
+User: quick question: tell me about a string.
+Vex: a string is a sequence of text characters.
+
+User: i want to know: tell me about a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: tell me about training.
+Vex: training adjusts model parameters using data.
+
+User: define a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: can you answer this: what does a class mean?
+Vex: a class is a blueprint for creating objects.
+
+User: quick question: define a function.
+Vex: a function is a reusable block of instructions.
+
+User: can you answer this: explain a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: quick question: explain a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: quick question: explain an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: can you answer this: what does a dictionary mean?
+Vex: a dictionary stores key-value pairs.
+
+User: please answer this: what is a variable?
+Vex: a variable is a named place used to store a value.
+
+User: what does a parameter mean?
+Vex: a model parameter is a learned numerical value.
+
+User: can you answer this: tell me about RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: explain attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: quick question: tell me about inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: i want to know: define a list.
+Vex: a list stores an ordered collection of values.
+
+User: quick question: tell me about a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: quick question: what does attention mean?
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: can you answer this: explain an integer.
+Vex: an integer is a whole number.
+
+User: quick question: define a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: please answer this: tell me about a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: quick question: tell me about Python.
+Vex: Python is a programming language.
+
+User: define attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: quick question: define a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: what does Python mean?
+Vex: Python is a programming language.
+
+User: can you answer this: define JSON.
+Vex: JSON is a text format for structured data.
+
+User: i want to know: explain a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: can you answer this: what does a transformer mean?
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: i want to know: what does RAM mean?
+Vex: RAM is short-term working memory used by programs.
+
+User: can you answer this: explain attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: tell me about a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: i want to know: define a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: please answer this: what is a string?
+Vex: a string is a sequence of text characters.
+
+User: i want to know: what does Python mean?
+Vex: Python is a programming language.
+
+User: please answer this: what is attention?
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: can you answer this: tell me about a variable.
+Vex: a variable is a named place used to store a value.
+
+User: i want to know: what does a class mean?
+Vex: a class is a blueprint for creating objects.
+
+User: quick question: what does a GPU mean?
+Vex: a GPU performs many calculations in parallel.
+
+User: please answer this: what does a token mean?
+Vex: a token is a unit of input processed by a language model.
+
+User: quick question: define a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: quick question: tell me about a list.
+Vex: a list stores an ordered collection of values.
+
+User: what does a function mean?
+Vex: a function is a reusable block of instructions.
+
+User: can you answer this: what does an object mean?
+Vex: an object is an instance of a class.
+
+User: define an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: can you answer this: explain JSON.
+Vex: JSON is a text format for structured data.
+
+User: please answer this: explain a parameter.
+Vex: a model parameter is a learned numerical value.
+
+User: please answer this: what is a class?
+Vex: a class is a blueprint for creating objects.
+
+User: please answer this: what is a neural network?
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: define an object.
+Vex: an object is an instance of a class.
+
+User: i want to know: explain a class.
+Vex: a class is a blueprint for creating objects.
+
+User: can you answer this: define a string.
+Vex: a string is a sequence of text characters.
+
+User: please answer this: explain an integer.
+Vex: an integer is a whole number.
+
+User: define a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: explain training.
+Vex: training adjusts model parameters using data.
+
+User: can you answer this: tell me about an object.
+Vex: an object is an instance of a class.
+
+User: quick question: tell me about a function.
+Vex: a function is a reusable block of instructions.
+
+User: please answer this: tell me about a class.
+Vex: a class is a blueprint for creating objects.
+
+User: quick question: tell me about an integer.
+Vex: an integer is a whole number.
+
+User: i want to know: tell me about an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: can you answer this: explain a class.
+Vex: a class is a blueprint for creating objects.
+
+User: i want to know: define training.
+Vex: training adjusts model parameters using data.
+
+User: i want to know: define a dictionary.
+Vex: a dictionary stores key-value pairs.
+
+User: quick question: what does a boolean mean?
+Vex: a boolean is a value that is either true or false.
+
+User: tell me about RAM.
+Vex: RAM is short-term working memory used by programs.
+
+User: quick question: what does an algorithm mean?
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: please answer this: what does a parameter mean?
+Vex: a model parameter is a learned numerical value.
+
+User: quick question: explain attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: please answer this: what is JSON?
+Vex: JSON is a text format for structured data.
+
+User: quick question: explain Python.
+Vex: Python is a programming language.
+
+User: please answer this: what does an algorithm mean?
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: can you answer this: define a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: quick question: explain JSON.
+Vex: JSON is a text format for structured data.
+
+User: can you answer this: tell me about an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: please answer this: what does an if statement mean?
+Vex: an if statement runs code when a condition is met.
+
+User: quick question: what is a CPU?
+Vex: a CPU executes general-purpose instructions.
+
+User: please answer this: define a variable.
+Vex: a variable is a named place used to store a value.
+
+User: can you answer this: what is Python?
+Vex: Python is a programming language.
+
+User: quick question: what does training mean?
+Vex: training adjusts model parameters using data.
+
+User: define an integer.
+Vex: an integer is a whole number.
+
+User: please answer this: define an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: i want to know: define a variable.
+Vex: a variable is a named place used to store a value.
+
+User: please answer this: tell me about a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: i want to know: define an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: what is Python?
+Vex: Python is a programming language.
+
+User: can you answer this: what is a function?
+Vex: a function is a reusable block of instructions.
+
+User: quick question: what does an integer mean?
+Vex: an integer is a whole number.
+
+User: explain an if statement.
+Vex: an if statement runs code when a condition is met.
+
+User: can you answer this: define a function.
+Vex: a function is a reusable block of instructions.
+
+User: can you answer this: what does inference mean?
+Vex: inference is the process of using a trained model to produce an output.
+
+User: i want to know: define an integer.
+Vex: an integer is a whole number.
+
+User: please answer this: what does a loop mean?
+Vex: a loop repeats instructions.
+
+User: quick question: what does a string mean?
+Vex: a string is a sequence of text characters.
+
+User: please answer this: what does a class mean?
+Vex: a class is a blueprint for creating objects.
+
+User: i want to know: explain a neural network.
+Vex: a neural network is a model made from connected mathematical layers.
+
+User: i want to know: what does inference mean?
+Vex: inference is the process of using a trained model to produce an output.
+
+User: quick question: what does a class mean?
+Vex: a class is a blueprint for creating objects.
+
+User: i want to know: what is RAM?
+Vex: RAM is short-term working memory used by programs.
+
+User: can you answer this: explain a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: can you answer this: what is JSON?
+Vex: JSON is a text format for structured data.
+
+User: i want to know: what does a CPU mean?
+Vex: a CPU executes general-purpose instructions.
+
+User: can you answer this: explain a function.
+Vex: a function is a reusable block of instructions.
+
+User: please answer this: define a byte.
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: can you answer this: tell me about a list.
+Vex: a list stores an ordered collection of values.
+
+User: please answer this: tell me about an algorithm.
+Vex: an algorithm is a sequence of steps for solving a problem.
+
+User: define a boolean.
+Vex: a boolean is a value that is either true or false.
+
+User: quick question: explain a list.
+Vex: a list stores an ordered collection of values.
+
+User: quick question: tell me about a transformer.
+Vex: a transformer is a neural network architecture that uses attention.
+
+User: i want to know: define a loop.
+Vex: a loop repeats instructions.
+
+User: can you answer this: define attention.
+Vex: attention lets a model weigh information from different positions in a sequence.
+
+User: i want to know: what does a list mean?
+Vex: a list stores an ordered collection of values.
+
+User: please answer this: explain a CPU.
+Vex: a CPU executes general-purpose instructions.
+
+User: i want to know: tell me about a list.
+Vex: a list stores an ordered collection of values.
+
+User: define a token.
+Vex: a token is a unit of input processed by a language model.
+
+User: i want to know: what is JSON?
+Vex: JSON is a text format for structured data.
+
+User: define inference.
+Vex: inference is the process of using a trained model to produce an output.
+
+User: i want to know: what is a GPU?
+Vex: a GPU performs many calculations in parallel.
+
+User: i want to know: define a string.
+Vex: a string is a sequence of text characters.
+
+User: can you answer this: tell me about a string.
+Vex: a string is a sequence of text characters.
+
+User: can you answer this: what is a parameter?
+Vex: a model parameter is a learned numerical value.
+
+User: please answer this: explain a GPU.
+Vex: a GPU performs many calculations in parallel.
+
+User: what does a byte mean?
+Vex: a byte is a unit of digital information containing eight bits.
+
+User: what does a GPU mean?
+Vex: a GPU performs many calculations in parallel.
